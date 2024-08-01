@@ -28,7 +28,7 @@ for dataset in datasets:
         model_name = model.get_name()
         results = []
         for batch_audios, batch_sentences in dataset:
-            transcriptions = model.generate(batch_audios)
+            transcriptions = model.generate([audio['array'] for audio in batch_audios])
             for transcription, sentence in zip(transcriptions, batch_sentences):
                 results.append({"transcription": transcription["text"], "expected": sentence})
 
