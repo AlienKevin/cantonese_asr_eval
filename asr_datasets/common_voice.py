@@ -15,4 +15,4 @@ class CommonVoiceDataset(Dataset):
             yield batch_audio_paths, batch_sentences
 
     def get_name(self):
-        return "common_voice"
+        return "common_voice_16"
