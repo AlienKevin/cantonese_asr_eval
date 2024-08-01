@@ -2,7 +2,7 @@ from transformers import pipeline
 from .asr_model import ASRModel
 
 class WhisperASRModel(ASRModel):
-    def __init__(self, model_name, lang, device):
+    def __init__(self, device, model_name="alvanlii/whisper-small-cantonese", lang = "zh"):
         self.pipe = pipeline(
             task="automatic-speech-recognition",
             model=model_name,
@@ -14,3 +14,6 @@ class WhisperASRModel(ASRModel):
     def generate(self, input):
         results = self.pipe(input)
         return [{"text": result["text"]} for result in results]
+
+    def get_name(self):
+        return "whisper_small_cantonese"
