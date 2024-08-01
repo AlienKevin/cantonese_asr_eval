@@ -1,0 +1,5002 @@
+[
+    {
+        "audio": "G0001_1_S0243.wav",
+        "transcription": "可以減弱音量嘛",
+        "expected": "可以 减弱 音量 啦"
+    },
+    {
+        "audio": "G0006_1_S0082.wav",
+        "transcription": "唔該你幫我播放呢個音樂收藏夾",
+        "expected": "唔该 你 帮我 播放 呢个 音乐 收藏夹"
+    },
+    {
+        "audio": "G0003_1_S0309.wav",
+        "transcription": "有冇搞錯呀兩兄弟都唔知道地址喺邊度嗱嗱聲發返嚟佢啦",
+        "expected": "有冇搞错啊两兄弟都唔知道地址喺边度嗱嗱声发翻嚟佢啦"
+    },
+    {
+        "audio": "G0010_1_S0007.wav",
+        "transcription": "打返地啱先好嘛",
+        "expected": "打翻 俾 啱 先 号码"
+    },
+    {
+        "audio": "G0007_1_S0538.wav",
+        "transcription": "阿歡你聽朝",
+        "expected": "阿欢你听朝"
+    },
+    {
+        "audio": "G0002_1_S0474.wav",
+        "transcription": "阿B 剪咗個齊音法",
+        "expected": "阿B剪咗个齐阴发"
+    },
+    {
+        "audio": "G0005_1_S0485.wav",
+        "transcription": "你個大女飲嘅係咩奶粉呀",
+        "expected": "你个大女饮嘅系咩奶粉啊"
+    },
+    {
+        "audio": "G0004_1_S0511.wav",
+        "transcription": "除返阿連條數都好驚仔喎",
+        "expected": "除翻阿莲条数都好经济喎"
+    },
+    {
+        "audio": "G0008_1_S0086.wav",
+        "transcription": "唔該  直接收聽 下 一 個 電台 ",
+        "expected": "唔该直接 收听 下 一个 电台 咯"
+    },
+    {
+        "audio": "G0008_1_S0304.wav",
+        "transcription": "姑娘你幾晚好得閒",
+        "expected": "姑娘呢几晚好得闲"
+    },
+    {
+        "audio": "G0005_1_S0577.wav",
+        "transcription": "畀你一文字，大方，唔好客氣",
+        "expected": "俾你一文纸大方唔好客气"
+    },
+    {
+        "audio": "G0007_1_S0622.wav",
+        "transcription": "價錢幾多又冇講",
+        "expected": "价钱几多又冇讲嘅"
+    },
+    {
+        "audio": "G0003_1_S0428.wav",
+        "transcription": "肥仔咁好優祝佢",
+        "expected": "肥仔咁好休咗佢啦"
+    },
+    {
+        "audio": "G0008_1_S0466.wav",
+        "transcription": "個 群 名 就 係 噉 ",
+        "expected": "个群名就系咁啊"
+    },
+    {
+        "audio": "G0010_1_S0201.wav",
+        "transcription": "將呢個電台切為音樂之聲",
+        "expected": "将 呢个 电台 设 为 音乐 之声"
+    },
+    {
+        "audio": "G0002_1_S0127.wav",
+        "transcription": "有個電話冇接，現在回覆",
+        "expected": "有 个 电话 冇 接 现在 回 复"
+    },
+    {
+        "audio": "G0007_1_S0376.wav",
+        "transcription": "擔 多 唔 起 阿 星 夜",
+        "expected": "担当唔起啊星爷"
+    },
+    {
+        "audio": "G0009_1_S0190.wav",
+        "transcription": "隨機播放音樂",
+        "expected": "随机 播放 音乐"
+    },
+    {
+        "audio": "G0010_1_S0395.wav",
+        "transcription": "有 咁 樣 嘅 服務 嘛 我 以前 你 個個 都 係 要 係 我",
+        "expected": "有咁样嘅服务嘛 我以前你个个都系联系我"
+    },
+    {
+        "audio": "G0007_1_S0498.wav",
+        "transcription": "好無聊今日一陣都識",
+        "expected": "好无聊啊今物休息"
+    },
+    {
+        "audio": "G0009_1_S0246.wav",
+        "transcription": "我可唔可以打開個空調",
+        "expected": "我 可 唔 可以 打开 个 空调"
+    },
+    {
+        "audio": "G0002_1_S0294.wav",
+        "transcription": "點 刪 咗 呢 個 A M 電台",
+        "expected": "点 删咗 呢个 A M 电台"
+    },
+    {
+        "audio": "G0005_1_S0202.wav",
+        "transcription": "我想聽下個，繼續放啦",
+        "expected": "我 想 听下 歌  继续 放 啦"
+    },
+    {
+        "audio": "G0007_1_S0174.wav",
+        "transcription": "以後唔想再聽呢首歌",
+        "expected": "以后 唔 想 再 听 呢 首 歌"
+    },
+    {
+        "audio": "G0001_1_S0186.wav",
+        "transcription": "博 iPro 跌光",
+        "expected": "播 IPOD 啲 歌"
+    },
+    {
+        "audio": "G0002_1_S0339.wav",
+        "transcription": "我嗰個嘅QQ",
+        "expected": "我哥的Q Q"
+    },
+    {
+        "audio": "G0001_1_S0325.wav",
+        "transcription": "加快 聲電 喇 早日 出 莊",
+        "expected": "加快升电啦早日出装"
+    },
+    {
+        "audio": "G0008_1_S0241.wav",
+        "transcription": "同我將個天窗關咗佢",
+        "expected": "同我 将 个 天窗 关咗佢 啦"
+    },
+    {
+        "audio": "G0007_1_S0594.wav",
+        "transcription": "木 顏色 北",
+        "expected": "木颜色笔"
+    },
+    {
+        "audio": "G0001_1_S0569.wav",
+        "transcription": "今 晚 同學 聚會 有 話 去 唱 K 肯定 要 兩 今 晚 要 兩點幾 先 可以 瞓覺 ",
+        "expected": "今晚同学聚会又话去唱K肯定要两今晚要两点几先可以瞓觉噶啦"
+    },
+    {
+        "audio": "G0003_1_S0203.wav",
+        "transcription": "我要副駕駛做為暖啲",
+        "expected": "我 要 副 驾驶 座位 暖 啲"
+    },
+    {
+        "audio": "G0009_1_S0130.wav",
+        "transcription": "首歌好好聽，等我收藏先",
+        "expected": "首 歌 好好 听 等我 收藏 先"
+    },
+    {
+        "audio": "G0001_1_S0547.wav",
+        "transcription": "瞓醒一覺乜事都冇",
+        "expected": "瞓醒一觉乜事都冇"
+    },
+    {
+        "audio": "G0007_1_S0632.wav",
+        "transcription": "人 多 啊 唔該 你哋 阿姐派 多 幾 個 啦",
+        "expected": "人多啊唔该你哋阿姐派多几个啦"
+    },
+    {
+        "audio": "G0010_1_S0335.wav",
+        "transcription": "你 搵靚機場 嘅 時候",
+        "expected": "李波嚟店里边嘅时候"
+    },
+    {
+        "audio": "G0005_1_S0183.wav",
+        "transcription": "我想獲得幫助",
+        "expected": "我 想 获得 帮做"
+    },
+    {
+        "audio": "G0007_1_S0030.wav",
+        "transcription": "幫我取消當前對話",
+        "expected": "帮我 取消 当前 对话 啊"
+    },
+    {
+        "audio": "G0007_1_S0164.wav",
+        "transcription": "我想知道仲有幾耐到目的地呀？",
+        "expected": "我 想 知道 仲 有 几耐 到 目的地 啊"
+    },
+    {
+        "audio": "G0005_1_S0562.wav",
+        "transcription": "領導你好，我覺得呢條人命既得人中意",
+        "expected": "领导呢好我觉得呢条人命几得人中意"
+    },
+    {
+        "audio": "G0005_1_S0103.wav",
+        "transcription": "打開未接過短信",
+        "expected": "打开 未接 嘅 短信"
+    },
+    {
+        "audio": "G0001_1_S0617.wav",
+        "transcription": "我喺度諗緊你有生氣有嬲個樣而家",
+        "expected": "我喺度谂紧你又生气又嬲个样宜家"
+    },
+    {
+        "audio": "G0002_1_S0663.wav",
+        "transcription": "零二四五六",
+        "expected": "零 二 四 五 六"
+    },
+    {
+        "audio": "G0004_1_S0117.wav",
+        "transcription": "直接打開多媒體入應用",
+        "expected": "直接 打开 多媒体 应用 啦"
+    },
+    {
+        "audio": "G0007_1_S0103.wav",
+        "transcription": "將空調模式調為自動",
+        "expected": "将 空调 模式 设为 自动"
+    },
+    {
+        "audio": "G0002_1_S0116.wav",
+        "transcription": "幫我開下天張",
+        "expected": "帮我 开 一下 天窗"
+    },
+    {
+        "audio": "G0005_1_S0350.wav",
+        "transcription": "有冇 鞋石 ",
+        "expected": "有冇蟹石啊"
+    },
+    {
+        "audio": "G0010_1_S0381.wav",
+        "transcription": "平時 買 嗰 間  跟住 冇 開 冇  去 咗 另外 一 間 店  怪之  呢 個 係 大 嗰 啲 喎",
+        "expected": "平时买嗰间跟着冇开门去咗另外一间店鬼知呢个系大嗰啲喎"
+    },
+    {
+        "audio": "G0009_1_S0514.wav",
+        "transcription": "仲 詐 我",
+        "expected": "仲赞我"
+    },
+    {
+        "audio": "G0008_1_S0112.wav",
+        "transcription": "而家嘅天窗網聯打開",
+        "expected": "宜家 嘅 天窗 网联 打开"
+    },
+    {
+        "audio": "G0003_1_S0384.wav",
+        "transcription": "嘩",
+        "expected": "哇"
+    },
+    {
+        "audio": "G0005_1_S0536.wav",
+        "transcription": "好有名",
+        "expected": "好优美"
+    },
+    {
+        "audio": "G0007_1_S0419.wav",
+        "transcription": "牙佬  撞 寶江",
+        "expected": "雅鲁藏布江"
+    },
+    {
+        "audio": "G0004_1_S0403.wav",
+        "transcription": "嗰啲粵餅更加唔使畀返錢，我喇，係一種考心嘅",
+        "expected": "嗰啲月饼更加唔使俾翻钱我啦系一种孝心嘅"
+    },
+    {
+        "audio": "G0008_1_S0129.wav",
+        "transcription": "我想將呢個屏幕調到最有名",
+        "expected": "我 想 将呢个 屏幕 调到 最暗 啊"
+    },
+    {
+        "audio": "G0009_1_S0374.wav",
+        "transcription": "我呢邊係邊個嚟嘅",
+        "expected": "我呢边系边个嚟嘅"
+    },
+    {
+        "audio": "G0008_1_S0222.wav",
+        "transcription": "聽音樂",
+        "expected": "听 音乐"
+    },
+    {
+        "audio": "G0002_1_S0282.wav",
+        "transcription": "我想知道而家，我喺邊？",
+        "expected": "我 想 知道 宜家我 喺边"
+    },
+    {
+        "audio": "G0003_1_S0125.wav",
+        "transcription": "唔該，設置限速嘅六十",
+        "expected": "唔该 设置 限速 为 六十"
+    },
+    {
+        "audio": "G0008_1_S0142.wav",
+        "transcription": "我想聽財可夫司機嘅天龍",
+        "expected": "我 想 听才可夫斯基 嘅 天鹅湖"
+    },
+    {
+        "audio": "G0002_1_S0589.wav",
+        "transcription": "鴨冇咁容易壞",
+        "expected": "压冇咁容易坏"
+    },
+    {
+        "audio": "G0001_1_S0031.wav",
+        "transcription": "好熱呀，開空調呀",
+        "expected": "好热 啊 开 空调 啊"
+    },
+    {
+        "audio": "G0002_1_S0459.wav",
+        "transcription": "我最鍾意嘅呢首歌代表我嘅新鮮",
+        "expected": "我最中意嘅呢一首歌代表我嘅新鲜"
+    },
+    {
+        "audio": "G0006_1_S0065.wav",
+        "transcription": "停",
+        "expected": "停"
+    },
+    {
+        "audio": "G0005_1_S0162.wav",
+        "transcription": "聯繫人張三編輯短信發餸",
+        "expected": "联系人 张三 编辑 短信 发送"
+    },
+    {
+        "audio": "G0010_1_S0086.wav",
+        "transcription": "整  熱 附 駕駛 嘅  左 移",
+        "expected": "整 热 副驾驶嘅 座椅"
+    },
+    {
+        "audio": "G0005_1_S0377.wav",
+        "transcription": "今日講過，任橋任涼",
+        "expected": "今日讲个任乔任梁"
+    },
+    {
+        "audio": "G0003_1_S0579.wav",
+        "transcription": "要我哋寫嘅筆記簿",
+        "expected": "要我哋写嘅笔记簿"
+    },
+    {
+        "audio": "G0007_1_S0225.wav",
+        "transcription": "把車內風量調到最大可唔可以",
+        "expected": "把 车内 风量 调到 最大 可 唔 可以"
+    },
+    {
+        "audio": "G0009_1_S0384.wav",
+        "transcription": "你 而家 做 緊 作業 嚟 ",
+        "expected": "你依家做紧作业嚟噶"
+    },
+    {
+        "audio": "G0006_1_S0442.wav",
+        "transcription": "呢個月有冇睇款可以畀我啊",
+        "expected": "呢个月有冇剃款可以俾我啊"
+    },
+    {
+        "audio": "G0007_1_S0022.wav",
+        "transcription": "我想收聽下一個電台",
+        "expected": "我 想 收听 下 一个 电台 啊"
+    },
+    {
+        "audio": "G0008_1_S0374.wav",
+        "transcription": "咁 少 嘅 咩",
+        "expected": "咁少嘅咩"
+    },
+    {
+        "audio": "G0007_1_S0500.wav",
+        "transcription": "我要今晚上去先可以幫你揾喎",
+        "expected": "我要今晚上去先可以帮你搵喎"
+    },
+    {
+        "audio": "G0008_1_S0248.wav",
+        "transcription": "叔叔張生佛送短信",
+        "expected": "叔叔 张三 发送 短信"
+    },
+    {
+        "audio": "G0007_1_S0077.wav",
+        "transcription": "幫我睇下有乜未讀短信啦",
+        "expected": "帮我 睇 下 有 乜 未读 短信 啊"
+    },
+    {
+        "audio": "G0003_1_S0087.wav",
+        "transcription": "我想問語音控制點調",
+        "expected": "我 想 问 语音 控制 点 调"
+    },
+    {
+        "audio": "G0007_1_S0043.wav",
+        "transcription": "聽 查可夫斯基 嘅 天后湖",
+        "expected": "听 柴可夫斯基 嘅 天鹅湖"
+    },
+    {
+        "audio": "G0001_1_S0348.wav",
+        "transcription": "我發唔到紅包呀，要陰症實命呀",
+        "expected": "我发唔到红包啊要因证实名啊"
+    },
+    {
+        "audio": "G0005_1_S0074.wav",
+        "transcription": "聽日上海咩天氣呢",
+        "expected": "听日 上海 咩 天气 咧"
+    },
+    {
+        "audio": "G0007_1_S0157.wav",
+        "transcription": "唔該幫我收藏一下當前歌曲",
+        "expected": "唔该 帮我 收藏 一下 当前 歌曲"
+    },
+    {
+        "audio": "G0007_1_S0304.wav",
+        "transcription": "中獎 嘅 朋友",
+        "expected": "中奖的平友"
+    },
+    {
+        "audio": "G0002_1_S0029.wav",
+        "transcription": "唔要呢首歌",
+        "expected": "唔 要 呢 首 歌"
+    },
+    {
+        "audio": "G0002_1_S0498.wav",
+        "transcription": "特別係嗰啲學費好貴呢個專業吖嘛",
+        "expected": "特别系嗰啲学费好贵呢个专业啊嘛"
+    },
+    {
+        "audio": "G0005_1_S0084.wav",
+        "transcription": "我要去目的地",
+        "expected": "我 要 去 目的地"
+    },
+    {
+        "audio": "G0010_1_S0243.wav",
+        "transcription": "邊個 易幫 我 關 咗 個 廣播 ",
+        "expected": "边个 以 帮我 关咗  广播 啊"
+    },
+    {
+        "audio": "G0007_1_S0224.wav",
+        "transcription": "想聽ipod上面呢個",
+        "expected": "想 听 iPod 上边 啲 歌"
+    },
+    {
+        "audio": "G0003_1_S0180.wav",
+        "transcription": "直接 放大 地圖 ",
+        "expected": "直接 放大 地图 啦"
+    },
+    {
+        "audio": "G0001_1_S0125.wav",
+        "transcription": "個屏幕調降啲",
+        "expected": "个 屏幕 调光 啲"
+    },
+    {
+        "audio": "G0001_1_S0285.wav",
+        "transcription": "唔錯收藏佢先",
+        "expected": "唔 错 收藏佢先"
+    },
+    {
+        "audio": "G0007_1_S0340.wav",
+        "transcription": "要我今晚決定聽日去訂票",
+        "expected": "要我今晚决定听日去订票"
+    },
+    {
+        "audio": "G0001_1_S0277.wav",
+        "transcription": "喂，幫我調細啲個風量啦",
+        "expected": "喂 帮我 调 细 啲 个 风量 啦"
+    },
+    {
+        "audio": "G0008_1_S0450.wav",
+        "transcription": "你數嚟睇下係",
+        "expected": "你数嚟睇下系"
+    },
+    {
+        "audio": "G0006_1_S0273.wav",
+        "transcription": "我想整首歌聽下",
+        "expected": "我 想 整 首 歌 听下"
+    },
+    {
+        "audio": "G0006_1_S0094.wav",
+        "transcription": "播放收藏嘅音樂",
+        "expected": "播放 收藏 嘅 音乐"
+    },
+    {
+        "audio": "G0008_1_S0219.wav",
+        "transcription": "知唔知今日，幾好啊",
+        "expected": "知 唔 知 今物几号 啊"
+    },
+    {
+        "audio": "G0001_1_S0709.wav",
+        "transcription": "8887，61738",
+        "expected": "八 八 八 七 六 一 七 三 八"
+    },
+    {
+        "audio": "G0010_1_S0136.wav",
+        "transcription": "我 而家 喺 邊 個 位置",
+        "expected": "我 依家 喺 边个 位置"
+    },
+    {
+        "audio": "G0009_1_S0382.wav",
+        "transcription": "而家好難揾呀，舊石啲本來係放喺地下嘅，而家都將佢升咗上嚟喇",
+        "expected": "而家好难搵啊嚿石呢本嚟系放喺地下嘅依家都将佢升咗上嚟咯"
+    },
+    {
+        "audio": "G0002_1_S0326.wav",
+        "transcription": "但係我著搖一齊返嚟喎",
+        "expected": "但系我卓瑶一齐返嚟喎"
+    },
+    {
+        "audio": "G0005_1_S0116.wav",
+        "transcription": "定下位睇下我哋而家喺邊",
+        "expected": "定 下 位 睇下 我 哋依家 喺边"
+    },
+    {
+        "audio": "G0004_1_S0167.wav",
+        "transcription": "麻煩你將我把鶴車內風量調到最細",
+        "expected": "麻烦 你将我 把 车内 风量 调到 最细"
+    },
+    {
+        "audio": "G0001_1_S0242.wav",
+        "transcription": "搜索下原圖嘅加油站",
+        "expected": "搜索 下 沿途 嘅 加油站"
+    },
+    {
+        "audio": "G0010_1_S0212.wav",
+        "transcription": "放放上一首歌",
+        "expected": "播放 上 一首 歌"
+    },
+    {
+        "audio": "G0003_1_S0038.wav",
+        "transcription": "打多次呢個電話",
+        "expected": "打 多 次 呢个 电话"
+    },
+    {
+        "audio": "G0007_1_S0473.wav",
+        "transcription": "如果 講 幣 有用 嘅 話",
+        "expected": "如果港币有用嘅话"
+    },
+    {
+        "audio": "G0004_1_S0451.wav",
+        "transcription": "多 一 啲 畀 你",
+        "expected": "多一啲俾你"
+    },
+    {
+        "audio": "G0002_1_S0672.wav",
+        "transcription": "五九七三九",
+        "expected": "五九七三九五"
+    },
+    {
+        "audio": "G0007_1_S0572.wav",
+        "transcription": "法 我 同 你 海航 嗰 陣 嗰 個 呢",
+        "expected": "发我同你去海航嗰阵嗰个咧"
+    },
+    {
+        "audio": "G0001_1_S0363.wav",
+        "transcription": "我一時唔發包，佢就棄了",
+        "expected": "你一时唔发包佢就气了"
+    },
+    {
+        "audio": "G0007_1_S0410.wav",
+        "transcription": "買蛇鼠邊會撞",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "audio": "G0005_1_S0508.wav",
+        "transcription": "就係個體換訊息誤會嘅人",
+        "expected": "就系嗰睇援信息唔回嘅人啊"
+    },
+    {
+        "audio": "G0001_1_S0237.wav",
+        "transcription": "麻煩顯示未接來電",
+        "expected": "麻烦 显示 未接 来电"
+    },
+    {
+        "audio": "G0007_1_S0316.wav",
+        "transcription": "打喊落眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "audio": "G0004_1_S0475.wav",
+        "transcription": "食咗個早餐二十幾蚊，仲唔係幾好食",
+        "expected": "食咗个早餐二十几蚊仲唔系几好食"
+    },
+    {
+        "audio": "G0004_1_S0398.wav",
+        "transcription": "洪里發屋",
+        "expected": "红你翻屋"
+    },
+    {
+        "audio": "G0007_1_S0709.wav",
+        "transcription": "六三三七八二八一六",
+        "expected": "六 三 三 七 八 二 八 一 六"
+    },
+    {
+        "audio": "G0005_1_S0372.wav",
+        "transcription": "木眼色筆",
+        "expected": "木颜色笔"
+    },
+    {
+        "audio": "G0008_1_S0560.wav",
+        "transcription": "啲男同學唔夠大氣",
+        "expected": "啲男同学唔够带气"
+    },
+    {
+        "audio": "G0003_1_S0424.wav",
+        "transcription": "我以為我",
+        "expected": "我以为饿"
+    },
+    {
+        "audio": "G0007_1_S0546.wav",
+        "transcription": "冇錢都係咁嘅",
+        "expected": "冇钱都系咁噶啦"
+    },
+    {
+        "audio": "G0007_1_S0695.wav",
+        "transcription": "三六一零七一六二",
+        "expected": "三 六 一 零 七 一 六 二"
+    },
+    {
+        "audio": "G0007_1_S0679.wav",
+        "transcription": "十八九九十四",
+        "expected": "十 八 九 九 十 四"
+    },
+    {
+        "audio": "G0001_1_S0281.wav",
+        "transcription": "縮細地圖可以睇得全面啲",
+        "expected": "缩细 地图 可以 睇 得 全面 啲"
+    },
+    {
+        "audio": "G0004_1_S0152.wav",
+        "transcription": "將車內風量調到最細",
+        "expected": "将 车内 风量 调到 最细"
+    },
+    {
+        "audio": "G0004_1_S0249.wav",
+        "transcription": "我要係糖切換到上一頁",
+        "expected": "我 要 系统 切换 到 上 一页"
+    },
+    {
+        "audio": "G0008_1_S0015.wav",
+        "transcription": "FM電台",
+        "expected": "FM 电台"
+    },
+    {
+        "audio": "G0001_1_S0177.wav",
+        "transcription": "有人打電話畀我",
+        "expected": "有人 打 电话 俾我"
+    },
+    {
+        "audio": "G0008_1_S0247.wav",
+        "transcription": "咳",
+        "expected": "给"
+    },
+    {
+        "audio": "G0006_1_S0149.wav",
+        "transcription": "我有個電話入，下次再傾過",
+        "expected": "我 有个 电话 入 下次 再 倾 过"
+    },
+    {
+        "audio": "G0004_1_S0182.wav",
+        "transcription": "到此為止",
+        "expected": "到 此 为 止"
+    },
+    {
+        "audio": "G0008_1_S0029.wav",
+        "transcription": "網 聯 幫 我 打開 佢",
+        "expected": "网帘 帮我 打开 佢"
+    },
+    {
+        "audio": "G0009_1_S0177.wav",
+        "transcription": "呢個電台好有意思",
+        "expected": "这个 电台 好 有 意思"
+    },
+    {
+        "audio": "G0002_1_S0555.wav",
+        "transcription": "破壞方法",
+        "expected": "破坏方块"
+    },
+    {
+        "audio": "G0008_1_S0169.wav",
+        "transcription": "麻煩把車內風量調到最細",
+        "expected": "麻烦 把 车内 风量 调到 最细"
+    },
+    {
+        "audio": "G0005_1_S0203.wav",
+        "transcription": "仲有幾耐到人民降場",
+        "expected": "仲 有 几耐 到 人民 广场"
+    },
+    {
+        "audio": "G0003_1_S0438.wav",
+        "transcription": "嗰啲粵餅唔使畀返錢我喇係我嘅一片校森",
+        "expected": "嗰啲月饼唔使俾翻钱我啦系我嘅一片孝心"
+    },
+    {
+        "audio": "G0008_1_S0563.wav",
+        "transcription": "咁 唔 准  要 我 唔 會 去 習慣 引學 一 個 人 ",
+        "expected": "咁唔准要我唔会去责怪任何一个人嘅"
+    },
+    {
+        "audio": "G0005_1_S0532.wav",
+        "transcription": "碧 嘅",
+        "expected": "的嘅"
+    },
+    {
+        "audio": "G0008_1_S0113.wav",
+        "transcription": "停止 加熱 輔助 耳",
+        "expected": "停止 加热 副 座椅"
+    },
+    {
+        "audio": "G0002_1_S0337.wav",
+        "transcription": "做個聆聽者係好好嘅囉我覺得",
+        "expected": "做个聆听者系好好嘅咯我觉得"
+    },
+    {
+        "audio": "G0009_1_S0328.wav",
+        "transcription": "有少少驚驚地喎",
+        "expected": "有小小惊惊哋喎"
+    },
+    {
+        "audio": "G0003_1_S0295.wav",
+        "transcription": "到行去福林路祝林村",
+        "expected": "导航 去 福林 路 竹林 村"
+    },
+    {
+        "audio": "G0004_1_S0533.wav",
+        "transcription": "喺你角度旅歷人，唯美見過就唔會有喜歡對媽",
+        "expected": "喺你角度里你人为未见过就唔会有喜欢对吗"
+    },
+    {
+        "audio": "G0004_1_S0273.wav",
+        "transcription": "有點凍，加下調高的溫度",
+        "expected": "有点 冻 家 下 调高 啲 温度"
+    },
+    {
+        "audio": "G0008_1_S0264.wav",
+        "transcription": "打比138，192245",
+        "expected": "打 俾一三八一九二二四八五五"
+    },
+    {
+        "audio": "G0010_1_S0147.wav",
+        "transcription": "我想打開打開呢個天張嘅標誌",
+        "expected": "我 想 打开打开 呢个 天窗嘅 标志"
+    },
+    {
+        "audio": "G0010_1_S0148.wav",
+        "transcription": "個大叔叔張生個電話",
+        "expected": "拨打 叔叔 张三 嘅 电话"
+    },
+    {
+        "audio": "G0003_1_S0480.wav",
+        "transcription": "車上佢死都要我搵一首歌出嚟",
+        "expected": "车上佢死都要我搵一首歌出嚟"
+    },
+    {
+        "audio": "G0007_1_S0387.wav",
+        "transcription": "入鄉隨俗",
+        "expected": "入乡随俗"
+    },
+    {
+        "audio": "G0004_1_S0582.wav",
+        "transcription": "講嚟講去都係，個話題冇咩新意",
+        "expected": "讲嚟讲去都系个话题冇咩新意"
+    },
+    {
+        "audio": "G0009_1_S0416.wav",
+        "transcription": "落咗中山啊",
+        "expected": "落咗中山啊"
+    },
+    {
+        "audio": "G0009_1_S0186.wav",
+        "transcription": "麻煩呢個電台收藏",
+        "expected": "麻烦  呢个 电台 收藏"
+    },
+    {
+        "audio": "G0002_1_S0495.wav",
+        "transcription": "係唔係我唔出聲啲人覺得我好蝦呢",
+        "expected": "系唔系我唔出声啲人觉得我好虾咧"
+    },
+    {
+        "audio": "G0010_1_S0470.wav",
+        "transcription": "走 咗 去 瞓覺",
+        "expected": "走咗去瞓觉"
+    },
+    {
+        "audio": "G0008_1_S0068.wav",
+        "transcription": "幫我打開超速，提示唔該",
+        "expected": "帮我 打开 超速 提示 唔该"
+    },
+    {
+        "audio": "G0010_1_S0300.wav",
+        "transcription": "千萬唔好衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "audio": "G0004_1_S0009.wav",
+        "transcription": "我要將屏幕條調到最高",
+        "expected": "我 要 将 屏幕 调 调到 最光"
+    },
+    {
+        "audio": "G0002_1_S0272.wav",
+        "transcription": "我要知道實時老房",
+        "expected": "我 要 知道 实时 路况"
+    },
+    {
+        "audio": "G0008_1_S0556.wav",
+        "transcription": "你度賣幾錢一下",
+        "expected": "你度买几钱一盒"
+    },
+    {
+        "audio": "G0001_1_S0665.wav",
+        "transcription": "放幾多日假",
+        "expected": "放几多日假啊"
+    },
+    {
+        "audio": "G0001_1_S0044.wav",
+        "transcription": "音樂之聲電台而家同我調到",
+        "expected": "音乐 之声 电台 宜家 同我 调到"
+    },
+    {
+        "audio": "G0002_1_S0395.wav",
+        "transcription": "你 即是 叫 狗 進行 緝 嘅 啫",
+        "expected": "你即是叫鸠进含柒嘅啫"
+    },
+    {
+        "audio": "G0004_1_S0464.wav",
+        "transcription": "梗係啦，仲使問嘅",
+        "expected": "梗系啦仲使问嘅"
+    },
+    {
+        "audio": "G0010_1_S0011.wav",
+        "transcription": "部車 鹹速 六十",
+        "expected": "部 车 限速 六十"
+    },
+    {
+        "audio": "G0007_1_S0481.wav",
+        "transcription": "我即係話唔知佢去過所以佢唔想我喺嗰邊",
+        "expected": "我姐系话唔知佢去过所以佢唔想我喺嗰边"
+    },
+    {
+        "audio": "G0008_1_S0455.wav",
+        "transcription": "有四峽月餅嘛，殺期買有嘛",
+        "expected": "有四盒月饼吗萨琪玛有吗"
+    },
+    {
+        "audio": "G0009_1_S0133.wav",
+        "transcription": "加熱負加助語",
+        "expected": "加热 副驾 座椅"
+    },
+    {
+        "audio": "G0003_1_S0317.wav",
+        "transcription": "嘅 果 想 買 波",
+        "expected": "嘅果想买波"
+    },
+    {
+        "audio": "G0003_1_S0030.wav",
+        "transcription": "是 上面",
+        "expected": "上面"
+    },
+    {
+        "audio": "G0002_1_S0566.wav",
+        "transcription": "我姐話唔知佢未去過，所以佢想佢唔想我喺嗰邊",
+        "expected": "我姐话唔知佢未去过所以佢想佢唔想我喺嗰边"
+    },
+    {
+        "audio": "G0010_1_S0133.wav",
+        "transcription": "我想試試吹方模式裏面嘅吹腳模式",
+        "expected": "我 想 试 试 吹风 模式 里面 嘅 吹 脚 模式"
+    },
+    {
+        "audio": "G0007_1_S0530.wav",
+        "transcription": "百去不染的暫降",
+        "expected": "百去不厌的湛江"
+    },
+    {
+        "audio": "G0010_1_S0033.wav",
+        "transcription": "濫 呀 音樂 打開",
+        "expected": "蓝牙 音乐 打开"
+    },
+    {
+        "audio": "G0004_1_S0436.wav",
+        "transcription": "我講嘅唔係廣東話咩",
+        "expected": "我讲嘅唔系广东话咩"
+    },
+    {
+        "audio": "G0005_1_S0626.wav",
+        "transcription": "做個零拆隻係好好過，我覺得",
+        "expected": "做个聆听者系好好个我觉得"
+    },
+    {
+        "audio": "G0002_1_S0342.wav",
+        "transcription": "而有啲人佢只想求安安穩穩有份工作",
+        "expected": "而有的人佢只想求安安稳稳有份工作"
+    },
+    {
+        "audio": "G0007_1_S0569.wav",
+        "transcription": "微博意義",
+        "expected": "微博尔"
+    },
+    {
+        "audio": "G0001_1_S0599.wav",
+        "transcription": "我老豆訓練廳",
+        "expected": "我老豆瞓客厅"
+    },
+    {
+        "audio": "G0002_1_S0082.wav",
+        "transcription": "想聽周杰倫嘅七里香",
+        "expected": "想 听 周杰伦 嘅 七里香"
+    },
+    {
+        "audio": "G0004_1_S0062.wav",
+        "transcription": "轉接要SB以音樂",
+        "expected": "转 接 U S B 二 音乐"
+    },
+    {
+        "audio": "G0007_1_S0454.wav",
+        "transcription": "我哋食食下佢嚟都得",
+        "expected": "我哋食食下佢嚟都得"
+    },
+    {
+        "audio": "G0010_1_S0144.wav",
+        "transcription": "我想打聲少少得唔得呀",
+        "expected": "我 想 大声 小小 得 唔 得啊"
+    },
+    {
+        "audio": "G0005_1_S0412.wav",
+        "transcription": "飛到幾千",
+        "expected": "飞到几钱"
+    },
+    {
+        "audio": "G0001_1_S0012.wav",
+        "transcription": "調細個音量佢",
+        "expected": "调 细 个 音量 佢"
+    },
+    {
+        "audio": "G0001_1_S0257.wav",
+        "transcription": "我想從個收藏甲中刪除呢首音樂",
+        "expected": "我 想 从 个 收藏夹 中 删除 呢首 音乐"
+    },
+    {
+        "audio": "G0005_1_S0438.wav",
+        "transcription": "靚女搬咗去新屋住喇",
+        "expected": "亮女搬咗去新屋住啦"
+    },
+    {
+        "audio": "G0009_1_S0086.wav",
+        "transcription": "我想聽黃飛嘅紅豆",
+        "expected": "我 想 听 王菲 嘅 红豆"
+    },
+    {
+        "audio": "G0001_1_S0399.wav",
+        "transcription": "我好細個",
+        "expected": "我好细个喎"
+    },
+    {
+        "audio": "G0007_1_S0158.wav",
+        "transcription": "直接把空調溫度調高兩度啦",
+        "expected": "直接 把 空调 温度 升高 两 度 啦"
+    },
+    {
+        "audio": "G0001_1_S0583.wav",
+        "transcription": "喺今日贏兩百分",
+        "expected": "喺今日赢两百揸"
+    },
+    {
+        "audio": "G0004_1_S0035.wav",
+        "transcription": "重播一下上面嘅個電台",
+        "expected": "重播一下上边嘅个电台"
+    },
+    {
+        "audio": "G0007_1_S0029.wav",
+        "transcription": "唔該，我想打開個媒體應用",
+        "expected": "唔该 我 想 打开 个 媒体 应用"
+    },
+    {
+        "audio": "G0003_1_S0102.wav",
+        "transcription": "上海聽日天氣點",
+        "expected": "上海 听日 天气 点"
+    },
+    {
+        "audio": "G0010_1_S0330.wav",
+        "transcription": "紅 理 分",
+        "expected": "红你翻"
+    },
+    {
+        "audio": "G0004_1_S0156.wav",
+        "transcription": "麻煩設置用手機幫我接電話",
+        "expected": "麻烦 设置 用 手机 帮我 接 电话"
+    },
+    {
+        "audio": "G0009_1_S0350.wav",
+        "transcription": "梗係啦，仲使問嘅？",
+        "expected": "梗系啦仲使问嘅"
+    },
+    {
+        "audio": "G0010_1_S0030.wav",
+        "transcription": "請把鹹豉提醒打開啦",
+        "expected": "请 把 限时 提醒 打开 嘞"
+    },
+    {
+        "audio": "G0008_1_S0205.wav",
+        "transcription": "直接 退出  路線 全 濫 ",
+        "expected": "直接 退出 路线 全览 咯"
+    },
+    {
+        "audio": "G0003_1_S0422.wav",
+        "transcription": "擔當唔起星夜",
+        "expected": "担当唔起啊星爷"
+    },
+    {
+        "audio": "G0002_1_S0104.wav",
+        "transcription": "唔知路況點樣呢睇下先",
+        "expected": "唔 知 路况 点样 哩 睇 下 先"
+    },
+    {
+        "audio": "G0003_1_S0041.wav",
+        "transcription": "幫我切換個地圖",
+        "expected": "帮我 切换 个 地图"
+    },
+    {
+        "audio": "G0004_1_S0589.wav",
+        "transcription": "報曲報咗三首，咁所以冇得唱",
+        "expected": "报曲报咗三首咁所以冇得唱"
+    },
+    {
+        "audio": "G0004_1_S0222.wav",
+        "transcription": "溫度 開高 哋 我 好凍 呀",
+        "expected": "温度 开高 啲 我 好冻 啊"
+    },
+    {
+        "audio": "G0003_1_S0083.wav",
+        "transcription": "麻煩幫手取消當前電台",
+        "expected": "麻烦 帮手 取消 当前 电台"
+    },
+    {
+        "audio": "G0008_1_S0044.wav",
+        "transcription": "播放CD音樂",
+        "expected": "波放 C D 音乐"
+    },
+    {
+        "audio": "G0004_1_S0618.wav",
+        "transcription": "你 係 玉姐 嚟 㗎",
+        "expected": "你系玉姐嚟噶"
+    },
+    {
+        "audio": "G0003_1_S0451.wav",
+        "transcription": "一睇嗰啲都係開始爛嘅，所以冇跟住買，之後買個沙田油",
+        "expected": "一睇嗰啲都系开始烂嘅所以冇跟住买之后买个沙田柚"
+    },
+    {
+        "audio": "G0002_1_S0335.wav",
+        "transcription": "聽日去東莞攞貨",
+        "expected": "听日去东莞攞货"
+    },
+    {
+        "audio": "G0009_1_S0169.wav",
+        "transcription": "唔該幫我開下空氣淨化氣",
+        "expected": "唔该 帮我 开下 空气 净化器"
+    },
+    {
+        "audio": "G0005_1_S0231.wav",
+        "transcription": "好想聽下CD",
+        "expected": "好 想 听下 C D"
+    },
+    {
+        "audio": "G0001_1_S0478.wav",
+        "transcription": "人哋用相機影咗發畀我㗎",
+        "expected": "人哋用相机影咗发俾我噶"
+    },
+    {
+        "audio": "G0006_1_S0375.wav",
+        "transcription": "又會有噉嘅事，你保朋友喺下面嘅咩",
+        "expected": "又会有咁嘅事你冇朋友喺下边噶咩"
+    },
+    {
+        "audio": "G0005_1_S0066.wav",
+        "transcription": "着字播放下一首音樂啦",
+        "expected": "直接 播放 下 一首 音乐 啦"
+    },
+    {
+        "audio": "G0001_1_S0259.wav",
+        "transcription": "幫我打畀呼叫中心",
+        "expected": "帮我 打 俾 呼叫 中心"
+    },
+    {
+        "audio": "G0002_1_S0529.wav",
+        "transcription": "又好似係喎",
+        "expected": "又好似系喔"
+    },
+    {
+        "audio": "G0009_1_S0061.wav",
+        "transcription": "打開個天窗",
+        "expected": "打开 个 天窗"
+    },
+    {
+        "audio": "G0001_1_S0686.wav",
+        "transcription": "零一一七七二六",
+        "expected": "零 一 一 七 七 二 六"
+    },
+    {
+        "audio": "G0001_1_S0395.wav",
+        "transcription": "嘩咁犀利嘅",
+        "expected": "哇咁犀利嘅"
+    },
+    {
+        "audio": "G0003_1_S0356.wav",
+        "transcription": "買 蛇鼠 邊 會 中 ",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "audio": "G0007_1_S0126.wav",
+        "transcription": "音樂可唔可以繼續放",
+        "expected": "音乐 可 唔 可以 继续 放 啊"
+    },
+    {
+        "audio": "G0010_1_S0359.wav",
+        "transcription": "邊度冇到位",
+        "expected": "边度冇导位啊"
+    },
+    {
+        "audio": "G0006_1_S0249.wav",
+        "transcription": "都係上一個電台好聽",
+        "expected": "都 系 上 一个 电台 好听"
+    },
+    {
+        "audio": "G0003_1_S0312.wav",
+        "transcription": "阿當邊度唔舒服",
+        "expected": "阿当边度唔舒服"
+    },
+    {
+        "audio": "G0004_1_S0165.wav",
+        "transcription": "將空調溫度調到最光",
+        "expected": "将 空调 温度 调到 最光"
+    },
+    {
+        "audio": "G0009_1_S0214.wav",
+        "transcription": "有啲凍呀，個空調溫度調到最高吖",
+        "expected": "有 啲 冻 啊 个 空调 温度 调到 最高 啊"
+    },
+    {
+        "audio": "G0005_1_S0050.wav",
+        "transcription": "我鍾意呢首歌，我要將佢收藏",
+        "expected": "我 中意 呢首 歌 我 要 将 佢 收藏"
+    },
+    {
+        "audio": "G0010_1_S0276.wav",
+        "transcription": "我 想 知道 語音 式 別具體 係 點樣 用 嘅",
+        "expected": "我 想 知道 语音 识别 具体 系 点样 用 嘅"
+    },
+    {
+        "audio": "G0005_1_S0371.wav",
+        "transcription": "要睇報話陣係係仆頭，到做緊拜神呀",
+        "expected": "要睇布啊阵喺喺扑头度做紧拜神啊"
+    },
+    {
+        "audio": "G0001_1_S0372.wav",
+        "transcription": "而家都已經到第二日早上啦",
+        "expected": "宜家都已经到第二日早上啦"
+    },
+    {
+        "audio": "G0004_1_S0147.wav",
+        "transcription": "我想睇睇下一頁",
+        "expected": "我 想 睇 睇 下 一页"
+    },
+    {
+        "audio": "G0004_1_S0547.wav",
+        "transcription": "你好啊，而家姐喺邊度玩啊？",
+        "expected": "你好啊二家姐去边度玩啊"
+    },
+    {
+        "audio": "G0004_1_S0387.wav",
+        "transcription": "我話我邊有時間拍拖啫，我已經將我最尾嘅青春畀咗你媽囉",
+        "expected": "我话我有边有时间拍拖啫我已经将我最美嘅青春俾咗你妈咯"
+    },
+    {
+        "audio": "G0007_1_S0628.wav",
+        "transcription": "橫定我都唔用",
+        "expected": "横定我都唔拥"
+    },
+    {
+        "audio": "G0010_1_S0081.wav",
+        "transcription": "我想聽一鵝之聲啊",
+        "expected": "我 想 听 音乐 之声 啊"
+    },
+    {
+        "audio": "G0002_1_S0304.wav",
+        "transcription": "舅父  今年八月十五 生意 應該好好 啩 應該",
+        "expected": "舅父今年八月十五生意应该好好啩应该"
+    },
+    {
+        "audio": "G0001_1_S0712.wav",
+        "transcription": "六四二七二十十三點五",
+        "expected": "六 四 二 七 二 十 十 三 四 五"
+    },
+    {
+        "audio": "G0004_1_S0028.wav",
+        "transcription": "直接聽南牙上的音樂",
+        "expected": "直接 听 蓝牙 上 的 音乐"
+    },
+    {
+        "audio": "G0010_1_S0234.wav",
+        "transcription": "你 呀 袁  袁演幫 我 手下",
+        "expected": "美人鱼 电影 帮我 搜 下"
+    },
+    {
+        "audio": "G0009_1_S0417.wav",
+        "transcription": "仲獎嘅朋友",
+        "expected": "中奖嘅朋友"
+    },
+    {
+        "audio": "G0008_1_S0542.wav",
+        "transcription": "為什麼 沒有 覆膜嘅鑽石劍",
+        "expected": "为什么没有复磨嘅钻石剑"
+    },
+    {
+        "audio": "G0001_1_S0439.wav",
+        "transcription": "車狗肉有咩好食？",
+        "expected": "车狗肉有咩好食"
+    },
+    {
+        "audio": "G0001_1_S0283.wav",
+        "transcription": "麻煩幫我關咗主價做個加熱",
+        "expected": "麻烦 帮我 关咗 主驾 座 个 加热"
+    },
+    {
+        "audio": "G0007_1_S0301.wav",
+        "transcription": "係我自己唔爭氣啫，我明白嘅，唔緊要我唔會係習慣任何一個人嘅",
+        "expected": "系我自己唔争气啫我明白嘅唔紧要我唔会去责怪任何一个人嘅"
+    },
+    {
+        "audio": "G0004_1_S0066.wav",
+        "transcription": "直接設置地圖朝向為車頭向上",
+        "expected": "直接 设制 地图 朝向 为 车头 向上 啦"
+    },
+    {
+        "audio": "G0008_1_S0089.wav",
+        "transcription": "客埋個天窗鏈先",
+        "expected": "合埋 个 天窗 帘 先"
+    },
+    {
+        "audio": "G0001_1_S0327.wav",
+        "transcription": "你唔解咗我嘅意思",
+        "expected": "你误解咗我嘅意思啊"
+    },
+    {
+        "audio": "G0005_1_S0214.wav",
+        "transcription": "到人民廣場仲要幾耐",
+        "expected": "到 人民 广场 仲 要 几耐"
+    },
+    {
+        "audio": "G0004_1_S0105.wav",
+        "transcription": "唔識路話開個倒行全艦",
+        "expected": "唔 识 路 啊 开个 导航 全览 啦"
+    },
+    {
+        "audio": "G0002_1_S0648.wav",
+        "transcription": "海南道",
+        "expected": "海难岛"
+    },
+    {
+        "audio": "G0004_1_S0449.wav",
+        "transcription": "我吖唔覺得好熱喎，我今日仲要話係將長庫過嚟上班嘅喎",
+        "expected": "我啊唔觉得好热喎我今日仲要话系着长裤过嚟上班嘅喎"
+    },
+    {
+        "audio": "G0010_1_S0037.wav",
+        "transcription": "好凍關空調",
+        "expected": "好冻 关 空调"
+    },
+    {
+        "audio": "G0007_1_S0073.wav",
+        "transcription": "關咗個音幕",
+        "expected": "关咗 个 音乐"
+    },
+    {
+        "audio": "G0003_1_S0444.wav",
+        "transcription": "好爽面",
+        "expected": "好爽面"
+    },
+    {
+        "audio": "G0002_1_S0647.wav",
+        "transcription": "戰地風暴",
+        "expected": "战地风暴"
+    },
+    {
+        "audio": "G0008_1_S0148.wav",
+        "transcription": "可以幫我導航出家庭地址啦",
+        "expected": "可以 帮我 导航 出 家庭 地址 吗"
+    },
+    {
+        "audio": "G0010_1_S0453.wav",
+        "transcription": "邊個 教 打 佢  地址 吖",
+        "expected": "边个够胆佢哋接啊"
+    },
+    {
+        "audio": "G0005_1_S0198.wav",
+        "transcription": "將地圖整成北向上",
+        "expected": "将 地图 整 成 北 向上"
+    },
+    {
+        "audio": "G0005_1_S0514.wav",
+        "transcription": "水強你今晚唔好捉長期咩",
+        "expected": "水强你今晚唔好捉象棋咩"
+    },
+    {
+        "audio": "G0007_1_S0671.wav",
+        "transcription": "八九十零二",
+        "expected": "八 九 十 零 二"
+    },
+    {
+        "audio": "G0007_1_S0238.wav",
+        "transcription": "直接打開增加音量",
+        "expected": "直接 打开 增加 音量"
+    },
+    {
+        "audio": "G0005_1_S0399.wav",
+        "transcription": "我喺度念緊你又生氣又嬲過養家",
+        "expected": "我喺度念紧你又生气又嬲个样宜家"
+    },
+    {
+        "audio": "G0001_1_S0491.wav",
+        "transcription": "飛 到 幾 錢",
+        "expected": "飞到几钱"
+    },
+    {
+        "audio": "G0005_1_S0439.wav",
+        "transcription": "比平康豪",
+        "expected": "比平胸好"
+    },
+    {
+        "audio": "G0003_1_S0599.wav",
+        "transcription": "去邊度鬼呀",
+        "expected": "去边度鬼啊"
+    },
+    {
+        "audio": "G0008_1_S0410.wav",
+        "transcription": "揾個磚頭畀你拍",
+        "expected": "搵嚿砖头俾你拍"
+    },
+    {
+        "audio": "G0005_1_S0104.wav",
+        "transcription": "唔該關閉下空氣淨化係",
+        "expected": "唔该 关闭 下 空气 净化器"
+    },
+    {
+        "audio": "G0003_1_S0175.wav",
+        "transcription": "AM電台，廣播",
+        "expected": "A M 电台广播"
+    },
+    {
+        "audio": "G0009_1_S0535.wav",
+        "transcription": "唔經肇慶嘅落嚟大沙齊過去",
+        "expected": "唔经肇庆嘅落嚟大沙一齐过去啦"
+    },
+    {
+        "audio": "G0005_1_S0620.wav",
+        "transcription": "我者話唔知佢未去所以佢唔想我係嗰邊",
+        "expected": "我姐话唔知佢未去所以佢唔想我系嗰边"
+    },
+    {
+        "audio": "G0004_1_S0504.wav",
+        "transcription": "嗰啲睇完信息唔會嘅人呀",
+        "expected": "嗰啲睇完信息唔回嘅人啊"
+    },
+    {
+        "audio": "G0002_1_S0621.wav",
+        "transcription": "你啲衛生所思",
+        "expected": "你啲维生素C咯"
+    },
+    {
+        "audio": "G0007_1_S0083.wav",
+        "transcription": "我想打多次",
+        "expected": "我 想 打 多 次"
+    },
+    {
+        "audio": "G0002_1_S0077.wav",
+        "transcription": "部車個電話簿未同部話跳啦",
+        "expected": "部 车 个 电话本 未 同步 啊 调 啦"
+    },
+    {
+        "audio": "G0007_1_S0056.wav",
+        "transcription": "我想打開隨便聽",
+        "expected": "我 想 打开 随便 听"
+    },
+    {
+        "audio": "G0006_1_S0004.wav",
+        "transcription": "重新 撥 好",
+        "expected": "重新 拨号"
+    },
+    {
+        "audio": "G0001_1_S0341.wav",
+        "transcription": "究竟我哋團隊有幾大",
+        "expected": "究竟我哋团队有几大"
+    },
+    {
+        "audio": "G0004_1_S0687.wav",
+        "transcription": "四一三八七六零二六",
+        "expected": "四 一 三 八 七 六 零 二 六"
+    },
+    {
+        "audio": "G0008_1_S0473.wav",
+        "transcription": "睇人哋嚇讚",
+        "expected": "睇人哋客栈"
+    },
+    {
+        "audio": "G0002_1_S0369.wav",
+        "transcription": "呢個語音輸入輸入法唔錯",
+        "expected": "呢个语音输入输入法唔错喔"
+    },
+    {
+        "audio": "G0008_1_S0490.wav",
+        "transcription": "好休息",
+        "expected": "好幽幂"
+    },
+    {
+        "audio": "G0002_1_S0219.wav",
+        "transcription": "我想設置目的地",
+        "expected": "我 想 设置 目的地"
+    },
+    {
+        "audio": "G0005_1_S0191.wav",
+        "transcription": "呢首歌唔好聽，唔要嘞",
+        "expected": "呢首 歌 唔 好听 唔要 啦"
+    },
+    {
+        "audio": "G0006_1_S0078.wav",
+        "transcription": "設置 下 汽車 限速 ",
+        "expected": "设置 下 汽车 限速 啦"
+    },
+    {
+        "audio": "G0002_1_S0047.wav",
+        "transcription": "我想聽第二個USB上嘅音樂",
+        "expected": "我 想 听 第 二 个U S B上 嘅 音乐"
+    },
+    {
+        "audio": "G0008_1_S0285.wav",
+        "transcription": "而家去網上收循下美人魚電影",
+        "expected": "而家 去 网上 搜 秦下 美人鱼 电影"
+    },
+    {
+        "audio": "G0006_1_S0155.wav",
+        "transcription": "好熱呀，開下空調",
+        "expected": "好热 啊 开 下 空调"
+    },
+    {
+        "audio": "G0009_1_S0168.wav",
+        "transcription": "汽車限速設定為六十",
+        "expected": "汽车 限速 设定为 六十"
+    },
+    {
+        "audio": "G0006_1_S0033.wav",
+        "transcription": "我想聽收藏FM電台",
+        "expected": "我 想 听 收藏 F M 电台"
+    },
+    {
+        "audio": "G0007_1_S0089.wav",
+        "transcription": "開 個 天窗 通通 風",
+        "expected": "开 个 天窗 通 通风"
+    },
+    {
+        "audio": "G0004_1_S0549.wav",
+        "transcription": "係喎，你嗰個LAC嘅工作",
+        "expected": "系喎你嗰个L A C嘅工作"
+    },
+    {
+        "audio": "G0004_1_S0627.wav",
+        "transcription": "聽到個婆仔係響度話",
+        "expected": "听到个婆仔喺响度啩"
+    },
+    {
+        "audio": "G0007_1_S0685.wav",
+        "transcription": "五十十一三四十",
+        "expected": "五 十 十 一 三 四 十"
+    },
+    {
+        "audio": "G0007_1_S0012.wav",
+        "transcription": "將 隨便 廳 打開",
+        "expected": "将 随便 听 打开"
+    },
+    {
+        "audio": "G0010_1_S0378.wav",
+        "transcription": "買蛇鼠邊會中",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "audio": "G0002_1_S0332.wav",
+        "transcription": "數學做，什麼做",
+        "expected": "数学做什么簿"
+    },
+    {
+        "audio": "G0008_1_S0558.wav",
+        "transcription": "然後今日我哋今日喺度搶山路十八灣",
+        "expected": "然后今日我哋今日喺度抢山路十八弯"
+    },
+    {
+        "audio": "G0004_1_S0306.wav",
+        "transcription": "最辛苦的",
+        "expected": "最辛苦的"
+    },
+    {
+        "audio": "G0006_1_S0204.wav",
+        "transcription": "我幾時可以去到世紀大度",
+        "expected": "我 几 时 可以 去 到 世纪 大道"
+    },
+    {
+        "audio": "G0007_1_S0641.wav",
+        "transcription": "千祈唔好衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "audio": "G0001_1_S0461.wav",
+        "transcription": "條女好傻喎",
+        "expected": "条女好索喎"
+    },
+    {
+        "audio": "G0002_1_S0615.wav",
+        "transcription": "仲有繁體字",
+        "expected": "仲有繁体字"
+    },
+    {
+        "audio": "G0001_1_S0120.wav",
+        "transcription": "跳過呢個電台啦",
+        "expected": "跳 过 呢个 电台 啦"
+    },
+    {
+        "audio": "G0007_1_S0132.wav",
+        "transcription": "呢個系統有乜用啊？",
+        "expected": "呢个 系统 有 咩 用 啊"
+    },
+    {
+        "audio": "G0005_1_S0550.wav",
+        "transcription": "肯定要兩晚，要兩點才能瞓覺個囉",
+        "expected": "肯定要两晚要两点才能瞓觉个咯"
+    },
+    {
+        "audio": "G0008_1_S0102.wav",
+        "transcription": "打去1381922455呢個電話",
+        "expected": "打 去 一三八一九二二四八五五呢个 电话"
+    },
+    {
+        "audio": "G0010_1_S0371.wav",
+        "transcription": "尋日 買 咗 部 小米 五",
+        "expected": "寻日买咗部小米五"
+    },
+    {
+        "audio": "G0005_1_S0108.wav",
+        "transcription": "山 柱",
+        "expected": "删除"
+    },
+    {
+        "audio": "G0003_1_S0330.wav",
+        "transcription": "冇 出去 吹 嘢 咩",
+        "expected": "冇出去吹嘢咩"
+    },
+    {
+        "audio": "G0004_1_S0353.wav",
+        "transcription": "你倒數未呀？",
+        "expected": "你倒数未啊"
+    },
+    {
+        "audio": "G0007_1_S0455.wav",
+        "transcription": "走咗去瞓覺",
+        "expected": "走咗去瞓觉"
+    },
+    {
+        "audio": "G0002_1_S0493.wav",
+        "transcription": "後日安唔安排得到",
+        "expected": "后日安唔安排得到"
+    },
+    {
+        "audio": "G0005_1_S0056.wav",
+        "transcription": "有啲凍，我可唔可以將啲溫度調得最高啊",
+        "expected": "有啲 冻 我 可 唔 可以 将 啲 温度 调 得 最高 啊"
+    },
+    {
+        "audio": "G0007_1_S0692.wav",
+        "transcription": "四七五八二五四",
+        "expected": "四 七 五 八 二 五 四"
+    },
+    {
+        "audio": "G0003_1_S0055.wav",
+        "transcription": "等我一陣先啦，我打個電話畀138192245",
+        "expected": "等我 一阵 先 啦 我 打 个 电话 俾 一三八一九二二四八五五"
+    },
+    {
+        "audio": "G0006_1_S0283.wav",
+        "transcription": "我要聽周杰倫嘅七里香",
+        "expected": "我 要 听 周杰伦 嘅 七里香"
+    },
+    {
+        "audio": "G0009_1_S0266.wav",
+        "transcription": "繼續 music",
+        "expected": "继续 music"
+    },
+    {
+        "audio": "G0007_1_S0015.wav",
+        "transcription": "可以幫我設置地圖朝向為車頭向上嗎",
+        "expected": "可以 帮我 设置 地图 朝向 为 车头 向上 吗"
+    },
+    {
+        "audio": "G0004_1_S0144.wav",
+        "transcription": "幫我縮細個地圖",
+        "expected": "帮我 缩细 个 地图"
+    },
+    {
+        "audio": "G0001_1_S0002.wav",
+        "transcription": "幫我刪一下天窗通風可以嗎",
+        "expected": "帮我 删一下 天窗 通风 可以 吗"
+    },
+    {
+        "audio": "G0007_1_S0109.wav",
+        "transcription": "打開個天窗網鏈",
+        "expected": "打开 个天窗  网帘"
+    },
+    {
+        "audio": "G0004_1_S0215.wav",
+        "transcription": "我要聽收藏，任何",
+        "expected": "我 要 听 收藏 音乐"
+    },
+    {
+        "audio": "G0009_1_S0273.wav",
+        "transcription": "唔該加大車入邊嘅風量",
+        "expected": "唔该 加大 车 入 边 嘅风量"
+    },
+    {
+        "audio": "G0007_1_S0379.wav",
+        "transcription": "有 時間 嘅 話 我 肯定 參加 嘅",
+        "expected": "有时间嘅话我肯定参加嘅"
+    },
+    {
+        "audio": "G0009_1_S0406.wav",
+        "transcription": "都 人 背脊",
+        "expected": "督人背脊"
+    },
+    {
+        "audio": "G0004_1_S0168.wav",
+        "transcription": "唔該你調細下聲音",
+        "expected": "唔该 你 调 细 下 声音"
+    },
+    {
+        "audio": "G0005_1_S0605.wav",
+        "transcription": "話佢食親法都係去飲酒㗎啦",
+        "expected": "话佢食亲饭都系去饮酒嘅啦"
+    },
+    {
+        "audio": "G0007_1_S0555.wav",
+        "transcription": "我就一般",
+        "expected": "我就一般啦"
+    },
+    {
+        "audio": "G0007_1_S0441.wav",
+        "transcription": "精排骨係紅燒排骨",
+        "expected": "蒸排骨系红烧排骨啊"
+    },
+    {
+        "audio": "G0005_1_S0233.wav",
+        "transcription": "度行 關閉",
+        "expected": "导航 关闭"
+    },
+    {
+        "audio": "G0005_1_S0137.wav",
+        "transcription": "點用語音識別啊",
+        "expected": "点 用 语音 识别 啊"
+    },
+    {
+        "audio": "G0005_1_S0509.wav",
+        "transcription": "唔好意思 畀你嘈醒咗",
+        "expected": "唔好意思俾你嘈醒咗"
+    },
+    {
+        "audio": "G0010_1_S0068.wav",
+        "transcription": "退 個 收音機  好 做 ",
+        "expected": "退 个 收音机 啦 好嘈 啊"
+    },
+    {
+        "audio": "G0005_1_S0396.wav",
+        "transcription": "我 哥 嘅 悄悄",
+        "expected": "我哥嘅Q Q"
+    },
+    {
+        "audio": "G0001_1_S0678.wav",
+        "transcription": "九二四一二七",
+        "expected": "九 二 四 一 二 七"
+    },
+    {
+        "audio": "G0010_1_S0205.wav",
+        "transcription": "直接 掛 斷 離電話",
+        "expected": "直接 挂 断 嚟电 啦"
+    },
+    {
+        "audio": "G0002_1_S0080.wav",
+        "transcription": "連 係 1300、1922455",
+        "expected": "联系 一三八四九二二四八五五"
+    },
+    {
+        "audio": "G0004_1_S0139.wav",
+        "transcription": "開 個 路線 全 南 ",
+        "expected": "开 个 路线 全览 啦"
+    },
+    {
+        "audio": "G0001_1_S0668.wav",
+        "transcription": "零零零二三",
+        "expected": "零 零 零 二 三"
+    },
+    {
+        "audio": "G0004_1_S0189.wav",
+        "transcription": "我想，顯示味道短信",
+        "expected": "我 想 显示 未读 短信"
+    },
+    {
+        "audio": "G0010_1_S0141.wav",
+        "transcription": "唔 該 從 我 星 高 低  空調 溫度 ",
+        "expected": "唔该 同我 升高 啲 空调 温度 咯"
+    },
+    {
+        "audio": "G0010_1_S0431.wav",
+        "transcription": "唔可以休息",
+        "expected": "唔可以休息噶"
+    },
+    {
+        "audio": "G0001_1_S0095.wav",
+        "transcription": "我要聽下一個電台",
+        "expected": "我 要 听下 一个 电台"
+    },
+    {
+        "audio": "G0001_1_S0423.wav",
+        "transcription": "嗰第三隻",
+        "expected": "个第三者"
+    },
+    {
+        "audio": "G0002_1_S0257.wav",
+        "transcription": "打開語音識別先",
+        "expected": "打开 语音 识别 先"
+    },
+    {
+        "audio": "G0010_1_S0139.wav",
+        "transcription": "直接 截 FN 廣播 位  一 二 四 點 三",
+        "expected": "直接 设置F M广播 为 一二四点三"
+    },
+    {
+        "audio": "G0001_1_S0072.wav",
+        "transcription": "短信講畀張三叔叔",
+        "expected": "短信 讲 俾 张三 叔叔"
+    },
+    {
+        "audio": "G0002_1_S0371.wav",
+        "transcription": "我同你玩埋囉",
+        "expected": "我同你玩埋咯"
+    },
+    {
+        "audio": "G0005_1_S0515.wav",
+        "transcription": "大定兩支酒先至好呀，配正",
+        "expected": "带定两支酒先至好啊培静"
+    },
+    {
+        "audio": "G0008_1_S0260.wav",
+        "transcription": "我要放大啲個地圖啊",
+        "expected": "我 要 放大 啲 个 地图 啊"
+    },
+    {
+        "audio": "G0008_1_S0110.wav",
+        "transcription": "我幾時先可以到達目的地",
+        "expected": "我 几 时 先 可以 到达 目的地"
+    },
+    {
+        "audio": "G0010_1_S0237.wav",
+        "transcription": "嗰 咪 係 咩 日子",
+        "expected": "今日 系 咩 日子"
+    },
+    {
+        "audio": "G0008_1_S0083.wav",
+        "transcription": "我上收聽收藏嘅調頻FM電台",
+        "expected": "我 想 收听 收藏 嘅 调频  F M 电台"
+    },
+    {
+        "audio": "G0002_1_S0007.wav",
+        "transcription": "系統幫我轉地圖 朝向我要車頭向上",
+        "expected": "系统 帮我 转 地图 朝向 我 要 车头 向上"
+    },
+    {
+        "audio": "G0008_1_S0480.wav",
+        "transcription": "咁",
+        "expected": "咁"
+    },
+    {
+        "audio": "G0006_1_S0351.wav",
+        "transcription": "但係我都係玩下玩下嘅咋，影得唔好，華望見亮",
+        "expected": "好嘅但系我都系玩下玩下噶咋影得唔好还望见谅"
+    },
+    {
+        "audio": "G0001_1_S0593.wav",
+        "transcription": "值得思考",
+        "expected": "值的思考"
+    },
+    {
+        "audio": "G0003_1_S0333.wav",
+        "transcription": "都冇人證嘅",
+        "expected": "都冇人性嘅"
+    },
+    {
+        "audio": "G0006_1_S0304.wav",
+        "transcription": "今日又返想咁耐又冇落去做嘢嘅",
+        "expected": "今日又翻上咁耐又冇落去做嘢嘅"
+    },
+    {
+        "audio": "G0009_1_S0091.wav",
+        "transcription": "開下嗌泊啲歌",
+        "expected": "开下 iPod 啲 歌"
+    },
+    {
+        "audio": "G0002_1_S0347.wav",
+        "transcription": "好無聊呀，今日就休息",
+        "expected": "好无聊啊今物修休息"
+    },
+    {
+        "audio": "G0004_1_S0481.wav",
+        "transcription": "你波嚟到店裏的時候",
+        "expected": "李波嚟到店里的时候"
+    },
+    {
+        "audio": "G0006_1_S0126.wav",
+        "transcription": "我想級叔叔張三發送短信",
+        "expected": "我 想 给 叔叔 张三 发送 短信"
+    },
+    {
+        "audio": "G0001_1_S0492.wav",
+        "transcription": "搶屋企幾好",
+        "expected": "才屋企几好吧"
+    },
+    {
+        "audio": "G0001_1_S0673.wav",
+        "transcription": "六九十九七",
+        "expected": "六 九 十 九 七"
+    },
+    {
+        "audio": "G0002_1_S0669.wav",
+        "transcription": "三十九九二",
+        "expected": "三 十 九 九 二"
+    },
+    {
+        "audio": "G0008_1_S0321.wav",
+        "transcription": "我知道問我係應該但係有嘅嘢，該問就問，唔該問就唔好問",
+        "expected": "我知道问我系应该但系有嘅嘢该问就问唔该问就唔好问"
+    },
+    {
+        "audio": "G0005_1_S0217.wav",
+        "transcription": "可以罷車女風量調到最大媽",
+        "expected": "可以 把 车内 风量 调到 最大 吗"
+    },
+    {
+        "audio": "G0003_1_S0574.wav",
+        "transcription": "如果聽你聽日嘅話再搵搵我啦",
+        "expected": "如果听你听日嘅话再搵搵我啦"
+    },
+    {
+        "audio": "G0004_1_S0223.wav",
+        "transcription": "可以 關閉 老善全覽",
+        "expected": "可以关闭路线全览"
+    },
+    {
+        "audio": "G0007_1_S0461.wav",
+        "transcription": "跟住 馬又輸 ",
+        "expected": "跟着买又输啦"
+    },
+    {
+        "audio": "G0001_1_S0228.wav",
+        "transcription": "條 兩 平 網",
+        "expected": "调亮 屏幕"
+    },
+    {
+        "audio": "G0001_1_S0028.wav",
+        "transcription": "播返頭先我收藏嘅",
+        "expected": "播 翻 头先 我 收藏 嘅"
+    },
+    {
+        "audio": "G0002_1_S0625.wav",
+        "transcription": "我唔查查黑媽媽",
+        "expected": "蒙查查黑妈妈"
+    },
+    {
+        "audio": "G0002_1_S0626.wav",
+        "transcription": "你拍過有冇三字拖?",
+        "expected": "你拍过有冇三次拖"
+    },
+    {
+        "audio": "G0003_1_S0152.wav",
+        "transcription": "你幫我打開味道短信啦",
+        "expected": "你 帮我 打开 未读 短信 啦"
+    },
+    {
+        "audio": "G0006_1_S0379.wav",
+        "transcription": "唔好 氹 我 啦 我 想 個 小 學 ",
+        "expected": "唔好氹我啦我上过小学噶"
+    },
+    {
+        "audio": "G0004_1_S0198.wav",
+        "transcription": "唔該，轉返上一個",
+        "expected": "唔该 转 返 上 一个"
+    },
+    {
+        "audio": "G0006_1_S0213.wav",
+        "transcription": "識 咗 到 行",
+        "expected": "熄咗 导航"
+    },
+    {
+        "audio": "G0001_1_S0662.wav",
+        "transcription": "你條欄杰",
+        "expected": "你条躝瘫"
+    },
+    {
+        "audio": "G0007_1_S0383.wav",
+        "transcription": "係 喎 你 嗰 個 LAC 嘅 工作 指 你 畫 咩 啲 乜",
+        "expected": "系喎你嗰个 L A C 嘅工作纸你画咩啲乜"
+    },
+    {
+        "audio": "G0009_1_S0447.wav",
+        "transcription": "按嗰個操作嚟做就得啦",
+        "expected": "按嗰个操作嚟做就得啦"
+    },
+    {
+        "audio": "G0010_1_S0062.wav",
+        "transcription": "我想播第二個腰部上啲音樂",
+        "expected": "我 想 播 第 二 个U盘 上啲 音乐"
+    },
+    {
+        "audio": "G0002_1_S0289.wav",
+        "transcription": "將 空調 關 咗 佢",
+        "expected": "将 空调 关咗 佢"
+    },
+    {
+        "audio": "G0007_1_S0226.wav",
+        "transcription": "我想返屋企喇",
+        "expected": "我 想 翻 屋企 啦"
+    },
+    {
+        "audio": "G0006_1_S0284.wav",
+        "transcription": "唔知幾點喇，幫我睇下時間",
+        "expected": "唔知 几 点 啦 帮我 睇 下 时间"
+    },
+    {
+        "audio": "G0003_1_S0081.wav",
+        "transcription": "可以再放大啲個地圖嗎",
+        "expected": "可以 再 放大 啲 个 地图 吗"
+    },
+    {
+        "audio": "G0007_1_S0337.wav",
+        "transcription": "珠江囉 我哋呢度有邊度啊 呢鄉下地方",
+        "expected": "珠江咯我哋呢度有边度啊呢乡下地方"
+    },
+    {
+        "audio": "G0003_1_S0504.wav",
+        "transcription": "事先提醒邊個要瞓覺",
+        "expected": "事先提醒边个要瞓觉"
+    },
+    {
+        "audio": "G0008_1_S0185.wav",
+        "transcription": "我想空調調低兩度",
+        "expected": "我 想 空调 调低 两 度"
+    },
+    {
+        "audio": "G0002_1_S0162.wav",
+        "transcription": "不過我降低下屏幕落唔到先",
+        "expected": "帮我 降低 下 屏幕 亮度 先"
+    },
+    {
+        "audio": "G0009_1_S0434.wav",
+        "transcription": "我講嘅唔係廣東話咩",
+        "expected": "我讲嘅唔系广东话咩"
+    },
+    {
+        "audio": "G0007_1_S0495.wav",
+        "transcription": "你 即係 叫 勁 進行 七 嘅 啫",
+        "expected": "你即系叫鸠进含柒嘅啫"
+    },
+    {
+        "audio": "G0010_1_S0242.wav",
+        "transcription": "唔好停繼續放",
+        "expected": "唔好 停 继续 放"
+    },
+    {
+        "audio": "G0008_1_S0555.wav",
+        "transcription": "我呢邊係邊個嚟㗎",
+        "expected": "我呢边系边个嚟噶"
+    },
+    {
+        "audio": "G0008_1_S0305.wav",
+        "transcription": "今日講個個，任橋任亮",
+        "expected": "今物讲嗰个任乔任梁"
+    },
+    {
+        "audio": "G0009_1_S0322.wav",
+        "transcription": "你哋 維生素絲 囉",
+        "expected": "你啲维生素 C咯"
+    },
+    {
+        "audio": "G0002_1_S0013.wav",
+        "transcription": "到行到福山路捉林路",
+        "expected": "导航 到 福山 路 竹林 路"
+    },
+    {
+        "audio": "G0007_1_S0277.wav",
+        "transcription": "我要手機通話",
+        "expected": "我 要 手机 通话"
+    },
+    {
+        "audio": "G0004_1_S0029.wav",
+        "transcription": "趁我想聽USB上面嘅音樂",
+        "expected": "亲 我 想 听 U S B上边 嘅 音乐"
+    },
+    {
+        "audio": "G0007_1_S0058.wav",
+        "transcription": "幫我設置個廣播位，一二四點三",
+        "expected": "帮我 设置 个 广播 为 一二四点三"
+    },
+    {
+        "audio": "G0005_1_S0596.wav",
+        "transcription": "削咗早餐二十幾蚊，仲係唔係幾好食",
+        "expected": "食咗早餐二十几蚊仲系唔系几好食"
+    },
+    {
+        "audio": "G0008_1_S0551.wav",
+        "transcription": "下一世唔結婚唔做女人做過有本事嘅男人",
+        "expected": "下一世唔结婚唔做女人做个有本事嘅男人"
+    },
+    {
+        "audio": "G0001_1_S0232.wav",
+        "transcription": "唔該可唔可以將個屏幕調到最暗江度",
+        "expected": "唔该 可 唔 可以 将 个 屏幕 调到 最暗 光 度 啊"
+    },
+    {
+        "audio": "G0006_1_S0115.wav",
+        "transcription": "我要去公司",
+        "expected": "我 要 去 公司"
+    },
+    {
+        "audio": "G0006_1_S0234.wav",
+        "transcription": "我唔想同你傾偈喇",
+        "expected": "我 唔 想 同 你 倾 偈啦"
+    },
+    {
+        "audio": "G0010_1_S0412.wav",
+        "transcription": "飲下身唔好畀佢食",
+        "expected": "印下心唔好俾佢食"
+    },
+    {
+        "audio": "G0004_1_S0092.wav",
+        "transcription": "切換到SG TING上面嘅音樂啦",
+        "expected": "切换 到 S D 听 上面 嘅 音乐 啦"
+    },
+    {
+        "audio": "G0009_1_S0075.wav",
+        "transcription": "麻煩幫我將未讀短信顯示出嚟",
+        "expected": "麻烦 帮我 将 未读 短信 显示 出嚟"
+    },
+    {
+        "audio": "G0006_1_S0133.wav",
+        "transcription": "幫我將屏幕調到最乾",
+        "expected": "帮我 将 屏幕 调到 最光"
+    },
+    {
+        "audio": "G0003_1_S0515.wav",
+        "transcription": "唔好講得咁粗口啦",
+        "expected": "唔好讲得咁粗口啦"
+    },
+    {
+        "audio": "G0002_1_S0297.wav",
+        "transcription": "關天將冇念",
+        "expected": "关 天窗 网帘"
+    },
+    {
+        "audio": "G0003_1_S0609.wav",
+        "transcription": "手法右手嘛冇",
+        "expected": "手快有手慢冇啊"
+    },
+    {
+        "audio": "G0006_1_S0474.wav",
+        "transcription": "我哋食食下，距離都得",
+        "expected": "我哋食食下佢嚟都得"
+    },
+    {
+        "audio": "G0006_1_S0121.wav",
+        "transcription": "退出啦，冇事啦",
+        "expected": "退出 啦 冇 事 啦"
+    },
+    {
+        "audio": "G0004_1_S0049.wav",
+        "transcription": "系統將個風量調到最大吧",
+        "expected": "系统 将 个 风量 调到 最大 吧"
+    },
+    {
+        "audio": "G0003_1_S0332.wav",
+        "transcription": "喺度着緊乜嘢啊",
+        "expected": "喺度做紧乜嘢啊"
+    },
+    {
+        "audio": "G0009_1_S0140.wav",
+        "transcription": "幫我退出音樂",
+        "expected": "帮我 退出 音乐"
+    },
+    {
+        "audio": "G0004_1_S0692.wav",
+        "transcription": "九四五十九五九八二",
+        "expected": "九 四 五 十 九 五 九 八 二"
+    },
+    {
+        "audio": "G0002_1_S0313.wav",
+        "transcription": "我都好想食多啲大頭蔥菜先",
+        "expected": "我都好想食多啲大头葱菜先咧"
+    },
+    {
+        "audio": "G0006_1_S0350.wav",
+        "transcription": "食 羊 之後 你 諗 住 影 啲 咩 畀 我",
+        "expected": "食羊之后你谂住影啲咩俾我"
+    },
+    {
+        "audio": "G0001_1_S0137.wav",
+        "transcription": "屏幕教到最暗",
+        "expected": "屏幕 较 到 最暗"
+    },
+    {
+        "audio": "G0005_1_S0094.wav",
+        "transcription": "直覺都好，唔向處燒收藏佢",
+        "expected": "只 歌 都  好唔听 取消 收藏 佢"
+    },
+    {
+        "audio": "G0004_1_S0297.wav",
+        "transcription": "我要開咗空氣淨化氣",
+        "expected": "我 要 开咗 空气 净化器"
+    },
+    {
+        "audio": "G0004_1_S0148.wav",
+        "transcription": "關閉，片窗",
+        "expected": "关闭 天窗"
+    },
+    {
+        "audio": "G0008_1_S0229.wav",
+        "transcription": "直接收藏條幅電台囉",
+        "expected": "直接 收藏 调幅 电台 咯"
+    },
+    {
+        "audio": "G0004_1_S0492.wav",
+        "transcription": "你好嘢",
+        "expected": "你好嘢"
+    },
+    {
+        "audio": "G0010_1_S0028.wav",
+        "transcription": "我想打開十字嘅老方",
+        "expected": "我 想 打开 实时 路况"
+    },
+    {
+        "audio": "G0006_1_S0224.wav",
+        "transcription": "唔該同我講下點用語音識別啦",
+        "expected": "唔该 同我 讲 下 点 用 语音 识别 喇"
+    },
+    {
+        "audio": "G0004_1_S0157.wav",
+        "transcription": "唔想聽首播",
+        "expected": "唔 听 呢 首 播"
+    },
+    {
+        "audio": "G0010_1_S0056.wav",
+        "transcription": "請打開導航去公司",
+        "expected": "请 打开 导航 去 公司"
+    },
+    {
+        "audio": "G0002_1_S0601.wav",
+        "transcription": "車上怕死都要找一首歌出嚟",
+        "expected": "车上他死都要找一首歌出嚟"
+    },
+    {
+        "audio": "G0005_1_S0624.wav",
+        "transcription": "有冇 時間 過濾 ",
+        "expected": "有冇时间过嚟咯"
+    },
+    {
+        "audio": "G0003_1_S0100.wav",
+        "transcription": "我想睇下未讀短信",
+        "expected": "我 想 睇 下 未读 短信"
+    },
+    {
+        "audio": "G0010_1_S0309.wav",
+        "transcription": "A 嘅 M 字 除 A 嘅 N 字方等於多少",
+        "expected": "A嘅M次除A嘅N次方等于多少"
+    },
+    {
+        "audio": "G0003_1_S0296.wav",
+        "transcription": "靜音",
+        "expected": "静音"
+    },
+    {
+        "audio": "G0009_1_S0556.wav",
+        "transcription": "邊幅 貧好  偽長",
+        "expected": "蝙蝠屏号危墙"
+    },
+    {
+        "audio": "G0001_1_S0415.wav",
+        "transcription": "有管家 唔畀 你 自己 食 住 食",
+        "expected": "有管家唔俾你自己食煮食"
+    },
+    {
+        "audio": "G0001_1_S0676.wav",
+        "transcription": "227091",
+        "expected": "二 二 七 零 九 一"
+    },
+    {
+        "audio": "G0009_1_S0414.wav",
+        "transcription": "咁大隻人 驚你呢個拳頭咩",
+        "expected": "咁大只人惊你呢个拳头咩"
+    },
+    {
+        "audio": "G0007_1_S0666.wav",
+        "transcription": "落 三 二 三 九",
+        "expected": "六 三 二 三 九"
+    },
+    {
+        "audio": "G0005_1_S0005.wav",
+        "transcription": "我要活大呼叫中心",
+        "expected": "我 要 拨打 呼叫 中心"
+    },
+    {
+        "audio": "G0004_1_S0190.wav",
+        "transcription": "關咗個路線全南",
+        "expected": "关咗个路线 全览"
+    },
+    {
+        "audio": "G0003_1_S0616.wav",
+        "transcription": "你哋唔可以安靜少少",
+        "expected": "你哋唔可以安静少少"
+    },
+    {
+        "audio": "G0010_1_S0400.wav",
+        "transcription": "畀你一蚊子大方",
+        "expected": "俾你一蚊纸大方"
+    },
+    {
+        "audio": "G0009_1_S0517.wav",
+        "transcription": "你 到咗 未 ",
+        "expected": "你倒数未啊"
+    },
+    {
+        "audio": "G0004_1_S0008.wav",
+        "transcription": "我要關空氣淨化氣",
+        "expected": "我 要 关 空气 净化器"
+    },
+    {
+        "audio": "G0009_1_S0032.wav",
+        "transcription": "請你將廣播關閉",
+        "expected": "请 你 将 广播 关闭"
+    },
+    {
+        "audio": "G0004_1_S0460.wav",
+        "transcription": "搭狗肉都冇咩好食",
+        "expected": "唓狗肉都无咩好食"
+    },
+    {
+        "audio": "G0006_1_S0263.wav",
+        "transcription": "主價再要加熱下",
+        "expected": "主驾 座 要 加热 下"
+    },
+    {
+        "audio": "G0003_1_S0084.wav",
+        "transcription": "開超速提示",
+        "expected": "开 超速 提示"
+    },
+    {
+        "audio": "G0002_1_S0056.wav",
+        "transcription": "介紹系統功能",
+        "expected": "介绍 系统 功能"
+    },
+    {
+        "audio": "G0001_1_S0658.wav",
+        "transcription": "祈禱岸年晚的",
+        "expected": "祈祷我年晚的"
+    },
+    {
+        "audio": "G0005_1_S0325.wav",
+        "transcription": "冇問題我就十月四號優價樂",
+        "expected": "啊冇问题我就十月四号休假咯"
+    },
+    {
+        "audio": "G0004_1_S0127.wav",
+        "transcription": "情張空氣整化起關閉",
+        "expected": "请 将 空气 净化器 关闭"
+    },
+    {
+        "audio": "G0003_1_S0164.wav",
+        "transcription": "幫我刪呢首歌",
+        "expected": "帮我 删 呢 首 歌"
+    },
+    {
+        "audio": "G0003_1_S0279.wav",
+        "transcription": "我想聽音樂之聲電台",
+        "expected": "我 想 听 音乐 之声 电台"
+    },
+    {
+        "audio": "G0004_1_S0580.wav",
+        "transcription": "返過去接你吖，點呀？",
+        "expected": "翻过去接你啊点啊"
+    },
+    {
+        "audio": "G0006_1_S0068.wav",
+        "transcription": "關閉限行提示",
+        "expected": "关闭 限行 提示"
+    },
+    {
+        "audio": "G0002_1_S0171.wav",
+        "transcription": "唔睇實時老房",
+        "expected": "唔 睇 实时 路况"
+    },
+    {
+        "audio": "G0005_1_S0093.wav",
+        "transcription": "請問你知唔知呢度係邊度啊？",
+        "expected": "请问 你 知 唔 知 呢度 是 边度 啊"
+    },
+    {
+        "audio": "G0005_1_S0245.wav",
+        "transcription": "明天上海咩天氣",
+        "expected": "明日 上海 咩 天气"
+    },
+    {
+        "audio": "G0008_1_S0317.wav",
+        "transcription": "未瞓醒繼續瞓唔好理佢",
+        "expected": "未瞓醒继续瞓唔好理佢"
+    },
+    {
+        "audio": "G0003_1_S0390.wav",
+        "transcription": "我而家覺得好開心呀",
+        "expected": "我宜家觉得好开心啊"
+    },
+    {
+        "audio": "G0001_1_S0564.wav",
+        "transcription": "嗰段時間好興做出口嘅 可能係出口轉內燒的",
+        "expected": "嗰段时间好兴做出口嘅可能系出口转内销的"
+    },
+    {
+        "audio": "G0002_1_S0235.wav",
+        "transcription": "嘩，太大風嘞，調低啲音，風量",
+        "expected": "哇 太大 风 啦调低 啲 音风量"
+    },
+    {
+        "audio": "G0005_1_S0530.wav",
+        "transcription": "平時 賣 嗰 間 跟住 仲 唔 開門 去 咗 另 一 間 店",
+        "expected": "平时买嗰间跟住仲唔开门去咗另一间店"
+    },
+    {
+        "audio": "G0005_1_S0629.wav",
+        "transcription": "知心就會軟亮你啦",
+        "expected": "痴心就会原谅你啦"
+    },
+    {
+        "audio": "G0010_1_S0193.wav",
+        "transcription": "麻煩你幫我關閉路線轉纜",
+        "expected": "麻烦 你 帮我 关闭 路线 全览"
+    },
+    {
+        "audio": "G0002_1_S0705.wav",
+        "transcription": "三七零九五五九四二",
+        "expected": "三 七 零 九 五 五 九 四 二"
+    },
+    {
+        "audio": "G0004_1_S0020.wav",
+        "transcription": "趁幫我把屏幕調到最啱",
+        "expected": "亲 帮我 把 屏幕 调到 最暗"
+    },
+    {
+        "audio": "G0004_1_S0285.wav",
+        "transcription": "將空調調到最大",
+        "expected": "将 空调 调到 最大"
+    },
+    {
+        "audio": "G0002_1_S0419.wav",
+        "transcription": "盡之你哋聚會喺興盛老食嘅嗰間辣嘅",
+        "expected": "上次你哋聚会喺兴盛路食嘅嗰间辣嘅"
+    },
+    {
+        "audio": "G0007_1_S0372.wav",
+        "transcription": "都唔知有冇課",
+        "expected": "都唔知有冇货"
+    },
+    {
+        "audio": "G0009_1_S0278.wav",
+        "transcription": "系統 導航多 家庭地址",
+        "expected": "系统 导航 到 家庭 地址"
+    },
+    {
+        "audio": "G0003_1_S0443.wav",
+        "transcription": "我一定唔會辜負同學嘅期望",
+        "expected": "我一定唔会辜负同学嘅期望"
+    },
+    {
+        "audio": "G0001_1_S0661.wav",
+        "transcription": "領咗優惠券先係十九個九",
+        "expected": "领咗优惠劵先系十九个九"
+    },
+    {
+        "audio": "G0004_1_S0637.wav",
+        "transcription": "呢個唔係你自己寫嘅咩",
+        "expected": "呢个唔系你自己写嘅咩"
+    },
+    {
+        "audio": "G0009_1_S0392.wav",
+        "transcription": "我而家唔係喺澳門，等我返去澳門我再話畀你知",
+        "expected": "我依家唔系喺澳门等我翻去澳门我再话俾你知"
+    },
+    {
+        "audio": "G0009_1_S0036.wav",
+        "transcription": "加熱張凳",
+        "expected": "加热 张 凳"
+    },
+    {
+        "audio": "G0008_1_S0172.wav",
+        "transcription": "而家嘅車裏面嘅風量較大啲",
+        "expected": "而家 嘅 车 里边 嘅 风量校 大 啲"
+    },
+    {
+        "audio": "G0004_1_S0623.wav",
+        "transcription": "做緊咩呀？",
+        "expected": "做紧咩啊"
+    },
+    {
+        "audio": "G0004_1_S0280.wav",
+        "transcription": "我想調高空調溫度",
+        "expected": "我 想 调高 空调 温度"
+    },
+    {
+        "audio": "G0004_1_S0485.wav",
+        "transcription": "你過我間別墅度飲啦打包過嚟呀過兩日又要去伊拉克傾啲軍火生意唔得閒喇",
+        "expected": "你过我间别墅度饮啦打包过嚟啊过两日又要去伊拉克倾啲军火生意唔得闲啊"
+    },
+    {
+        "audio": "G0004_1_S0172.wav",
+        "transcription": "唔該將屏幕條整到最高",
+        "expected": "唔该 将 屏幕 调整 到 最光"
+    },
+    {
+        "audio": "G0009_1_S0355.wav",
+        "transcription": "如果話見下面未暸解對方就帶返去嘅話我覺得噉樣唔係幾好囉",
+        "expected": "如果话见下面未了解对方就带返去嘅话我觉得咁样唔系几好咯"
+    },
+    {
+        "audio": "G0001_1_S0131.wav",
+        "transcription": "好凍呀幫我關下空調",
+        "expected": "好冻 啊 帮我 关 下 空调"
+    },
+    {
+        "audio": "G0008_1_S0258.wav",
+        "transcription": "語音控制點樣用",
+        "expected": "语音 控制 点样 用 啊"
+    },
+    {
+        "audio": "G0006_1_S0398.wav",
+        "transcription": "破壞方法",
+        "expected": "破坏方块"
+    },
+    {
+        "audio": "G0005_1_S0419.wav",
+        "transcription": "千祈唔好中同",
+        "expected": "千祈唔好冲同"
+    },
+    {
+        "audio": "G0007_1_S0041.wav",
+        "transcription": "音樂之聲有好聽嘅歌喎",
+        "expected": "音乐 之声 有 好听 嘅 歌 喎"
+    },
+    {
+        "audio": "G0010_1_S0097.wav",
+        "transcription": "直接解除收音機正音啦",
+        "expected": "直接 解除 收音机 静音 啦"
+    },
+    {
+        "audio": "G0003_1_S0021.wav",
+        "transcription": "第一次使用尋求指令讓你幫助",
+        "expected": "第 一次 使用 寻求 指令 样 例 帮助"
+    },
+    {
+        "audio": "G0006_1_S0007.wav",
+        "transcription": "需要幾耐先到啊？",
+        "expected": "需要 几耐 先 到 啊"
+    },
+    {
+        "audio": "G0004_1_S0410.wav",
+        "transcription": "我個迪QQ",
+        "expected": "我哥的Q Q"
+    },
+    {
+        "audio": "G0002_1_S0061.wav",
+        "transcription": "語音識別典用",
+        "expected": "语音 识别 点 用"
+    },
+    {
+        "audio": "G0007_1_S0249.wav",
+        "transcription": "我想接聽內電",
+        "expected": "我 想 接通 来电"
+    },
+    {
+        "audio": "G0009_1_S0093.wav",
+        "transcription": "喂 你 _(Mandarin)",
+        "expected": "喂 你好"
+    },
+    {
+        "audio": "G0003_1_S0335.wav",
+        "transcription": "今日講個係任橋娘",
+        "expected": "今日讲个系任乔梁"
+    },
+    {
+        "audio": "G0010_1_S0411.wav",
+        "transcription": "宋中基BB嘛",
+        "expected": "宋钟基B B吗"
+    },
+    {
+        "audio": "G0010_1_S0479.wav",
+        "transcription": "發我同你去海旱嗰陣嗰啲靚",
+        "expected": "发我同你去海航嗰阵嗰啲呢"
+    },
+    {
+        "audio": "G0001_1_S0592.wav",
+        "transcription": "到底你有冇諗過依啲問題先",
+        "expected": "到底你有冇谂过依啲问题先"
+    },
+    {
+        "audio": "G0009_1_S0526.wav",
+        "transcription": "我今日喺屋企",
+        "expected": "我今日喺屋企啊"
+    },
+    {
+        "audio": "G0002_1_S0111.wav",
+        "transcription": "直接關閉超速提示",
+        "expected": "直接 关闭 超速 提示"
+    },
+    {
+        "audio": "G0003_1_S0337.wav",
+        "transcription": "仲要係牛肉絲添",
+        "expected": "仲要系牛肉丝添"
+    },
+    {
+        "audio": "G0005_1_S0135.wav",
+        "transcription": "喂，而家快啲幫我打電話去急救中心",
+        "expected": "喂 宜家 快 啲 帮我 打 电话 去 急救 中心"
+    },
+    {
+        "audio": "G0001_1_S0561.wav",
+        "transcription": "入鄉隨俗，係咁嘅啦",
+        "expected": "入乡随俗系咁噶啦"
+    },
+    {
+        "audio": "G0002_1_S0033.wav",
+        "transcription": "我唔想車速超過六十",
+        "expected": "我 唔 想 车速 超过 六十"
+    },
+    {
+        "audio": "G0008_1_S0384.wav",
+        "transcription": "男朋友都冇學內有BB你以為我係你",
+        "expected": "男朋友都冇何来有B B你以为我系你啊"
+    },
+    {
+        "audio": "G0004_1_S0385.wav",
+        "transcription": "如果講幣有用嘅話",
+        "expected": "如果 港币 有 用 嘅话"
+    },
+    {
+        "audio": "G0007_1_S0378.wav",
+        "transcription": "知道佢今日先同我講隻手起笠笠",
+        "expected": "知道佢今物先同我讲只手起粒粒"
+    },
+    {
+        "audio": "G0009_1_S0256.wav",
+        "transcription": "收聽USB上嘅音樂",
+        "expected": "收听 U S B 上 嘅 音乐"
+    },
+    {
+        "audio": "G0009_1_S0351.wav",
+        "transcription": "人哋叫佢去深密度踩單車，佢都唔敢去",
+        "expected": "人哋叫佢去生物岛踩单车佢都唔敢去"
+    },
+    {
+        "audio": "G0006_1_S0257.wav",
+        "transcription": "唔該關閉天窗",
+        "expected": "唔该 关闭 天窗"
+    },
+    {
+        "audio": "G0003_1_S0369.wav",
+        "transcription": "你做乜嘢呀",
+        "expected": "你在助乜嘢啊"
+    },
+    {
+        "audio": "G0008_1_S0312.wav",
+        "transcription": "等下次發咗工資我要去shopping下",
+        "expected": "等下次发咗工资我要去shopping下"
+    },
+    {
+        "audio": "G0007_1_S0587.wav",
+        "transcription": "而家 只 可以 講 一 講 語音  咁樣 打出 字嚟",
+        "expected": "而家只可以讲一讲语音咁样打字出嚟"
+    },
+    {
+        "audio": "G0005_1_S0294.wav",
+        "transcription": "騙一路套嘈",
+        "expected": "片一路吐槽"
+    },
+    {
+        "audio": "G0007_1_S0216.wav",
+        "transcription": "調節溫度",
+        "expected": "调节 温度"
+    },
+    {
+        "audio": "G0004_1_S0666.wav",
+        "transcription": "三四一十十九七",
+        "expected": "三 四 一 十 十 九 七"
+    },
+    {
+        "audio": "G0007_1_S0627.wav",
+        "transcription": "今晚同學聚會又話係唱K肯定要兩今晚要兩點幾才能瞓覺嘅嘞",
+        "expected": "今晚同学聚会又话去唱 K 肯定要两今晚要两点几才能瞓觉噶啦"
+    },
+    {
+        "audio": "G0001_1_S0195.wav",
+        "transcription": "放南牙裏面的",
+        "expected": "放 蓝牙 里面 的"
+    },
+    {
+        "audio": "G0004_1_S0160.wav",
+        "transcription": "幫我回撥米折電話",
+        "expected": "帮我 回拨 未接 电话"
+    },
+    {
+        "audio": "G0009_1_S0189.wav",
+        "transcription": "有啲熱，可以把風量較大一啲嘛",
+        "expected": "有啲 热 可以 把 风量 教大 一 啲 吗"
+    },
+    {
+        "audio": "G0002_1_S0327.wav",
+        "transcription": "我要睇檔眼邊度得閒出去玩",
+        "expected": "我要睇档啊边度得闲出去玩"
+    },
+    {
+        "audio": "G0008_1_S0493.wav",
+        "transcription": "你係個仲一係唔做一做要做大事嘅仲嘛",
+        "expected": "你系嗰种一系唔做一做要做要做大事嘅种嘛"
+    },
+    {
+        "audio": "G0006_1_S0162.wav",
+        "transcription": "調到最細風量",
+        "expected": "调到 最细 风量"
+    },
+    {
+        "audio": "G0001_1_S0273.wav",
+        "transcription": "開下超速提示",
+        "expected": "开下 超速 提示"
+    },
+    {
+        "audio": "G0008_1_S0426.wav",
+        "transcription": "阿 老 撞 曝江",
+        "expected": "雅鲁藏步江"
+    },
+    {
+        "audio": "G0007_1_S0578.wav",
+        "transcription": "你 戴 到 耳 機 有 聽  嘅 到 咩",
+        "expected": "你带到耳机又听嘅到咩"
+    },
+    {
+        "audio": "G0007_1_S0076.wav",
+        "transcription": "我想關下天窗幕簾",
+        "expected": "我 想 关下 天窗 幕帘"
+    },
+    {
+        "audio": "G0007_1_S0673.wav",
+        "transcription": "十八 六 三 三",
+        "expected": "十 八 六 三 三"
+    },
+    {
+        "audio": "G0005_1_S0633.wav",
+        "transcription": "你嘅可以安靜少少",
+        "expected": "你嘅可以安静少少"
+    },
+    {
+        "audio": "G0004_1_S0242.wav",
+        "transcription": "關閉對話",
+        "expected": "关闭 对话"
+    },
+    {
+        "audio": "G0002_1_S0441.wav",
+        "transcription": "你 係 玉姐 嚟 㗎",
+        "expected": "你系玉姐嚟噶"
+    },
+    {
+        "audio": "G0004_1_S0516.wav",
+        "transcription": "我同阿妹嘅結助",
+        "expected": "我同阿妹嘅杰作"
+    },
+    {
+        "audio": "G0010_1_S0488.wav",
+        "transcription": "下一世唔結婚唔做女人做過日本式嘅男人",
+        "expected": "下一世唔结婚唔做女人做个有本事嘅男人"
+    },
+    {
+        "audio": "G0003_1_S0159.wav",
+        "transcription": "聽 濫 牙 音樂",
+        "expected": "听 蓝牙 音乐"
+    },
+    {
+        "audio": "G0004_1_S0486.wav",
+        "transcription": "到底你有冇諗過呢啲問題先",
+        "expected": "到底你有冇谂过依啲问题先"
+    },
+    {
+        "audio": "G0008_1_S0332.wav",
+        "transcription": "一個星期，有四日到啦",
+        "expected": "一个星期有四日度啦"
+    },
+    {
+        "audio": "G0008_1_S0290.wav",
+        "transcription": "縮細啲個地圖",
+        "expected": "缩细 啲 个 地图"
+    },
+    {
+        "audio": "G0003_1_S0311.wav",
+        "transcription": "嗱嗱聲刪咗佢",
+        "expected": "嗱嗱声删咗佢啦"
+    },
+    {
+        "audio": "G0009_1_S0015.wav",
+        "transcription": "打開個廣播",
+        "expected": "打开 个 广播"
+    },
+    {
+        "audio": "G0005_1_S0447.wav",
+        "transcription": "我最鍾意嘅一首歌對表着我嘅新鮮",
+        "expected": "我最中意嘅一首歌代表着我嘅新鲜"
+    },
+    {
+        "audio": "G0003_1_S0186.wav",
+        "transcription": "停咗個架附近家室家熱",
+        "expected": "停 咗 个 驾副驾驶 加热"
+    },
+    {
+        "audio": "G0003_1_S0567.wav",
+        "transcription": "你諗得太多嘞",
+        "expected": "你谂得太多嘞"
+    },
+    {
+        "audio": "G0003_1_S0323.wav",
+        "transcription": "細個 試 食 個",
+        "expected": "细个时食过"
+    },
+    {
+        "audio": "G0007_1_S0026.wav",
+        "transcription": "調光啲",
+        "expected": "调光 啲"
+    },
+    {
+        "audio": "G0005_1_S0132.wav",
+        "transcription": "將個空調開到最細",
+        "expected": "将 个 空调 开 到 最细"
+    },
+    {
+        "audio": "G0005_1_S0348.wav",
+        "transcription": "老世，你好掂呀？需要異技支持",
+        "expected": "老细你好掂啊需要以嘅支持"
+    },
+    {
+        "audio": "G0001_1_S0013.wav",
+        "transcription": "打開超速提醒",
+        "expected": "打开 超速 提醒"
+    },
+    {
+        "audio": "G0001_1_S0064.wav",
+        "transcription": "我要跳轉到地圖嗰度",
+        "expected": "我 要 跳 转到 地图 嗰度"
+    },
+    {
+        "audio": "G0004_1_S0042.wav",
+        "transcription": "好似眼呀，關咗天窗佢啦",
+        "expected": "好 刺眼 啊 关咗 天窗 佢 啦"
+    },
+    {
+        "audio": "G0003_1_S0392.wav",
+        "transcription": "圍紅塑中咗特馬都唔出聲",
+        "expected": "维洪叔中咗特码都唔出声"
+    },
+    {
+        "audio": "G0005_1_S0501.wav",
+        "transcription": "B打字真係快得多，你一降就完OK囉",
+        "expected": "比打字真系快得多你一讲就完OK咯"
+    },
+    {
+        "audio": "G0006_1_S0235.wav",
+        "transcription": "收藏首歌",
+        "expected": "收藏 首 歌"
+    },
+    {
+        "audio": "G0010_1_S0061.wav",
+        "transcription": "條暗個平",
+        "expected": "调暗 个 屏"
+    },
+    {
+        "audio": "G0004_1_S0200.wav",
+        "transcription": "教我用語音控制",
+        "expected": "教 我 用 语音 控制"
+    },
+    {
+        "audio": "G0001_1_S0544.wav",
+        "transcription": "新鮮土服令",
+        "expected": "新鲜土茯苓"
+    },
+    {
+        "audio": "G0002_1_S0585.wav",
+        "transcription": "若想了解下你哋年青人嘅生活方式",
+        "expected": "若想了解下你哋年轻人的生活方式"
+    },
+    {
+        "audio": "G0002_1_S0288.wav",
+        "transcription": "搵張三伯佢公司電話",
+        "expected": "稳 张三 拨 佢 公司 电话"
+    },
+    {
+        "audio": "G0004_1_S0632.wav",
+        "transcription": "百去不染的暫降",
+        "expected": "百去不厌的湛江"
+    },
+    {
+        "audio": "G0004_1_S0101.wav",
+        "transcription": "麻煩將個空調調低兩度",
+        "expected": "麻烦 将 个 空调 调低 两 度"
+    },
+    {
+        "audio": "G0002_1_S0107.wav",
+        "transcription": "實時 老房 開 啟",
+        "expected": "实时 路况 开启"
+    },
+    {
+        "audio": "G0001_1_S0418.wav",
+        "transcription": "唔好 耍傻扮懵啦",
+        "expected": "唔好诈傻扮懵啦"
+    },
+    {
+        "audio": "G0004_1_S0519.wav",
+        "transcription": "委師傅，今晚得閒打麻雀嘛，得閒聊",
+        "expected": "韦师傅今晚得闲打麻雀吗得闲聊"
+    },
+    {
+        "audio": "G0001_1_S0394.wav",
+        "transcription": "係呀係呀，睇你個老鼠",
+        "expected": "系啊系啊睇你嘅老鼠"
+    },
+    {
+        "audio": "G0007_1_S0422.wav",
+        "transcription": "你好弱你好弱",
+        "expected": "你好弱你好弱"
+    },
+    {
+        "audio": "G0002_1_S0343.wav",
+        "transcription": "我哋會盡力做好每一行個",
+        "expected": "我哋会尽力做好每一行个"
+    },
+    {
+        "audio": "G0004_1_S0116.wav",
+        "transcription": "整 光 少少 屏幕 光 到",
+        "expected": "整光 少少 屏幕 光 度"
+    },
+    {
+        "audio": "G0004_1_S0522.wav",
+        "transcription": "唐老師有冇同你講 田徑返什麼時候開始",
+        "expected": "唐老师有冇同你讲田径翻什么时候开始"
+    },
+    {
+        "audio": "G0007_1_S0008.wav",
+        "transcription": "好凍呀，調高啲個空調溫度啦",
+        "expected": "好冻 啊 调高 啲 个 空调 温度 啦"
+    },
+    {
+        "audio": "G0004_1_S0349.wav",
+        "transcription": "我到廣深開檔",
+        "expected": "我到广新开档"
+    },
+    {
+        "audio": "G0003_1_S0388.wav",
+        "transcription": "呢班塞濤，呢排唔係冇行動呢",
+        "expected": "呢班柒头呢排唔系冇行动呢"
+    },
+    {
+        "audio": "G0009_1_S0458.wav",
+        "transcription": "諗下嗰啲系統功能啊數據流程科技仲有啊軟件嗰邊啊",
+        "expected": "谂下嗰啲诶系统功能啊数据流程科技仲有啊软件嗰边啊"
+    },
+    {
+        "audio": "G0004_1_S0502.wav",
+        "transcription": "頭尾開掌",
+        "expected": "头未开奖"
+    },
+    {
+        "audio": "G0009_1_S0484.wav",
+        "transcription": "好似一開始係你同我講嘢先嘅喎而家反而問我係邊個",
+        "expected": "好似一开始系你同我讲嘢先嘅喎依家反而问我系边个"
+    },
+    {
+        "audio": "G0003_1_S0225.wav",
+        "transcription": "我想開大啲風量",
+        "expected": "我 想 开大 啲 风量"
+    },
+    {
+        "audio": "G0009_1_S0496.wav",
+        "transcription": "起碼能升五個段位",
+        "expected": "起码能升五个段位"
+    },
+    {
+        "audio": "G0002_1_S0125.wav",
+        "transcription": "空調溫度調到最大",
+        "expected": "空调 温度 调到 最大"
+    },
+    {
+        "audio": "G0001_1_S0136.wav",
+        "transcription": "我唔想聽呢首歌，下一首",
+        "expected": "我 唔 想 听 呢首 歌 下 一首"
+    },
+    {
+        "audio": "G0007_1_S0552.wav",
+        "transcription": "男朋友都冇何內有BB你以為我係你",
+        "expected": "男朋友都冇何来有 B B 你以为我系你啊"
+    },
+    {
+        "audio": "G0007_1_S0515.wav",
+        "transcription": "今晚得唔得閒",
+        "expected": "今晚得唔得闲啦"
+    },
+    {
+        "audio": "G0006_1_S0167.wav",
+        "transcription": "結束個對話啦",
+        "expected": "结束 个对话 啦"
+    },
+    {
+        "audio": "G0001_1_S0036.wav",
+        "transcription": "今日 係 幾 好 ",
+        "expected": "今日 系 几号 啊"
+    },
+    {
+        "audio": "G0004_1_S0082.wav",
+        "transcription": "隨便，聽，快啲，打開",
+        "expected": "随便 听 快 啲打开"
+    },
+    {
+        "audio": "G0003_1_S0418.wav",
+        "transcription": "頭 眉 開 掌",
+        "expected": "头未开奖"
+    },
+    {
+        "audio": "G0007_1_S0508.wav",
+        "transcription": "你知道 從來都唔計較呢啲嘢㗎啦",
+        "expected": "你知道我从来都唔计较呢啲嘢噶啦"
+    },
+    {
+        "audio": "G0010_1_S0489.wav",
+        "transcription": "執嘢示範下",
+        "expected": "真人示范下"
+    },
+    {
+        "audio": "G0003_1_S0339.wav",
+        "transcription": "海灘 道",
+        "expected": "海滩岛"
+    },
+    {
+        "audio": "G0003_1_S0481.wav",
+        "transcription": "我心理真係好難過",
+        "expected": "我心理真系好难过"
+    },
+    {
+        "audio": "G0004_1_S0284.wav",
+        "transcription": "都史上，一個電台好聽",
+        "expected": "都 是 上 一个 电台 好听"
+    },
+    {
+        "audio": "G0003_1_S0097.wav",
+        "transcription": "切換到易啲地圖",
+        "expected": "切换 到 二 D 地图"
+    },
+    {
+        "audio": "G0009_1_S0241.wav",
+        "transcription": "撥 放 紅豆",
+        "expected": "播放 红豆"
+    },
+    {
+        "audio": "G0010_1_S0311.wav",
+        "transcription": "唐老師有冇同你講天經返什麼時候開始",
+        "expected": "唐老师有冇跟你讲田径翻什么时候开始"
+    },
+    {
+        "audio": "G0005_1_S0601.wav",
+        "transcription": "我發唔到紅包",
+        "expected": "我发唔到红包啊"
+    },
+    {
+        "audio": "G0008_1_S0283.wav",
+        "transcription": "即收藏，刪咗佢",
+        "expected": "即收藏 删咗佢"
+    },
+    {
+        "audio": "G0005_1_S0176.wav",
+        "transcription": "我上而家嘅音樂設置成循環播放",
+        "expected": "我 想 依家 嘅 音乐 设置 成 循环 播放"
+    },
+    {
+        "audio": "G0003_1_S0568.wav",
+        "transcription": "平時 買 個 間 跟住 冇 開門 去 咗 另外 一 間",
+        "expected": "平时买个间跟住冇开门去咗另外一间"
+    },
+    {
+        "audio": "G0006_1_S0455.wav",
+        "transcription": "我同你玩埋囉",
+        "expected": "我同你玩埋咯"
+    },
+    {
+        "audio": "G0004_1_S0043.wav",
+        "transcription": "收藏嘅電台好聽啲",
+        "expected": "收藏 嘅 电台 好听 啲"
+    },
+    {
+        "audio": "G0010_1_S0487.wav",
+        "transcription": "幾個賓仲係有嘅",
+        "expected": "几个崩仲系有嘅"
+    },
+    {
+        "audio": "G0004_1_S0041.wav",
+        "transcription": "將吹風模式視，視為吹腳",
+        "expected": "将 吹风 模式 设 设为 吹 脚"
+    },
+    {
+        "audio": "G0004_1_S0360.wav",
+        "transcription": "我知你今晚冇打算陪我嘅喇",
+        "expected": "我知你今晚冇打算陪我嘅啦"
+    },
+    {
+        "audio": "G0005_1_S0490.wav",
+        "transcription": "特別係嗰個學費好貴呢個專業，係嘛",
+        "expected": "特别系嗰个学费好贵呢个专业啊嘛"
+    },
+    {
+        "audio": "G0006_1_S0491.wav",
+        "transcription": "我好細個",
+        "expected": "我好细个喎"
+    },
+    {
+        "audio": "G0003_1_S0321.wav",
+        "transcription": "係休息你",
+        "expected": "系啊休息啦你"
+    },
+    {
+        "audio": "G0009_1_S0219.wav",
+        "transcription": "我想試下用語音識別，教下我",
+        "expected": "我 想 试下 用 语音 识别 教 下 我"
+    },
+    {
+        "audio": "G0006_1_S0413.wav",
+        "transcription": "微博",
+        "expected": "微博"
+    },
+    {
+        "audio": "G0004_1_S0293.wav",
+        "transcription": "轉返上一隻歌",
+        "expected": "转翻上 一只 歌"
+    },
+    {
+        "audio": "G0007_1_S0605.wav",
+        "transcription": "再次唔該晒你",
+        "expected": "再次唔该晒你"
+    },
+    {
+        "audio": "G0001_1_S0023.wav",
+        "transcription": "最經濟路線先",
+        "expected": "最 经济 路线 先"
+    },
+    {
+        "audio": "G0008_1_S0382.wav",
+        "transcription": "上車去死都要搵一首歌出嚟",
+        "expected": "上车佢死都要搵一首歌出嚟"
+    },
+    {
+        "audio": "G0004_1_S0130.wav",
+        "transcription": "唔要呢個FN電台",
+        "expected": "唔 要 呢个 F M 电台"
+    },
+    {
+        "audio": "G0008_1_S0337.wav",
+        "transcription": "價錢幾多淫，冇講嘢",
+        "expected": "价钱几多又冇讲啊"
+    },
+    {
+        "audio": "G0008_1_S0375.wav",
+        "transcription": "松花江上",
+        "expected": "松花江上"
+    },
+    {
+        "audio": "G0010_1_S0199.wav",
+        "transcription": "我想放大呢個地圖",
+        "expected": "我 想 放大 啲 个 地图 啊"
+    },
+    {
+        "audio": "G0004_1_S0134.wav",
+        "transcription": "整大啲個地圖",
+        "expected": "整大 啲 嗰 地图"
+    },
+    {
+        "audio": "G0008_1_S0354.wav",
+        "transcription": "事先提醒邊個要瞓覺啦聲覺靜音",
+        "expected": "事先提醒边个要瞓觉啦声校静音"
+    },
+    {
+        "audio": "G0001_1_S0557.wav",
+        "transcription": "發你一張圖過嚟啦",
+        "expected": "发你一张图过嚟啊"
+    },
+    {
+        "audio": "G0002_1_S0046.wav",
+        "transcription": "條返乾啲屏幕好暗",
+        "expected": "调 返 光 啲 屏幕 好暗"
+    },
+    {
+        "audio": "G0005_1_S0450.wav",
+        "transcription": "其實其二種子係咩類個",
+        "expected": "其实奇异种子系咩来噶"
+    },
+    {
+        "audio": "G0002_1_S0175.wav",
+        "transcription": "點樣使用語音識別",
+        "expected": "点样 史用 语音识 识别"
+    },
+    {
+        "audio": "G0002_1_S0386.wav",
+        "transcription": "好似係着男即三個阿sir",
+        "expected": "好似系着蓝色衫个阿sir"
+    },
+    {
+        "audio": "G0010_1_S0213.wav",
+        "transcription": "我要 最 短 時間 到 人民廣場",
+        "expected": "我 要 最 短 时间 到 人民 广场"
+    },
+    {
+        "audio": "G0002_1_S0158.wav",
+        "transcription": "系統讀出未？讀短信",
+        "expected": "系统 读出 未读 短信"
+    },
+    {
+        "audio": "G0007_1_S0371.wav",
+        "transcription": "寫個不好用",
+        "expected": "这个不好用"
+    },
+    {
+        "audio": "G0008_1_S0157.wav",
+        "transcription": "將庫座椅加熱",
+        "expected": "将 副 座椅 加热"
+    },
+    {
+        "audio": "G0010_1_S0054.wav",
+        "transcription": "播放 SD 音樂",
+        "expected": "播放S D音乐"
+    },
+    {
+        "audio": "G0002_1_S0410.wav",
+        "transcription": "都 仔 教  咩",
+        "expected": "都使教嘅咩"
+    },
+    {
+        "audio": "G0008_1_S0522.wav",
+        "transcription": "唔發掉你個老成",
+        "expected": "唔发屌你个老醒啊"
+    },
+    {
+        "audio": "G0006_1_S0412.wav",
+        "transcription": "尋日買咗部小米五",
+        "expected": "琴日买咗部小米五"
+    },
+    {
+        "audio": "G0008_1_S0418.wav",
+        "transcription": "邊個益你瞓覺",
+        "expected": "边个益你唔瞓觉咧"
+    },
+    {
+        "audio": "G0002_1_S0173.wav",
+        "transcription": "快啲幫我關咗個汗閒閒係唔係聲",
+        "expected": "快 啲 帮我 关咗韩 限行 提醒"
+    },
+    {
+        "audio": "G0002_1_S0320.wav",
+        "transcription": "而且呀我，",
+        "expected": "而且啊我"
+    },
+    {
+        "audio": "G0007_1_S0317.wav",
+        "transcription": "咁點算顯示東莞嘅呢",
+        "expected": "咁点算显示东莞嘅咧"
+    },
+    {
+        "audio": "G0004_1_S0465.wav",
+        "transcription": "打唔打狗你哋睇電視呀",
+        "expected": "打唔打搅你哋睇电视啊呀"
+    },
+    {
+        "audio": "G0010_1_S0076.wav",
+        "transcription": "我想聽iPad上嘅音樂",
+        "expected": "我 想 听ipod上 嘅 音乐"
+    },
+    {
+        "audio": "G0003_1_S0092.wav",
+        "transcription": "如果幫我打個電話，去張三叔？",
+        "expected": "而家 帮我 打 个 电话 去 张三 叔"
+    },
+    {
+        "audio": "G0004_1_S0026.wav",
+        "transcription": "整個地圖出嚟",
+        "expected": "整个 地图 出 嚟"
+    },
+    {
+        "audio": "G0001_1_S0440.wav",
+        "transcription": "自信",
+        "expected": "自信"
+    },
+    {
+        "audio": "G0001_1_S0636.wav",
+        "transcription": "我知你咁啱冇打算陪我",
+        "expected": "我知你今晚冇打算陪我噶啦"
+    },
+    {
+        "audio": "G0007_1_S0279.wav",
+        "transcription": "幫我發個短信",
+        "expected": "帮我 发 个 短信"
+    },
+    {
+        "audio": "G0004_1_S0318.wav",
+        "transcription": "個個都知道，但係有幾多個人做得到你冇咗事業單單健康嘅，都唔係幾咩囉，個人認為",
+        "expected": "个个都知道但系有几多个人做得到你无咗事业单单健康诶都系都唔系几咩咯个人认为"
+    },
+    {
+        "audio": "G0009_1_S0122.wav",
+        "transcription": "請切換到上一頁",
+        "expected": "请 切换 到 上 一页"
+    },
+    {
+        "audio": "G0003_1_S0163.wav",
+        "transcription": "打多個電話過去",
+        "expected": "打 多 个 电话 过去"
+    },
+    {
+        "audio": "G0001_1_S0309.wav",
+        "transcription": "係呀，休息呀你呢？",
+        "expected": "系啊休息啊你嘞"
+    },
+    {
+        "audio": "G0001_1_S0682.wav",
+        "transcription": "染五零一七一",
+        "expected": "二 五 零 一 七 一"
+    },
+    {
+        "audio": "G0002_1_S0519.wav",
+        "transcription": "個群名就係噉啊，嚟囉個",
+        "expected": "个群名就系咁啊嚟咯个"
+    },
+    {
+        "audio": "G0007_1_S0068.wav",
+        "transcription": "重打電話",
+        "expected": "重 打 电话"
+    },
+    {
+        "audio": "G0007_1_S0120.wav",
+        "transcription": "系統有咩功能展示一下",
+        "expected": "系统 有 咩 功能 展示 一下"
+    },
+    {
+        "audio": "G0007_1_S0602.wav",
+        "transcription": "你 當 唔 當 水 性",
+        "expected": "你懂唔懂水性"
+    },
+    {
+        "audio": "G0001_1_S0046.wav",
+        "transcription": "跳轉到地圖",
+        "expected": "跳 转到 地图"
+    },
+    {
+        "audio": "G0007_1_S0079.wav",
+        "transcription": "我要聽ipod嘅歌",
+        "expected": "我 要 听 iPod 嘅 歌"
+    },
+    {
+        "audio": "G0007_1_S0690.wav",
+        "transcription": "十六九九一六四",
+        "expected": "十 六 九 九 一 六 四"
+    },
+    {
+        "audio": "G0001_1_S0200.wav",
+        "transcription": "關 住  助理 加熱",
+        "expected": "关 住 座椅 加热"
+    },
+    {
+        "audio": "G0001_1_S0683.wav",
+        "transcription": "十六七五零七",
+        "expected": "十 六 七 五 零 七"
+    },
+    {
+        "audio": "G0004_1_S0600.wav",
+        "transcription": "我都好想食多啲大頭蔥菜先嚟",
+        "expected": "我都好想食多啲大头葱菜先咧"
+    },
+    {
+        "audio": "G0009_1_S0399.wav",
+        "transcription": "細個時識個",
+        "expected": "细嗰时食过"
+    },
+    {
+        "audio": "G0010_1_S0447.wav",
+        "transcription": "唔好意思發畀你囉",
+        "expected": "唔好意思发俾你咯"
+    },
+    {
+        "audio": "G0006_1_S0438.wav",
+        "transcription": "另一方面佢有關心我",
+        "expected": "另一方面佢又关心我"
+    },
+    {
+        "audio": "G0008_1_S0385.wav",
+        "transcription": "我而家都係出整準備出發",
+        "expected": "我而家都系出整准备出发"
+    },
+    {
+        "audio": "G0004_1_S0087.wav",
+        "transcription": "我要床，收藏夾右邊剔除呢首歌",
+        "expected": "我 要 从 收藏夹 入边 剔除 呢首 歌"
+    },
+    {
+        "audio": "G0002_1_S0110.wav",
+        "transcription": "接到行到家庭地址嘞",
+        "expected": "接 导航 到 家庭 地址 啦"
+    },
+    {
+        "audio": "G0004_1_S0007.wav",
+        "transcription": "聽下一隻歌仔",
+        "expected": "听下 一只 歌 仔"
+    },
+    {
+        "audio": "G0007_1_S0450.wav",
+        "transcription": "梁老師，你加得唔得下呀",
+        "expected": "梁老师你家得唔得闲啊"
+    },
+    {
+        "audio": "G0010_1_S0034.wav",
+        "transcription": "唔 該 我 話 淨 法 ",
+        "expected": "唔该 开下 净化嘞"
+    },
+    {
+        "audio": "G0004_1_S0526.wav",
+        "transcription": "你想做嘅嘢，唔使問過我嘅",
+        "expected": "你想做嘅嘢唔使问过我噶"
+    },
+    {
+        "audio": "G0004_1_S0201.wav",
+        "transcription": "麻煩你拉下天窗網連",
+        "expected": "麻烦 你 拉 下 天窗 网帘"
+    },
+    {
+        "audio": "G0006_1_S0347.wav",
+        "transcription": "麻粒 佬",
+        "expected": "麻粒佬"
+    },
+    {
+        "audio": "G0005_1_S0486.wav",
+        "transcription": "夢查查 黑媽媽",
+        "expected": "蒙查查黑妈妈"
+    },
+    {
+        "audio": "G0006_1_S0380.wav",
+        "transcription": "我到廣山開檔",
+        "expected": "我到广新开档"
+    },
+    {
+        "audio": "G0001_1_S0167.wav",
+        "transcription": "入邊有啲門開天窗通下風",
+        "expected": "入边 有 啲 闷 开 天窗 通下 风"
+    },
+    {
+        "audio": "G0009_1_S0303.wav",
+        "transcription": "我喺度諗緊你有生氣有嬲個樣而家",
+        "expected": "我喺度谂紧你又生气又嬲个样依家"
+    },
+    {
+        "audio": "G0008_1_S0506.wav",
+        "transcription": "李波嚟到",
+        "expected": "李波嚟到"
+    },
+    {
+        "audio": "G0010_1_S0190.wav",
+        "transcription": "我想關閉住座椅嘉義",
+        "expected": "我 想 关闭 主 座椅 加热"
+    },
+    {
+        "audio": "G0002_1_S0106.wav",
+        "transcription": "上海聽日嘅天氣點樣",
+        "expected": "上海 听日 嘅 天气 点样"
+    },
+    {
+        "audio": "G0001_1_S0431.wav",
+        "transcription": "入 瀨做 咩",
+        "expected": "入嚟做咩"
+    },
+    {
+        "audio": "G0002_1_S0234.wav",
+        "transcription": "直接收藏條頻電台囉",
+        "expected": "直接 收藏 调频 电台 咯"
+    },
+    {
+        "audio": "G0001_1_S0648.wav",
+        "transcription": "未 薄 意",
+        "expected": "微博尔"
+    },
+    {
+        "audio": "G0004_1_S0295.wav",
+        "transcription": "我想將部車入邊嘅風調到最大",
+        "expected": "我 想 将 部车 入边 嘅 风 调到 最大"
+    },
+    {
+        "audio": "G0002_1_S0099.wav",
+        "transcription": "打開天窗等空氣流通",
+        "expected": "打开 天窗 等 空气 流通"
+    },
+    {
+        "audio": "G0001_1_S0706.wav",
+        "transcription": "八百五百二六五三五",
+        "expected": "八 八 五 八 二 六 五 三 五"
+    },
+    {
+        "audio": "G0008_1_S0396.wav",
+        "transcription": "仲 未 食 飯 生 咗 未 ",
+        "expected": "仲未食饭生咗未啊"
+    },
+    {
+        "audio": "G0003_1_S0607.wav",
+        "transcription": "方向喺邊",
+        "expected": "方向喺边"
+    },
+    {
+        "audio": "G0007_1_S0715.wav",
+        "transcription": "七八八三六三七",
+        "expected": "七 八 八 三 六 三 七"
+    },
+    {
+        "audio": "G0007_1_S0683.wav",
+        "transcription": "七五七，三六七",
+        "expected": "七 五 七 三 六 七"
+    },
+    {
+        "audio": "G0004_1_S0032.wav",
+        "transcription": "幫我取消收藏當前歌曲",
+        "expected": "帮我 取消 收藏 当前 歌曲"
+    },
+    {
+        "audio": "G0005_1_S0467.wav",
+        "transcription": "江美個西仔係咪賣咗部車啊",
+        "expected": "江米个西仔系咪买咗部车啊"
+    },
+    {
+        "audio": "G0006_1_S0087.wav",
+        "transcription": "收聽下個電台",
+        "expected": "收听 下 个 电台"
+    },
+    {
+        "audio": "G0010_1_S0280.wav",
+        "transcription": "我想放大地圖",
+        "expected": "我 想 放大 地图"
+    },
+    {
+        "audio": "G0010_1_S0459.wav",
+        "transcription": "我 而家 唔 喺 澳門  等 我 返去 澳門 我  再 話 你 知",
+        "expected": "我现在唔喺澳门 等我翻去澳门 我再话你知"
+    },
+    {
+        "audio": "G0001_1_S0627.wav",
+        "transcription": "唔係好似你噉",
+        "expected": "唔系好似你咁"
+    },
+    {
+        "audio": "G0009_1_S0167.wav",
+        "transcription": "將呢個電台取消收錯",
+        "expected": "将 呢个 电台 取消 收藏"
+    },
+    {
+        "audio": "G0001_1_S0051.wav",
+        "transcription": "將屏幕調到最暗可以嗎",
+        "expected": "将屏幕 调到 最暗 可以 吗"
+    },
+    {
+        "audio": "G0007_1_S0607.wav",
+        "transcription": "二十九個小時後終於搵到我嘅傻老公",
+        "expected": "二十九个小时后终于搵到我嘅傻老公"
+    },
+    {
+        "audio": "G0002_1_S0384.wav",
+        "transcription": "深花江 上",
+        "expected": "松花江上"
+    },
+    {
+        "audio": "G0010_1_S0302.wav",
+        "transcription": "獅交線 ",
+        "expected": "黐胶线嘅"
+    },
+    {
+        "audio": "G0003_1_S0562.wav",
+        "transcription": "你 唔 想 識 個 阿爸 得  ",
+        "expected": "你唔想识个哑巴得噶啦"
+    },
+    {
+        "audio": "G0003_1_S0254.wav",
+        "transcription": "我想知道呢條路嘅加油站喺邊度",
+        "expected": "我 想 知道 呢 条 路 嘅 加油站 喺 边度"
+    },
+    {
+        "audio": "G0004_1_S0389.wav",
+        "transcription": "今晚我過去阿媽度食飯",
+        "expected": "今晚我过去阿妈度食饭"
+    },
+    {
+        "audio": "G0005_1_S0284.wav",
+        "transcription": "親  上大海 閒閒提醒",
+        "expected": "亲 想 打开 限行 提醒"
+    },
+    {
+        "audio": "G0001_1_S0318.wav",
+        "transcription": "唔發掉你個腦醒",
+        "expected": "唔发屌你个老醒啊"
+    },
+    {
+        "audio": "G0008_1_S0220.wav",
+        "transcription": "唔該將導航開全艦",
+        "expected": "唔该 将 导航 开 全览"
+    },
+    {
+        "audio": "G0001_1_S0424.wav",
+        "transcription": "鄧爾文 陳靜下",
+        "expected": "邓绮文陈静霞"
+    },
+    {
+        "audio": "G0004_1_S0196.wav",
+        "transcription": "可唔可以收藏呢個電台㗎",
+        "expected": "可 唔 可以 收藏 呢个 电台 噶"
+    },
+    {
+        "audio": "G0010_1_S0173.wav",
+        "transcription": "我想聽SD過囉",
+        "expected": "我 想 听S D歌 咯"
+    },
+    {
+        "audio": "G0002_1_S0034.wav",
+        "transcription": "我要聽歌",
+        "expected": "我 要 听 歌"
+    },
+    {
+        "audio": "G0007_1_S0696.wav",
+        "transcription": "一 零 五 九 三 四 三 一",
+        "expected": "一 零 九 三 四 三 一"
+    },
+    {
+        "audio": "G0008_1_S0524.wav",
+        "transcription": "就係我唔用級去綁定微信啦",
+        "expected": "就系我唔用给佢绑定微信啦"
+    },
+    {
+        "audio": "G0007_1_S0467.wav",
+        "transcription": "你唔想識個啞瓜得嘅話",
+        "expected": "你唔想识个哑瓜得噶哇"
+    },
+    {
+        "audio": "G0006_1_S0017.wav",
+        "transcription": "切換到地圖",
+        "expected": "切换 到 地图"
+    },
+    {
+        "audio": "G0004_1_S0158.wav",
+        "transcription": "翻 上 一 首",
+        "expected": "翻上 一首"
+    },
+    {
+        "audio": "G0010_1_S0137.wav",
+        "transcription": "我想做生活多次個號碼",
+        "expected": "我 想 重新 拨 多 次 个 号码"
+    },
+    {
+        "audio": "G0009_1_S0098.wav",
+        "transcription": "播放 下 個 電台",
+        "expected": "播放 下 个 电台"
+    },
+    {
+        "audio": "G0004_1_S0311.wav",
+        "transcription": "你唔係好眼瞓咩，仲唔早啲休息",
+        "expected": "你唔系好眼瞓咩仲唔早啲休息"
+    },
+    {
+        "audio": "G0007_1_S0296.wav",
+        "transcription": "而家咩位置",
+        "expected": "而家 咩 位置"
+    },
+    {
+        "audio": "G0010_1_S0332.wav",
+        "transcription": "我知道問我係應該但係有嘅時候居民就問唔居民就唔好問",
+        "expected": "我知道问我系应该但系有嘅时候该问就问唔该问就唔好问"
+    },
+    {
+        "audio": "G0002_1_S0157.wav",
+        "transcription": "關閉實時老房啦",
+        "expected": "关闭 实时 路况 啦"
+    },
+    {
+        "audio": "G0008_1_S0523.wav",
+        "transcription": "我要做嘅事",
+        "expected": "柯要做嘅事"
+    },
+    {
+        "audio": "G0009_1_S0307.wav",
+        "transcription": "粵語主廚就冇喇不過女仔嘅話呢就可以安排下男主廚啊真係冇喇",
+        "expected": "粤语主厨就冇啦不过女仔嘅话咧就可以安排下男主厨啊真系冇啦"
+    },
+    {
+        "audio": "G0001_1_S0084.wav",
+        "transcription": "關 下 實時 老方",
+        "expected": "关下 实时 路况"
+    },
+    {
+        "audio": "G0001_1_S0427.wav",
+        "transcription": "只為你家默默苦出",
+        "expected": "只为你家默默付出"
+    },
+    {
+        "audio": "G0007_1_S0402.wav",
+        "transcription": "我而家都過得好開心",
+        "expected": "我而家都过得好开心啦"
+    },
+    {
+        "audio": "G0003_1_S0510.wav",
+        "transcription": "喺度做緊咩呀",
+        "expected": "喺度做紧咩啊"
+    },
+    {
+        "audio": "G0005_1_S0035.wav",
+        "transcription": "着接播放上一個電台啦",
+        "expected": "直接 播放 上 一个 电台 啦"
+    },
+    {
+        "audio": "G0010_1_S0060.wav",
+        "transcription": "有 啲 熱添 關 咗  主角 個 家業",
+        "expected": "有 啲 热 添 关咗 主驾 个 加热"
+    },
+    {
+        "audio": "G0001_1_S0254.wav",
+        "transcription": "仲要幾耐先到",
+        "expected": "仲 要 几耐 先 到 啊"
+    },
+    {
+        "audio": "G0003_1_S0206.wav",
+        "transcription": "超速提示打開",
+        "expected": "超速 提示 打开"
+    },
+    {
+        "audio": "G0009_1_S0549.wav",
+        "transcription": "打喊爐眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "audio": "G0005_1_S0021.wav",
+        "transcription": "着接手機撥打呼叫中心",
+        "expected": "直接 手机 拨打 呼叫 中心"
+    },
+    {
+        "audio": "G0007_1_S0598.wav",
+        "transcription": "頂你個臭西呀",
+        "expected": "顶你个臭西啊"
+    },
+    {
+        "audio": "G0009_1_S0373.wav",
+        "transcription": "你諗得太多喇",
+        "expected": "你谂得太多啦"
+    },
+    {
+        "audio": "G0009_1_S0265.wav",
+        "transcription": "我要開空氣淨化氣",
+        "expected": "我 要 开 空气 净化器"
+    },
+    {
+        "audio": "G0002_1_S0605.wav",
+        "transcription": "都 未 有 玩 夠 ",
+        "expected": "都未有玩够咧"
+    },
+    {
+        "audio": "G0002_1_S0468.wav",
+        "transcription": "今 晚 過 黎 嘛",
+        "expected": "今晚过嚟嘛"
+    },
+    {
+        "audio": "G0010_1_S0350.wav",
+        "transcription": "飛 到 幾 先",
+        "expected": "飞到几钱"
+    },
+    {
+        "audio": "G0005_1_S0096.wav",
+        "transcription": "我想返公司",
+        "expected": "我 想 翻 公司"
+    },
+    {
+        "audio": "G0006_1_S0433.wav",
+        "transcription": "係  係  睇 你 嘅 老鼠",
+        "expected": "系啊系啊睇你嘅老鼠"
+    },
+    {
+        "audio": "G0005_1_S0095.wav",
+        "transcription": "唔該，關閉天倉通風",
+        "expected": "唔该 关闭 天窗 通风"
+    },
+    {
+        "audio": "G0008_1_S0034.wav",
+        "transcription": "快啲 放 S D卡 嘅 哥仔 出嚟 聽 下 啦",
+        "expected": "快 啲 放 SD 卡 嘅 歌 仔出 嚟 听 下 啦"
+    },
+    {
+        "audio": "G0010_1_S0481.wav",
+        "transcription": "今日 講 咗 個 任務 橋樑",
+        "expected": "今日讲咗个任务乔梁"
+    },
+    {
+        "audio": "G0005_1_S0324.wav",
+        "transcription": "連 右有冇 問題",
+        "expected": "年休有冇问题"
+    },
+    {
+        "audio": "G0002_1_S0677.wav",
+        "transcription": "二三一三一四",
+        "expected": "二 三 一 三 一 四"
+    },
+    {
+        "audio": "G0005_1_S0367.wav",
+        "transcription": "好似一開始，係你同我講咩先過，而家反而問我係邊個",
+        "expected": "好似一开始系你同我讲咩先个宜家反而问我系边个"
+    },
+    {
+        "audio": "G0002_1_S0641.wav",
+        "transcription": "人哋叫佢去深入到踩單車佢又，好多唔敢去",
+        "expected": "人哋叫佢去生物岛踩单车佢又都唔敢去"
+    },
+    {
+        "audio": "G0002_1_S0528.wav",
+        "transcription": "冇啦啦被刪咗",
+        "expected": "无啦啦被删咗"
+    },
+    {
+        "audio": "G0002_1_S0358.wav",
+        "transcription": "督幾多佢",
+        "expected": "督几刀佢"
+    },
+    {
+        "audio": "G0006_1_S0359.wav",
+        "transcription": "你噉細生細路，你爸媽好唔開心㗎？",
+        "expected": "你咁细生细路你爸妈好唔开心噶"
+    },
+    {
+        "audio": "G0003_1_S0485.wav",
+        "transcription": "我到時發條訊息畀你",
+        "expected": "我到时发条信息俾你"
+    },
+    {
+        "audio": "G0001_1_S0640.wav",
+        "transcription": "不過我唔知道蘋果有冇呢個功能呢",
+        "expected": "不过我唔知道苹果有冇呢个功能咧"
+    },
+    {
+        "audio": "G0001_1_S0316.wav",
+        "transcription": "唔好意思畀你嘈醒咗",
+        "expected": "唔好意思俾你嘈醒咗"
+    },
+    {
+        "audio": "G0006_1_S0237.wav",
+        "transcription": "請切換去上一頁啦",
+        "expected": "请 切换 去 上 一页 啦"
+    },
+    {
+        "audio": "G0006_1_S0192.wav",
+        "transcription": "幫我接通個電話",
+        "expected": "帮我 接通 个电话"
+    },
+    {
+        "audio": "G0008_1_S0527.wav",
+        "transcription": "你 嗰 隻 腳 有冇 好 啲  仲有冇 以前 咁 腫",
+        "expected": "你嗰只脚有冇好啲仲有冇以前咁肿"
+    },
+    {
+        "audio": "G0001_1_S0538.wav",
+        "transcription": "另一方面佢有關心我",
+        "expected": "另一方面佢又关心我"
+    },
+    {
+        "audio": "G0003_1_S0075.wav",
+        "transcription": "關閉千窗網掂",
+        "expected": "关闭 天窗 网帘"
+    },
+    {
+        "audio": "G0003_1_S0241.wav",
+        "transcription": "keep住呢個電台先",
+        "expected": "keep 住 呢个 电台 先"
+    },
+    {
+        "audio": "G0002_1_S0627.wav",
+        "transcription": "你 不 為食 你餐餐有大餐食",
+        "expected": "你不胃食你餐餐有大餐食"
+    },
+    {
+        "audio": "G0006_1_S0085.wav",
+        "transcription": "先唔聽過主",
+        "expected": "先 唔 听 歌 住 啦"
+    },
+    {
+        "audio": "G0005_1_S0484.wav",
+        "transcription": "叫佢快遞樣板過嚟",
+        "expected": "叫佢快递样板过嚟"
+    },
+    {
+        "audio": "G0008_1_S0048.wav",
+        "transcription": "播放",
+        "expected": "播放"
+    },
+    {
+        "audio": "G0001_1_S0445.wav",
+        "transcription": "我見過你真人啦",
+        "expected": "我见过你真人啦"
+    },
+    {
+        "audio": "G0005_1_S0384.wav",
+        "transcription": "蚊狗肉有咩好食",
+        "expected": "炆狗肉有咩好食"
+    },
+    {
+        "audio": "G0004_1_S0238.wav",
+        "transcription": "我聽得唔清楚，但係聲啲",
+        "expected": "我 听 得 唔 清楚 大 声啲"
+    },
+    {
+        "audio": "G0005_1_S0219.wav",
+        "transcription": "屏幕亮到太亮喇 可以把屏幕調到最暗吖",
+        "expected": "屏幕 亮度 太 亮 啦 可以 把 屏幕 调到 最暗 吗"
+    },
+    {
+        "audio": "G0009_1_S0274.wav",
+        "transcription": "廣播打開",
+        "expected": "广播 打开"
+    },
+    {
+        "audio": "G0002_1_S0143.wav",
+        "transcription": "唔該幫我張，點頭冇識設為三D啦",
+        "expected": "唔该 帮我 将 地图 模式 设为 三 D 啦"
+    },
+    {
+        "audio": "G0009_1_S0418.wav",
+        "transcription": "戶口仲有五嚿水可以幫佢落住嘅嗰想買波",
+        "expected": "户口仲有五嚿水可以帮佢落注嘅果想买波"
+    },
+    {
+        "audio": "G0010_1_S0306.wav",
+        "transcription": "加快叮噹早日出莊",
+        "expected": "加快升电早日出装"
+    },
+    {
+        "audio": "G0003_1_S0168.wav",
+        "transcription": "我而家喺邊個位置",
+        "expected": "我 宜家 喺 边个 位置"
+    },
+    {
+        "audio": "G0010_1_S0164.wav",
+        "transcription": "喺 統治 最邊聽",
+        "expected": "系统 设 随便 听"
+    },
+    {
+        "audio": "G0010_1_S0240.wav",
+        "transcription": "想唱呢首歌",
+        "expected": "收藏 呢首 歌"
+    },
+    {
+        "audio": "G0008_1_S0371.wav",
+        "transcription": "做咩你講嘢咁溫柔",
+        "expected": "做咩你讲嘢咁温柔"
+    },
+    {
+        "audio": "G0009_1_S0368.wav",
+        "transcription": "老師呢啲題目就唔該你咯喎",
+        "expected": "老师呢啲题目就唔该你啦喎"
+    },
+    {
+        "audio": "G0002_1_S0420.wav",
+        "transcription": "你好",
+        "expected": "你好"
+    },
+    {
+        "audio": "G0007_1_S0545.wav",
+        "transcription": "放幾多日假",
+        "expected": "放几多日假啊"
+    },
+    {
+        "audio": "G0006_1_S0297.wav",
+        "transcription": "搞到最低溫度啦",
+        "expected": "较 到 最低 温度 啦"
+    },
+    {
+        "audio": "G0007_1_S0663.wav",
+        "transcription": "你都喺度忙緊",
+        "expected": "你都喺度忙紧喎"
+    },
+    {
+        "audio": "G0010_1_S0163.wav",
+        "transcription": "我 鍾意 SD 上面 嘅 過  幫 我 大 開 SD",
+        "expected": "我 啫S D上面 嘅 歌 啊 帮我 打开S D"
+    },
+    {
+        "audio": "G0010_1_S0235.wav",
+        "transcription": "唔 知",
+        "expected": "唔 接"
+    },
+    {
+        "audio": "G0009_1_S0446.wav",
+        "transcription": "你咁大個女，飲嘅係乜奶粉啊",
+        "expected": "你咁大嗰女饮嘅系乜奶粉啊"
+    },
+    {
+        "audio": "G0004_1_S0203.wav",
+        "transcription": "播返上一首歌啦",
+        "expected": "播 翻 上 一首 歌 啦"
+    },
+    {
+        "audio": "G0008_1_S0036.wav",
+        "transcription": "我要聽音樂",
+        "expected": "我 要 听 音乐"
+    },
+    {
+        "audio": "G0003_1_S0270.wav",
+        "transcription": "將音量開細啲",
+        "expected": "将 音量 开 细 啲"
+    },
+    {
+        "audio": "G0010_1_S0135.wav",
+        "transcription": "導航 到 目的地",
+        "expected": "导航 到 目的地"
+    },
+    {
+        "audio": "G0009_1_S0193.wav",
+        "transcription": "直接把當前電台收場夾中刪除",
+        "expected": "直接 把 当前 电台 从 收藏夹 中 删除"
+    },
+    {
+        "audio": "G0003_1_S0473.wav",
+        "transcription": "一個人喺度做乜嘢啊",
+        "expected": "一个人喺度做乜嘢啊"
+    },
+    {
+        "audio": "G0004_1_S0450.wav",
+        "transcription": "我今日喺屋企呀",
+        "expected": "我今日喺屋企呀"
+    },
+    {
+        "audio": "G0003_1_S0060.wav",
+        "transcription": "我想撥打張三電話",
+        "expected": "我 想 拨打 张三 电话"
+    },
+    {
+        "audio": "G0006_1_S0147.wav",
+        "transcription": "回 公司",
+        "expected": "回 公司"
+    },
+    {
+        "audio": "G0009_1_S0020.wav",
+        "transcription": "將第二地圖縮細啲",
+        "expected": "将 地地图 缩细 啲"
+    },
+    {
+        "audio": "G0009_1_S0453.wav",
+        "transcription": "係唔係我唔出聲啲人覺得我好㗇",
+        "expected": "系唔系我唔出声啲人觉得我好虾呢"
+    },
+    {
+        "audio": "G0008_1_S0053.wav",
+        "transcription": "我 調 下 先",
+        "expected": "我 调下 先"
+    },
+    {
+        "audio": "G0008_1_S0281.wav",
+        "transcription": "睇下實時老方",
+        "expected": "睇 下 实时 路况"
+    },
+    {
+        "audio": "G0006_1_S0377.wav",
+        "transcription": "聽日 返去 幾時 落嚟",
+        "expected": "听日翻去几时落嚟"
+    },
+    {
+        "audio": "G0005_1_S0196.wav",
+        "transcription": "關胸跳",
+        "expected": "关 空调"
+    },
+    {
+        "audio": "G0001_1_S0039.wav",
+        "transcription": "重新撥通電話",
+        "expected": "重新 拨 通 电话"
+    },
+    {
+        "audio": "G0008_1_S0386.wav",
+        "transcription": "怕醜",
+        "expected": "怕丑"
+    },
+    {
+        "audio": "G0001_1_S0487.wav",
+        "transcription": "講乜嘢呀，我怕你個仔同佢媽咪講咋",
+        "expected": "讲乜嘢啊我怕你个仔同佢妈咪讲咋"
+    },
+    {
+        "audio": "G0007_1_S0270.wav",
+        "transcription": "同我放ipod上面嘅音樂",
+        "expected": "同我 放iPod 上面 嘅音乐"
+    },
+    {
+        "audio": "G0003_1_S0479.wav",
+        "transcription": "唔可以休息有人放大假",
+        "expected": "唔可以休息啦有人放大假"
+    },
+    {
+        "audio": "G0002_1_S0225.wav",
+        "transcription": "我而家唔需要天窗通風",
+        "expected": "我 现在需 唔 需要 天窗 通风"
+    },
+    {
+        "audio": "G0002_1_S0466.wav",
+        "transcription": "唔好講，得咁粗口呢",
+        "expected": "唔好讲得咁粗口咧"
+    },
+    {
+        "audio": "G0004_1_S0674.wav",
+        "transcription": "四五六一七九七",
+        "expected": "四 五 五 六 一 七 九 七"
+    },
+    {
+        "audio": "G0002_1_S0242.wav",
+        "transcription": "空調關",
+        "expected": "空调 关"
+    },
+    {
+        "audio": "G0002_1_S0374.wav",
+        "transcription": "係我自己唔生氣啫，我明白㗎，唔緊要，唔會責怪任何一個人嘅",
+        "expected": "系我自己唔争气啫我明白噶唔紧要唔会责怪任何一个人嘅"
+    },
+    {
+        "audio": "G0008_1_S0357.wav",
+        "transcription": "係  休息  你 呢",
+        "expected": "系啊休息啊你呢"
+    },
+    {
+        "audio": "G0010_1_S0092.wav",
+        "transcription": "重複播多次頭先嘅節目",
+        "expected": "重复 播 多 次 头先 嘅 节目"
+    },
+    {
+        "audio": "G0008_1_S0042.wav",
+        "transcription": "同我開咗個天窗佢",
+        "expected": "同我 开咗 个 天窗 佢"
+    },
+    {
+        "audio": "G0004_1_S0620.wav",
+        "transcription": "經過中信，中信行到呢個體育東嗰個十字路口",
+        "expected": "经过中信中信行到呢个体育东嗰个十字路口"
+    },
+    {
+        "audio": "G0001_1_S0333.wav",
+        "transcription": "冇 上班 咩",
+        "expected": "冇上班咩"
+    },
+    {
+        "audio": "G0002_1_S0405.wav",
+        "transcription": "不可能供得進去",
+        "expected": "不可能攻得进去"
+    },
+    {
+        "audio": "G0008_1_S0380.wav",
+        "transcription": "大姐嘅相片",
+        "expected": "带遮的相片"
+    },
+    {
+        "audio": "G0002_1_S0376.wav",
+        "transcription": "我想同你講四點三號出嚟喇",
+        "expected": "诶我想同你讲四点三好出嚟嘞"
+    },
+    {
+        "audio": "G0001_1_S0251.wav",
+        "transcription": "轉內循環",
+        "expected": "转 内 循环"
+    },
+    {
+        "audio": "G0001_1_S0385.wav",
+        "transcription": "千祈 唔好 衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "audio": "G0002_1_S0580.wav",
+        "transcription": "睇入唔入球?",
+        "expected": "睇入唔入球啫"
+    },
+    {
+        "audio": "G0006_1_S0026.wav",
+        "transcription": "有啲熱車內風量調到最大",
+        "expected": "有 啲 热 车内 风量 调到 最大"
+    },
+    {
+        "audio": "G0004_1_S0244.wav",
+        "transcription": "我要輸入目的地",
+        "expected": "我 要 输入 目的地"
+    },
+    {
+        "audio": "G0001_1_S0018.wav",
+        "transcription": "收藏音樂啦",
+        "expected": "收藏 音乐 啦"
+    },
+    {
+        "audio": "G0001_1_S0635.wav",
+        "transcription": "琴日買咗部小米五",
+        "expected": "琴日买咗部小米五"
+    },
+    {
+        "audio": "G0008_1_S0430.wav",
+        "transcription": "寶仔",
+        "expected": "簿仔"
+    },
+    {
+        "audio": "G0010_1_S0117.wav",
+        "transcription": "我而家想去逐冧路一另一號",
+        "expected": "我 依家 想 去 竹林 路 一零一 号"
+    },
+    {
+        "audio": "G0007_1_S0637.wav",
+        "transcription": "勇巴 學 搭救",
+        "expected": "用把口搭够"
+    },
+    {
+        "audio": "G0007_1_S0197.wav",
+        "transcription": "喺收藏夾刪咗個電台",
+        "expected": "喺收藏夹 删咗 个 电台"
+    },
+    {
+        "audio": "G0009_1_S0127.wav",
+        "transcription": "音樂 太 大 聲 喇  調 返 低 啦",
+        "expected": "音乐 太 大声 啦 调翻 低 啦"
+    },
+    {
+        "audio": "G0005_1_S0454.wav",
+        "transcription": "你哋女仔應該唔會玩遊戲個啦",
+        "expected": "你哋女仔应该唔会玩游戏个啦"
+    },
+    {
+        "audio": "G0002_1_S0306.wav",
+        "transcription": "係右笑右喊",
+        "expected": "系又笑又喊"
+    },
+    {
+        "audio": "G0010_1_S0183.wav",
+        "transcription": "原來 有 咩 嘢 念 嚟 點 ",
+        "expected": "沿途 有 咩 嘢 便利店 呢"
+    },
+    {
+        "audio": "G0009_1_S0523.wav",
+        "transcription": "入嚟做咩",
+        "expected": "入嚟做咩"
+    },
+    {
+        "audio": "G0002_1_S0050.wav",
+        "transcription": "聽下一首歌",
+        "expected": "听下 一首 歌"
+    },
+    {
+        "audio": "G0005_1_S0444.wav",
+        "transcription": "係 我想 同 你 講 四點 號 七類 ",
+        "expected": "诶我想同你讲四点好出来嘞"
+    },
+    {
+        "audio": "G0002_1_S0394.wav",
+        "transcription": "廚櫃門咪整",
+        "expected": "厨柜门未整"
+    },
+    {
+        "audio": "G0009_1_S0239.wav",
+        "transcription": "單曲循環播放",
+        "expected": "单曲 循环 播放"
+    },
+    {
+        "audio": "G0001_1_S0447.wav",
+        "transcription": "特別係嗰啲學費好貴呢個專業吖嘛",
+        "expected": "特别系嗰啲学费好贵呢个专业啊嘛"
+    },
+    {
+        "audio": "G0002_1_S0619.wav",
+        "transcription": "我 老豆 份 客廳",
+        "expected": "我老豆瞓客厅"
+    },
+    {
+        "audio": "G0007_1_S0098.wav",
+        "transcription": "倒啱啱好跳吓",
+        "expected": "度 啱啱 好 调下 啦"
+    },
+    {
+        "audio": "G0008_1_S0061.wav",
+        "transcription": "打開 地圖 畀 我",
+        "expected": "打开 地图 俾 我"
+    },
+    {
+        "audio": "G0003_1_S0230.wav",
+        "transcription": "繼續播放音樂",
+        "expected": "继续 播放 音乐"
+    },
+    {
+        "audio": "G0002_1_S0612.wav",
+        "transcription": "後面仲有個寶仔有個三個袋",
+        "expected": "后边仲有个簿仔有个三个袋"
+    },
+    {
+        "audio": "G0002_1_S0281.wav",
+        "transcription": "打開功能設定",
+        "expected": "打开 功能 说明"
+    },
+    {
+        "audio": "G0004_1_S0399.wav",
+        "transcription": "比平空好",
+        "expected": "比平胸好"
+    },
+    {
+        "audio": "G0009_1_S0486.wav",
+        "transcription": "娟姐麻煩你個節目表發畀我睇一睇啊",
+        "expected": "娟姐麻烦你嗰节目表发俾我睇一睇啊"
+    },
+    {
+        "audio": "G0003_1_S0340.wav",
+        "transcription": "你 知道 我 從來 都 唔 計較 呢 啲 嘢  ",
+        "expected": "你知道我从嚟都唔计较依啲嘢噶啦"
+    },
+    {
+        "audio": "G0002_1_S0328.wav",
+        "transcription": "羅江 慘 就 睇 得 明 ",
+        "expected": "萝岗橙就睇得明啦"
+    },
+    {
+        "audio": "G0009_1_S0245.wav",
+        "transcription": "我想將超速提示關掉",
+        "expected": "我 想 将 超速 提示 关掉"
+    },
+    {
+        "audio": "G0009_1_S0402.wav",
+        "transcription": "呢班擦頭呢排梗係冇行動啦，用巴好就夠",
+        "expected": "呢班柒头呢排梗系冇行动啦用把口就够"
+    },
+    {
+        "audio": "G0003_1_S0235.wav",
+        "transcription": "我想撳弱音量",
+        "expected": "我 想 减弱 音量"
+    },
+    {
+        "audio": "G0009_1_S0114.wav",
+        "transcription": "我要打個電話畀急救中心",
+        "expected": "我 要 打 个 电话 俾 急救 中心"
+    },
+    {
+        "audio": "G0002_1_S0366.wav",
+        "transcription": "可以代幾多呀？",
+        "expected": "可以袋几多啊"
+    },
+    {
+        "audio": "G0001_1_S0422.wav",
+        "transcription": "你 兩 個",
+        "expected": "你两嗰"
+    },
+    {
+        "audio": "G0009_1_S0253.wav",
+        "transcription": "唔洗開路線全纜",
+        "expected": "唔 使 开 路线 全览 啦"
+    },
+    {
+        "audio": "G0003_1_S0552.wav",
+        "transcription": "睇住嗰張真係消失咗",
+        "expected": "睇住嗰张真系消失咗喎"
+    },
+    {
+        "audio": "G0008_1_S0454.wav",
+        "transcription": "偷懶  去 寮 吖 偷懶 吖",
+        "expected": "偷懒啊去聊啊偷懒啊"
+    },
+    {
+        "audio": "G0005_1_S0516.wav",
+        "transcription": "跟住 賣 又輸 啦",
+        "expected": "跟住卖又输啦"
+    },
+    {
+        "audio": "G0004_1_S0269.wav",
+        "transcription": "打開個天窗通下風啦",
+        "expected": "打开 个 天窗 通下 风 啦"
+    },
+    {
+        "audio": "G0001_1_S0361.wav",
+        "transcription": "係咪好少我打白話啲字出嚟呀",
+        "expected": "系咪好少我打白话啲字出嚟啊"
+    },
+    {
+        "audio": "G0003_1_S0589.wav",
+        "transcription": "落咗中山呀",
+        "expected": "落咗中山啦"
+    },
+    {
+        "audio": "G0001_1_S0054.wav",
+        "transcription": "咳 咗 個 電話 佢",
+        "expected": "cut 咗 个 电话 佢"
+    },
+    {
+        "audio": "G0005_1_S0170.wav",
+        "transcription": "將個風量調細一啲",
+        "expected": "将 个 风量 调 细 一 啲"
+    },
+    {
+        "audio": "G0004_1_S0195.wav",
+        "transcription": "太啱聽我要把佢設置成船環播放",
+        "expected": "太 啱 听 我 要 把佢 设置 成 循环 播放"
+    },
+    {
+        "audio": "G0002_1_S0079.wav",
+        "transcription": "我想將屏幕教到最高亮到",
+        "expected": "我 想 将 屏幕 校 到 最光 亮度"
+    },
+    {
+        "audio": "G0009_1_S0185.wav",
+        "transcription": "我想返屋企食飯呀",
+        "expected": "我 想 翻 屋企 食饭 啦"
+    },
+    {
+        "audio": "G0008_1_S0116.wav",
+        "transcription": "識咗個倒行",
+        "expected": "熄咗 个 导航"
+    },
+    {
+        "audio": "G0001_1_S0628.wav",
+        "transcription": "橫掂我都唔用",
+        "expected": "横定我都唔用"
+    },
+    {
+        "audio": "G0008_1_S0214.wav",
+        "transcription": "音量開大少少",
+        "expected": "音量 开大 少少"
+    },
+    {
+        "audio": "G0009_1_S0410.wav",
+        "transcription": "秋天",
+        "expected": "秋天"
+    },
+    {
+        "audio": "G0007_1_S0263.wav",
+        "transcription": "靜音啦唔該",
+        "expected": "静音 啦 唔该"
+    },
+    {
+        "audio": "G0003_1_S0378.wav",
+        "transcription": "係 喺 情 隔離 嘅 嗰度 嗰 間  記得 叫 咩 囉",
+        "expected": "系许晴隔篱嘅嗰度嗰间记得叫咩咯"
+    },
+    {
+        "audio": "G0009_1_S0217.wav",
+        "transcription": "打開空氣淨化氣",
+        "expected": "打开 空气 净化器"
+    },
+    {
+        "audio": "G0006_1_S0072.wav",
+        "transcription": "你好吖，唔該你幫我打開空氣戰發氣",
+        "expected": "你好 啊 唔 该 你 帮我 打开 空气 净化器"
+    },
+    {
+        "audio": "G0008_1_S0359.wav",
+        "transcription": "噉咪一日做十幾個鐘",
+        "expected": "咁咪一日做十几个钟"
+    },
+    {
+        "audio": "G0004_1_S0140.wav",
+        "transcription": "整個周潔輪七里向轉緝嚟聽下",
+        "expected": "整个 周杰伦 七里香 专辑 嚟 听下"
+    },
+    {
+        "audio": "G0001_1_S0150.wav",
+        "transcription": "調低個音量佢",
+        "expected": "调低个 音量佢"
+    },
+    {
+        "audio": "G0007_1_S0477.wav",
+        "transcription": "睇住個張真係失失咗",
+        "expected": "睇住嗰张真系西消失咗喎"
+    },
+    {
+        "audio": "G0004_1_S0231.wav",
+        "transcription": "關閉廣播",
+        "expected": "关闭 广播"
+    },
+    {
+        "audio": "G0007_1_S0434.wav",
+        "transcription": "獵科 紅心",
+        "expected": "烈火雄心"
+    },
+    {
+        "audio": "G0009_1_S0242.wav",
+        "transcription": "取消收藏當前條覆AM電台掛",
+        "expected": "取消 收藏 当前 调幅 A M 电台 吧"
+    },
+    {
+        "audio": "G0001_1_S0207.wav",
+        "transcription": "我想用個手機接呢個電話，幫我連過嚟",
+        "expected": "我 想 用 个 手机 接 呢个 电话 帮我 连 过 嚟"
+    },
+    {
+        "audio": "G0005_1_S0358.wav",
+        "transcription": "感謝 麻煩你發個節目 表 畀我 睇睇 ",
+        "expected": "观姐麻烦你发个节目表俾我睇睇啊"
+    },
+    {
+        "audio": "G0008_1_S0020.wav",
+        "transcription": "閒痕  提示 開",
+        "expected": "限行 提示 开"
+    },
+    {
+        "audio": "G0008_1_S0388.wav",
+        "transcription": "或者我都唔用",
+        "expected": "横定我都唔拥"
+    },
+    {
+        "audio": "G0002_1_S0074.wav",
+        "transcription": "打個電話，138192245",
+        "expected": "打 个 电话 一三八一九二二四八五五"
+    },
+    {
+        "audio": "G0002_1_S0674.wav",
+        "transcription": "二零",
+        "expected": "二 零"
+    },
+    {
+        "audio": "G0004_1_S0317.wav",
+        "transcription": "連功包料",
+        "expected": "连工包料"
+    },
+    {
+        "audio": "G0001_1_S0133.wav",
+        "transcription": "我 唔使 睇 導航全 艦 ",
+        "expected": "我 唔 使 睇 导航 全览 啦"
+    },
+    {
+        "audio": "G0010_1_S0337.wav",
+        "transcription": "你咁細，生細路仔你爸媽好唔開心㗎喎",
+        "expected": "你咁细生细路仔你爸妈好唔开心嘅喎"
+    },
+    {
+        "audio": "G0009_1_S0394.wav",
+        "transcription": "過嚟我請你食飯啦",
+        "expected": "过嚟我请你食饭啦"
+    },
+    {
+        "audio": "G0001_1_S0052.wav",
+        "transcription": "唔該打開導航全艦",
+        "expected": "唔该 打开 导航 全览"
+    },
+    {
+        "audio": "G0008_1_S0225.wav",
+        "transcription": "我想暸解下用戶手冊",
+        "expected": "我 想 了解 下 用户 手册"
+    },
+    {
+        "audio": "G0007_1_S0190.wav",
+        "transcription": "上手好聽啲",
+        "expected": "上首 好听 啲"
+    },
+    {
+        "audio": "G0006_1_S0321.wav",
+        "transcription": "本來以為係十二月差嘅就把機票都定了",
+        "expected": "本来以为系十二月差嘅就把机票都订了"
+    },
+    {
+        "audio": "G0010_1_S0295.wav",
+        "transcription": "未婚嫻繼續婚，唔好理佢",
+        "expected": "未瞓醒继续瞓唔好理佢"
+    },
+    {
+        "audio": "G0004_1_S0321.wav",
+        "transcription": "科要做嘅事",
+        "expected": "柯要做嘅事"
+    },
+    {
+        "audio": "G0010_1_S0112.wav",
+        "transcription": "個皮唔使咁乾條音跌",
+        "expected": "个 屏 唔 使 咁 光 调暗 啲"
+    },
+    {
+        "audio": "G0009_1_S0292.wav",
+        "transcription": "再聽多次上一首歌",
+        "expected": "再 听 多 次 上 一首 歌"
+    },
+    {
+        "audio": "G0001_1_S0090.wav",
+        "transcription": "暫停講噃",
+        "expected": "暂停 广播"
+    },
+    {
+        "audio": "G0009_1_S0403.wav",
+        "transcription": "唔洗扮嘢喇",
+        "expected": "唔使扮嘢啦"
+    },
+    {
+        "audio": "G0003_1_S0213.wav",
+        "transcription": "講個實事露放聽下",
+        "expected": "讲 个 实时 路况 听下"
+    },
+    {
+        "audio": "G0009_1_S0370.wav",
+        "transcription": "係 唔 係 指線 嚟 嘅",
+        "expected": "系唔系纸扇嚟嘅"
+    },
+    {
+        "audio": "G0008_1_S0159.wav",
+        "transcription": "接 個 電話 先",
+        "expected": "接 个 电话 先"
+    },
+    {
+        "audio": "G0002_1_S0604.wav",
+        "transcription": "你從邊度坐嚟深圳呀",
+        "expected": "你从边度坐嚟深圳啊"
+    },
+    {
+        "audio": "G0009_1_S0290.wav",
+        "transcription": "去到福山路竹林路有咩路線啊，幫我收索下",
+        "expected": "去 到 福山 路 竹林 路 有 咩 路线 啊 帮我 搜索 下"
+    },
+    {
+        "audio": "G0003_1_S0184.wav",
+        "transcription": "北方上一個電台",
+        "expected": "播放 上 一个 电台"
+    },
+    {
+        "audio": "G0008_1_S0360.wav",
+        "transcription": "你啲衛生掃屍囉",
+        "expected": "你啲维生素C咯"
+    },
+    {
+        "audio": "G0003_1_S0145.wav",
+        "transcription": "個FM電台變得越來越無聊 刪除得啦",
+        "expected": "个 F M 电台 变 得 越来越 无聊 删除 得 啦"
+    },
+    {
+        "audio": "G0004_1_S0361.wav",
+        "transcription": "唔係，講笑嘅喎，等下我放低嚟你好冇面喎",
+        "expected": "唔系讲笑嘅喎等下我放低你你好冇面喎"
+    },
+    {
+        "audio": "G0005_1_S0222.wav",
+        "transcription": "好唔料幫我關咗收音機",
+        "expected": "好 唔聊 帮我 关咗收音机"
+    },
+    {
+        "audio": "G0001_1_S0441.wav",
+        "transcription": "你個大女人嘅係乜奶粉呀",
+        "expected": "你个大女饮嘅系乜奶粉啊"
+    },
+    {
+        "audio": "G0004_1_S0673.wav",
+        "transcription": "八四十七九唔一",
+        "expected": "八 四 十 七 九 五 一"
+    },
+    {
+        "audio": "G0008_1_S0411.wav",
+        "transcription": "唔好意思揾到喇，喺書包嘅衣服藏住",
+        "expected": "唔好意思搵到啦喺书包嘅衣服藏住"
+    },
+    {
+        "audio": "G0004_1_S0503.wav",
+        "transcription": "就係?",
+        "expected": "就系"
+    },
+    {
+        "audio": "G0009_1_S0019.wav",
+        "transcription": "我唔要靜音",
+        "expected": "我 唔 要 静音"
+    },
+    {
+        "audio": "G0006_1_S0001.wav",
+        "transcription": "打開個天窗通下風",
+        "expected": "打开 个 天窗 通下 风"
+    },
+    {
+        "audio": "G0003_1_S0027.wav",
+        "transcription": "關個天窗網念",
+        "expected": "关 个 天窗 网帘"
+    },
+    {
+        "audio": "G0008_1_S0536.wav",
+        "transcription": "都係一件好開心嘅事",
+        "expected": "都系一件好开心嘅事"
+    },
+    {
+        "audio": "G0010_1_S0216.wav",
+        "transcription": "前面有冇啲便利店",
+        "expected": "前面 有 冇啲 便利店"
+    },
+    {
+        "audio": "G0010_1_S0198.wav",
+        "transcription": "顯示指令，樣例",
+        "expected": "显示 指令 样 例"
+    },
+    {
+        "audio": "G0005_1_S0070.wav",
+        "transcription": "音樂之需，你想點嘅歌畀邊個聽呢？",
+        "expected": "音乐 咨询 您 想 点嘅 歌 俾 边个 听 咧"
+    },
+    {
+        "audio": "G0005_1_S0378.wav",
+        "transcription": "一個人喺度做咩呀",
+        "expected": "一个人喺度做咩啊"
+    },
+    {
+        "audio": "G0006_1_S0053.wav",
+        "transcription": "我想將空調溫度調到最細",
+        "expected": "我 想 将 空调 温度 调到 最细"
+    },
+    {
+        "audio": "G0003_1_S0513.wav",
+        "transcription": "單頂殼",
+        "expected": "丹顶鹤"
+    },
+    {
+        "audio": "G0009_1_S0527.wav",
+        "transcription": "比平空好",
+        "expected": "比平胸好"
+    },
+    {
+        "audio": "G0005_1_S0114.wav",
+        "transcription": "幫我收藏呢首歌",
+        "expected": "帮我 收藏 呢首 歌"
+    },
+    {
+        "audio": "G0010_1_S0310.wav",
+        "transcription": "畀 教育 有 乜 _(Mandarin) 食 ",
+        "expected": "俾狗肉有乜好食喎"
+    },
+    {
+        "audio": "G0005_1_S0505.wav",
+        "transcription": "入鄉隨俗係噉啦",
+        "expected": "入乡随俗系咁啦"
+    },
+    {
+        "audio": "G0003_1_S0024.wav",
+        "transcription": "播放下一首",
+        "expected": "播放 下 一首"
+    },
+    {
+        "audio": "G0004_1_S0512.wav",
+        "transcription": "係又好笑又喊",
+        "expected": "系又好笑又喊"
+    },
+    {
+        "audio": "G0001_1_S0464.wav",
+        "transcription": "起碼 能升 五 個 段位",
+        "expected": "起码能升五个段位"
+    },
+    {
+        "audio": "G0005_1_S0281.wav",
+        "transcription": "請問我可唔可以跳低屏幕亮度",
+        "expected": "请问 我 可 唔 可以 调低 屏幕 亮度"
+    },
+    {
+        "audio": "G0003_1_S0576.wav",
+        "transcription": "我要睇當呀邊度得閒出去玩",
+        "expected": "我要睇档啊边度得闲出去玩"
+    },
+    {
+        "audio": "G0006_1_S0243.wav",
+        "transcription": "我想把車內風量調到最大",
+        "expected": "我 想 把 车内 风量 调到 最大"
+    },
+    {
+        "audio": "G0001_1_S0289.wav",
+        "transcription": "我想打開個閒閒提醒",
+        "expected": "我 想 打开 个 限行 提醒"
+    },
+    {
+        "audio": "G0001_1_S0551.wav",
+        "transcription": "唔驚肇慶嘅落嚟大山一齊過去啦",
+        "expected": "唔经肇庆噶落嚟大沙一齐过去啦"
+    },
+    {
+        "audio": "G0007_1_S0643.wav",
+        "transcription": "偷懶  去 撩 啊 偷懶 啊",
+        "expected": "偷懒啊去料啊偷懒啊"
+    },
+    {
+        "audio": "G0005_1_S0036.wav",
+        "transcription": "返屋企",
+        "expected": "翻屋企"
+    },
+    {
+        "audio": "G0007_1_S0550.wav",
+        "transcription": "打唔打交你睇電視呀",
+        "expected": "打唔打搅你睇电视啊"
+    },
+    {
+        "audio": "G0005_1_S0228.wav",
+        "transcription": "覺得依家呢個電台唔好聽",
+        "expected": "觉得 依家 呢个 电台 唔 好 听"
+    },
+    {
+        "audio": "G0010_1_S0207.wav",
+        "transcription": "請 關閉 十字 老房",
+        "expected": "请 关闭 实时 路况"
+    },
+    {
+        "audio": "G0007_1_S0228.wav",
+        "transcription": "好凍呀唔該關空調",
+        "expected": "好冻 啊 唔该 关 空调"
+    },
+    {
+        "audio": "G0003_1_S0053.wav",
+        "transcription": "而家打開超速提示",
+        "expected": "宜家 打开 超速 提示"
+    },
+    {
+        "audio": "G0005_1_S0421.wav",
+        "transcription": "你車上佢死都要吻嗅歌出嚟",
+        "expected": "你车上佢死都要搵首歌出嚟"
+    },
+    {
+        "audio": "G0010_1_S0474.wav",
+        "transcription": "食 藥 之後 你 諗 住 影 乜 畀 我",
+        "expected": "食药之后你谂住影乜俾我"
+    },
+    {
+        "audio": "G0009_1_S0024.wav",
+        "transcription": "查下世紀大度嘅路線，睇下咩情況",
+        "expected": "查 下 世纪 大道 嘅 路线 睇 下 咩 情况"
+    },
+    {
+        "audio": "G0010_1_S0095.wav",
+        "transcription": "停  左 角 收音機 先",
+        "expected": "停 咗 个 收音机 先"
+    },
+    {
+        "audio": "G0010_1_S0227.wav",
+        "transcription": "開 返 高 啲 步薰條",
+        "expected": "开 翻 高 啲 部 空调"
+    },
+    {
+        "audio": "G0003_1_S0004.wav",
+        "transcription": "直接掛斷電話",
+        "expected": "直接 挂 断 电话"
+    },
+    {
+        "audio": "G0007_1_S0254.wav",
+        "transcription": "放音樂",
+        "expected": "放 音乐"
+    },
+    {
+        "audio": "G0009_1_S0050.wav",
+        "transcription": "麻煩你幫我發個短信畀佢",
+        "expected": "麻烦 你 帮我 发 个 短信 俾 佢"
+    },
+    {
+        "audio": "G0009_1_S0539.wav",
+        "transcription": "大隻講，今日有冇去條臭蔥度釣魚呀",
+        "expected": "大只讲今物有冇去条臭涌度钓鱼啊"
+    },
+    {
+        "audio": "G0001_1_S0553.wav",
+        "transcription": "冇 怨你 ",
+        "expected": "冇预你咧"
+    },
+    {
+        "audio": "G0001_1_S0022.wav",
+        "transcription": "他 嘅",
+        "expected": "它 嘅"
+    },
+    {
+        "audio": "G0008_1_S0213.wav",
+        "transcription": "快啲 打一二零",
+        "expected": "快 啲 打 一二零"
+    },
+    {
+        "audio": "G0009_1_S0371.wav",
+        "transcription": "有時間嘅話我肯定參加嘅",
+        "expected": "有时间嘅话我肯定参加嘅"
+    },
+    {
+        "audio": "G0004_1_S0219.wav",
+        "transcription": "刪除，當前收藏夾中條頻FM電台",
+        "expected": "删除 当前 收藏夹 中 调频 F M 电台"
+    },
+    {
+        "audio": "G0007_1_S0689.wav",
+        "transcription": "九八三九九三零",
+        "expected": "九 八 三 九 九 三 零"
+    },
+    {
+        "audio": "G0001_1_S0390.wav",
+        "transcription": "天底下邊有咁平嘅生意㗎，有嘅話我都去做啦",
+        "expected": "天底下边有咁平嘅生意噶有嘅话我都去做啦"
+    },
+    {
+        "audio": "G0002_1_S0146.wav",
+        "transcription": "退出歌曲播放",
+        "expected": "退出 歌曲 播放"
+    },
+    {
+        "audio": "G0006_1_S0050.wav",
+        "transcription": "有咩系統功能啊",
+        "expected": "有 咩 系统 功能 啊"
+    },
+    {
+        "audio": "G0002_1_S0385.wav",
+        "transcription": "仲係要牛肉脂嘅添",
+        "expected": "仲要系牛肉丝嘅添"
+    },
+    {
+        "audio": "G0007_1_S0636.wav",
+        "transcription": "呢排梗係冇行動啦",
+        "expected": "呢排梗系冇行动啦"
+    },
+    {
+        "audio": "G0010_1_S0352.wav",
+        "transcription": "你大道耳機有聽嘅",
+        "expected": "你带到耳机又听嘅"
+    },
+    {
+        "audio": "G0004_1_S0429.wav",
+        "transcription": "廁教線",
+        "expected": "黐胶线"
+    },
+    {
+        "audio": "G0004_1_S0078.wav",
+        "transcription": "播放音樂路徑，收藏夾",
+        "expected": "播放 音乐 路径 收藏夹"
+    },
+    {
+        "audio": "G0007_1_S0128.wav",
+        "transcription": "唔洗用個超速提示",
+        "expected": "唔 使用 个 超速 提示 啦"
+    },
+    {
+        "audio": "G0005_1_S0611.wav",
+        "transcription": "見到就畀你",
+        "expected": "见到就俾你"
+    },
+    {
+        "audio": "G0007_1_S0349.wav",
+        "transcription": "鄉下老所謂",
+        "expected": "乡下佬所为"
+    },
+    {
+        "audio": "G0001_1_S0066.wav",
+        "transcription": "條低啲屏幕亮度",
+        "expected": "调低 啲 屏幕 亮度"
+    },
+    {
+        "audio": "G0002_1_S0662.wav",
+        "transcription": "八 四 二 四 四",
+        "expected": "八 四 二 四 四"
+    },
+    {
+        "audio": "G0004_1_S0670.wav",
+        "transcription": "61096939",
+        "expected": "六 一 零 六 九 三 九"
+    },
+    {
+        "audio": "G0007_1_S0494.wav",
+        "transcription": "一班神經細呀",
+        "expected": "一班神经西啊"
+    },
+    {
+        "audio": "G0008_1_S0062.wav",
+        "transcription": "幫我調暗下個題目",
+        "expected": "帮我 调暗 下 个 亭幕"
+    },
+    {
+        "audio": "G0001_1_S0700.wav",
+        "transcription": "零六十一，六二六九",
+        "expected": "零 六 十 一 六 二 六 九"
+    },
+    {
+        "audio": "G0006_1_S0319.wav",
+        "transcription": "佢要做嘅事",
+        "expected": "佢要做嘅事"
+    },
+    {
+        "audio": "G0002_1_S0523.wav",
+        "transcription": "所以佢人哋今晚又冇足像期咩",
+        "expected": "水强你今晚有冇捉象棋咩"
+    },
+    {
+        "audio": "G0001_1_S0521.wav",
+        "transcription": "我心理真係好難過",
+        "expected": "我心理真系好难过啊"
+    },
+    {
+        "audio": "G0010_1_S0228.wav",
+        "transcription": "首歌唔好聽取消首床先",
+        "expected": "首 歌 唔 好听 取消 收藏 先"
+    },
+    {
+        "audio": "G0001_1_S0396.wav",
+        "transcription": "各位我唔知喎要睇情況啦",
+        "expected": "国庆我唔知喎要睇情况啦"
+    },
+    {
+        "audio": "G0008_1_S0367.wav",
+        "transcription": "你知到我從來都唔計較呢啲嘢㗎啦",
+        "expected": "你知道我从来都唔计较呢啲嘢噶啦"
+    },
+    {
+        "audio": "G0007_1_S0404.wav",
+        "transcription": "而家佢生意都幾好",
+        "expected": "依家佢生意都几好啊"
+    },
+    {
+        "audio": "G0007_1_S0088.wav",
+        "transcription": "想聽CD嘅歌",
+        "expected": "想 听 C D 嘅 歌"
+    },
+    {
+        "audio": "G0003_1_S0219.wav",
+        "transcription": "同部電話簿",
+        "expected": "同步 电话簿"
+    },
+    {
+        "audio": "G0010_1_S0414.wav",
+        "transcription": "娟姐麻煩你發個節目表畀我睇吓睇吓",
+        "expected": "娟姐麻烦你发个节目表俾我睇一睇啊"
+    },
+    {
+        "audio": "G0003_1_S0580.wav",
+        "transcription": "碌睇個碌就知",
+        "expected": "look睇个look就知啦"
+    },
+    {
+        "audio": "G0008_1_S0324.wav",
+        "transcription": "不過 我 唔 知 蘋果 有冇 呢 個 功能 ",
+        "expected": "不过我唔知道苹果有无呢个功能咧"
+    },
+    {
+        "audio": "G0004_1_S0350.wav",
+        "transcription": "好無聊呀，今日消失",
+        "expected": "好无聊啊今物消失"
+    },
+    {
+        "audio": "G0001_1_S0511.wav",
+        "transcription": "你 再 做 什麼 ",
+        "expected": "你在做什么啊"
+    },
+    {
+        "audio": "G0009_1_S0508.wav",
+        "transcription": "成講話係唔係呢個群度",
+        "expected": "程广怀喺唔喺呢个群度啊"
+    },
+    {
+        "audio": "G0008_1_S0308.wav",
+        "transcription": "何哥噉你休息下我哋日日再聚",
+        "expected": "何哥咁你休息下我哋第日再聚"
+    },
+    {
+        "audio": "G0008_1_S0069.wav",
+        "transcription": "刪咗呢個AM電台",
+        "expected": "删咗 呢个 A M 电台"
+    },
+    {
+        "audio": "G0006_1_S0448.wav",
+        "transcription": "冇可能攻得入去",
+        "expected": "冇可能攻得入去"
+    },
+    {
+        "audio": "G0002_1_S0463.wav",
+        "transcription": "打喊爐眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "audio": "G0008_1_S0066.wav",
+        "transcription": "我想聽下一首歌",
+        "expected": "我 想 听下 一首 歌 啊"
+    },
+    {
+        "audio": "G0001_1_S0568.wav",
+        "transcription": "發哥又繼續跑步喇核禽墨停咗一日喎",
+        "expected": "发哥又继续跑步啦吓琴物停咗一日喎"
+    },
+    {
+        "audio": "G0001_1_S0149.wav",
+        "transcription": "仲有幾耐先到世紀大道",
+        "expected": "仲 有 几耐 先 到 世纪 大道"
+    },
+    {
+        "audio": "G0004_1_S0680.wav",
+        "transcription": "26910390",
+        "expected": "二 六 九 一 零 三 九 十"
+    },
+    {
+        "audio": "G0005_1_S0435.wav",
+        "transcription": "表姐有咁量角風景，都話吹到頭痛",
+        "expected": "表姐有咁靓嘅风景都话吹到头痛"
+    },
+    {
+        "audio": "G0001_1_S0016.wav",
+        "transcription": "講完嘞掛電話啦",
+        "expected": "讲 完 啦 挂 电话 啦"
+    },
+    {
+        "audio": "G0005_1_S0145.wav",
+        "transcription": "睇下我收藏入邊有冇",
+        "expected": "睇 下 我 收藏 入边 有 冇"
+    },
+    {
+        "audio": "G0004_1_S0663.wav",
+        "transcription": "四九九六二四",
+        "expected": "四 九 九 六 二 四"
+    }
+]

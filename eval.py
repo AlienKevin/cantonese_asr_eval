@@ -32,6 +32,13 @@ def remove_punctuations(text):
     import regex
     return regex.sub(r'\p{P}+', '', text)
 
+def remove_whitespaces(text):
+    """
+    Remove whitespaces from text.
+    """
+    import regex
+    return regex.sub(r'\p{Separator}+', '', text)
+
 def eval(transcriptions_path):
     # Read the transcriptions.json file
     with open(transcriptions_path, 'r', encoding='utf-8') as file:
@@ -42,8 +49,8 @@ def eval(transcriptions_path):
     count = 0
 
     for entry in data:
-        expected_simplified = remove_punctuations(convert_to_simplified(entry['expected']))
-        generated = remove_punctuations(convert_to_simplified(remove_emotion_and_event_tokens(entry['transcription'])))
+        expected_simplified = remove_whitespaces(remove_punctuations(convert_to_simplified(entry['expected'])))
+        generated = remove_whitespaces(remove_punctuations(convert_to_simplified(remove_emotion_and_event_tokens(entry['transcription']))))
         cer = calculate_cer(expected_simplified, generated)
         # print(f'Expected: {expected_simplified} | Transcription: {generated} | CER: {cer}')
         total_cer += cer
@@ -62,3 +69,4 @@ def eval_on_dataset(name):
 if __name__ == "__main__":
     eval_on_dataset('cv16')
     eval_on_dataset('daily_use')
+    eval_on_dataset('cabin')
