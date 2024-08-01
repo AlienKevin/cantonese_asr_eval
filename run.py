@@ -12,7 +12,7 @@ import os
 from tqdm import tqdm
 
 device = ("cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu"))
-batch_size = 64
+batch_size = 50
 num_models = 2
 num_datasets = 5
 
@@ -38,14 +38,13 @@ for dataset_index in range(num_datasets):
         
         model_name = model.get_name()
         results = []
-        for batch_audios, batch_sentences in tqdm(dataset):
+        for batch_audios, batch_sentences in tqdm(dataset, desc=f"{model_name} on {dataset_name}", total=len(dataset)//batch_size):
             transcriptions = model.generate([
                 librosa.resample(audio['array'], orig_sr=audio['sampling_rate'], target_sr=16000)
                 for audio in batch_audios
             ])
             for transcription, sentence in zip(transcriptions, batch_sentences):
                 results.append({"transcription": transcription["text"], "expected": sentence})
-            break
 
         # Create directory if it doesn't exist
         os.makedirs(f'results/{model_name}', exist_ok=True)
