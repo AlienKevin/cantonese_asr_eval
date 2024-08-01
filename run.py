@@ -4,6 +4,7 @@ from asr_datasets.common_voice import CommonVoiceDataset
 from asr_datasets.guangzhou_daily_use import GuangzhouDailyUseDataset
 from asr_datasets.guangzhou_cabin import GuangzhouCabinDataset
 from asr_datasets.zoengjyutgaai_saamgwokjinji import ZoengjyutgaaiSaamgwokjinjiDataset
+from asr_datasets.wordshk_hiujin import WordshkHiujinDataset
 import torch
 import librosa
 import json
@@ -13,7 +14,7 @@ from tqdm import tqdm
 device = ("cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu"))
 batch_size = 64
 num_models = 2
-num_datasets = 4
+num_datasets = 5
 
 for dataset_index in range(num_datasets):
     if dataset_index == 0:
@@ -24,6 +25,8 @@ for dataset_index in range(num_datasets):
         dataset = GuangzhouCabinDataset(batch_size=batch_size)
     elif dataset_index == 3:
         dataset = ZoengjyutgaaiSaamgwokjinjiDataset(batch_size=batch_size)
+    elif dataset_index == 4:
+        dataset = WordshkHiujinDataset(batch_size=batch_size)
     
     dataset_name = dataset.get_name()
 
