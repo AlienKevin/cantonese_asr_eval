@@ -2,7 +2,7 @@ from datasets import load_dataset
 from datasets import Dataset
 
 class CommonVoiceDataset(Dataset):
-    def __init__(self, dataset_path="mozilla-foundation/common_voice_16_0", language="yue", split='test', batch_size=64):
+    def __init__(self, dataset_path="mozilla-foundation/common_voice_17_0", language="yue", split='test', batch_size=64):
         self.dataset = load_dataset(dataset_path, language, split=split)
         self.batch_size = batch_size
         self.audio_paths = list(self.dataset)
@@ -15,4 +15,4 @@ class CommonVoiceDataset(Dataset):
             yield batch_audio_paths, batch_sentences
 
     def get_name(self):
-        return "common_voice_16"
+        return "common_voice_17_0"
