@@ -1,4 +1,4 @@
 __pycache__/
 FunASR/
 .DS_Store
-datasets/
+data/
