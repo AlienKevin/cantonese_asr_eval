@@ -1,4 +1,4 @@
-from datasets import load_from_disk
+from datasets import load_dataset
 import json
 from tqdm import tqdm
 from transformers import pipeline
@@ -6,7 +6,7 @@ import random
 
 random.seed(42)
 
-dataset = load_from_disk("../datasets/guangzhou-cabin-speech")
+dataset = load_dataset("AlienKevin/guangzhou-cabin-speech")
 
 # Initialize the model
 MODEL_NAME = "alvanlii/whisper-small-cantonese"
@@ -23,7 +23,7 @@ pipe.model.config.forced_decoder_ids = pipe.tokenizer.get_decoder_prompt_ids(lan
 # Process the dataset and generate transcriptions
 transcriptions = []
 batch_size = 64
-audio_paths = random.sample(list(dataset), 1000)
+audio_paths = random.sample(list(dataset['train']), 1000)
 
 print(f'Number of test audios: {len(audio_paths)}')
 

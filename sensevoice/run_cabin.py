@@ -1,4 +1,4 @@
-from datasets import load_from_disk
+from datasets import load_dataset
 from funasr import AutoModel
 from funasr.utils.postprocess_utils import rich_transcription_postprocess
 import json
@@ -8,7 +8,7 @@ import random
 
 random.seed(42)
 
-dataset = load_from_disk("../datasets/guangzhou-cabin-speech")
+dataset = load_dataset("AlienKevin/guangzhou-cabin-speech")
 
 # Initialize the model
 model_dir = "iic/SenseVoiceSmall"
@@ -22,7 +22,7 @@ model = AutoModel(
 # Process the dataset and generate transcriptions
 transcriptions = []
 batch_size = 64
-audios = random.sample(list(dataset), 1000)
+audios = random.sample(list(dataset['train']), 1000)
 
 print(f'Number of test audios: {len(audios)}')
 
