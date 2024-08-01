@@ -52,9 +52,13 @@ def eval(transcriptions_path):
     average_cer = total_cer / count if count > 0 else 0
     return average_cer
 
-if __name__ == "__main__":
-    sensevoice_cer = eval('sensevoice/cv16_transcriptions.json')
-    whisper_cer = eval('whisper/cv16_transcriptions.json')
+def eval_on_dataset(name):
+    sensevoice_cer = eval(f'sensevoice/{name}_transcriptions.json')
+    whisper_cer = eval(f'whisper/{name}_transcriptions.json')
+    print(f'Evaluating {name}')
     print(f'SenseVoice CER: {sensevoice_cer * 100:.2f}%')
     print(f'Whisper CER: {whisper_cer * 100:.2f}%')
 
+if __name__ == "__main__":
+    eval_on_dataset('cv16')
+    eval_on_dataset('daily_use')
