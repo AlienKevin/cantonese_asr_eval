@@ -10,9 +10,12 @@ class CommonVoiceDataset(Dataset):
     def __iter__(self):
         for i in range(0, len(self.audio_paths), self.batch_size):
             batch = self.audio_paths[i:i + self.batch_size]
-            batch_audio_paths = [sample['audio'] for sample in batch]
+            batch_audios = [sample['audio'] for sample in batch]
             batch_sentences = [sample['sentence'] for sample in batch]
-            yield batch_audio_paths, batch_sentences
+            yield batch_audios, batch_sentences
+    
+    def __len__(self):
+        return len(self.audio_paths)
 
     def get_name(self):
         return "common_voice_17_0"

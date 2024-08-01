@@ -16,6 +16,9 @@ class GuangzhouCabinDataset(Dataset):
             batch_audios = [sample['audio'] for sample in batch]
             batch_sentences = [sample['sentence'] for sample in batch]
             yield batch_audios, batch_sentences
+    
+    def __len__(self):
+        return len(self.audio_paths)
 
     def get_name(self):
         return "guangzhou_cabin"
