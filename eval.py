@@ -1,5 +1,6 @@
 import json
 from evaluate import load
+import os
 
 cer_metric = load("cer")
 
@@ -59,14 +60,33 @@ def eval(transcriptions_path):
     average_cer = total_cer / count if count > 0 else 0
     return average_cer
 
-def eval_on_dataset(name):
-    sensevoice_cer = eval(f'sensevoice/{name}_transcriptions.json')
-    whisper_cer = eval(f'whisper/{name}_transcriptions.json')
-    print(f'Evaluating {name}')
-    print(f'SenseVoice CER: {sensevoice_cer * 100:.2f}%')
-    print(f'Whisper CER: {whisper_cer * 100:.2f}%')
+def eval_all_results():
+    from tqdm import tqdm
+
+    results_dir = 'results'
+    evaluation_results = {}
+
+    # Calculate the total number of JSON files to process
+    total_files = sum(len(files) for _, _, files in os.walk(results_dir) if any(file.endswith('.json') for file in files))
+
+    with tqdm(total=total_files, desc="Evaluating results") as pbar:
+        for model_name in os.listdir(results_dir):
+            model_dir = os.path.join(results_dir, model_name)
+            if os.path.isdir(model_dir):
+                for dataset_file in os.listdir(model_dir):
+                    if dataset_file.endswith('.json'):
+                        dataset_name = dataset_file.replace('.json', '')
+                        cer = eval(os.path.join(model_dir, dataset_file))
+                        if dataset_name not in evaluation_results:
+                            evaluation_results[dataset_name] = {}
+                        evaluation_results[dataset_name][model_name] = cer * 100
+                        pbar.update(1)
+
+    return evaluation_results
 
 if __name__ == "__main__":
-    eval_on_dataset('cv16')
-    eval_on_dataset('daily_use')
-    eval_on_dataset('cabin')
+    evaluation_results = eval_all_results()
+    for dataset, models in evaluation_results.items():
+        print(f'Evaluating {dataset}')
+        for model, cer in models.items():
+            print(f'{model} CER: {cer:.2f}%')
