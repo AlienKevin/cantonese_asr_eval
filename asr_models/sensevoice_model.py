@@ -4,12 +4,12 @@ import torch
 from .asr_model import ASRModel
 
 class SenseVoiceASRModel(ASRModel):
-    def __init__(self, model_dir):
+    def __init__(self, model_dir, device):
         self.model = AutoModel(
             model=model_dir,
             vad_model="fsmn-vad",
             vad_kwargs={"max_single_segment_time": 30000},
-            device=("cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu"))
+            device=device
         )
 
     def generate(self, input):
