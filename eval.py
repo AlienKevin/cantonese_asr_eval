@@ -102,17 +102,22 @@ def plot_evaluation_results(evaluation_results, dataset_tasks):
 
     x = range(len(dataset_labels))
     width = 0.35
-    model_names = list(cer_values.keys())
+    model_names = ['sensevoice_small', 'whisper_large_v2_cantonese_scrya', 'whisper_small_cantonese']
     colors = ['#377eb8', '#ff7f00', '#4daf4a', '#f781bf', '#a65628', '#984ea3', '#999999']  # Define a list of color-blind friendly colors
 
     plt.figure(figsize=(14, 8))
+    group_spacing = 0.5  # Add spacing between groups
     for i, model_name in enumerate(model_names):
-        plt.bar([p - width * (len(model_names) / 2) + width * i + width / 2 for p in x], cer_values[model_name], width, label=model_name, color=colors[i % len(colors)])
+        plt.bar([p * (1 + group_spacing) - width * (len(model_names) / 2) + width * i + width / 2 for p in x],
+                cer_values[model_name],
+                width,
+                label=model_name,
+                color=colors[i % len(colors)])
 
     plt.xlabel('Domains')
     plt.ylabel('CER (%)')
     plt.title('Evaluation of Open Source Cantonese ASR Models in Diverse Domains')
-    plt.xticks(x, dataset_labels, rotation=0, ha='center')
+    plt.xticks([p * (1 + group_spacing) for p in x], dataset_labels, rotation=0, ha='center')
     plt.legend()
     plt.tight_layout()
     plt.show()
