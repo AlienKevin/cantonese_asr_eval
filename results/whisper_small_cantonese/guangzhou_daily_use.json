@@ -1,5001 +1,4001 @@
 [
     {
-        "audio": "G0071_S0523.wav",
         "transcription": "人多未必係好事，人力貴在精，唔係多",
         "expected": "人多未必系好事，人力贵在精唔系多！"
     },
     {
-        "audio": "G0054_S0454.wav",
         "transcription": "我得三百啦，流車票就兩百啦",
         "expected": "我得三百啦，来回车票就两百啦。"
     },
     {
-        "audio": "G0067_S0478.wav",
         "transcription": "下台，再簽單，我再等一陣啦",
         "expected": "下台就系签单，我再等一阵啦。"
     },
     {
-        "audio": "G0071_S0092.wav",
         "transcription": "嗯，最後一個星期好晚上呀",
         "expected": "嗯，最后一个星期好漫长啊。"
     },
     {
-        "audio": "G0053_S0525.wav",
         "transcription": "係唔係想搵人陪你",
         "expected": "系唔系想搵人陪你？"
     },
     {
-        "audio": "G0067_S0252.wav",
         "transcription": "哼，想瞓咪瞓囉，一眼瞓呀",
         "expected": "呵，想瞓咪瞓咯！你瞌眼瞓啊？"
     },
     {
-        "audio": "G0052_S0246.wav",
         "transcription": "好識真誠噉關心朋友",
         "expected": "好识真诚咁关心朋友！"
     },
     {
-        "audio": "G0054_S0256.wav",
         "transcription": "喺我可以做到嘅情況下啦",
         "expected": "喺我可以做到嘅情况下啦！"
     },
     {
-        "audio": "G0071_S0521.wav",
         "transcription": "唔好再費盡心機啦",
         "expected": "唔好再费尽心机啦！"
     },
     {
-        "audio": "G0054_S0130.wav",
         "transcription": "我講嘢算數一定比佢幸福",
         "expected": "我讲嘢算数一定俾佢幸福！"
     },
     {
-        "audio": "G0053_S0517.wav",
         "transcription": "你連走嘅勇氣都冇，更加冇講保護我啦",
         "expected": "你连走嘅勇气都冇，更加唔好讲保护我啦。"
     },
     {
-        "audio": "G0053_S0058.wav",
         "transcription": "噉就冇趴住啦，平瞓喺度，冇額壞咗啊",
         "expected": "咁就冇趴住啦平瞓喺度冇压坏咗啊。"
     },
     {
-        "audio": "G0072_S0428.wav",
         "transcription": "嗯，你喺出面小心啲",
         "expected": "嗯，你喺出面小心啲。"
     },
     {
-        "audio": "G0072_S0458.wav",
         "transcription": "講句催眠嘅說話畀我好冇啊",
         "expected": "讲句催眠嘅说话俾我好唔好啊？"
     },
     {
-        "audio": "G0052_S0056.wav",
         "transcription": "我係佢咪全個女朋友",
         "expected": "我系佢米泉嘅女朋友。"
     },
     {
-        "audio": "G0067_S0405.wav",
         "transcription": "我仲食緊飯呀，食完飯先話啦",
         "expected": "我仲食紧饭啊，食完饭先玩啊！"
     },
     {
-        "audio": "G0070_S0206.wav",
         "transcription": "噉你而家身上有幾多錢?",
         "expected": "咁你依家身上有几多钱。"
     },
     {
-        "audio": "G0070_S0289.wav",
         "transcription": "小泉，我弟弟喺你嗰度嘛",
         "expected": "小秦我弟弟喺你嗰度吗？"
     },
     {
-        "audio": "G0070_S0276.wav",
         "transcription": "你係男嘅定係女嘅，你叫咩名？邊度嚟㗎？",
         "expected": "你系男嘅定系女嘅，你叫咩名，边度嚟噶？"
     },
     {
-        "audio": "G0054_S0125.wav",
         "transcription": "真係冇事咩？嚇死我喇",
         "expected": "真系冇事咩？吓死我啦！"
     },
     {
-        "audio": "G0054_S0137.wav",
         "transcription": "如果飲多咗我哋就唔講嘅，你瞓啦",
         "expected": "如果饮多咗我哋就唔讲嘞，你瞓啦。"
     },
     {
-        "audio": "G0053_S0185.wav",
         "transcription": "都同你講咗嘞仲問",
         "expected": "都同你讲咗嘞仲问！"
     },
     {
-        "audio": "G0067_S0027.wav",
         "transcription": "越嚟越覺得你係最唔合適嘅",
         "expected": "越嚟越觉得你系最合适嘅！"
     },
     {
-        "audio": "G0051_S0035.wav",
         "transcription": "我請你食飯兩個人幾好，早啲瞓",
         "expected": "我请你食饭两个人几好早啲瞓。"
     },
     {
-        "audio": "G0054_S0481.wav",
         "transcription": "你都一樣，晚安",
         "expected": "你都一样，晚安！"
     },
     {
-        "audio": "G0071_S0524.wav",
         "transcription": "我就接受爸爸媽媽嘅意見，搵個人家啦",
         "expected": "我就接受爸爸妈妈嘅意见，搵个人嫁啦！"
     },
     {
-        "audio": "G0051_S0138.wav",
         "transcription": "新正不怕贏示Y",
         "expected": "身正不怕影子歪。"
     },
     {
-        "audio": "G0072_S0460.wav",
         "transcription": "你有嗰份心，我已經好滿足喇！真嘅",
         "expected": "你有嗰份心我已经好满足啦真噶。"
     },
     {
-        "audio": "G0053_S0304.wav",
         "transcription": "仲未講清楚咩",
         "expected": "仲未讲清楚咩？"
     },
     {
-        "audio": "G0053_S0501.wav",
         "transcription": "親愛嘅，你而家做緊咩呀？",
         "expected": "亲爱嘅，你而家做紧咩啊？"
     },
     {
-        "audio": "G0071_S0108.wav",
         "transcription": "嚟啦，碎碎嘅事",
         "expected": "嚟啦碎碎嘅事！"
     },
     {
-        "audio": "G0067_S0193.wav",
         "transcription": "到咗生存同埋生活嘅感覺",
         "expected": "到咗生存同埋生活嘅感觉。"
     },
     {
-        "audio": "G0072_S0350.wav",
         "transcription": "係啊，我瞓咗覺喇",
         "expected": "系啊。我瞓咗觉啦？"
     },
     {
-        "audio": "G0054_S0034.wav",
         "transcription": "噉你仲要一個人踎一個語呀？",
         "expected": "咁你仲要一个人踎一个月啊！"
     },
     {
-        "audio": "G0055_S0058.wav",
         "transcription": "你可以感受到我嘅存在咩",
         "expected": "你可以感受到我嘅存在咩？"
     },
     {
-        "audio": "G0068_S0275.wav",
         "transcription": "我會珍惜你嘅，至於你唔鍾意我做嘅",
         "expected": "我会珍惜你嘅，至于你唔中意我做嘅。"
     },
     {
-        "audio": "G0072_S0217.wav",
         "transcription": "就係囉，仲不如諗下你好過",
         "expected": "就系咯，仲不如谂下你好过！"
     },
     {
-        "audio": "G0067_S0098.wav",
         "transcription": "快啲返嚟啦！都唔好笑",
         "expected": "快啲翻嚟啦都唔好笑。"
     },
     {
-        "audio": "G0067_S0068.wav",
         "transcription": "噉唔發喇，你聽日要返工，噉你快啲瞓覺喇",
         "expected": "咁唔发啦，你听日要翻工，咁你快啲瞓觉啦。"
     },
     {
-        "audio": "G0067_S0288.wav",
         "transcription": "我陣間仲要同你哋屋企流氓採訪呀",
         "expected": "我一阵间仲要同你哋屋企刘文采访啊！"
     },
     {
-        "audio": "G0054_S0099.wav",
         "transcription": "我一返到屋企就發現牆上發短信畀你㗎",
         "expected": "我一翻到屋企就瞓喺床上发短信俾你噶。"
     },
     {
-        "audio": "G0072_S0421.wav",
         "transcription": "我等你將呢衫攞畀我",
         "expected": "我等你将啲衫攞俾我。"
     },
     {
-        "audio": "G0071_S0252.wav",
         "transcription": "我今日冇擔佢，以後都唔會喇",
         "expected": "我今日冇担佢，以后都唔会啦。"
     },
     {
-        "audio": "G0067_S0420.wav",
         "transcription": "小童啊唔會傾偈啊",
         "expected": "少同阿妹倾偈啊！"
     },
     {
-        "audio": "G0068_S0510.wav",
         "transcription": "我哋呢邊唔緊要㗎",
         "expected": "我哋呢边唔紧要噶。"
     },
     {
-        "audio": "G0071_S0316.wav",
         "transcription": "希望你今日係快樂嘅，未笑嘅",
         "expected": "希望你今晚系快乐嘅，微笑嘅！"
     },
     {
-        "audio": "G0067_S0456.wav",
         "transcription": "你點解先回我訊息喇",
         "expected": "你点解先回我信息啊？"
     },
     {
-        "audio": "G0067_S0469.wav",
         "transcription": "我嘅寶寶我想瞓喇，你瞓未呀？",
         "expected": "我嘅宝宝我想瞓啦，你瞓未啊。"
     },
     {
-        "audio": "G0067_S0138.wav",
         "transcription": "我話唔理你喇，有用咩？",
         "expected": "我话唔理你啦，有用咩？"
     },
     {
-        "audio": "G0071_S0340.wav",
         "transcription": "如果你將我當朋友噉睇",
         "expected": "如果你将我当朋友咁睇。"
     },
     {
-        "audio": "G0053_S0268.wav",
         "transcription": "嗯，噉就得，有冇掛住我啊？姐姐好掛住你㗎喇",
         "expected": "嗯咁就得！有冇挂住我啊？姐姐好挂住你啊。"
     },
     {
-        "audio": "G0055_S0219.wav",
         "transcription": "聽日早上要陪姐姐去入課，下午去換班",
         "expected": "听日早上要陪姐姐去入货，下午去换班。"
     },
     {
-        "audio": "G0055_S0542.wav",
         "transcription": "佢畀你犀利，你就要畀佢仲犀利",
         "expected": "佢比你犀利你就要比佢仲犀利！"
     },
     {
-        "audio": "G0067_S0021.wav",
         "transcription": "聽日同我交話費啊",
         "expected": "听日同我交话费啊！"
     },
     {
-        "audio": "G0052_S0532.wav",
         "transcription": "好㗎，噉就快啲瞓啦",
         "expected": "好嘅，咁就快啲瞓啦！"
     },
     {
-        "audio": "G0068_S0049.wav",
         "transcription": "啱啱去刷牙啦，你洗衫未呀？靚仔",
         "expected": "啱啱去刷牙啦，你洗衫未啊？僆仔。"
     },
     {
-        "audio": "G0054_S0313.wav",
         "transcription": "我飲多咗好暈呀，我喺樓下等你，快啲",
         "expected": "我饮多咗好晕啊我喺楼下等你快啲。"
     },
     {
-        "audio": "G0071_S0329.wav",
         "transcription": "哈哈，唉，唔一樣囉",
         "expected": "哈哈！哎唔一样咯！"
     },
     {
-        "audio": "G0054_S0166.wav",
         "transcription": "唔接，再接我要亂死喇",
         "expected": "唔接再接我要乱死啦。"
     },
     {
-        "audio": "G0070_S0413.wav",
         "transcription": "朋友係唔係一定要分身夠",
         "expected": "朋友系唔系一定要分新旧？"
     },
     {
-        "audio": "G0054_S0066.wav",
         "transcription": "今日點啦，定好日子未",
         "expected": "今日点啊？定好日子未？"
     },
     {
-        "audio": "G0053_S0433.wav",
         "transcription": "嗯，聽日打電話畀你",
         "expected": "嗯听日打电话俾你。"
     },
     {
-        "audio": "G0068_S0244.wav",
         "transcription": "華安晚黑畀你短信",
         "expected": "哇安晚黑俾你短信。"
     },
     {
-        "audio": "G0055_S0123.wav",
         "transcription": "_(Mandarin)      ",
         "expected": "呵呵好嘅你就休息啦。"
     },
     {
-        "audio": "G0053_S0470.wav",
         "transcription": "我一年級都冇返學，你呢",
         "expected": "我一年级都冇翻学，你咧。"
     },
     {
-        "audio": "G0053_S0020.wav",
         "transcription": "而家瞓覺未啊？我食飯喇，拜拜",
         "expected": "而家瞓觉未啊，我食饭嘞，拜拜。"
     },
     {
-        "audio": "G0071_S0344.wav",
         "transcription": "梗係係我講㗎啦，親愛嘅你仲未返到屋企啊",
         "expected": "梗系系我讲噶啦，亲爱嘅你仲未翻到屋企啊？"
     },
     {
-        "audio": "G0068_S0185.wav",
         "transcription": "幾日冇見你喇，好掛住你呀",
         "expected": "几日冇见你啦，好挂住你啊。"
     },
     {
-        "audio": "G0072_S0283.wav",
         "transcription": "晚上好啊，喺度做緊咩啊？係咪已經瞓咗嘞？",
         "expected": "晚上好啊！喺度做紧咩啊？系咪已经瞓咗啦？"
     },
     {
-        "audio": "G0055_S0185.wav",
         "transcription": "比佢做老當，你把口到就得啦",
         "expected": "俾佢做老当，你把握好度就得啦。"
     },
     {
-        "audio": "G0071_S0478.wav",
         "transcription": "知喇，老公仲未發工知喇",
         "expected": "知啦，老公仲未发工资啊？"
     },
     {
-        "audio": "G0053_S0120.wav",
         "transcription": "瞓得太多，會發福㗎，早唞",
         "expected": "瞓得太多会发福噶，早唞。"
     },
     {
-        "audio": "G0053_S0376.wav",
         "transcription": "你唔再善我同邊個傾呢",
         "expected": "你唔在线我同边个倾咧？"
     },
     {
-        "audio": "G0072_S0507.wav",
         "transcription": "你知道你畀我睇要求嘅時候，有冇諗過我嘅處境啊",
         "expected": "你知道你俾我睇要求嘅时候，有冇谂过我嘅处境啊？"
     },
     {
-        "audio": "G0070_S0140.wav",
         "transcription": "嗯，喂，聽日都可以傾嘛",
         "expected": "嗯！喂！听日都可以倾吗？"
     },
     {
-        "audio": "G0051_S0287.wav",
         "transcription": "係嘞，聽日早上唔錯班車喇唄",
         "expected": "系嘞，听日早上唔坐班车嘞吧？"
     },
     {
-        "audio": "G0068_S0427.wav",
         "transcription": "如果係攰咗你就瞓覺啦",
         "expected": "如果系攰咗你就瞓觉啦。"
     },
     {
-        "audio": "G0068_S0075.wav",
         "transcription": "我早就已經睇出嚟喇",
         "expected": "我早就已经睇出嚟啦！"
     },
     {
-        "audio": "G0070_S0394.wav",
         "transcription": "你再唔返嚟，我就瞓喇",
         "expected": "你再唔翻嚟我就瞓啦。"
     },
     {
-        "audio": "G0055_S0340.wav",
         "transcription": "唔使真係咁敏感",
         "expected": "唔使净系咁敏感。"
     },
     {
-        "audio": "G0051_S0350.wav",
         "transcription": "真係唔嬲！噉你聽日幾點上班呀？",
         "expected": "真系唔嬲，咁你听日几点上班啊？"
     },
     {
-        "audio": "G0055_S0387.wav",
         "transcription": "我點解唔識你呀？",
         "expected": "我点解唔识你啊？"
     },
     {
-        "audio": "G0051_S0510.wav",
         "transcription": "唔好意思，我發錯喇",
         "expected": "唔好意思，我发错啦。"
     },
     {
-        "audio": "G0052_S0548.wav",
         "transcription": "我話咗嘅嘢係同佢一齊咩",
         "expected": "我话咗要日日同你一齐咩？"
     },
     {
-        "audio": "G0053_S0146.wav",
         "transcription": "趙姐同你講咗喇啩",
         "expected": "赵姐同你讲咗嘞啩！"
     },
     {
-        "audio": "G0072_S0374.wav",
         "transcription": "你趕住去同佢解釋咩",
         "expected": "你赶住去同佢解释咩。"
     },
     {
-        "audio": "G0051_S0016.wav",
         "transcription": "你日日都喺度做乜嘢啊？",
         "expected": "你日日都喺度做乜嘢啊？"
     },
     {
-        "audio": "G0051_S0466.wav",
         "transcription": "我今日已經諗清楚喇",
         "expected": "我今日已经谂清楚啦。"
     },
     {
-        "audio": "G0067_S0513.wav",
         "transcription": "我媽話你哋唔可靠",
         "expected": "我妈话你哋唔可靠！"
     },
     {
-        "audio": "G0072_S0379.wav",
         "transcription": "因爲唔係你先上嚟？一個星期後將錢送落去",
         "expected": "一唔系你先上嚟，一个星期后将钱送落去！"
     },
     {
-        "audio": "G0055_S0370.wav",
         "transcription": "同你個乖乖浪漫遇未呀",
         "expected": "同你嘅乖乖浪漫完未啊？"
     },
     {
-        "audio": "G0052_S0255.wav",
         "transcription": "噉佢見到我哋囉啩",
         "expected": "咁佢见到我哋嘞啩？"
     },
     {
-        "audio": "G0053_S0205.wav",
         "transcription": "但係你，我冇怪你嘅意思",
         "expected": "但系你，我冇怪你嘅意思。"
     },
     {
-        "audio": "G0051_S0483.wav",
         "transcription": "未嘞，我落班仲早",
         "expected": "未咧，我落班仲早。"
     },
     {
-        "audio": "G0067_S0032.wav",
         "transcription": "做緊咩呀？我落班呀",
         "expected": "做紧咩啊？我落班啦。"
     },
     {
-        "audio": "G0067_S0004.wav",
         "transcription": "咩呀？我一直喺唱吉呀",
         "expected": "咩啊。我一直喺昌吉啊。"
     },
     {
-        "audio": "G0071_S0196.wav",
         "transcription": "爸爸，你呢個星期返唔返嚟呀？",
         "expected": "爸爸你呢个星期翻唔翻嚟啊。"
     },
     {
-        "audio": "G0055_S0087.wav",
         "transcription": "你哋喺嗰邊都好霸",
         "expected": "你哋喺嗰边都好吧！"
     },
     {
-        "audio": "G0052_S0537.wav",
         "transcription": "所以我先話你係我個女人",
         "expected": "所以我先话你系我嘅女人！"
     },
     {
-        "audio": "G0071_S0472.wav",
         "transcription": "做咩呀？點解狂嘔嘅？",
         "expected": "做咩啊点解狂呕嘅？"
     },
     {
-        "audio": "G0054_S0191.wav",
         "transcription": "我哋邊個都冇折磨邊個",
         "expected": "我哋边个都冇折磨边个！"
     },
     {
-        "audio": "G0067_S0247.wav",
         "transcription": "我知我呃你係我唔啱",
         "expected": "我知我呃你系我唔啱。"
     },
     {
-        "audio": "G0068_S0247.wav",
         "transcription": "老婆，我到宿舍喇",
         "expected": "老婆我到宿舍啦！"
     },
     {
-        "audio": "G0053_S0069.wav",
         "transcription": "唔通係掛住我掛住到瞓唔著覺",
         "expected": "唔通系挂住我挂住到瞓唔着觉。"
     },
     {
-        "audio": "G0067_S0239.wav",
         "transcription": "希望你早啲瞓覺，睇書唔好睇太夜啦",
         "expected": "希望你早啲瞓觉，睇书唔好睇太夜啦。"
     },
     {
-        "audio": "G0051_S0482.wav",
         "transcription": "我唔鍾意睇電視呀",
         "expected": "我唔中意睇电视啊。"
     },
     {
-        "audio": "G0070_S0384.wav",
         "transcription": "你自己再睇睇，到時",
         "expected": "你自己再睇睇，到时。"
     },
     {
-        "audio": "G0055_S0061.wav",
         "transcription": "對唔住呀！我都對唔住",
         "expected": "对唔住啊，我都对唔住。"
     },
     {
-        "audio": "G0067_S0057.wav",
         "transcription": "你唔攰咩？我唔玩喇，我哋兩個短信傾下計吖",
         "expected": "你唔攰咩？我唔玩啦，我哋两个短信倾下偈啊。"
     },
     {
-        "audio": "G0067_S0410.wav",
         "transcription": "哦，以後你哋就互相幫助吖，蘭博喺咪度啊？",
         "expected": "哦，以后你哋就互相帮助啊，兰博喺唔喺度啊？"
     },
     {
-        "audio": "G0067_S0038.wav",
         "transcription": "好喇唔講喇，我喺度上緊班喇",
         "expected": "好啦，唔讲啦，我喺度上紧班啊。"
     },
     {
-        "audio": "G0051_S0516.wav",
         "transcription": "我冇呃你呀，我一個人冇料呀！",
         "expected": "我冇呃你啊，我一个人无聊啊。"
     },
     {
-        "audio": "G0052_S0003.wav",
         "transcription": "喺嗰個蒙古包，自己煮飯唱歌，殺的",
         "expected": "喺嗰个蒙古包，自己煮饭唱歌，撒的！"
     },
     {
-        "audio": "G0071_S0333.wav",
         "transcription": "寶貝，除咗屋企人就只有你喇",
         "expected": "宝贝除咗屋企人就只有你啦！"
     },
     {
-        "audio": "G0052_S0125.wav",
         "transcription": "係咪真心㗎？有冇家庭因素喺入邊呀？",
         "expected": "系咪真心噶？有冇家庭因素喺入边啊？"
     },
     {
-        "audio": "G0052_S0251.wav",
         "transcription": "你而家身體係最重要㗎",
         "expected": "你而家身体系最重要噶。"
     },
     {
-        "audio": "G0052_S0153.wav",
         "transcription": "我唔希望，就瞓瞓覺啦，就唔好亂講嘢啦",
         "expected": "我唔希望，就快瞓觉啦，就唔会乱讲嘢啦。"
     },
     {
-        "audio": "G0052_S0424.wav",
         "transcription": "我知，我淨係嗰個細路",
         "expected": "我知我就系嗰个细路。"
     },
     {
-        "audio": "G0072_S0054.wav",
         "transcription": "你都要理解下我吖嘛",
         "expected": "你都要理解下我啊嘛！"
     },
     {
-        "audio": "G0054_S0048.wav",
         "transcription": "老婆，你歌唱完嘞回個訊息好嘛？",
         "expected": "老婆，你歌唱完啦回个信息好吗？"
     },
     {
-        "audio": "G0072_S0073.wav",
         "transcription": "哦，到咗打電話我落去吖",
         "expected": "哦到咗打电话我落去啊。"
     },
     {
-        "audio": "G0054_S0003.wav",
         "transcription": "星期六浪漫敏別",
         "expected": "星期六浪漫吻别。"
     },
     {
-        "audio": "G0051_S0426.wav",
         "transcription": "多謝喇，冇事，等佢哋自己去租啦",
         "expected": "多谢啦。冇事。等佢哋自己去租啦。"
     },
     {
-        "audio": "G0072_S0436.wav",
         "transcription": "我話畀你聽，你唔好噉對我",
         "expected": "我话俾你听你唔好咁对我。"
     },
     {
-        "audio": "G0072_S0502.wav",
         "transcription": "我係你㗎，我有權分擔㗎",
         "expected": "我系你噶，我有权分担噶！"
     },
     {
-        "audio": "G0072_S0255.wav",
         "transcription": "就得我，冇你咁有錢，但係我爸好多",
         "expected": "就得我冇你咁有钱，但系我爸好多。"
     },
     {
-        "audio": "G0071_S0154.wav",
         "transcription": "我希望你好好休息",
         "expected": "我希望你好好休息！"
     },
     {
-        "audio": "G0051_S0256.wav",
         "transcription": "唔係爸，唉，仲未瞓呀",
         "expected": "唔系吧！唉，仲未瞓啊？"
     },
     {
-        "audio": "G0068_S0009.wav",
         "transcription": "老婆啱先跌咗線喇",
         "expected": "老婆啱先跌咗线啦！"
     },
     {
-        "audio": "G0067_S0280.wav",
         "transcription": "順便都勸到你自己吖",
         "expected": "顺便都劝下你自己啊！"
     },
     {
-        "audio": "G0053_S0152.wav",
         "transcription": "你呀你哋學校揾唔到咩",
         "expected": "你喺你哋学校搵唔到咩？"
     },
     {
-        "audio": "G0071_S0357.wav",
         "transcription": "老婆，我飲酒啦，你仲未瞓喇",
         "expected": "老婆我饮酒啦，你仲未瞓啊？"
     },
     {
-        "audio": "G0051_S0075.wav",
         "transcription": "嗯，快啲返嚟，老婆",
         "expected": "嗯，快啲翻嚟，老婆。"
     },
     {
-        "audio": "G0068_S0183.wav",
         "transcription": "唔早喇，你早啲休息啦",
         "expected": "唔早啦，你早啲唞啦。"
     },
     {
-        "audio": "G0053_S0054.wav",
         "transcription": "我買咗袋海棗面膜",
         "expected": "我买咗一袋海藻面膜。"
     },
     {
-        "audio": "G0070_S0005.wav",
         "transcription": "我嘅傻妹，你講到全部錯呀！",
         "expected": "我嘅傻妹，你讲到全部错啊！"
     },
     {
-        "audio": "G0052_S0368.wav",
         "transcription": "邊個叫你打其他男仔㗎？",
         "expected": "边个叫你打其他男仔噶？"
     },
     {
-        "audio": "G0072_S0550.wav",
         "transcription": "七月二十號係我媽媽嘅生日",
         "expected": "七月二十号，系我妈妈嘅生日。"
     },
     {
-        "audio": "G0054_S0321.wav",
         "transcription": "咁夜喇仲傾呀？",
         "expected": "咁夜啦仲倾啊？"
     },
     {
-        "audio": "G0067_S0489.wav",
         "transcription": "所以，你開車要注意呀",
         "expected": "所以你开车要注意啊！"
     },
     {
-        "audio": "G0067_S0266.wav",
         "transcription": "噉我就話少少畀你知吖",
         "expected": "咁我就话少少俾你知啊！"
     },
     {
-        "audio": "G0054_S0005.wav",
         "transcription": "好啦早啲瞓啦",
         "expected": "好啦！早啲瞓啦！"
     },
     {
-        "audio": "G0054_S0505.wav",
         "transcription": "唔好畀我擔心你啦",
         "expected": "唔好俾我担心你啦。"
     },
     {
-        "audio": "G0053_S0111.wav",
         "transcription": "如果你唔相下一切喇，我冇所謂",
         "expected": "如果你唔想喺一齐啦我冇所谓。"
     },
     {
-        "audio": "G0052_S0180.wav",
         "transcription": "我都唔知呀，點算呀",
         "expected": "我都唔知啊，点算啊？"
     },
     {
-        "audio": "G0068_S0213.wav",
         "transcription": "氹馬里咁大，要好好多",
         "expected": "氹下你咁大要好好多。"
     },
     {
-        "audio": "G0072_S0477.wav",
         "transcription": "特別想着呢靚衫畀老公睇",
         "expected": "特别想着啲靓衫俾老公睇。"
     },
     {
-        "audio": "G0053_S0521.wav",
         "transcription": "都係早啲瞓啦，話唔定可以夢到我喇",
         "expected": "都系早啲瞓啦，话唔定可以梦到我嘞。"
     },
     {
-        "audio": "G0055_S0120.wav",
         "transcription": "捲總算做完啦快攰死啦",
         "expected": "卷总算做完啦，快攰死啦。"
     },
     {
-        "audio": "G0053_S0398.wav",
         "transcription": "好，冇咁早瞓，再睇下書好嘛",
         "expected": "好，唔好咁早瞓，再睇下书好嘛？"
     },
     {
-        "audio": "G0054_S0289.wav",
         "transcription": "你而家要去上網呀？",
         "expected": "你而家要去上网啊？"
     },
     {
-        "audio": "G0070_S0187.wav",
         "transcription": "哈哈，見掛，老婆過嚟都可以睇到啊",
         "expected": "呵呵见过啊老婆过嚟都可以睇到哦。"
     },
     {
-        "audio": "G0052_S0190.wav",
         "transcription": "係嘞，你個願望係咩呀？",
         "expected": "系啦，你嘅愿望系咩啊！"
     },
     {
-        "audio": "G0071_S0213.wav",
         "transcription": "兩樣都想，你嚟唔嚟",
         "expected": "两样都想，你嚟唔嚟。"
     },
     {
-        "audio": "G0054_S0031.wav",
         "transcription": "其它唔好同我講，唔理你過日子我！",
         "expected": "其他唔好同我讲，唔嚟你过日子我。"
     },
     {
-        "audio": "G0070_S0455.wav",
         "transcription": "而家最想做嘅事，就係瞓覺",
         "expected": "依家最想做嘅事就系瞓觉。"
     },
     {
-        "audio": "G0053_S0230.wav",
         "transcription": "可唔可以發一張你嘅相畀我呀？",
         "expected": "可唔可以发一张你嘅相啊俾我啊！"
     },
     {
-        "audio": "G0072_S0267.wav",
         "transcription": "都唔會，睇你嘅本事啦",
         "expected": "都唔会，睇你嘅本事啦！"
     },
     {
-        "audio": "G0055_S0106.wav",
         "transcription": "好忙呀你呢，還可以吧，有冇時間睇我",
         "expected": "好忙啊，你咧，还可以吧，有冇时间睇我。"
     },
     {
-        "audio": "G0054_S0170.wav",
         "transcription": "我哋講好咗男女遭對門，互相照顧",
         "expected": "我哋讲好咗男女租对门，互相照顾。"
     },
     {
-        "audio": "G0072_S0530.wav",
         "transcription": "我永遠都唔想失去你",
         "expected": "我永远都唔想失去你！"
     },
     {
-        "audio": "G0071_S0079.wav",
         "transcription": "下季內臨，專登為大家推出大地灣七日遊",
         "expected": "夏季来临专登为大家推出大地湾七日游！"
     },
     {
-        "audio": "G0072_S0089.wav",
         "transcription": "好好休息啦，唔好自己激自己啦，我冇錯",
         "expected": "好好休息啦！唔好自己激自己啦！我冇错！"
     },
     {
-        "audio": "G0068_S0514.wav",
         "transcription": "嗱你都要過好日子吖",
         "expected": "嗱你都要过好日子啊。"
     },
     {
-        "audio": "G0052_S0264.wav",
         "transcription": "一唔係，你都叫佢買？",
         "expected": "一唔系你都叫佢买？"
     },
     {
-        "audio": "G0071_S0297.wav",
         "transcription": "返去未呀？寶貝蛋",
         "expected": "翻去未啊宝贝蛋？"
     },
     {
-        "audio": "G0052_S0144.wav",
         "transcription": "真係嘅？話分就分",
         "expected": "真系嘅话瞓就瞓。"
     },
     {
-        "audio": "G0055_S0252.wav",
         "transcription": "咁快呀？呢次我冇錢呀，小羊，唔法囉",
         "expected": "咁快啊，呢次我冇钱啦小样，唔发哦。"
     },
     {
-        "audio": "G0068_S0005.wav",
         "transcription": "我冇輕復嘅意思，只係諗到你喇",
         "expected": "我冇轻浮嘅意思，只系谂到你嘞。"
     },
     {
-        "audio": "G0053_S0018.wav",
         "transcription": "今日仲想安慰你",
         "expected": "今日仲想安慰你。"
     },
     {
-        "audio": "G0052_S0393.wav",
         "transcription": "啱啱喺度沖涼，過關瞓啦，石你",
         "expected": "啱啱喺度冲凉，乖乖瞓啦，锡你。"
     },
     {
-        "audio": "G0072_S0130.wav",
         "transcription": "老婆我返到屋企嘞，你瞓咗未呀",
         "expected": "老婆我翻到屋企啦，你瞓咗未啊。"
     },
     {
-        "audio": "G0054_S0119.wav",
         "transcription": "唔應該㗎，你走嘅時候點解唔同我講呀",
         "expected": "唔应该噶你走嘅时候点解唔同我讲啊。"
     },
     {
-        "audio": "G0054_S0259.wav",
         "transcription": "真愛嘅老公，今日你好忙呀",
         "expected": "亲爱嘅老公，今日你好忙啊？"
     },
     {
-        "audio": "G0053_S0396.wav",
         "transcription": "但我更加唔想講人哋嘅壞話",
         "expected": "但我更加唔想讲人哋嘅坏话！"
     },
     {
-        "audio": "G0071_S0544.wav",
         "transcription": "棄棄，都唔好睇到咁嘢啦",
         "expected": "嘿嘿都唔好睇到咁夜啦。"
     },
     {
-        "audio": "G0067_S0334.wav",
         "transcription": "寶寶，瞓咗未呀？好想到你身邊呀",
         "expected": "宝宝瞓咗未啊？好想到你身边啊。"
     },
     {
-        "audio": "G0051_S0259.wav",
         "transcription": "得，乜都得，不過你水平趕唔上我",
         "expected": "得，乜都得！不过你水平赶唔上我。"
     },
     {
-        "audio": "G0070_S0430.wav",
         "transcription": "小心哥哥，唔好畀佢知道嘞",
         "expected": "小心哥哥，唔好俾佢知道啦。"
     },
     {
-        "audio": "G0071_S0171.wav",
         "transcription": "每日有個好心情",
         "expected": "每日有个好心情！"
     },
     {
-        "audio": "G0071_S0369.wav",
         "transcription": "希望佢都係噉樣諗",
         "expected": "希望佢都系咁样谂！"
     },
     {
-        "audio": "G0054_S0201.wav",
         "transcription": "你都係我真愛的拜拜",
         "expected": "你都系哦亲爱的，拜拜。"
     },
     {
-        "audio": "G0052_S0025.wav",
         "transcription": "畀佢哋睇下都叫過份",
         "expected": "俾佢哋睇下都叫过分？"
     },
     {
-        "audio": "G0055_S0528.wav",
         "transcription": "今日收到幾多禮物呀",
         "expected": "今日收到几多礼物啊？"
     },
     {
-        "audio": "G0055_S0346.wav",
         "transcription": "冇去，點解仲未瞓？",
         "expected": "冇去。点解仲未瞓？"
     },
     {
-        "audio": "G0070_S0367.wav",
         "transcription": "聽日早上十一點半到學校，唔好遲到嘞",
         "expected": "听日早上十一点半到学校唔好迟到啦。"
     },
     {
-        "audio": "G0055_S0332.wav",
         "transcription": "我到屋企喇，瞓低喇",
         "expected": "我到屋企啦，瞓低啦。"
     },
     {
-        "audio": "G0055_S0500.wav",
         "transcription": "姐夫都瞓咗喇，你生得靚呀？",
         "expected": "姐夫都瞓咗啦？你生得靓吗？"
     },
     {
-        "audio": "G0072_S0125.wav",
         "transcription": "只要證明我喺宿舍就得啦",
         "expected": "只要证明我喺宿舍就得啦。"
     },
     {
-        "audio": "G0053_S0276.wav",
         "transcription": "冇嘢做啊，你哋喺度做緊咩啊？冇返工咩？",
         "expected": "冇嘢做啊，你哋喺度做紧咩啊，冇翻工咩？"
     },
     {
-        "audio": "G0068_S0428.wav",
         "transcription": "你又比較快咗一步",
         "expected": "你又比我快咗一步！"
     },
     {
-        "audio": "G0055_S0066.wav",
         "transcription": "問我就問咗我好幾次啦",
         "expected": "问我就问咗我好几次啦！"
     },
     {
-        "audio": "G0071_S0222.wav",
         "transcription": "你同我都係一樣，刪咗我嘅訊息",
         "expected": "你同我都系一样，删咗我嘅信息。"
     },
     {
-        "audio": "G0068_S0385.wav",
         "transcription": "老婆，返去瞓覺啦",
         "expected": "老婆，翻去瞓觉啦！"
     },
     {
-        "audio": "G0054_S0244.wav",
         "transcription": "或者講係佢心中會有一份空間就夠嘞啩",
         "expected": "或者讲喺佢心中我有一份空间就够啦啩。"
     },
     {
-        "audio": "G0055_S0128.wav",
         "transcription": "將個心交畀你，我好放心",
         "expected": "将个心交俾你我好放心。"
     },
     {
-        "audio": "G0068_S0085.wav",
         "transcription": "同你發短信，唔覺得眼瞓",
         "expected": "同你发短信唔觉得眼瞓。"
     },
     {
-        "audio": "G0071_S0377.wav",
         "transcription": "香香，木木，噉算唔算你係為咗我啦話？",
         "expected": "呵呵，木木咁算唔算你系为咗我嬲啊。"
     },
     {
-        "audio": "G0052_S0414.wav",
         "transcription": "你都係呀，老公，早啲休息，唔好咁攰喇",
         "expected": "你都系啊老公早啲休息唔好咁攰啦。"
     },
     {
-        "audio": "G0055_S0016.wav",
         "transcription": "哦，噉冇事啦，肯定會仲有好嘅女仔㗎",
         "expected": "哦，咁冇事啦，肯定会仲有好嘅女仔噶。"
     },
     {
-        "audio": "G0071_S0121.wav",
         "transcription": "冇嘢做，向宿舍走",
         "expected": "冇嘢做，向宿舍走。"
     },
     {
-        "audio": "G0072_S0228.wav",
         "transcription": "噉我就要舒舒服服嘅瞓覺啦 你就瞓到啦",
         "expected": "咁我就要舒舒服服嘅瞓觉啦，你就奋斗啦！"
     },
     {
-        "audio": "G0067_S0037.wav",
         "transcription": "我邊度令你睇唔慣咩",
         "expected": "我边度令你睇唔惯咩？"
     },
     {
-        "audio": "G0051_S0530.wav",
         "transcription": "你唔係喺度上網咩？點解會唔見咗？",
         "expected": "你唔系喺度上网咩？点解会唔见咗？"
     },
     {
-        "audio": "G0055_S0115.wav",
         "transcription": "你太令我失望啦，唔理老母嘅死亡",
         "expected": "你太令我失望啦唔理老母嘅死亡。"
     },
     {
-        "audio": "G0072_S0006.wav",
         "transcription": "冇事嘅，點可以話係你害咗我呢？",
         "expected": "冇事嘅，点可以话系你害咗我咧？"
     },
     {
-        "audio": "G0070_S0441.wav",
         "transcription": "兒子身上長了好多豆豆",
         "expected": "儿子身上长了好多豆豆。"
     },
     {
-        "audio": "G0054_S0187.wav",
         "transcription": "冇呀，你呢？做緊乜呀？",
         "expected": "冇啊你咧做紧乜啊。"
     },
     {
-        "audio": "G0071_S0517.wav",
         "transcription": "鍛練你呀，以後你一個人點算呀？",
         "expected": "锻炼你啊！以后你一个人点算啊？"
     },
     {
-        "audio": "G0053_S0193.wav",
         "transcription": "我到九月份去睇你",
         "expected": "我到九月份去睇你？"
     },
     {
-        "audio": "G0053_S0078.wav",
         "transcription": "哦，噉就放心喇，嗯",
         "expected": "哦！咁就放心啦！呵呵。"
     },
     {
-        "audio": "G0068_S0148.wav",
         "transcription": "我想去吖，得閒都冇了",
         "expected": "我想去啊！得闲都无聊。"
     },
     {
-        "audio": "G0070_S0218.wav",
         "transcription": "到時候，成姐姐老，你老了嗎？不是吧！",
         "expected": "到时候成姐姐老，你老了吗，不是吧！"
     },
     {
-        "audio": "G0068_S0379.wav",
         "transcription": "你有咩打算？",
         "expected": "你有咩打算啊？"
     },
     {
-        "audio": "G0052_S0211.wav",
         "transcription": "我先唔驚，我又冇做咩",
         "expected": "我先唔惊啊，我又冇做咩。"
     },
     {
-        "audio": "G0070_S0361.wav",
         "transcription": "多會呀！為什麼一定要回去",
         "expected": "多会啊？为什么一定要回去？"
     },
     {
-        "audio": "G0052_S0185.wav",
         "transcription": "唔緊要啦，冇我對唔住，噉就冇聽吖嘛",
         "expected": "唔紧要啦，唔好讲对唔住，咁就冇听啊嘛。"
     },
     {
-        "audio": "G0067_S0505.wav",
         "transcription": "落班未呀？我仲未落呀",
         "expected": "落班未啊？我仲未落啊！"
     },
     {
-        "audio": "G0071_S0428.wav",
         "transcription": "有下次你要幫我啊！",
         "expected": "有下次你要帮我啊。"
     },
     {
-        "audio": "G0055_S0446.wav",
         "transcription": "燕子都係忘記咗我啦",
         "expected": "燕子都系忘记咗我啦。"
     },
     {
-        "audio": "G0054_S0464.wav",
         "transcription": "回答問題同工作有咩關係呀",
         "expected": "回答问题同工作有咩关系啊？"
     },
     {
-        "audio": "G0051_S0249.wav",
         "transcription": "你呀，唔怪，瞓啦早啲",
         "expected": "你啊？唔乖，瞓啦早啲。"
     },
     {
-        "audio": "G0070_S0325.wav",
         "transcription": "係嘅，我聽你嘅，買安，哈哈",
         "expected": "系嘅。我听你嘅。晚安。呵呵。"
     },
     {
-        "audio": "G0051_S0155.wav",
         "transcription": "老公，你冇事吧？",
         "expected": "老公，你冇事吧？"
     },
     {
-        "audio": "G0071_S0115.wav",
         "transcription": "你又想冇事搵事，想賴交呀？",
         "expected": "你又想冇事搵事想嗌交啊？"
     },
     {
-        "audio": "G0072_S0376.wav",
         "transcription": "哈哈，差唔多咩",
         "expected": "呵呵差唔多咩！"
     },
     {
-        "audio": "G0051_S0390.wav",
         "transcription": "你快啲瞓覺好嘢啦",
         "expected": "你快啲瞓吧，好夜啦。"
     },
     {
-        "audio": "G0071_S0225.wav",
         "transcription": "兩個人要相遇以門",
         "expected": "两个人要相濡以沫。"
     },
     {
-        "audio": "G0051_S0223.wav",
         "transcription": "花，而家心情好啲未呀？",
         "expected": "花，而家心情好啲未啊？"
     },
     {
-        "audio": "G0068_S0192.wav",
         "transcription": "冇仲係睇咁夜咯啊",
         "expected": "唔好仲系睇咁夜嘞喎！"
     },
     {
-        "audio": "G0052_S0059.wav",
         "transcription": "好嘅，我估嘅今日晚吓你於身邊啦",
         "expected": "好噶，我估计今日晚黑又要失眠啦。"
     },
     {
-        "audio": "G0068_S0459.wav",
         "transcription": "嗯，你都係，拜拜",
         "expected": "嗯你都系。拜！"
     },
     {
-        "audio": "G0053_S0215.wav",
         "transcription": "噉就發短信講啦",
         "expected": "咁就发短信讲啦。"
     },
     {
-        "audio": "G0052_S0286.wav",
         "transcription": "哦，噉老婆做啲優先？聽日幾點去呀？",
         "expected": "哦，咁老婆早啲休息啦，听日几点去啊？"
     },
     {
-        "audio": "G0070_S0546.wav",
         "transcription": "哦？你冇嚇我呀？你可笑呀！",
         "expected": "哦？你唔好吓我啊，你可笑啊！"
     },
     {
-        "audio": "G0070_S0294.wav",
         "transcription": "希望你新嘅一日有一個新嘅開始",
         "expected": "希望你新嘅一日有一个新嘅开始！"
     },
     {
-        "audio": "G0052_S0305.wav",
         "transcription": "有咩唔好意思啫?",
         "expected": "有咩唔好意思啫？"
     },
     {
-        "audio": "G0068_S0240.wav",
         "transcription": "你咪接電話我聽下你嘅彩零",
         "expected": "你咪接电话，我听下你嘅彩铃。"
     },
     {
-        "audio": "G0051_S0494.wav",
         "transcription": "三花五字問來乜嘢啊？",
         "expected": "三番五次问嚟乜嘢啊？"
     },
     {
-        "audio": "G0055_S0353.wav",
         "transcription": "彭石有乜好玩呀？",
         "expected": "鹏石有咩好玩啊。"
     },
     {
-        "audio": "G0072_S0499.wav",
         "transcription": "老公，老婆想，都快癲呀",
         "expected": "老公，老婆想，都快癫啦。"
     },
     {
-        "audio": "G0055_S0441.wav",
         "transcription": "啱啱返嚟沖涼，瞓咗未呀？",
         "expected": "啱翻嚟冲凉，瞓咗未啊？"
     },
     {
-        "audio": "G0055_S0095.wav",
         "transcription": "你點解要咁樣對我呀？今日又係咁",
         "expected": "你点解要咁样对我啊，今日又系咁。"
     },
     {
-        "audio": "G0071_S0413.wav",
         "transcription": "算啦，我仲細，唔減靚教",
         "expected": "算啦，我仲细，唔敢领教。"
     },
     {
-        "audio": "G0070_S0062.wav",
         "transcription": "多謝你，我知道，想你，很安",
         "expected": "多谢你！我知道，想你！晚安！"
     },
     {
-        "audio": "G0070_S0440.wav",
         "transcription": "你嗰度冇咩睇啊",
         "expected": "你嗰度冇咩睇啊！"
     },
     {
-        "audio": "G0054_S0392.wav",
         "transcription": "你唔係話心裏有我咩？",
         "expected": "你唔系话心里有我咩？"
     },
     {
-        "audio": "G0072_S0004.wav",
         "transcription": "你覺得好嘛？好耐未有你個消息啦",
         "expected": "你过得好吗？好耐未有你嘅消息啦。"
     },
     {
-        "audio": "G0051_S0094.wav",
         "transcription": "如果想瞓覺，就要詏自己，提醒",
         "expected": "如果想瞓觉就要咬自己提醒！"
     },
     {
-        "audio": "G0072_S0229.wav",
         "transcription": "好啦，我個部杯，我瞓覺啦，拜拜",
         "expected": "好啦我嘅宝贝我瞓觉啦拜拜。"
     },
     {
-        "audio": "G0071_S0465.wav",
         "transcription": "一般我好少發夢",
         "expected": "一般我好少发梦！"
     },
     {
-        "audio": "G0055_S0035.wav",
         "transcription": "咁就一直攬住你到天亮啦，好唔好？",
         "expected": "咁就一直揽住你到天光啦，好唔好？"
     },
     {
-        "audio": "G0055_S0150.wav",
         "transcription": "你畀我發嘅號碼呢，我喺度上夜班",
         "expected": "你俾我发嘅号码咧，我喺度上夜班。"
     },
     {
-        "audio": "G0068_S0206.wav",
         "transcription": "你哋而家仲喺度玩緊？",
         "expected": "你哋而家仲喺度玩紧？"
     },
     {
-        "audio": "G0071_S0226.wav",
         "transcription": "你落巴未呀？望唔望呀？有嘢你就直接講啦",
         "expected": "你落班未啊？忙唔忙啊？有嘢你直接讲啊。"
     },
     {
-        "audio": "G0072_S0403.wav",
         "transcription": "我冇掟，亦都冇跌爛，你知我唔好意思呀",
         "expected": "我冇掟亦都冇跌烂你知我唔好意思啊。"
     },
     {
-        "audio": "G0055_S0028.wav",
         "transcription": "大佬呀，你以後可唔可以照顧下我呀？",
         "expected": "大佬啊你以后可唔可以照顾下我啊！"
     },
     {
-        "audio": "G0054_S0333.wav",
         "transcription": "鍾意你，奉唔服你",
         "expected": "中意你服唔服你。"
     },
     {
-        "audio": "G0070_S0032.wav",
         "transcription": "哦？你唔係鍾意武俠嘅嘛？",
         "expected": "哦？你唔系中意武侠的吗？"
     },
     {
-        "audio": "G0068_S0067.wav",
         "transcription": "噉你攞衫喺大門口？我哋快到啦",
         "expected": "咁你攞衫喺大门口，我哋快到嘞。"
     },
     {
-        "audio": "G0055_S0167.wav",
         "transcription": "你好，請問你有咩事？",
         "expected": "你好请问你有咩事？"
     },
     {
-        "audio": "G0070_S0467.wav",
         "transcription": "保背老婆，相信自己",
         "expected": "宝贝老婆，相信自己！"
     },
     {
-        "audio": "G0051_S0444.wav",
         "transcription": "地，嗰係一種天地嘅真摯友情",
         "expected": "地，梗系一种天地嘅真挚友情。"
     },
     {
-        "audio": "G0070_S0036.wav",
         "transcription": "而家畀你回短信",
         "expected": "依家俾你回短信。"
     },
     {
-        "audio": "G0051_S0281.wav",
         "transcription": "我係個冇原則嘅人咩",
         "expected": "我系个冇原则嘅人咩？"
     },
     {
-        "audio": "G0053_S0034.wav",
         "transcription": "信好唔好，兜唔上去，等陣嘛",
         "expected": "信号唔好，登唔上去等阵嘛！"
     },
     {
-        "audio": "G0070_S0466.wav",
         "transcription": "哦，冇發呢個短信喇，畀佢哋睇到喇",
         "expected": "哦！冇发呢个短信啦！俾佢哋睇到啦！"
     },
     {
-        "audio": "G0054_S0188.wav",
         "transcription": "聽日再講啦，我一起身就發畀你",
         "expected": "听日再讲啦，我一起身就发俾你。"
     },
     {
-        "audio": "G0055_S0241.wav",
         "transcription": "發覺啦，點解仲唔瞓啦？",
         "expected": "发过啦，点解仲唔瞓啊？"
     },
     {
-        "audio": "G0068_S0296.wav",
         "transcription": "真係好鍾意佢啊，點算呀？",
         "expected": "真系好中意佢啊，点算啊？"
     },
     {
-        "audio": "G0067_S0133.wav",
         "transcription": "想講嘅嘢，而家講呀",
         "expected": "想讲嘅嘢依家讲啊！"
     },
     {
-        "audio": "G0055_S0318.wav",
         "transcription": "發咩呀，你快啲覆信，快冇電呀",
         "expected": "发咩啊你快啲复信快冇电啦。"
     },
     {
-        "audio": "G0051_S0433.wav",
         "transcription": "要我叫你都得，但必須馬上同我瞓覺",
         "expected": "要我叫你都得，但必须马上同我瞓觉。"
     },
     {
-        "audio": "G0070_S0494.wav",
         "transcription": "聽日中午帶我過去啦",
         "expected": "听日中午带我逛去啊！"
     },
     {
-        "audio": "G0053_S0300.wav",
         "transcription": "人哋嘅痛苦之上，等待",
         "expected": "人哋嘅痛苦之上，等待。"
     },
     {
-        "audio": "G0067_S0434.wav",
         "transcription": "執之之手，與之鞋撈",
         "expected": "执子之手，与子偕老。"
     },
     {
-        "audio": "G0055_S0020.wav",
         "transcription": "就係因為我對你太好，你先咁愛我",
         "expected": "就系因为我对你太好，你先咁爱我。"
     },
     {
-        "audio": "G0054_S0164.wav",
         "transcription": "唔捨得我嘅人太多喇",
         "expected": "唔舍得我嘅人太多啦。"
     },
     {
-        "audio": "G0071_S0234.wav",
         "transcription": "點解喺我面前想做個細路呢",
         "expected": "点解喺我面前想做个细路咧。"
     },
     {
-        "audio": "G0071_S0327.wav",
         "transcription": "如果人冇思維能力噉幾好啊",
         "expected": "如果人冇思维能力咁几好啊！"
     },
     {
-        "audio": "G0071_S0078.wav",
         "transcription": "真係㗎，但係你可唔可以嚟呀？",
         "expected": "真系噶但系你可唔可以嚟啊！"
     },
     {
-        "audio": "G0052_S0440.wav",
         "transcription": "等你返嚟就好嘞，努力工作啦，晚安",
         "expected": "等你翻嚟就好啦，努力工作啦，晚安。"
     },
     {
-        "audio": "G0071_S0118.wav",
         "transcription": "我阿媽唔畀我返，話屋企而家冇咩人",
         "expected": "我阿妈唔俾我翻，话屋企而家冇咩嘢人。"
     },
     {
-        "audio": "G0052_S0157.wav",
         "transcription": "我一個人先返咗嚟",
         "expected": "我一个人先翻咗嚟。"
     },
     {
-        "audio": "G0072_S0091.wav",
         "transcription": "今日早上跑步前啱你",
         "expected": "今日早上跑步前啱嚟！"
     },
     {
-        "audio": "G0067_S0398.wav",
         "transcription": "做咩呀？唔信心呀？",
         "expected": "做咩啊？唔顺心啊？"
     },
     {
-        "audio": "G0052_S0460.wav",
         "transcription": "我冇嬲你，你有你嘅自由",
         "expected": "我冇嬲你，你有你嘅自由。"
     },
     {
-        "audio": "G0067_S0545.wav",
         "transcription": "噉就四或者六啦，住恐㗎",
         "expected": "咁就四或者六啦，住孔家？"
     },
     {
-        "audio": "G0051_S0398.wav",
         "transcription": "我咩我唔好意思講出嚟，但係我必須講",
         "expected": "我咩我唔好意思讲出嚟，但系我必须讲。"
     },
     {
-        "audio": "G0052_S0503.wav",
         "transcription": "而家查做咩啊？可唔可以傾醒計啊？",
         "expected": "而家喺度做咩啊？可唔可以倾阵偈啊？"
     },
     {
-        "audio": "G0052_S0413.wav",
         "transcription": "我哋住沙爾汗呢度",
         "expected": "我哋住沙尔汉呢度。"
     },
     {
-        "audio": "G0068_S0106.wav",
         "transcription": "啱收工，好攰呀！你做咩仲未返呀？",
         "expected": "啱收工，好攰啊，你做咩仲未瞓啊？"
     },
     {
-        "audio": "G0068_S0348.wav",
         "transcription": "只要你心中有愛就唔會孤單",
         "expected": "只要你心中有爱就唔会孤单！"
     },
     {
-        "audio": "G0067_S0508.wav",
         "transcription": "佢哋仲未返嚟呀，都冇打電話",
         "expected": "佢哋仲未翻嚟啊，都冇打电话。"
     },
     {
-        "audio": "G0051_S0064.wav",
         "transcription": "我只能話你要平安返屋企",
         "expected": "我只能话你要平安翻屋企。"
     },
     {
-        "audio": "G0067_S0082.wav",
         "transcription": "哦，仲有嗰啲告密嘅，偷走咗唔出嚟喇",
         "expected": "哦仲有嗰啲告密嘅，偷走咗唔出嚟啦。"
     },
     {
-        "audio": "G0067_S0550.wav",
         "transcription": "小馬，我今日喺烏市，今日返唔到去喇，冇車",
         "expected": "小马，我今日喺乌市，今日翻唔到去啊，冇车。"
     },
     {
-        "audio": "G0055_S0019.wav",
         "transcription": "哦，理論係咪同我哋一齊考呢？",
         "expected": "哦，理论系咪同我哋一齐考咧？"
     },
     {
-        "audio": "G0071_S0308.wav",
         "transcription": "你係唔係考完就走",
         "expected": "你系唔系考完就走？"
     },
     {
-        "audio": "G0068_S0527.wav",
         "transcription": "你唔埋邊個都唔鍾意咩",
         "expected": "你唔系边个都唔中意咩！"
     },
     {
-        "audio": "G0068_S0010.wav",
         "transcription": "唔會，我都鍾意你",
         "expected": "唔会，我都中意你！"
     },
     {
-        "audio": "G0054_S0417.wav",
         "transcription": "哈哈咁有時間就過嚟吖",
         "expected": "呵呵咁有时间就过嚟啊。"
     },
     {
-        "audio": "G0054_S0088.wav",
         "transcription": "晚餐又冇食呢，唔通講酸奶就係晚餐？",
         "expected": "晚餐又冇食咧，唔通讲酸奶就系晚餐？"
     },
     {
-        "audio": "G0051_S0129.wav",
         "transcription": "如果唔係會當親㗎",
         "expected": "如果唔系会冻亲噶！"
     },
     {
-        "audio": "G0052_S0452.wav",
         "transcription": "八點，晚安",
         "expected": "八点，晚安。"
     },
     {
-        "audio": "G0068_S0251.wav",
         "transcription": "今晚我情緒唔好突然就失落嘞",
         "expected": "今晚我情绪唔好，突然就失落嘞。"
     },
     {
-        "audio": "G0072_S0275.wav",
         "transcription": "吓，可惜你冇講我本事吖",
         "expected": "呵，可惜你冇咁嘅本事啊。"
     },
     {
-        "audio": "G0052_S0478.wav",
         "transcription": "當然，今日一定緊，老婆好乖，老公放心",
         "expected": "当然咁系一定嘅，老婆好乖，老公放心！"
     },
     {
-        "audio": "G0067_S0118.wav",
         "transcription": "你犀利，仲同我關機",
         "expected": "你犀利仲同我关机！"
     },
     {
-        "audio": "G0055_S0350.wav",
         "transcription": "同佢講得好清楚啦，但係佢仲係噉",
         "expected": "同佢讲得好清楚啦但系佢仲系咁。"
     },
     {
-        "audio": "G0051_S0251.wav",
         "transcription": "唔係呀，你又做咩喇？",
         "expected": "唔系啊，你又做咩啦？"
     },
     {
-        "audio": "G0067_S0120.wav",
         "transcription": "哥哥，唔去喇，休息唔到呀",
         "expected": "哥哥唔去啊，休息唔到啊。"
     },
     {
-        "audio": "G0071_S0236.wav",
         "transcription": "家姐聽日朝早記得叫我起身啦",
         "expected": "家姐听日朝早记得叫我起身啦。"
     },
     {
-        "audio": "G0055_S0496.wav",
         "transcription": "佢話先做朋友，畀次了解下先",
         "expected": "佢话先做朋友，彼此了解下先。"
     },
     {
-        "audio": "G0068_S0350.wav",
         "transcription": "聽日早啲嚟呀，我裝好喇，聽日早啲走",
         "expected": "听日早啲嚟啊，我装好啦，听日早啲走。"
     },
     {
-        "audio": "G0055_S0305.wav",
         "transcription": "我都唔想再嗌呢件事，心神躺脆，身形脫離",
         "expected": "我都唔想再为呢件事心神憔悴，神影脱离。"
     },
     {
-        "audio": "G0054_S0491.wav",
         "transcription": "自己都唔珍惜，我都冇必要放喺心上啦",
         "expected": "自己都唔珍惜我都冇必要放喺心上啦。"
     },
     {
-        "audio": "G0072_S0120.wav",
         "transcription": "老公而家都會嬲啦唔好嬲啦好冇",
         "expected": "老公而家都会嬲啦，唔好嬲啦好唔好。"
     },
     {
-        "audio": "G0053_S0305.wav",
         "transcription": "你唔係古到嘞咩？唔信喇",
         "expected": "你唔系估到嘞咩，唔信啊。"
     },
     {
-        "audio": "G0054_S0169.wav",
         "transcription": "呢啲方面佢要多思考思考",
         "expected": "呢啲方面佢要多思考思考。"
     },
     {
-        "audio": "G0053_S0351.wav",
         "transcription": "阿嫂你好，山哥係唔喺度啊？我係佢兄弟",
         "expected": "阿嫂你好，山哥喺唔喺度啊？我系佢兄弟。"
     },
     {
-        "audio": "G0052_S0339.wav",
         "transcription": "噉就得啦，你早啲休息啦",
         "expected": "咁就得啦，你早啲休息啦！"
     },
     {
-        "audio": "G0071_S0039.wav",
         "transcription": "我覺得唔好，點解你今日先諗起我呀？",
         "expected": "我过得唔好点解你今日先谂起我啊。"
     },
     {
-        "audio": "G0072_S0475.wav",
         "transcription": "嗯，我喺度踢緊手勢，嚟做你自己嘢啦",
         "expected": "嗯？我喺度睇紧手饰，你做你自己嘢啦。"
     },
     {
-        "audio": "G0067_S0271.wav",
         "transcription": "好吖我唔lock梳呀，早唞",
         "expected": "好啦我唔啰嗦啦，早唞！"
     },
     {
-        "audio": "G0055_S0460.wav",
         "transcription": "嗯，係啊，你仲未返嚟啊？",
         "expected": "嗯系啊你仲未翻嚟啊？"
     },
     {
-        "audio": "G0052_S0362.wav",
         "transcription": "好啊，上年係吖，早唞，晚安",
         "expected": "好啊，常联系啊。早唞，晚安。"
     },
     {
-        "audio": "G0052_S0033.wav",
         "transcription": "老婆，你瞓咗未呀？",
         "expected": "老婆你瞓咗未啊？"
     },
     {
-        "audio": "G0054_S0452.wav",
         "transcription": "冇毅力咁好啦",
         "expected": "冇毅力，咁好啦。"
     },
     {
-        "audio": "G0072_S0407.wav",
         "transcription": "我聽日去睇，希望有",
         "expected": "我听日去睇希望有。"
     },
     {
-        "audio": "G0051_S0205.wav",
         "transcription": "你休息咗未呀？早啲瞓覺吧",
         "expected": "你休息咗未啊？早啲睡觉吧！"
     },
     {
-        "audio": "G0070_S0322.wav",
         "transcription": "你瞓吧！唔打搞你喇，晚安",
         "expected": "你瞓吧，唔打搅你啦，晚安。"
     },
     {
-        "audio": "G0051_S0548.wav",
         "transcription": "早啲休息，以後冇噉樣啦",
         "expected": "早啲休息，以后唔好咁样啦。"
     },
     {
-        "audio": "G0072_S0540.wav",
         "transcription": "呢個星期，返屋企好嘛？",
         "expected": "呢个星期翻屋企好嘛！"
     },
     {
-        "audio": "G0070_S0261.wav",
         "transcription": "海優，佢哋最好冇搵到我頭上",
         "expected": "海休佢哋最好冇搵到我头上！"
     },
     {
-        "audio": "G0051_S0076.wav",
         "transcription": "哥哥，冇睇錯人喇",
         "expected": "哥哥冇睇错人啊！"
     },
     {
-        "audio": "G0054_S0189.wav",
         "transcription": "冇呀，我喺度諗緊要唔要捉紙球",
         "expected": "冇啊我喺度谂紧要唔要捉纸球。"
     },
     {
-        "audio": "G0067_S0232.wav",
         "transcription": "噉我以後，冇相應尊重囉",
         "expected": "咁我以后互相要尊重咯！"
     },
     {
-        "audio": "G0052_S0545.wav",
         "transcription": "嘩，今日出奇咁乖，都唔習慣嘞",
         "expected": "哇，今日出奇咁乖，都唔习惯啦。"
     },
     {
-        "audio": "G0052_S0031.wav",
         "transcription": "唔好意思，好抱歉咁夜仲發信息畀你",
         "expected": "唔好意思，好抱歉咁夜仲发信息俾你。"
     },
     {
-        "audio": "G0054_S0157.wav",
         "transcription": "好夜喇，你要唔要早啲休息呀",
         "expected": "好夜啦你要唔要早啲休息啊？"
     },
     {
-        "audio": "G0072_S0131.wav",
         "transcription": "哥，今晚仲加班咩",
         "expected": "哥今晚仲加班咩？"
     },
     {
-        "audio": "G0067_S0063.wav",
         "transcription": "期待會發生啲咩呢",
         "expected": "期待佢发生啲咩咧？"
     },
     {
-        "audio": "G0051_S0087.wav",
         "transcription": "最好可以將佢講到接受我",
         "expected": "最好可以将佢讲到接受我！"
     },
     {
-        "audio": "G0054_S0251.wav",
         "transcription": "我校服係高中嘅",
         "expected": "我校服系高中嘅。"
     },
     {
-        "audio": "G0055_S0048.wav",
         "transcription": "六百，聽日我落夜班睇宿舍",
         "expected": "六百，听日我落夜班喺宿舍。"
     },
     {
-        "audio": "G0070_S0226.wav",
         "transcription": "我還要畀你查一便",
         "expected": "我还要俾你查一遍。"
     },
     {
-        "audio": "G0070_S0030.wav",
         "transcription": "明年，佢返學走咗，你點算呀？",
         "expected": "明年佢翻学走咗你点算啊？"
     },
     {
-        "audio": "G0053_S0155.wav",
         "transcription": "知道嘞，今日下午辛苦你嘞",
         "expected": "知道啦，今日下午辛苦你啦！"
     },
     {
-        "audio": "G0052_S0336.wav",
         "transcription": "我講錯嘢，再都唔講喇好唔好呀",
         "expected": "我讲错嘢再都唔讲啦好唔好啊？"
     },
     {
-        "audio": "G0054_S0433.wav",
         "transcription": "仲有一件事情你想知嗎",
         "expected": "仲有一件事情你想知吗？"
     },
     {
-        "audio": "G0067_S0358.wav",
         "transcription": "你唔想同我講嘢，我都唔係咁想",
         "expected": "你唔想同我讲嘢我都唔系咁想。"
     },
     {
-        "audio": "G0053_S0526.wav",
         "transcription": "人要誠實，明唔明啊？",
         "expected": "人要诚实，明唔明啊？"
     },
     {
-        "audio": "G0067_S0289.wav",
         "transcription": "快啲瞓啦，好傻呀你",
         "expected": "快啲瞓啦，好傻啊你！"
     },
     {
-        "audio": "G0054_S0329.wav",
         "transcription": "發個空白短信係咩意思呀",
         "expected": "发个空白短信系咩意思啊？"
     },
     {
-        "audio": "G0053_S0418.wav",
         "transcription": "你聽日唔使返工咩",
         "expected": "你听日唔使翻工咩？"
     },
     {
-        "audio": "G0072_S0033.wav",
         "transcription": "從而家開始我唔會再為你傷心",
         "expected": "从而家开始我唔会再为你伤心。"
     },
     {
-        "audio": "G0052_S0481.wav",
         "transcription": "要咁多理由做咩啫？",
         "expected": "要咁多理由做咩啫？"
     },
     {
-        "audio": "G0055_S0017.wav",
         "transcription": "噉你可唔可以應承我一個要求啊？",
         "expected": "咁你可唔可以应承我一个要求啊。"
     },
     {
-        "audio": "G0071_S0378.wav",
         "transcription": "我今日一個都冇睇啱",
         "expected": "我今日一个都冇睇啱。"
     },
     {
-        "audio": "G0072_S0509.wav",
         "transcription": "嗯，孩子要相信自己嘅實力",
         "expected": "嗯，孩子要相信自己嘅实力！"
     },
     {
-        "audio": "G0068_S0358.wav",
         "transcription": "你點解咁想等我去呢？",
         "expected": "你点解咁想等我去咧！"
     },
     {
-        "audio": "G0070_S0469.wav",
         "transcription": "仲有十幾分鐘吧，一陣散會再畀你發",
         "expected": "仲有十几分钟吧，一阵散会再俾你发。"
     },
     {
-        "audio": "G0067_S0292.wav",
         "transcription": "你就坐喺嗰度就得啦",
         "expected": "你就坐喺嗰度就得啦！"
     },
     {
-        "audio": "G0067_S0516.wav",
         "transcription": "我唔想同你講嘢，我憎你",
         "expected": "我唔想同你讲嘢，我憎你。"
     },
     {
-        "audio": "G0051_S0403.wav",
         "transcription": "幾日冇見？有啲掛住你喎",
         "expected": "几日冇见有啲挂住你哦！"
     },
     {
-        "audio": "G0068_S0372.wav",
         "transcription": "人哋打咗我呀",
         "expected": "人哋打咗我啊！"
     },
     {
-        "audio": "G0067_S0073.wav",
         "transcription": "你要記住啊，掛住我就要打電話",
         "expected": "你要记住啊，挂住我就要打电话。"
     },
     {
-        "audio": "G0072_S0020.wav",
         "transcription": "我聽到你把聲，我心動喇！我都好緊張",
         "expected": "我听到你把声我心动啦，我都好紧张。"
     },
     {
-        "audio": "G0052_S0390.wav",
         "transcription": "嗯，我嬲喇！你唔嚟呀？",
         "expected": "哼，我嬲啦，你唔理啊？"
     },
     {
-        "audio": "G0071_S0023.wav",
         "transcription": "電影睇完未呀？我準備返去喇",
         "expected": "电影睇完未啊？我准备翻去啦。"
     },
     {
-        "audio": "G0055_S0166.wav",
         "transcription": "噉你休息啦，我睇住扮",
         "expected": "咁你休息啦！我睇住办！"
     },
     {
-        "audio": "G0067_S0507.wav",
         "transcription": "好似人哋都講我手法唔錯",
         "expected": "好似人哋都讲我手法唔错。"
     },
     {
-        "audio": "G0071_S0493.wav",
         "transcription": "你好，我可唔可以同你認識一下",
         "expected": "你好！我可唔可以同你认识一下啊？"
     },
     {
-        "audio": "G0072_S0395.wav",
         "transcription": "唔好加班太夜喇，快啲瞓覺啦",
         "expected": "唔好加班太夜啦，快啲瞓觉啦？"
     },
     {
-        "audio": "G0053_S0547.wav",
         "transcription": "哦咁哥哥係基礎唔好定係作文唔好啊",
         "expected": "哦！咁哥哥系基础唔好定系作文唔好啊？"
     },
     {
-        "audio": "G0051_S0233.wav",
         "transcription": "我知道呢件事嘅嚴重性",
         "expected": "我知道呢件事嘅严重性。"
     },
     {
-        "audio": "G0051_S0037.wav",
         "transcription": "我仲打算考第一嚟，點可以掛呢？",
         "expected": "我仲打算考第一咧，点可以挂咧！"
     },
     {
-        "audio": "G0070_S0283.wav",
         "transcription": "做咩唔要我喇嘛？",
         "expected": "做咩唔要我嘞吗？"
     },
     {
-        "audio": "G0055_S0186.wav",
         "transcription": "今日返去點呀",
         "expected": "今日翻去点啊？"
     },
     {
-        "audio": "G0052_S0283.wav",
         "transcription": "你做乜咁傻，鍾意咗我，我有冇咩好㗎？",
         "expected": "你做乜咁傻中意咗我，我又冇咩好噶。"
     },
     {
-        "audio": "G0067_S0049.wav",
         "transcription": "小氣鬼，你喺邊啊？",
         "expected": "小气鬼，你喺边啊？"
     },
     {
-        "audio": "G0054_S0475.wav",
         "transcription": "好個瞓覺我哋望",
         "expected": "好好瞓觉我哋忙。"
     },
     {
-        "audio": "G0054_S0485.wav",
         "transcription": "你身邊保護你，你放心瞓啦",
         "expected": "你身边保护你，你放心瞓啦。"
     },
     {
-        "audio": "G0054_S0109.wav",
         "transcription": "好嘅就畀自己放手去愛啦",
         "expected": "好嘅就俾自己放手去爱啦！"
     },
     {
-        "audio": "G0054_S0382.wav",
         "transcription": "到屋企食完飯畀我電話，等",
         "expected": "到屋企食完饭俾我电话！等。"
     },
     {
-        "audio": "G0067_S0184.wav",
         "transcription": "我哋玩，係因為心情唔好",
         "expected": "我嚟玩系因为心情唔好。"
     },
     {
-        "audio": "G0067_S0153.wav",
         "transcription": "如果你覺得對唔住我",
         "expected": "如果你觉得对唔住我。"
     },
     {
-        "audio": "G0051_S0528.wav",
         "transcription": "可以，反正越早越好，你自己睇住辦法",
         "expected": "可以，反正越早越好。你自己睇住办吧。"
     },
     {
-        "audio": "G0067_S0088.wav",
         "transcription": "大佬呀，咁耐喇你仲未得咩",
         "expected": "大佬啊咁耐啦你仲未得咩！"
     },
     {
-        "audio": "G0053_S0480.wav",
         "transcription": "你答啦，今次我帶止啦",
         "expected": "你答啦今次我带纸啦！"
     },
     {
-        "audio": "G0051_S0128.wav",
         "transcription": "哦，知道喇，返嚟就好",
         "expected": "哦，知道啦！翻嚟就好！"
     },
     {
-        "audio": "G0051_S0072.wav",
         "transcription": "我以為你唔理我嘞喇",
         "expected": "我以为你唔理我得啦。"
     },
     {
-        "audio": "G0052_S0430.wav",
         "transcription": "哦，都好學多啲嘢",
         "expected": "哦，都好学多啲嘢。"
     },
     {
-        "audio": "G0071_S0003.wav",
         "transcription": "可能我諗多咗喇，但係都係為咗我哋好",
         "expected": "可能我谂多咗啦，但系都系为咗我哋好！"
     },
     {
-        "audio": "G0067_S0025.wav",
         "transcription": "我似講笑咩？我好認真㗎",
         "expected": "我似讲笑咩！我好认真噶！"
     },
     {
-        "audio": "G0070_S0375.wav",
         "transcription": "一時我睇走唔到喇，先兩步都行好罷",
         "expected": "一时我睇走唔到嘞，先两步都行好吧。"
     },
     {
-        "audio": "G0054_S0112.wav",
         "transcription": "噉樣，我哋分手啦，我唔想浪費感情喇",
         "expected": "咁样，我哋分手啦，我唔想浪费感情啊！"
     },
     {
-        "audio": "G0072_S0361.wav",
         "transcription": "今日落咗班去打嘢",
         "expected": "今日落咗班去打夜。"
     },
     {
-        "audio": "G0067_S0026.wav",
         "transcription": "而家咪聽到囉",
         "expected": "依家咪听到咯。"
     },
     {
-        "audio": "G0072_S0450.wav",
         "transcription": "哈哈冇將小英子呃過去",
         "expected": "哈哈！冇将小英子呃过去。"
     },
     {
-        "audio": "G0051_S0213.wav",
         "transcription": "相信你，瞓覺白，夢想食真",
         "expected": "相信你，瞓觉吧，梦想成真。"
     },
     {
-        "audio": "G0052_S0364.wav",
         "transcription": "你知唔知我當時嘅心情啊",
         "expected": "你知唔知我当时嘅心情啊？"
     },
     {
-        "audio": "G0068_S0522.wav",
         "transcription": "唔瞓喇，做咩呀？",
         "expected": "唔瞓啊，做咩啊？"
     },
     {
-        "audio": "G0070_S0524.wav",
         "transcription": "警教出咁多無禮貌嘅衰仔",
         "expected": "竟教出咁多冇礼貌嘅衰仔！"
     },
     {
-        "audio": "G0051_S0354.wav",
         "transcription": "喺唔喺度啊丫頭，我晚上用呢個同你發短信",
         "expected": "喺唔喺度啊丫头？我晚上用呢个同你发短信。"
     },
     {
-        "audio": "G0072_S0476.wav",
         "transcription": "我以為你已經將我忘記咗啦",
         "expected": "我以为你已经将我忘记咗啦。"
     },
     {
-        "audio": "G0068_S0084.wav",
         "transcription": "哈哈，噉就好，你真係好聰明",
         "expected": "呵呵咁就好你真系好聪明。"
     },
     {
-        "audio": "G0070_S0205.wav",
         "transcription": "你而家都同我冇嘢講啦",
         "expected": "你依家都同我冇嘢讲啊！"
     },
     {
-        "audio": "G0070_S0099.wav",
         "transcription": "唔好，你隱藏咗笑容",
         "expected": "唔好你隐藏咗笑容！"
     },
     {
-        "audio": "G0067_S0090.wav",
         "transcription": "好難受啊，就快要死嘞",
         "expected": "好难受，就快要死啦。"
     },
     {
-        "audio": "G0070_S0214.wav",
         "transcription": "我真的很累，改天再一起玩吧！我睡了",
         "expected": "我真的很累，改天再一起玩吧，我睡了！"
     },
     {
-        "audio": "G0052_S0050.wav",
         "transcription": "我哋冇下次咯",
         "expected": "我哋冇下一次啦。"
     },
     {
-        "audio": "G0067_S0294.wav",
         "transcription": "我愛你，呢個係我心入邊嘅話",
         "expected": "我爱你，呢个系我心入边嘅话。"
     },
     {
-        "audio": "G0068_S0323.wav",
         "transcription": "聽日早啲叫你起身",
         "expected": "哼听日早啲叫你起身！"
     },
     {
-        "audio": "G0068_S0442.wav",
         "transcription": "你㗎，返嚟我帶你",
         "expected": "嚟啦，翻嚟我带你！"
     },
     {
-        "audio": "G0053_S0100.wav",
         "transcription": "以後同我之間唔洗講多謝，有啲客氣喎",
         "expected": "以后同我之间唔使讲多谢有啲客气喎！"
     },
     {
-        "audio": "G0052_S0450.wav",
         "transcription": "我想送過你鍾意㗎",
         "expected": "我想送个你中意噶。"
     },
     {
-        "audio": "G0055_S0329.wav",
         "transcription": "老婆晚安，我瞓喇，記得冇見我呀",
         "expected": "老婆晚安我瞓啦。记得梦见我啊。"
     },
     {
-        "audio": "G0068_S0300.wav",
         "transcription": "嗰啲係你嘅事，你想講就講啦，我都唔想過問",
         "expected": "嗰啲系你嘅事，你想讲就讲啦，我都唔想过问。"
     },
     {
-        "audio": "G0068_S0377.wav",
         "transcription": "我做咩呀，管理就係吖",
         "expected": "我做咩啊？本嚟就系啊！"
     },
     {
-        "audio": "G0052_S0083.wav",
         "transcription": "噉你都要畀我知道做咩㗎",
         "expected": "咁你都要俾我知道做咩噶？"
     },
     {
-        "audio": "G0067_S0217.wav",
         "transcription": "嗯，你都早啲瞓啦，上嚟",
         "expected": "嗯！你都早啲瞓啦！想你！"
     },
     {
-        "audio": "G0072_S0441.wav",
         "transcription": "佛佛，噉就返房，同我發訊息",
         "expected": "忽忽。咁就翻房，同我发信息。"
     },
     {
-        "audio": "G0068_S0339.wav",
         "transcription": "可能比照片上少咪寬一啲啦",
         "expected": "可能比照片上稍微宽一啲啦。"
     },
     {
-        "audio": "G0071_S0356.wav",
         "transcription": "又做咗天癮者呀",
         "expected": "又做咗天忍者啊？"
     },
     {
-        "audio": "G0071_S0451.wav",
         "transcription": "我瞓喇，你嚟咗之後再亂睇",
         "expected": "我瞓啦，你嚟咗之后再联系。"
     },
     {
-        "audio": "G0070_S0502.wav",
         "transcription": "長大有長大個好，小時候有小時候嘅好",
         "expected": "长大有长大嘅好，小时候有小时候嘅好。"
     },
     {
-        "audio": "G0070_S0129.wav",
         "transcription": "江有人揾我，所以唔喺宿舍",
         "expected": "刚有人搵我所以唔喺宿舍。"
     },
     {
-        "audio": "G0071_S0064.wav",
         "transcription": "嘿，冇辦法，你晚黑食咩呀？",
         "expected": "嘿，冇办法，你晚黑食咩啊。"
     },
     {
-        "audio": "G0051_S0328.wav",
         "transcription": "我嘅嘢永遠都係我嘅",
         "expected": "我嘅嘢永远都系我嘅！"
     },
     {
-        "audio": "G0054_S0449.wav",
         "transcription": "佢喺你心入邊一定好重要啩",
         "expected": "佢喺你心入边一定好重要啩！"
     },
     {
-        "audio": "G0070_S0113.wav",
         "transcription": "老公，我哋永遠都唔好提分手，好嘛？",
         "expected": "老公我哋永远都唔好提分手好吗？"
     },
     {
-        "audio": "G0055_S0378.wav",
         "transcription": "要再唔好受我哋去打球發試下啦",
         "expected": "要再唔好受我哋去打球发泄下啦。"
     },
     {
-        "audio": "G0072_S0314.wav",
         "transcription": "大寶貝，你喺度做緊乜嘢啊？",
         "expected": "大宝贝你喺度做紧乜嘢啊？"
     },
     {
-        "audio": "G0067_S0094.wav",
         "transcription": "噉你食完早啲頭吖 攰咗成日啦",
         "expected": "咁你食完早啲唞啊，攰咗成日啦！"
     },
     {
-        "audio": "G0068_S0482.wav",
         "transcription": "冇，你仲未搞好咩？會嘛？",
         "expected": "冇，你仲未搞好咩，攰嘛。"
     },
     {
-        "audio": "G0070_S0484.wav",
         "transcription": "吓？就畀呢個？呢個就係你講嘅唔使買嘅",
         "expected": "啊？就俾呢个啊？呢个就系你讲嘅唔使买嘅。"
     },
     {
-        "audio": "G0052_S0051.wav",
         "transcription": "快喇，剛剛入市區，好攰呀，想濫下你",
         "expected": "快啦，啱啱入市区！好攰啊，想揽下你！"
     },
     {
-        "audio": "G0068_S0515.wav",
         "transcription": "哎，你叫咩名？",
         "expected": "唉，你叫咩名？"
     },
     {
-        "audio": "G0051_S0498.wav",
         "transcription": "月，我只要你開心幸福",
         "expected": "月，我只要你开心幸福！"
     },
     {
-        "audio": "G0055_S0476.wav",
         "transcription": "好想見你一面，你可唔可以畀一次面畀我",
         "expected": "好想见你一面，你可唔可以俾一次面俾我啊？"
     },
     {
-        "audio": "G0068_S0399.wav",
         "transcription": "你仲記得我哋租戶間屋嗎",
         "expected": "你仲记得我哋租嗰间屋吗？"
     },
     {
-        "audio": "G0051_S0395.wav",
         "transcription": "哈哈，冇嬲，我拍手㗎",
         "expected": "呵呵，冇嬲，我怕丑噶。"
     },
     {
-        "audio": "G0055_S0272.wav",
         "transcription": "就似今日發畀你嘅彩信一樣",
         "expected": "就似今日发俾你嘅彩信一样。"
     },
     {
-        "audio": "G0070_S0277.wav",
         "transcription": "嗯，你都係啊，晚安",
         "expected": "嗯你都系啊！晚安。"
     },
     {
-        "audio": "G0054_S0210.wav",
         "transcription": "我一定好好對你，諗一諗",
         "expected": "我一定好好对你，谂一谂？"
     },
     {
-        "audio": "G0052_S0095.wav",
         "transcription": "返去瞓覺好唔好",
         "expected": "翻去瞓觉好唔好？"
     },
     {
-        "audio": "G0067_S0187.wav",
         "transcription": "重要嘅係自己嘅身體啊，啲人晒都講啊",
         "expected": "重要嘅系自己嘅身体，啲人成日都讲啊。"
     },
     {
-        "audio": "G0052_S0549.wav",
         "transcription": "唔係喇，只係聽你有冇時間返嚟一下咋嘛",
         "expected": "唔系啦，只系睇下你有冇时间翻嚟一下啫嘛。"
     },
     {
-        "audio": "G0067_S0460.wav",
         "transcription": "得吖，你咁凍，得唔得呀？",
         "expected": "得啊！你咁冻，得唔得啊？"
     },
     {
-        "audio": "G0071_S0097.wav",
         "transcription": "唔好講呀，你咁嘢仲喺出邊",
         "expected": "唔好讲啊。你咁夜仲喺出边。"
     },
     {
-        "audio": "G0055_S0107.wav",
         "transcription": "收到啦，多謝，我一定會快樂",
         "expected": "收到啦，多谢，我一定会快乐。"
     },
     {
-        "audio": "G0072_S0294.wav",
         "transcription": "BB你幾時同我洗衫呀",
         "expected": "BB你几时同我洗衫啊。"
     },
     {
-        "audio": "G0072_S0242.wav",
         "transcription": "噉就唔好諗啦，都會變好嘅",
         "expected": "咁就唔好谂啦，都会变好噶。"
     },
     {
-        "audio": "G0071_S0210.wav",
         "transcription": "你唔係嘢，你係人，你係我嘅好哥哥",
         "expected": "你唔系嘢，你系人，你系我嘅好哥哥。"
     },
     {
-        "audio": "G0068_S0521.wav",
         "transcription": "期盼會加和親人團隊的買一刻",
         "expected": "期盼回家和亲人团聚的那一刻！"
     },
     {
-        "audio": "G0055_S0512.wav",
         "transcription": "你唔係一直同我講，你哋冇關係咩?",
         "expected": "你唔系一直同我讲你哋冇关系咩？"
     },
     {
-        "audio": "G0071_S0505.wav",
         "transcription": "我對唔鍾意嘅女人，睇都唔睇",
         "expected": "我对唔中意嘅女人，睇都唔睇。"
     },
     {
-        "audio": "G0068_S0212.wav",
         "transcription": "老婆，朝早七點三十萬份叫下我",
         "expected": "老婆，朝早七点三十麻烦叫下我。"
     },
     {
-        "audio": "G0051_S0189.wav",
         "transcription": "同家長教落仲係有一定因素",
         "expected": "同家长教育仲系有一定因素！"
     },
     {
-        "audio": "G0054_S0209.wav",
         "transcription": "瞓咗未呀？唉，煩嘅，我聽日中午過去",
         "expected": "睡咗未啊，唉！烦嘅，我听日中午过去。"
     },
     {
-        "audio": "G0052_S0484.wav",
         "transcription": "老公正眼痛，想先瞓得唔得？",
         "expected": "老公只眼痛想先瞓得唔得？"
     },
     {
-        "audio": "G0067_S0072.wav",
         "transcription": "未呀，你要瞓喇",
         "expected": "未啊，你要瞓啦？"
     },
     {
-        "audio": "G0068_S0508.wav",
         "transcription": "我都瞓呀你個豬將我嘈醒呀，點算？",
         "expected": "我都瞓啦，你个猪将我嘈醒啊，点算。"
     },
     {
-        "audio": "G0054_S0385.wav",
         "transcription": "係，多想換位感受下",
         "expected": "唉多想换位感受下。"
     },
     {
-        "audio": "G0070_S0172.wav",
         "transcription": "做緊咩呀？最近好咩？",
         "expected": "做紧咩啊？最近好吗？"
     },
     {
-        "audio": "G0052_S0106.wav",
         "transcription": "你咪咁清楚做咩啫",
         "expected": "你问咁清楚做咩啫？"
     },
     {
-        "audio": "G0052_S0316.wav",
         "transcription": "你唔中意打字定唔想打文",
         "expected": "你唔中意打字定系唔想答啊。"
     },
     {
-        "audio": "G0068_S0188.wav",
         "transcription": "啱啱撥錯號喇，打你嗰度，唔好意思喎",
         "expected": "啱拨错号嘞，打你嗰度唔好意思喎。"
     },
     {
-        "audio": "G0072_S0023.wav",
         "transcription": "住喺度就得啦，有哥哥喺度",
         "expected": "住喺度就得啦，有哥哥喺度，呵。"
     },
     {
-        "audio": "G0072_S0045.wav",
         "transcription": "講得容易，而家又咁好借咩？",
         "expected": "讲得容易，而家有咁好借咩？"
     },
     {
-        "audio": "G0055_S0111.wav",
         "transcription": "咁過幾日嚟吖，你想做咩我陪住你",
         "expected": "咁过几日嚟啊，你想做咩我陪住你。"
     },
     {
-        "audio": "G0070_S0396.wav",
         "transcription": "喺床上瞓低瞓唔着",
         "expected": "喺床上瞓低，瞓唔着。"
     },
     {
-        "audio": "G0072_S0394.wav",
         "transcription": "我都唔知，話唔上吖",
         "expected": "我都唔知话唔上啊。"
     },
     {
-        "audio": "G0071_S0202.wav",
         "transcription": "聽日十五公斤黃面",
         "expected": "听日十五公斤黄面。"
     },
     {
-        "audio": "G0054_S0158.wav",
         "transcription": "我將呢啲人生不可或缺嘅一種嘢送畀你",
         "expected": "我将呢啲人生不可或缺嘅一种嘢送俾你！"
     },
     {
-        "audio": "G0055_S0034.wav",
         "transcription": "但我而家唔缺愛喇",
         "expected": "但系我而家唔缺爱啦！"
     },
     {
-        "audio": "G0072_S0285.wav",
         "transcription": "早啲搵到一個你，心目中",
         "expected": "早啲搵到一个你心目中。"
     },
     {
-        "audio": "G0072_S0372.wav",
         "transcription": "但係我噉又唔啱，噉又唔啱",
         "expected": "但系我咁又唔啱，咁又唔啱！"
     },
     {
-        "audio": "G0054_S0054.wav",
         "transcription": "我同你開玩笑呀",
         "expected": "我同你开玩笑啊！"
     },
     {
-        "audio": "G0072_S0447.wav",
         "transcription": "馬上到，家姐門口",
         "expected": "马上到！家姐门口！"
     },
     {
-        "audio": "G0070_S0315.wav",
         "transcription": "嗯嗯，有啲眼瞓呢",
         "expected": "嗯嗯有啲眼瞓咧！"
     },
     {
-        "audio": "G0067_S0246.wav",
         "transcription": "未瞓呀？兄弟，幫我手嚟",
         "expected": "未瞓啊，兄弟帮下手咧？"
     },
     {
-        "audio": "G0055_S0044.wav",
         "transcription": "時刻都唔會忘記曾經相識嘅朋友",
         "expected": "时刻都唔会忘记曾经相识嘅朋友。"
     },
     {
-        "audio": "G0054_S0384.wav",
         "transcription": "仲不如噉講都好",
         "expected": "仲不如咁讲好。"
     },
     {
-        "audio": "G0053_S0187.wav",
         "transcription": "哦，我哋遲啲試下",
         "expected": "哦，我哋迟啲试下。"
     },
     {
-        "audio": "G0068_S0378.wav",
         "transcription": "因爲仲有你老公",
         "expected": "因为仲有你老公？"
     },
     {
-        "audio": "G0067_S0116.wav",
         "transcription": "忘記，我廣告嘅所有嘢嘛",
         "expected": "忘记我讲过嘅所有嘢吧？"
     },
     {
-        "audio": "G0068_S0080.wav",
         "transcription": "好喇，我冇事，事好喇，冇嬲",
         "expected": "好啦！我冇事事好啦！唔好嬲啦！"
     },
     {
-        "audio": "G0052_S0166.wav",
         "transcription": "我聽日去幫你手吖",
         "expected": "我听日去帮你手啊。"
     },
     {
-        "audio": "G0055_S0084.wav",
         "transcription": "好好，你可以做咩呀",
         "expected": "呵呵，你喺度做咩啊？"
     },
     {
-        "audio": "G0055_S0065.wav",
         "transcription": "啱瞓低你有做咩呀",
         "expected": "啱瞓低，你喺度做咩啊。"
     },
     {
-        "audio": "G0051_S0454.wav",
         "transcription": "聽日早上去成都嘅時候同我發訊息",
         "expected": "听日早上去成都嘅时候同我发信息。"
     },
     {
-        "audio": "G0070_S0232.wav",
         "transcription": "噉你自己睇住吧，能搞幾多就大幾多吧",
         "expected": "咁你自己睇住吧，能搞几多就带几多吧。"
     },
     {
-        "audio": "G0070_S0195.wav",
         "transcription": "我搵個報工仔，我容易嘛",
         "expected": "我搵个布公仔我容易吗？"
     },
     {
-        "audio": "G0071_S0215.wav",
         "transcription": "冇返屋企，從夜總會出嚟，話要去酒吧",
         "expected": "冇翻屋企，从夜总会出嚟话要去酒吧。"
     },
     {
-        "audio": "G0067_S0373.wav",
         "transcription": "我一陣睇一陣啦，你嗰度有冇食㗎？",
         "expected": "我一阵睇一阵啊，你嗰度有冇食噶？"
     },
     {
-        "audio": "G0051_S0484.wav",
         "transcription": "以後唔會再叫你出嚟喇，呢個係最後一次",
         "expected": "以后唔会再叫你出嚟啦，呢个系最后一次！"
     },
     {
-        "audio": "G0053_S0511.wav",
         "transcription": "我瞓唔着，喺度掛住你",
         "expected": "我瞓唔着，喺度挂住你。"
     },
     {
-        "audio": "G0072_S0337.wav",
         "transcription": "你知唔知點樣查，手機密碼",
         "expected": "你知唔知点样查手机密码？"
     },
     {
-        "audio": "G0071_S0132.wav",
         "transcription": "唔係，本身就係嘅",
         "expected": "唔系，本身就系噶。"
     },
     {
-        "audio": "G0071_S0149.wav",
         "transcription": "姐夫，依然時間好忙呀",
         "expected": "姐夫呢段时间好忙啊？"
     },
     {
-        "audio": "G0072_S0233.wav",
         "transcription": "噉就好嘞，我仲擔心你呀，快休息嘞",
         "expected": "咁就好啦，我仲担心你啊？快休息啦！"
     },
     {
-        "audio": "G0051_S0440.wav",
         "transcription": "冇，喺度繼續當中，你返到屋企未",
         "expected": "冇，喺度继续当中，你翻到屋企未？"
     },
     {
-        "audio": "G0072_S0141.wav",
         "transcription": "日日都喺度諗你老班未？攰唔攰？",
         "expected": "日日都喺度谂你落班未攰唔攰。"
     },
     {
-        "audio": "G0054_S0483.wav",
         "transcription": "聽日再傾，好好休息嘅要掛住我呀",
         "expected": "听日再倾，好好休息啊要挂住我啊！"
     },
     {
-        "audio": "G0052_S0359.wav",
         "transcription": "親我嘅老公晚安",
         "expected": "亲爱嘅老公晚安！"
     },
     {
-        "audio": "G0072_S0173.wav",
         "transcription": "你自己照顧好自己，當我靜幾日啦好冇",
         "expected": "你自己照顾好自己，等我静几日啦好唔好？"
     },
     {
-        "audio": "G0068_S0421.wav",
         "transcription": "冇咁早瞓得着咩？",
         "expected": "冇咁早瞓得着咩？"
     },
     {
-        "audio": "G0052_S0156.wav",
         "transcription": "噉你先試下瞓啦，瞓唔着我哋再傾",
         "expected": "咁你先试下瞓啦，瞓唔着我哋再倾。"
     },
     {
-        "audio": "G0051_S0214.wav",
         "transcription": "啱啱喺度食飯，你做咩仲未瞓？",
         "expected": "啱啱喺度食饭，你做咩仲未瞓？"
     },
     {
-        "audio": "G0068_S0054.wav",
         "transcription": "你再係我嘅好BB",
         "expected": "你仲系我嘅好BB。"
     },
     {
-        "audio": "G0054_S0453.wav",
         "transcription": "部分文字凋失，幸福健康先係保",
         "expected": "部分文字丢失，幸福健康先系宝。"
     },
     {
-        "audio": "G0052_S0238.wav",
         "transcription": "子孫我同你開玩笑咋，唔好嬲啦，我又掛住你咯",
         "expected": "紫萱我同你开玩笑咋唔好嬲啦我有挂住你噶。"
     },
     {
-        "audio": "G0068_S0504.wav",
         "transcription": "七月三號去阿勒泰考試能否見你",
         "expected": "七月三号我去阿勒泰考试能否见你。"
     },
     {
-        "audio": "G0067_S0290.wav",
         "transcription": "過獎呀，哈哈哈，你太好喇",
         "expected": "过奖啦。嗯嗯！哈哈哈，你太好啦。"
     },
     {
-        "audio": "G0072_S0516.wav",
         "transcription": "啱啱瞓咗喺床上，你喺度做緊乜嘢？",
         "expected": "啱啱瞓咗喺床上，你喺度做紧乜嘢啊？"
     },
     {
-        "audio": "G0072_S0503.wav",
         "transcription": "等我好好珍惜你一次，好嘛",
         "expected": "等我好好珍惜你一次好吗？"
     },
     {
-        "audio": "G0055_S0012.wav",
         "transcription": "噉聽日咩時候返屋企啊？",
         "expected": "咁听日咩时候翻屋企啊。"
     },
     {
-        "audio": "G0053_S0082.wav",
         "transcription": "有咩好多謝呢？實在想多謝嘅話，就夢到我啦",
         "expected": "有咩好多谢嘅咧，实在想多谢嘅话就梦到我啦。"
     },
     {
-        "audio": "G0053_S0079.wav",
         "transcription": "其實後悔又可以點啫",
         "expected": "其实后悔又可以点啫？"
     },
     {
-        "audio": "G0053_S0006.wav",
         "transcription": "好，噉仲係你同意我去睇你",
         "expected": "好，咁仲系你同意我去睇你。"
     },
     {
-        "audio": "G0054_S0254.wav",
         "transcription": "哈哈，噉要咩味㗎？",
         "expected": "呵呵咁要咩味噶？"
     },
     {
-        "audio": "G0071_S0395.wav",
         "transcription": "我落喇，掛個號喺嗰度，哈哈，返去瞓覺啦",
         "expected": "我落啦，挂个号喺嗰度，呵呵，翻去瞓觉啦。"
     },
     {
-        "audio": "G0054_S0286.wav",
         "transcription": "份味，我啱洗完衫",
         "expected": "瞓未！我啱洗完衫。"
     },
     {
-        "audio": "G0071_S0160.wav",
         "transcription": "同男女有關，男嘅",
         "expected": "同男女有关？男嘅。"
     },
     {
-        "audio": "G0055_S0317.wav",
         "transcription": "我真係冇諗到嗰個樣嘅事",
         "expected": "我真系冇谂到嗰个样嘅事。"
     },
     {
-        "audio": "G0053_S0366.wav",
         "transcription": "我好掛住你，你掛住我嗎？",
         "expected": "我好挂住你你挂住我吗？"
     },
     {
-        "audio": "G0051_S0291.wav",
         "transcription": "望住寫作業呀，超多",
         "expected": "忙住写作业啊，超多。"
     },
     {
-        "audio": "G0068_S0507.wav",
         "transcription": "噉算咩要求啊？哈，仲未見到啊！",
         "expected": "咁算咩要求啊，哼，仲未见到啊。"
     },
     {
-        "audio": "G0052_S0054.wav",
         "transcription": "海豚想畀天使一個",
         "expected": "海豚想俾天使一个。"
     },
     {
-        "audio": "G0070_S0316.wav",
         "transcription": "害怕就是你不想去改變",
         "expected": "害怕就是你不想去改变？"
     },
     {
-        "audio": "G0055_S0131.wav",
         "transcription": "好一瞓啦我估啦，你度保證呀",
         "expected": "好啊，瞓啦我攰啦，你都保证啊。"
     },
     {
-        "audio": "G0067_S0459.wav",
         "transcription": "瞓啦，早唞，聽日畀心機考",
         "expected": "瞓啦！早唞！听日俾心机考！"
     },
     {
-        "audio": "G0067_S0081.wav",
         "transcription": "我還可以罷，我都準備瞓喇",
         "expected": "我还可以吧我都准备瞓啦。"
     },
     {
-        "audio": "G0051_S0145.wav",
         "transcription": "食完喇，同佢講再去買",
         "expected": "食完啦，同佢讲，再去买。"
     },
     {
-        "audio": "G0055_S0324.wav",
         "transcription": "如有動靜，急時要畀我打電話",
         "expected": "如有动静，急事要俾我打电话。"
     },
     {
-        "audio": "G0052_S0307.wav",
         "transcription": "咁好啦，就唔當佢係命令啦，得唔得？",
         "expected": "咁好啦，就唔当佢系命令啦，得唔得？"
     },
     {
-        "audio": "G0052_S0417.wav",
         "transcription": "掛住你呀，恨不得而家就去搵你",
         "expected": "挂住你啊，恨不得而家就去搵你。"
     },
     {
-        "audio": "G0067_S0018.wav",
         "transcription": "邊個話㗎？我梗係鍾意你吖",
         "expected": "边个话噶，我梗系中意你啊。"
     },
     {
-        "audio": "G0054_S0367.wav",
         "transcription": "不過我相信老公到時候一定可以過㗎",
         "expected": "不过我相信老公到时候一定可以过噶。"
     },
     {
-        "audio": "G0054_S0377.wav",
         "transcription": "多謝，你姐副心臟病喺醫院啊",
         "expected": "多谢，你姐夫心脏病喺医院啊！"
     },
     {
-        "audio": "G0071_S0311.wav",
         "transcription": "我一啲自制力都冇",
         "expected": "我一啲自制力都冇。"
     },
     {
-        "audio": "G0072_S0074.wav",
         "transcription": "你又點啊？我又做錯咗咩啊？",
         "expected": "你又点啊？我又做错咗咩啊？"
     },
     {
-        "audio": "G0055_S0145.wav",
         "transcription": "瞓咗未？我掛住你喇",
         "expected": "瞓咗未我挂住你啦。"
     },
     {
-        "audio": "G0052_S0449.wav",
         "transcription": "我有信心，仲相信你",
         "expected": "我有信心，仲相信你！"
     },
     {
-        "audio": "G0053_S0164.wav",
         "transcription": "唔喺佢哋屋企，返咗屋企啦",
         "expected": "唔喺佢哋屋企翻咗屋企啦。"
     },
     {
-        "audio": "G0051_S0185.wav",
         "transcription": "冇呀，如果你要瞓就瞓啦",
         "expected": "冇啊，如果你要瞓就瞓啦。"
     },
     {
-        "audio": "G0070_S0066.wav",
         "transcription": "你點解而家同我一樣喇",
         "expected": "你点解依家同我一样啦？"
     },
     {
-        "audio": "G0055_S0258.wav",
         "transcription": "反正我心入邊掛住你愛着你",
         "expected": "反正我心入边挂住你，爱着你？"
     },
     {
-        "audio": "G0067_S0135.wav",
         "transcription": "你係咁諗嘅咩？我哋",
         "expected": "你系咁谂嘅咩？我哋。"
     },
     {
-        "audio": "G0052_S0513.wav",
         "transcription": "公，我服咗你啦",
         "expected": "哥，我服咗你啦！"
     },
     {
-        "audio": "G0068_S0505.wav",
         "transcription": "我冇瞓喺電視睇電視係咪？",
         "expected": "我冇瞓，喺田睇电视阿妹。"
     },
     {
-        "audio": "G0052_S0160.wav",
         "transcription": "做乜唔會短信畀我啊？唔要我喇係嘛？",
         "expected": "做乜唔回短信俾我啊？唔要我啦系吗？"
     },
     {
-        "audio": "G0071_S0336.wav",
         "transcription": "你喺護士幾好，我去睇睇你",
         "expected": "你喺乌市几好，我去睇睇你。"
     },
     {
-        "audio": "G0067_S0250.wav",
         "transcription": "我仲有嘢講呀，我哋網上講呀",
         "expected": "我仲有嘢讲啊，我哋网上讲啦！"
     },
     {
-        "audio": "G0053_S0481.wav",
         "transcription": "哈哈你以為你嘅胃入面有九半機呀",
         "expected": "呵呵，你以为你嘅胃入面有搅拌机啊。"
     },
     {
-        "audio": "G0070_S0300.wav",
         "transcription": "瞓緊喇，你望完啦！你爸邊一日生日呀？",
         "expected": "瞓紧啊，你忙完啦？你爸边一日生日啊？"
     },
     {
-        "audio": "G0072_S0432.wav",
         "transcription": "你真係對我好重要",
         "expected": "你真系对我好重要。"
     },
     {
-        "audio": "G0053_S0530.wav",
         "transcription": "對唔住，我先走啦",
         "expected": "对唔住，我先走啦？"
     },
     {
-        "audio": "G0051_S0216.wav",
         "transcription": "男人都真係自戀呀",
         "expected": "男人都真系自恋啊！"
     },
     {
-        "audio": "G0072_S0177.wav",
         "transcription": "你點解仲未落線嘅",
         "expected": "你点解仲未落线噶！"
     },
     {
-        "audio": "G0068_S0015.wav",
         "transcription": "報紙上話夜貓字形嘅人極富創造力",
         "expected": "报纸上话夜猫子型嘅人极富创造力哈哈！"
     },
     {
-        "audio": "G0051_S0014.wav",
         "transcription": "我而家只會愛你一生一世",
         "expected": "我而家只会爱你一生一世！"
     },
     {
-        "audio": "G0071_S0358.wav",
         "transcription": "梗係啦，一直有時冇福你",
         "expected": "梗系啦。一直有事，冇复你。"
     },
     {
-        "audio": "G0071_S0091.wav",
         "transcription": "我鍾意你，噉你呢？",
         "expected": "我中意你，咁你咧？"
     },
     {
-        "audio": "G0055_S0155.wav",
         "transcription": "噉係你嘅誠心仲未夠呀",
         "expected": "咁系你嘅诚心仲未够啊。"
     },
     {
-        "audio": "G0068_S0290.wav",
         "transcription": "你快考試喇，好學習啦",
         "expected": "你快考试啦，好好学习啦。"
     },
     {
-        "audio": "G0053_S0183.wav",
         "transcription": "算罷啦你，你而家唔放心喇",
         "expected": "算吧啦你，你而家唔放心啦！"
     },
     {
-        "audio": "G0055_S0284.wav",
         "transcription": "雨天路或注意行車",
         "expected": "雨天路滑，注意行车！"
     },
     {
-        "audio": "G0053_S0162.wav",
         "transcription": "有咩唔好意思嘅啫？",
         "expected": "有咩唔好意思嘅啫！"
     },
     {
-        "audio": "G0071_S0242.wav",
         "transcription": "做咩呀？寶貝仲未瞓覺呀",
         "expected": "做咩啊。宝贝仲未瞓觉啊？"
     },
     {
-        "audio": "G0052_S0516.wav",
         "transcription": "我發誓，呃你我係狗仔",
         "expected": "我发誓，呃你我系狗仔。"
     },
     {
-        "audio": "G0071_S0533.wav",
         "transcription": "我嘅唔出訊息點解仲未返",
         "expected": "我嘅唔出信息，点解仲未瞓。"
     },
     {
-        "audio": "G0068_S0141.wav",
         "transcription": "嗯，我哋馬上就瞓喇，老婆快瞓喇",
         "expected": "嗯，我哋马上就瞓啦，老婆快瞓啦。"
     },
     {
-        "audio": "G0072_S0186.wav",
         "transcription": "造成你哋喺外面",
         "expected": "造成你哋喺外面？"
     },
     {
-        "audio": "G0053_S0422.wav",
         "transcription": "咁夜落去邊度食飯呀？自己咩都唔識煮",
         "expected": "咁夜嘞去边度食饭啊？自己咩都唔识煮。"
     },
     {
-        "audio": "G0053_S0150.wav",
         "transcription": "你同佢到底想點呀",
         "expected": "你同佢到底想点啊？"
     },
     {
-        "audio": "G0054_S0516.wav",
         "transcription": "唔得就要叫你返嚟",
         "expected": "唔得就要叫你翻嚟。"
     },
     {
-        "audio": "G0071_S0035.wav",
         "transcription": "瞓唔著好鬱悶，你要瞓覺未呀",
         "expected": "瞓唔着好郁闷，你要瞓觉未啊。"
     },
     {
-        "audio": "G0067_S0494.wav",
         "transcription": "唔係為唔值得我傷心嘅人",
         "expected": "唔系为唔值得我伤心嘅人。"
     },
     {
-        "audio": "G0072_S0456.wav",
         "transcription": "我一啲刀唔好，瞓唔着，掛住你啦",
         "expected": "我一啲都唔好，瞓唔着，挂住你啦。"
     },
     {
-        "audio": "G0054_S0495.wav",
         "transcription": "住喺嗰度啊？聽日唔想班咩",
         "expected": "住喺嗰度啊，听日唔上班咩？"
     },
     {
-        "audio": "G0053_S0384.wav",
         "transcription": "老公，你哋呢兩日嘅感覺點呀？習慣未呀？",
         "expected": "老公你哋呢两日日感觉点啊？习惯未啊？"
     },
     {
-        "audio": "G0055_S0376.wav",
         "transcription": "你唔係未訓嘛？",
         "expected": "你唔系未瞓嘛。"
     },
     {
-        "audio": "G0071_S0507.wav",
         "transcription": "吓，我有你就夠啦，快啲瞓啦忙",
         "expected": "哈我有你就够啦，快啲瞓啦，木。"
     },
     {
-        "audio": "G0071_S0180.wav",
         "transcription": "你自己講好嘅話邊就邊，我點信你啊",
         "expected": "你自己讲好嘅话变就变，我点信你啊。"
     },
     {
-        "audio": "G0068_S0071.wav",
         "transcription": "你都快份夠百年",
         "expected": "你都快啲瞓觉吧你。"
     },
     {
-        "audio": "G0068_S0430.wav",
         "transcription": "瞓唔着都瞓我都瞓唔着",
         "expected": "瞓唔着都瞓我都瞓唔着。"
     },
     {
-        "audio": "G0051_S0318.wav",
         "transcription": "噉好啦，你而家細吧？",
         "expected": "咁好啦，你而家洗吧！"
     },
     {
-        "audio": "G0070_S0191.wav",
         "transcription": "姐姐好，最近好嗎？做緊咩呀？",
         "expected": "姐姐好，最近好吗？做紧咩啊？"
     },
     {
-        "audio": "G0068_S0209.wav",
         "transcription": "我唔想你為我付出",
         "expected": "我唔想你为我付出。"
     },
     {
-        "audio": "G0071_S0205.wav",
         "transcription": "噉你去買對舒服嘅鞋啦",
         "expected": "咁你去买对舒服嘅鞋啦！"
     },
     {
-        "audio": "G0051_S0327.wav",
         "transcription": "我好希望工程結束呀",
         "expected": "我好希望工程结束啊！"
     },
     {
-        "audio": "G0070_S0270.wav",
         "transcription": "聽日去唐春蘭嗰度將我副眼鏡攞上",
         "expected": "听日去唐春兰嗰度将我副眼镜攞上。"
     },
     {
-        "audio": "G0053_S0406.wav",
         "transcription": "冇呀，我有你咁鍾意打電話咩？睇電影呀",
         "expected": "冇啊，我有你咁中意打电话咩？睇电影啊。"
     },
     {
-        "audio": "G0051_S0130.wav",
         "transcription": "而家眼瞓未呀？乖乖",
         "expected": "而家眼瞓未啊乖乖？"
     },
     {
-        "audio": "G0052_S0043.wav",
         "transcription": "我只係講下我嘅意見，你唔好諗咁多",
         "expected": "我只系讲下我嘅意见你唔好谂咁多。"
     },
     {
-        "audio": "G0071_S0076.wav",
         "transcription": "睇我張相，我畀你一個想我就睇嘅相",
         "expected": "睇我张相，我俾你一个想我就睇嘅相。"
     },
     {
-        "audio": "G0072_S0368.wav",
         "transcription": "你仲未返去咩？都咁嘢喇",
         "expected": "你仲未翻去咩？都咁夜啦。"
     },
     {
-        "audio": "G0053_S0440.wav",
         "transcription": "唔方便就算吧啦，你邊人有時間再講啦",
         "expected": "唔方便就算吧啦，你边日有时间再讲嘞。"
     },
     {
-        "audio": "G0051_S0058.wav",
         "transcription": "今日心情趕唔上嚟",
         "expected": "今日心情讲唔上嚟。"
     },
     {
-        "audio": "G0053_S0033.wav",
         "transcription": "我係昌吉，星期六細佬結婚，幫手喇",
         "expected": "我喺昌吉，星期六细佬结婚，帮手啊。"
     },
     {
-        "audio": "G0055_S0173.wav",
         "transcription": "噉好啦，瞓覺喇，晚安",
         "expected": "咁好啦，瞓觉啦，晚安。"
     },
     {
-        "audio": "G0051_S0359.wav",
         "transcription": "唔好再亂攬，我要瞓覺，你都瞓啦",
         "expected": "唔好再乱谂，我要瞓觉，你都瞓啦。"
     },
     {
-        "audio": "G0055_S0253.wav",
         "transcription": "呢啲有咩意思呀？",
         "expected": "呢啲有咩意思啊。"
     },
     {
-        "audio": "G0070_S0016.wav",
         "transcription": "你係一個好自私嘅人",
         "expected": "你系一个好自私嘅人。"
     },
     {
-        "audio": "G0052_S0117.wav",
         "transcription": "但係唔知道你覺得好唔好",
         "expected": "但系唔知道你过得好唔好。"
     },
     {
-        "audio": "G0068_S0222.wav",
         "transcription": "啱返我屋企攰死啦",
         "expected": "啱翻到屋企，攰死啦！"
     },
     {
-        "audio": "G0052_S0247.wav",
         "transcription": "真心㗎，點解你唔可以好好地噉我一個人？",
         "expected": "真心嘅点解你唔可以好好哋咁爱一个人？"
     },
     {
-        "audio": "G0052_S0520.wav",
         "transcription": "你問我啲傷心事囉",
         "expected": "你问我啲伤心事咯。"
     },
     {
-        "audio": "G0051_S0505.wav",
         "transcription": "車上發上色太困難",
         "expected": "车上发信息太困难！"
     },
     {
-        "audio": "G0052_S0212.wav",
         "transcription": "真係㗎！你仲畀人哋攔住嘞！荒唐",
         "expected": "真系噶，你仲俾人哋难住啦，荒唐。"
     },
     {
-        "audio": "G0054_S0041.wav",
         "transcription": "老公我先寫咗頁咯",
         "expected": "老公我先写作业嘞喎。"
     },
     {
-        "audio": "G0053_S0523.wav",
         "transcription": "多少都係要注意啲",
         "expected": "多少都系要注意啲！"
     },
     {
-        "audio": "G0070_S0362.wav",
         "transcription": "我冇上晚自習，冇享受到話，唔好噉冒喇",
         "expected": "我冇上晚自习，冇享受到啊，唔好感冒啦！"
     },
     {
-        "audio": "G0071_S0470.wav",
         "transcription": "聽朝十點叫我就得啦",
         "expected": "听朝十点叫我就得啦。"
     },
     {
-        "audio": "G0051_S0285.wav",
         "transcription": "嗯，好，瞓吧，晚安",
         "expected": "嗯，好，瞓吧，晚安！"
     },
     {
-        "audio": "G0072_S0412.wav",
         "transcription": "你哋樓做乜嘢呀？停咗咁多消防車嘅",
         "expected": "你哋楼做乜嘢啊？停咗咁多消防车嘅？"
     },
     {
-        "audio": "G0072_S0108.wav",
         "transcription": "返屋企睇睇，我都五年冇返屋企啦",
         "expected": "翻屋企睇睇，我都五年冇翻过屋企啦！"
     },
     {
-        "audio": "G0072_S0453.wav",
         "transcription": "嗯，好啊，你自己多注意多啲啦",
         "expected": "嗯好啊，你自己都注意多啲啦。"
     },
     {
-        "audio": "G0070_S0178.wav",
         "transcription": "你聽日早上，可以碰見隨歎啦",
         "expected": "你听日早上可以碰见徐盼吗？"
     },
     {
-        "audio": "G0072_S0246.wav",
         "transcription": "小薄呀，我哋呢邊嘅星星好靚呀",
         "expected": "小博啊，我哋呢边嘅星星好靓啊。"
     },
     {
-        "audio": "G0067_S0227.wav",
         "transcription": "好深吻，冇少偷就繼續瞓啦",
         "expected": "好心嘛，冇小偷就继续瞓啦，呵呵。"
     },
     {
-        "audio": "G0055_S0100.wav",
         "transcription": "你瞓啦我等等再瞓",
         "expected": "你瞓啦，我等阵再瞓。"
     },
     {
-        "audio": "G0051_S0084.wav",
         "transcription": "乜嘢事都唔好諗喇，大冷床晚安",
         "expected": "乜嘢事都唔好谂啦，大懒虫晚安！"
     },
     {
-        "audio": "G0071_S0088.wav",
         "transcription": "我哋就和平分手啦，你都唔好再威脅我啦",
         "expected": "我哋就和平分手啦，你都唔好再威胁我啦！"
     },
     {
-        "audio": "G0071_S0163.wav",
         "transcription": "嗯，我知，我明",
         "expected": "嗯，我知，我明。"
     },
     {
-        "audio": "G0070_S0309.wav",
         "transcription": "不是吧！我是良民，我很內向的",
         "expected": "不是吧，我是梁民，我很内向的。"
     },
     {
-        "audio": "G0055_S0330.wav",
         "transcription": "嗯，你咩時候嚟呀？",
         "expected": "嗯，你咩时候嚟啊？"
     },
     {
-        "audio": "G0068_S0346.wav",
         "transcription": "你都早啲瞓，諗你",
         "expected": "你都早啲瞓谂你。"
     },
     {
-        "audio": "G0054_S0211.wav",
         "transcription": "老婆如果特別攰老婆就瞓覺啦",
         "expected": "老婆如果特别攰老婆就瞓觉啦。"
     },
     {
-        "audio": "G0070_S0468.wav",
         "transcription": "我一直都好信㗎，因為佢算得好準㗎",
         "expected": "我一直都好信噶因为佢算得好准噶！"
     },
     {
-        "audio": "G0070_S0505.wav",
         "transcription": "你要是方便，我可以畀你打個電話講幾句嗎",
         "expected": "你要是方便我可以俾你打个电话讲几句吗？"
     },
     {
-        "audio": "G0072_S0196.wav",
         "transcription": "你仲未瞓喇，老婆，我好掛住你呀",
         "expected": "你仲未瞓啊老婆，我好挂住你啊。"
     },
     {
-        "audio": "G0070_S0545.wav",
         "transcription": "笨蛋老婆，做咩呀？掛住我未呀？",
         "expected": "笨蛋老婆做咩啊？挂住我未啊？"
     },
     {
-        "audio": "G0055_S0135.wav",
         "transcription": "乖乖老婆 咁樣先似我嘅乖乖寶貝嘛",
         "expected": "乖乖老婆，咁样先似我嘅乖乖宝贝啊嘛。"
     },
     {
-        "audio": "G0051_S0217.wav",
         "transcription": "我係河丹，你去唔去啊",
         "expected": "我系何丹，你去唔去啊？"
     },
     {
-        "audio": "G0055_S0077.wav",
         "transcription": "你瞓咗未呀？我打電話過去",
         "expected": "你瞓咗未啊？我打电话过去。"
     },
     {
-        "audio": "G0051_S0096.wav",
         "transcription": "我仲喺路上，你瞓吧，乖，聽話，晚安",
         "expected": "我仲喺路上，你瞓吧，乖，听话，晚安。"
     },
     {
-        "audio": "G0051_S0244.wav",
         "transcription": "返到宿舍未呀而家",
         "expected": "翻到宿舍未啊而家？"
     },
     {
-        "audio": "G0054_S0208.wav",
         "transcription": "瞓咗未呀？今日好忙係咪？冇回我訊息",
         "expected": "瞓咗未啊？今日好忙系咪？冇回我信息。"
     },
     {
-        "audio": "G0053_S0314.wav",
         "transcription": "一年喇我哋好犀利呀",
         "expected": "一年啦我哋好犀利啊。"
     },
     {
-        "audio": "G0070_S0417.wav",
         "transcription": "點樣下線呀？我到屋企喇，食啲嘢",
         "expected": "点样下线啊？我到屋企啦，吃啲嘢。"
     },
     {
-        "audio": "G0067_S0268.wav",
         "transcription": "冇吖，噉就星期四吖",
         "expected": "冇啊，咁就星期四啊。"
     },
     {
-        "audio": "G0072_S0278.wav",
         "transcription": "你而家有啲忙咩",
         "expected": "你而家有啲忙咩？"
     },
     {
-        "audio": "G0067_S0015.wav",
         "transcription": "兄弟快啲吖，做乜嘢啊？",
         "expected": "兄弟快啲啊，做咩嘢啊！"
     },
     {
-        "audio": "G0072_S0226.wav",
         "transcription": "我聽日買票，二十一號走你嘅票，我買咗啦",
         "expected": "我听日买票，二十一号走，你嘅票我买咗啦。"
     },
     {
-        "audio": "G0053_S0026.wav",
         "transcription": "夏天過去唔想做嘞再講啦",
         "expected": "夏天过去唔想做嘞再讲嘞。"
     },
     {
-        "audio": "G0067_S0337.wav",
         "transcription": "你今日係咪，發嬲呀？我睇你好似唔係好開心",
         "expected": "你今日系唔系发嬲啊？我睇你好似唔系好开心？"
     },
     {
-        "audio": "G0067_S0359.wav",
         "transcription": "瞓覺嗰陣前門喇嗰啲乜嘢，要關好啊知唔知啊",
         "expected": "瞓觉嗰阵前门啊，嗰啲乜嘢要关好啊，知唔知啊？"
     },
     {
-        "audio": "G0072_S0053.wav",
         "transcription": "呃人，噉你詞彈入面係乜嘢嚟㗎？",
         "expected": "呃人，咁你钱包入面系乜嘢嚟噶？"
     },
     {
-        "audio": "G0072_S0547.wav",
         "transcription": "你做咩呀？唔瞓覺嘞咩",
         "expected": "你做咩啊，唔瞓觉啦咩。"
     },
     {
-        "audio": "G0053_S0060.wav",
         "transcription": "點呀？你唔係要同我傾嘅咩？",
         "expected": "点啊，你唔系要同我倾嘅咩？"
     },
     {
-        "audio": "G0070_S0450.wav",
         "transcription": "如果你唔好出嚟",
         "expected": "如果你唔好出嚟！"
     },
     {
-        "audio": "G0055_S0517.wav",
         "transcription": "受傷了肯定老實啦",
         "expected": "受伤啦肯定老实啦！"
     },
     {
-        "audio": "G0051_S0193.wav",
         "transcription": "你做咩啦？係咪嬲啦？",
         "expected": "你做咩啦？系咪嬲啦？"
     },
     {
-        "audio": "G0067_S0173.wav",
         "transcription": "我想做嘅嘢，邊個都阻止唔到",
         "expected": "我想做嘅嘢边个都阻止唔到！"
     },
     {
-        "audio": "G0070_S0393.wav",
         "transcription": "你要我攞我媽手機，有咩事講呀",
         "expected": "你要我攞我妈手机有咩事讲啊？"
     },
     {
-        "audio": "G0051_S0392.wav",
         "transcription": "聽日再講係嗰度上班",
         "expected": "听日再讲喺嗰度上班！"
     },
     {
-        "audio": "G0071_S0330.wav",
         "transcription": "我邊度做錯咗啊，你同我講啦老婆",
         "expected": "我边度做错咗啊你同我讲啊老婆。"
     },
     {
-        "audio": "G0072_S0542.wav",
         "transcription": "我喺度同我宿舍嘅人傾偈，跟住等住食燈",
         "expected": "我喺度同我宿舍嘅人倾偈，跟住等住熄灯。"
     },
     {
-        "audio": "G0068_S0288.wav",
         "transcription": "就係啊，我成老都係你嘅影",
         "expected": "就系啊，我唔成脑都系你嘅影。"
     },
     {
-        "audio": "G0052_S0151.wav",
         "transcription": "哦，七點啩？早啲休息，祝你做個好夢",
         "expected": "哦，七点啩，早啲休息祝你做个好梦。"
     },
     {
-        "audio": "G0053_S0009.wav",
         "transcription": "冇呀，今日係第一次，真係瞓唔着",
         "expected": "冇啊，今日系第一次，真系瞓唔着。"
     },
     {
-        "audio": "G0054_S0177.wav",
         "transcription": "你講咩呀？佢講咩呀？",
         "expected": "你讲咩啊佢讲咩啊？"
     },
     {
-        "audio": "G0051_S0161.wav",
         "transcription": "你喺度做咩呀？覆個短信啦",
         "expected": "你喺度做咩啊？复个短信啦。"
     },
     {
-        "audio": "G0070_S0381.wav",
         "transcription": "你上次畀我講嘅唔係呢個地址啊",
         "expected": "你上次俾我讲嘅唔系呢个地址啊。"
     },
     {
-        "audio": "G0072_S0055.wav",
         "transcription": "嗯，噉我瞓覺喇，你都去做啲休息喇",
         "expected": "嗯，咁我瞓觉啦，你都早啲休息啦。"
     },
     {
-        "audio": "G0070_S0331.wav",
         "transcription": "月底，我去亞歷太學習去喇",
         "expected": "月底我去阿勒泰学习去啦！"
     },
     {
-        "audio": "G0068_S0189.wav",
         "transcription": "同志們，而家機會嚟喇",
         "expected": "同志们，而家机会嚟啦。"
     },
     {
-        "audio": "G0053_S0138.wav",
         "transcription": "嗯，就係要考試喇，好心急啊",
         "expected": "嗯就系要考试啦好心急啊。"
     },
     {
-        "audio": "G0067_S0368.wav",
         "transcription": "唔，知啦，老婆，愛你",
         "expected": "嗯，知啦，老婆爱你。"
     },
     {
-        "audio": "G0052_S0378.wav",
         "transcription": "你都係我愛你寶貝",
         "expected": "你都系我爱你宝贝。"
     },
     {
-        "audio": "G0071_S0288.wav",
         "transcription": "好，噉等我落班之後啦好冇？",
         "expected": "好，咁等我落班之后啦，好唔好？"
     },
     {
-        "audio": "G0068_S0235.wav",
         "transcription": "噉就係快出嚟喇",
         "expected": "咁就系快出嚟啦！"
     },
     {
-        "audio": "G0067_S0353.wav",
         "transcription": "佢應承唔會再犯㗎，仲有下次就會自己離開",
         "expected": "佢应承唔会再犯噶，仲有下次就会自己离开！"
     },
     {
-        "audio": "G0068_S0114.wav",
         "transcription": "但啱嘞，你做唔做四路",
         "expected": "答啱啦，你做唔做四路。"
     },
     {
-        "audio": "G0070_S0011.wav",
         "transcription": "你到屋企門口，畀我發訊息，我畀你開門",
         "expected": "你到屋企门口俾我发信息，我俾你开门！"
     },
     {
-        "audio": "G0054_S0203.wav",
         "transcription": "老公快啲嚟洗藥",
         "expected": "老公快啲嚟洗脚。"
     },
     {
-        "audio": "G0053_S0108.wav",
         "transcription": "你瞓啦，我聽日早啲起",
         "expected": "你瞓啦，我听日早啲起。"
     },
     {
-        "audio": "G0070_S0194.wav",
         "transcription": "你哋點解咁夜先落貨啊",
         "expected": "你哋点解咁夜先落课啊？"
     },
     {
-        "audio": "G0052_S0447.wav",
         "transcription": "清晏嘅，你一定做咩呀？",
         "expected": "亲爱嘅！你喺度做咩啊？"
     },
     {
-        "audio": "G0055_S0426.wav",
         "transcription": "你想急死人呀？唔好咁啦求你",
         "expected": "你想急死人啊？唔好咁啦求你。"
     },
     {
-        "audio": "G0068_S0070.wav",
         "transcription": "有咩可以唔講出來嘅，形容下啦",
         "expected": "有咩可以唔讲出嚟嘅，形容一下啦？"
     },
     {
-        "audio": "G0070_S0541.wav",
         "transcription": "媽媽，返嚟畀我帶個冰嘅水",
         "expected": "妈妈翻嚟俾我带个冰嘅水。"
     },
     {
-        "audio": "G0051_S0091.wav",
         "transcription": "你就唔可以話畀我知咩，我唔會嬲㗎！",
         "expected": "你就唔可以话俾我知咩？我唔会嬲噶。"
     },
     {
-        "audio": "G0068_S0455.wav",
         "transcription": "馬上就快啦",
         "expected": "马上！就快嘞！"
     },
     {
-        "audio": "G0070_S0344.wav",
         "transcription": "你媽媽好好噉活著呢",
         "expected": "你嫲嫲好好咁活着咧？"
     },
     {
-        "audio": "G0053_S0347.wav",
         "transcription": "就係發夢夢中出現嘅你，仲係你",
         "expected": "就系发梦梦中出现嘅你仲系你。"
     },
     {
-        "audio": "G0071_S0296.wav",
         "transcription": "祝你事事順利，日日都開心",
         "expected": "祝你事事顺利，日日都开心！"
     },
     {
-        "audio": "G0055_S0462.wav",
         "transcription": "噉就好啦，多煮呀快一份啦馬鞍",
         "expected": "咁就好啦，多注意啊，快啲瞓啦，晚安。"
     },
     {
-        "audio": "G0054_S0391.wav",
         "transcription": "哈哈，零嘅技術話可以啊",
         "expected": "哈哈零嘅技术还可以啊。"
     },
     {
-        "audio": "G0067_S0409.wav",
         "transcription": "我發現，而家開始在乎你啦",
         "expected": "我发现依家开始在乎你啊。"
     },
     {
-        "audio": "G0053_S0465.wav",
         "transcription": "親愛嘅波波，生日快樂，一定要幸福啊",
         "expected": "亲爱嘅波波，生日快乐！一定要幸福啊！"
     },
     {
-        "audio": "G0070_S0458.wav",
         "transcription": "我真係後悔要距離，真係唔想喺一齊喇",
         "expected": "我真系后悔要佢嚟，真系唔想喺一齐啦。"
     },
     {
-        "audio": "G0054_S0420.wav",
         "transcription": "佢哋望緊自己嘅事，唔好打架",
         "expected": "佢哋忙紧自己嘅事，唔好打搅。"
     },
     {
-        "audio": "G0072_S0322.wav",
         "transcription": "我而家喺辦公室打字",
         "expected": "我而家喺办公室打字。"
     },
     {
-        "audio": "G0071_S0430.wav",
         "transcription": "我真係瞓咗呀好唔好",
         "expected": "我真系瞓咗啊好唔好。"
     },
     {
-        "audio": "G0052_S0116.wav",
         "transcription": "你要對我講出你心入邊嗰句",
         "expected": "你要对我讲出你心入边嗰句！"
     },
     {
-        "audio": "G0072_S0375.wav",
         "transcription": "明白咩呀，你講到我都糊塗咗嘞",
         "expected": "明白咩啊？你讲到我都糊涂咗啦。"
     },
     {
-        "audio": "G0068_S0337.wav",
         "transcription": "冇人都喺度洗衫",
         "expected": "冇人，都喺度洗衫！"
     },
     {
-        "audio": "G0072_S0207.wav",
         "transcription": "你自己知咩",
         "expected": "你自己知咩？"
     },
     {
-        "audio": "G0071_S0133.wav",
         "transcription": "只係我好望，而家望遠喇，好攰",
         "expected": "只系我好忙，而家忙完啦，好攰。"
     },
     {
-        "audio": "G0068_S0102.wav",
         "transcription": "放一百個心啦，份啦",
         "expected": "放一百个心嘞，瞓啦！"
     },
     {
-        "audio": "G0053_S0497.wav",
         "transcription": "仲要小心啲個皮冇多，哈哈",
         "expected": "仲要小心啲个皮帽多呵呵。"
     },
     {
-        "audio": "G0068_S0433.wav",
         "transcription": "嗯，我玩，路上小心",
         "expected": "嗯，好好玩，路上小心！"
     },
     {
-        "audio": "G0055_S0451.wav",
         "transcription": "趁我哋今晚心情特別唔好，唔好打喇瞓覺呀",
         "expected": "亲爱的今晚心情特别唔好，唔好打啦，瞓觉啊。"
     },
     {
-        "audio": "G0053_S0265.wav",
         "transcription": "阿嫂叫借歌同我覆電話",
         "expected": "阿嫂叫谢哥同我复电话。"
     },
     {
-        "audio": "G0070_S0292.wav",
         "transcription": "我收拾唔到你，以後等你老婆收拾你去",
         "expected": "我收拾唔到你，以后等你老婆收拾你去！"
     },
     {
-        "audio": "G0071_S0058.wav",
         "transcription": "好啦，親愛嘅老婆，你晏唔晏瞓呀？",
         "expected": "好啦！亲爱嘅老婆，你眼唔眼瞓啊？"
     },
     {
-        "audio": "G0067_S0436.wav",
         "transcription": "我攬住，好舒服呀",
         "expected": "我揽住好舒服啊！"
     },
     {
-        "audio": "G0071_S0433.wav",
         "transcription": "哈哈，今日瞓得唔好喇啩",
         "expected": "哈哈今日瞓得唔好啦啩！"
     },
     {
-        "audio": "G0051_S0308.wav",
         "transcription": "如果唔想畀用車我可唔可以啦",
         "expected": "如果唔想俾用车我可唔可以咧？"
     },
     {
-        "audio": "G0072_S0071.wav",
         "transcription": "嗯嗯，我話點解又唔理我啦",
         "expected": "嗯嗯我话点解又唔理我啊？"
     },
     {
-        "audio": "G0054_S0121.wav",
         "transcription": "嗯，就嗰個高高地，瘦瘦地嗰個男仔啦",
         "expected": "嗯就嗰个高高地瘦瘦地嗰个男仔啦。"
     },
     {
-        "audio": "G0067_S0164.wav",
         "transcription": "你咁樣講，即係對自己冇信心啫",
         "expected": "你咁样讲即系对自己冇信心啫。"
     },
     {
-        "audio": "G0053_S0380.wav",
         "transcription": "我點嘅感覺係你唔想同我講嘢",
         "expected": "我点解感觉系你唔想同我讲嘢啦。"
     },
     {
-        "audio": "G0053_S0451.wav",
         "transcription": "如果想瞓啊你就瞓啦",
         "expected": "如果想瞓啦你就瞓嘞！"
     },
     {
-        "audio": "G0071_S0069.wav",
         "transcription": "醒起啦，你而家喺百度玩",
         "expected": "醒起啦，你而家喺百度玩。"
     },
     {
-        "audio": "G0070_S0233.wav",
         "transcription": "冇，你爭啲嚇死我",
         "expected": "冇。你争啲吓死我。"
     },
     {
-        "audio": "G0072_S0517.wav",
         "transcription": "我覺得好唔好意思，所以講唔出來",
         "expected": "我觉得好唔好意思，所以讲唔出嚟。"
     },
     {
-        "audio": "G0051_S0442.wav",
         "transcription": "呢幾日上山睇羊去喇，今日先返嚟",
         "expected": "呢几日上山睇羊去啦今日先翻嚟。"
     },
     {
-        "audio": "G0070_S0174.wav",
         "transcription": "啊吓？咁夜喇？仲唔休息呀？",
         "expected": "啊吓，咁夜啦，仲唔休息啊。"
     },
     {
-        "audio": "G0051_S0052.wav",
         "transcription": "我喺度打電話，你畀小法訊息",
         "expected": "我喺度打电话，你俾小发信息。"
     },
     {
-        "audio": "G0070_S0451.wav",
         "transcription": "哈哈，你同我聯絡唔方便嘛？",
         "expected": "呵呵，你同我联络唔方便吗？"
     },
     {
-        "audio": "G0072_S0184.wav",
         "transcription": "我賣咗啦，已經充咗啦",
         "expected": "我买咗啦，已经充咗啦。"
     },
     {
-        "audio": "G0071_S0318.wav",
         "transcription": "仲講明咗你將我當自己人體",
         "expected": "仲讲明咗你将我当自己人睇。"
     },
     {
-        "audio": "G0052_S0143.wav",
         "transcription": "老慈根到我屋企嘞",
         "expected": "老匙羹到我屋企啦。"
     },
     {
-        "audio": "G0054_S0504.wav",
         "transcription": "掛住你嗰張面得唔得呀",
         "expected": "挂住你那嗰张面得唔得啊！"
     },
     {
-        "audio": "G0072_S0411.wav",
         "transcription": "如果真係噉，噉就太好喇",
         "expected": "如果真系咁，咁就太好啦！"
     },
     {
-        "audio": "G0054_S0080.wav",
         "transcription": "要揾我有咩唔可以講㗎",
         "expected": "要搵我有咩唔可以讲噶？"
     },
     {
-        "audio": "G0055_S0194.wav",
         "transcription": "啊？幾多？咩時候？",
         "expected": "啊？几多？咩时候？"
     },
     {
-        "audio": "G0051_S0263.wav",
         "transcription": "噉你就應承佢喇嘛？",
         "expected": "咁你就应承佢嘞咩？"
     },
     {
-        "audio": "G0071_S0348.wav",
         "transcription": "香香，噉就係肯定㗎啦",
         "expected": "呵呵，咁就系肯定噶啦。"
     },
     {
-        "audio": "G0072_S0402.wav",
         "transcription": "你好，你瞓咗未？",
         "expected": "你好，你瞓咗未。"
     },
     {
-        "audio": "G0055_S0361.wav",
         "transcription": "我話佢唔願意，而家喺公園個相班呀",
         "expected": "我话佢唔愿意，而家喺公安局上班啊。"
     },
     {
-        "audio": "G0071_S0321.wav",
         "transcription": "仲喺度會未緊前兩日啊",
         "expected": "仲喺度回味紧前两日啊？"
     },
     {
-        "audio": "G0052_S0272.wav",
         "transcription": "你唔通唔發現我變化咩？",
         "expected": "你唔通冇发现我嘅变化咩？"
     },
     {
-        "audio": "G0053_S0021.wav",
         "transcription": "第一次主動發短信畀我",
         "expected": "第一次主动发短信俾我。"
     },
     {
-        "audio": "G0070_S0166.wav",
         "transcription": "我哋都係心太軟，噉樣唔好",
         "expected": "我哋都系心太软，咁样唔好！"
     },
     {
-        "audio": "G0054_S0194.wav",
         "transcription": "啱洗完面瞓喺堂上，你瞓唔着",
         "expected": "啱洗完面瞓喺床上，你瞓唔着啊？"
     },
     {
-        "audio": "G0051_S0196.wav",
         "transcription": "做咩唔接我電話？",
         "expected": "做咩唔接我电话？"
     },
     {
-        "audio": "G0052_S0404.wav",
         "transcription": "好喇好喇，你又嚟喇",
         "expected": "好啦，好啦，你又嚟啦！"
     },
     {
-        "audio": "G0070_S0307.wav",
         "transcription": "我們可以交朋友嗎",
         "expected": "我们可以交朋友吗？"
     },
     {
-        "audio": "G0070_S0537.wav",
         "transcription": "唔眼瞓，掛住你啦咩？",
         "expected": "唔眼瞓挂住你嘞咩？嘻嘻。"
     },
     {
-        "audio": "G0067_S0007.wav",
         "transcription": "我依家都冇幾多錢呀，可能借唔到畀你",
         "expected": "我依家都冇几多钱啊，可能借唔到俾你！"
     },
     {
-        "audio": "G0054_S0037.wav",
         "transcription": "噉你就去揾佢哋囉",
         "expected": "咁你就去搵佢哋咯。"
     },
     {
-        "audio": "G0072_S0118.wav",
         "transcription": "我仲朋友嗰度打聽到嘅",
         "expected": "我从朋友嗰度打听到嘅。"
     },
     {
-        "audio": "G0051_S0414.wav",
         "transcription": "唔係話最近又肥咗咩？點解噉食飯呀？",
         "expected": "唔系话最近又肥咗咩？点解咁食饭啊？"
     },
     {
-        "audio": "G0055_S0182.wav",
         "transcription": "點解我覺得想嘔呢？",
         "expected": "点解我觉得想呕咧？"
     },
     {
-        "audio": "G0052_S0133.wav",
         "transcription": "辛苦你喇，不過好可愛喎",
         "expected": "辛苦你啦，不过好可爱喎。"
     },
     {
-        "audio": "G0055_S0263.wav",
         "transcription": "到，我仲差一啲就望完啦",
         "expected": "到！我仲差一啲就忙完啦。"
     },
     {
-        "audio": "G0071_S0046.wav",
         "transcription": "琴日冇瞓好啊，你做咩啊？",
         "expected": "琴日冇瞓好啊！你做咩啊。"
     },
     {
-        "audio": "G0052_S0445.wav",
         "transcription": "好喇，你快啲瞓啦",
         "expected": "好啦，你快啲瞓啦。"
     },
     {
-        "audio": "G0067_S0500.wav",
         "transcription": "噉就等我哋陪你一齊食西瓜啦",
         "expected": "咁就等我哋陪你一齐食西瓜啦。"
     },
     {
-        "audio": "G0067_S0471.wav",
         "transcription": "周末，你做超短群喇",
         "expected": "周末你着超短裙啊？"
     },
     {
-        "audio": "G0053_S0430.wav",
         "transcription": "但事情太突然喇，冇同你商量",
         "expected": "但事情太突然啦，冇同你商量。"
     },
     {
-        "audio": "G0053_S0177.wav",
         "transcription": "等我好咗好好陪你好嘛",
         "expected": "等我好咗好好陪你好吗？"
     },
     {
-        "audio": "G0067_S0408.wav",
         "transcription": "係咪好忙呀？仲喺度上網呀？",
         "expected": "系咪好忙啊，仲喺度上网啊。"
     },
     {
-        "audio": "G0070_S0501.wav",
         "transcription": "多注意安全，多休息，唔好太攰呀",
         "expected": "多注意安全，多休息，唔好太攰啦。"
     },
     {
-        "audio": "G0072_S0150.wav",
         "transcription": "今日唔打算返嚟嚟咩",
         "expected": "今日唔打算翻嚟啦咩？"
     },
     {
-        "audio": "G0070_S0487.wav",
         "transcription": "好喇，知喇，我知喇！多謝呀",
         "expected": "好啦知啦我知啦多谢啊！"
     },
     {
-        "audio": "G0052_S0402.wav",
         "transcription": "相信你唔會亂嚟",
         "expected": "相信你唔会乱嚟！"
     },
     {
-        "audio": "G0067_S0002.wav",
         "transcription": "哥，你好呀！咁嘢你喺邊呀？",
         "expected": "哥你好啊，咁夜你喺边啊。"
     },
     {
-        "audio": "G0054_S0430.wav",
         "transcription": "幾時可以返嚟啊？早嘅話我等你",
         "expected": "几时可以翻嚟啊？早嘅话我等你。"
     },
     {
-        "audio": "G0051_S0522.wav",
         "transcription": "睇到未呀？係肉咩？",
         "expected": "睇到未啊？系玉咩？"
     },
     {
-        "audio": "G0071_S0295.wav",
         "transcription": "啱啱瞓，返去休息啦，唔好攰親個身體啊",
         "expected": "啱啱瞓，翻去休息啦，唔好攰亲个身体啊。"
     },
     {
-        "audio": "G0055_S0141.wav",
         "transcription": "等我一陣，唔小心斷掉啦",
         "expected": "等我一阵，唔小心断掉啦。"
     },
     {
-        "audio": "G0070_S0116.wav",
         "transcription": "瞓覺未啊？祝你有個好夢，晚安",
         "expected": "瞓觉未啊，祝你有个好梦，晚安。"
     },
     {
-        "audio": "G0053_S0291.wav",
         "transcription": "瞓咗喇，你啱返嚟，老婆",
         "expected": "瞓咗啦！你啱翻嚟，老婆。"
     },
     {
-        "audio": "G0055_S0427.wav",
         "transcription": "今日太夜喇，聽日最上班等周末去好唔好？",
         "expected": "今日太夜啦，听日仲要上班，等周末去好唔好？"
     },
     {
-        "audio": "G0068_S0424.wav",
         "transcription": "而家點解會變成噉樣呀？",
         "expected": "而家点解会变成咁样啊？"
     },
     {
-        "audio": "G0068_S0258.wav",
         "transcription": "而家到邊度嘞，早啲休息，唔好上網嘞",
         "expected": "而家到边度啦，早啲休息，唔好上网啦。"
     },
     {
-        "audio": "G0051_S0540.wav",
         "transcription": "鬼師信呢，你係我乜嘢人啊？",
         "expected": "鬼先信咧，你系我乜嘢人啊？"
     },
     {
-        "audio": "G0070_S0084.wav",
         "transcription": "你嘅一陣，連半個鐘都冇呀",
         "expected": "你嘅一阵连半个钟都冇啊！"
     },
     {
-        "audio": "G0052_S0189.wav",
         "transcription": "瞓覺啦，自己保重好，我掛住你",
         "expected": "瞓觉啦，自己保重好，我挂住你。"
     },
     {
-        "audio": "G0068_S0041.wav",
         "transcription": "我瞓着咗喇，等瞓醒再講啦",
         "expected": "我瞓着咗啦，等瞓醒再讲啦。"
     },
     {
-        "audio": "G0051_S0177.wav",
         "transcription": "聽日嘅太陽仲係鮮紅㗎",
         "expected": "听日嘅太阳仲系鲜红噶。"
     },
     {
-        "audio": "G0053_S0004.wav",
         "transcription": "我玩嘅話就自己整",
         "expected": "我玩嘅话就自己整。"
     },
     {
-        "audio": "G0071_S0073.wav",
         "transcription": "我嘅佳人，點可能一陣就好啊",
         "expected": "我嘅佳人，点可能一阵就好啊！"
     },
     {
-        "audio": "G0068_S0530.wav",
         "transcription": "非要睇到我痛苦嘅樣，你先放心咩",
         "expected": "非要睇到我痛苦嘅样你先安心咩？"
     },
     {
-        "audio": "G0054_S0138.wav",
         "transcription": "我點解口甜時話呀，成日唔信我",
         "expected": "我点解口甜舌滑啊，成日唔信我。"
     },
     {
-        "audio": "G0072_S0291.wav",
         "transcription": "剛剛嗰件又同我講啦攞咗唔好整得",
         "expected": "刚刚郭建又同我讲啦，攞咗唔好整得。"
     },
     {
-        "audio": "G0054_S0368.wav",
         "transcription": "我哋都會有美好嘅明天",
         "expected": "我哋都会有美好嘅明天。"
     },
     {
-        "audio": "G0055_S0198.wav",
         "transcription": "係啊，你嘅小說寫完未啊？",
         "expected": "系啊你嘅小说写完未啊？"
     },
     {
-        "audio": "G0054_S0036.wav",
         "transcription": "你一個人喺瞓喇？",
         "expected": "你一个人喺瞓啊？"
     },
     {
-        "audio": "G0071_S0159.wav",
         "transcription": "哈哈，睇電視啊！老公你聽日使唔使做嘢啊？",
         "expected": "呵呵。睇电视啊！老公你听日使唔使做嘢啊？"
     },
     {
-        "audio": "G0055_S0467.wav",
         "transcription": "你屋企地多嘢做嘛？",
         "expected": "你屋企地多嘢做么？"
     },
     {
-        "audio": "G0055_S0269.wav",
         "transcription": "但係我想像個你係個原始完美嘅王子",
         "expected": "但系我想象过你系个如此完美嘅王子！"
     },
     {
-        "audio": "G0055_S0335.wav",
         "transcription": "你可唔可以好好哋悔達一個問題呀",
         "expected": "你可唔可以好好哋回答一个问题啊？"
     },
     {
-        "audio": "G0070_S0306.wav",
         "transcription": "有攝像頭就可以",
         "expected": "有摄像头就可以？"
     },
     {
-        "audio": "G0054_S0263.wav",
         "transcription": "仲喺度懷疑緊我鍾唔鍾意你啊",
         "expected": "仲喺度怀疑紧我中唔中意你啊？"
     },
     {
-        "audio": "G0054_S0297.wav",
         "transcription": "我同你講過㗎，你唔記得？",
         "expected": "我同你讲过噶？你唔记得？"
     },
     {
-        "audio": "G0070_S0150.wav",
         "transcription": "嗱你就可以好多吧嘛？真嘅？瞓低未啊",
         "expected": "那你就可以好多吧吗？真嘅，瞓低未啊。"
     },
     {
-        "audio": "G0068_S0261.wav",
         "transcription": "你至於用呢種口氣同我講嘢咩？",
         "expected": "你至于用呢种口气同我讲嘢咩？"
     },
     {
-        "audio": "G0054_S0060.wav",
         "transcription": "今次返去我就好多嘢",
         "expected": "今次翻去我做好多嘢啊！"
     },
     {
-        "audio": "G0071_S0195.wav",
         "transcription": "我哋瞓覺啦，晚安",
         "expected": "我哋瞓觉啦晚安！"
     },
     {
-        "audio": "G0071_S0257.wav",
         "transcription": "我買咗好多嘢食",
         "expected": "我买咗好多嘢食。"
     },
     {
-        "audio": "G0067_S0190.wav",
         "transcription": "眼唔眼瞓呀？我想瞓呀！我隻眼都擘唔開",
         "expected": "眼唔眼瞓啊？我想瞓啦，我只眼都擘唔开啊。"
     },
     {
-        "audio": "G0055_S0449.wav",
         "transcription": "我唔為難你，你係你自由",
         "expected": "我唔为难你，你系你自由。"
     },
     {
-        "audio": "G0071_S0417.wav",
         "transcription": "唔准瞓，我想同你傾偈",
         "expected": "唔准瞓，我想同你倾偈。"
     },
     {
-        "audio": "G0051_S0412.wav",
         "transcription": "我靠你乜嘢意思？",
         "expected": "我靠，你乜嘢意思？"
     },
     {
-        "audio": "G0067_S0030.wav",
         "transcription": "我喺出面等緊你啊，好凍啊！老婆",
         "expected": "我喺出便等紧你啊，好冻啊老婆。"
     },
     {
-        "audio": "G0054_S0521.wav",
         "transcription": "我而家打電話畀你可唔可以呀",
         "expected": "我依家打电话俾你可唔可以啊。"
     },
     {
-        "audio": "G0070_S0225.wav",
         "transcription": "豬，你明天早上返嚟嗎",
         "expected": "猪，你明天早上翻嚟吗？"
     },
     {
-        "audio": "G0055_S0522.wav",
         "transcription": "唉，睇嚟我都係多似一句啊",
         "expected": "唉睇嚟我都系多此一举啊！"
     },
     {
-        "audio": "G0067_S0454.wav",
         "transcription": "你一定要轉發，因為我要你幸福一世",
         "expected": "你一定要转发因为我要你幸福一世。"
     },
     {
-        "audio": "G0071_S0538.wav",
         "transcription": "唔係同你講咗叫你老實膠袋咩？",
         "expected": "唔系同你讲咗叫你老实交代咩？"
     },
     {
-        "audio": "G0054_S0542.wav",
         "transcription": "返嚟打電話畀我，唔好唔記得喇",
         "expected": "翻嚟打电话俾我，唔好唔记得啦。"
     },
     {
-        "audio": "G0051_S0188.wav",
         "transcription": "車，你做咩仲唔瞓覺？",
         "expected": "唓，你做咩仲唔瞓觉？"
     },
     {
-        "audio": "G0071_S0109.wav",
         "transcription": "點呀？唔想理我呀？知道喇，有關機",
         "expected": "点啊？唔想理我啊，知道啦，又关机！"
     },
     {
-        "audio": "G0067_S0490.wav",
         "transcription": "雲，你新面呀你？",
         "expected": "晕你失眠啊你？"
     },
     {
-        "audio": "G0051_S0535.wav",
         "transcription": "心快樂健康好唔好？",
         "expected": "心，快乐健康，好唔好？"
     },
     {
-        "audio": "G0055_S0037.wav",
         "transcription": "我依家好煩喇，真係唔知仲要唔要覆讀呀",
         "expected": "我而家好烦啊，真系唔知仲要唔要复读啊。"
     },
     {
-        "audio": "G0072_S0437.wav",
         "transcription": "今日揾咗我好耐咩",
         "expected": "今日搵咗我好耐咩。"
     },
     {
-        "audio": "G0071_S0062.wav",
         "transcription": "噉你小心啲啦，我係要放開噉追你喇",
         "expected": "咁你要小心啲啊，我系要放开咁追你啦！"
     },
     {
-        "audio": "G0070_S0386.wav",
         "transcription": "我想畀我最愛嘅人點首歌，類似愛情",
         "expected": "我想俾我最爱嘅人点首歌类似爱情！"
     },
     {
-        "audio": "G0053_S0346.wav",
         "transcription": "嗯，好，等我啊，唔知點解我心入面好難受",
         "expected": "嗯，好，等我喎，唔知点解我心入面好难受。"
     },
     {
-        "audio": "G0070_S0027.wav",
         "transcription": "你也是要夢懂我啊",
         "expected": "你也是要梦到我啊！"
     },
     {
-        "audio": "G0052_S0078.wav",
         "transcription": "等陣仲要洗衫添",
         "expected": "等阵仲要洗衫添。"
     },
     {
-        "audio": "G0070_S0459.wav",
         "transcription": "所以唔可以捱得太夜喇",
         "expected": "所以唔可以捱得太夜啊。"
     },
     {
-        "audio": "G0072_S0481.wav",
         "transcription": "好好你瞓嘛，發個好夢",
         "expected": "好好哋瞓吧！发个好梦。"
     },
     {
-        "audio": "G0053_S0331.wav",
         "transcription": "唔情願就算啦，我唔勉強",
         "expected": "唔情愿就算啦，我唔勉强。"
     },
     {
-        "audio": "G0067_S0008.wav",
         "transcription": "唔好鬧我得唔得，你開心就得啦",
         "expected": "唔好闹我得唔得，你开心就得啦。"
     },
     {
-        "audio": "G0053_S0115.wav",
         "transcription": "應承我唔好同佢講我同你講咗呢啲嘢",
         "expected": "应承我唔好同佢讲我同你讲咗呢啲嘢！"
     },
     {
-        "audio": "G0070_S0006.wav",
         "transcription": "我瞓酸喇喎，你都快啲嚟吖",
         "expected": "我瞓先嘞喎，你都快啲嚟啊！"
     },
     {
-        "audio": "G0052_S0226.wav",
         "transcription": "請問你我啱啱返嚟呢間膠未呀掛住你",
         "expected": "亲爱的我啱啱翻嚟，你瞓觉未啊？挂住你。"
     },
     {
-        "audio": "G0068_S0149.wav",
         "transcription": "我唔想返屋企喇，呢陣佢仲喺度食飯嘛",
         "expected": "我唔想翻屋企嘞，呢阵佢仲喺度食饭吧？"
     },
     {
-        "audio": "G0051_S0448.wav",
         "transcription": "或者係我太愛笑喇吧",
         "expected": "或者系我太爱笑啦吧！"
     },
     {
-        "audio": "G0055_S0531.wav",
         "transcription": "我就畀你發咋",
         "expected": "我就俾你发咋。"
     },
     {
-        "audio": "G0071_S0099.wav",
         "transcription": "你點呀？感覺唔啱",
         "expected": "你点啊，感觉唔啱。"
     },
     {
-        "audio": "G0052_S0074.wav",
         "transcription": "今日做乜咁早嘅瞓喇",
         "expected": "今日做乜咁早就瞓啦？"
     },
     {
-        "audio": "G0067_S0339.wav",
         "transcription": "個嘢喺邊啊？做緊咩啊？",
         "expected": "咁夜喺边啊，做紧咩啊？"
     },
     {
-        "audio": "G0071_S0093.wav",
         "transcription": "你揀冇嘅導大叔？",
         "expected": "你敢吗我嘅杜大叔？"
     },
     {
-        "audio": "G0055_S0031.wav",
         "transcription": "哈哈，覺唔覺得我蠢嘅時候好可愛啊",
         "expected": "呵呵，觉唔觉得我蠢嘅时候好可爱啊。"
     },
     {
-        "audio": "G0068_S0237.wav",
         "transcription": "你真係可笑，唔知道畀我個訊息嘅咩",
         "expected": "你真系可笑唔知道俾我个信息嘅咩。"
     },
     {
-        "audio": "G0051_S0154.wav",
         "transcription": "老公，我瞓喇，你都早啲休息我",
         "expected": "老公我瞓啦，你都早啲休息哦。"
     },
     {
-        "audio": "G0054_S0027.wav",
         "transcription": "嗯，等我哋嘅屋企搞好喇，我就將佢搞得香噴噴嘅",
         "expected": "嗯等我哋嘅屋企搞好啦我就将佢搞得香喷喷嘅。"
     },
     {
-        "audio": "G0055_S0533.wav",
         "transcription": "噉唔停揾佢嘅情機，噉你好好哋陪佢啦",
         "expected": "咁唔停搵佢嘅停机，咁你好好地陪佢啦。"
     },
     {
-        "audio": "G0067_S0040.wav",
         "transcription": "既然撞到咗，就要捉住機會，唔好錯過呀",
         "expected": "既然撞到咗就要捉住机会！唔好错过啊！"
     },
     {
-        "audio": "G0055_S0521.wav",
         "transcription": "噉你哋去刷牙啦，一陣畀我發啦",
         "expected": "咁你哋去擦牙啦，一阵俾我发啦。"
     },
     {
-        "audio": "G0072_S0445.wav",
         "transcription": "你喺嗰邊點啊？有時間又同我覆訊息",
         "expected": "你喺嗰边点啊，有时间就同我复信息。"
     },
     {
-        "audio": "G0067_S0107.wav",
         "transcription": "你喺邊啊？點解仲唔返屋企？",
         "expected": "你喺边啊点解仲唔翻屋企？"
     },
     {
-        "audio": "G0051_S0158.wav",
         "transcription": "我相信你睇到啦",
         "expected": "我相信你睇到啦！"
     },
     {
-        "audio": "G0055_S0243.wav",
         "transcription": "噉你畀我講咩好，工作嘅事，不過冇事",
         "expected": "咁你俾我讲咩好，工作嘅事，不过冇事。"
     },
     {
-        "audio": "G0072_S0465.wav",
         "transcription": "噉就好，我好擔心吖",
         "expected": "咁就好，我好担心啊！"
     },
     {
-        "audio": "G0054_S0014.wav",
         "transcription": "諗成諗起我哋嘅過去",
         "expected": "谂，成日谂起我哋嘅过去。"
     },
     {
-        "audio": "G0053_S0272.wav",
         "transcription": "我尊重你嘅決定",
         "expected": "我尊重你嘅决定！"
     },
     {
-        "audio": "G0055_S0270.wav",
         "transcription": "冇就同阿你莫有連繫",
         "expected": "冇就同阿里木有联系。"
     },
     {
-        "audio": "G0068_S0068.wav",
         "transcription": "可能半個月，唉，我眼瞓喇",
         "expected": "可能半个月，唉，我眼瞓啦。"
     },
     {
-        "audio": "G0052_S0285.wav",
         "transcription": "而我就因為噉喊咗好多日",
         "expected": "而我就因为咁，喊咗好多日。"
     },
     {
-        "audio": "G0052_S0032.wav",
         "transcription": "我得房間電話畀你陪你吖",
         "expected": "我打房间电话俾你陪你啊。"
     },
     {
-        "audio": "G0052_S0065.wav",
         "transcription": "唔好啦，你仲傻呀，係咪呀？",
         "expected": "嗯，好啦，你仲傻啊，系咪啊。"
     },
     {
-        "audio": "G0053_S0519.wav",
         "transcription": "打完嘞，早啲瞓啦，我都瞓喇，掛住你",
         "expected": "打完啦早啲瞓啦我都瞓啦挂住你。"
     },
     {
-        "audio": "G0071_S0265.wav",
         "transcription": "噉你早啲休息啦，我望喇",
         "expected": "咁你早啲休息啦，我忙啦！"
     },
     {
-        "audio": "G0051_S0046.wav",
         "transcription": "老江，今晚石河只好似有六級地震",
         "expected": "老公，今晚石河子好似有六级地震。"
     },
     {
-        "audio": "G0055_S0233.wav",
         "transcription": "你有咩安排呀？",
         "expected": "你有咩安排啊？"
     },
     {
-        "audio": "G0055_S0336.wav",
         "transcription": "哦，我努力養自己瞓",
         "expected": "哦，我努力让自己瞓！"
     },
     {
-        "audio": "G0053_S0283.wav",
         "transcription": "冇瞓，你喺度做咩呀？瞓咗未呀？",
         "expected": "冇瞓，你喺度做咩啊？瞓咗未啊？"
     },
     {
-        "audio": "G0053_S0463.wav",
         "transcription": "你係邊個啊？有事咩？",
         "expected": "你是边个啊有事咩？"
     },
     {
-        "audio": "G0072_S0072.wav",
         "transcription": "好，瞓啦，太夜喇，祝你發個好夢",
         "expected": "好好瞓啦！太夜啦！祝你发个好梦！"
     },
     {
-        "audio": "G0071_S0476.wav",
         "transcription": "噉你係咪唔要我啦？",
         "expected": "咁你系咪唔要我啦。"
     },
     {
-        "audio": "G0070_S0542.wav",
         "transcription": "冇法喇，瞓啦，晚安",
         "expected": "唔好发啦！瞓啦！晚安！"
     },
     {
-        "audio": "G0068_S0146.wav",
         "transcription": "你問鄭飛囉鎖事咪得囉",
         "expected": "你问郑菲攞锁匙咪得咯。"
     },
     {
-        "audio": "G0071_S0461.wav",
         "transcription": "噉你哋去邊度食啊",
         "expected": "咁你哋去边度食啊？"
     },
     {
-        "audio": "G0067_S0275.wav",
         "transcription": "我哋十一點落返",
         "expected": "我哋十一点落班。"
     },
     {
-        "audio": "G0071_S0241.wav",
         "transcription": "你喺度做咩？講真話",
         "expected": "你喺度做咩，讲真话。"
     },
     {
-        "audio": "G0051_S0093.wav",
         "transcription": "你話呢個係唔係真愛呀？",
         "expected": "你话，呢个系唔系真爱啊？"
     },
     {
-        "audio": "G0072_S0355.wav",
         "transcription": "吓嗰啲就叫做江嶺",
         "expected": "哈，嗰啲就叫做光荣。"
     },
     {
-        "audio": "G0055_S0108.wav",
         "transcription": "我聽日過去畀你交三十蚊",
         "expected": "我听日过去俾你交三十蚊。"
     },
     {
-        "audio": "G0053_S0329.wav",
         "transcription": "嗯，彼此喜歡先能夠幸福",
         "expected": "嗯彼此喜欢先能够幸福！"
     },
     {
-        "audio": "G0067_S0003.wav",
         "transcription": "又話我，你上唔到高中點算",
         "expected": "又话我，你上唔到高中点算？"
     },
     {
-        "audio": "G0055_S0276.wav",
         "transcription": "尋晚都冇覆我信息的呵呵",
         "expected": "寻晚都冇复我信息的，呵呵。"
     },
     {
-        "audio": "G0052_S0280.wav",
         "transcription": "你要好好考試呀",
         "expected": "你要好好考试啊！"
     },
     {
-        "audio": "G0068_S0201.wav",
         "transcription": "噉好好瞓吖，唔打電話喇？快啲好",
         "expected": "咁好好瞓啦，唔打电话啦，快啲好！"
     },
     {
-        "audio": "G0053_S0264.wav",
         "transcription": "噉你想叫咩呀？",
         "expected": "咁你想叫咩啊？"
     },
     {
-        "audio": "G0067_S0391.wav",
         "transcription": "睇咗我比較善良嘅份上，就唔收你學費啦",
         "expected": "睇在我比较善良嘅份上就唔收你学费啦！"
     },
     {
-        "audio": "G0052_S0494.wav",
         "transcription": "你不要繼續努力啦，慢安",
         "expected": "你俾佢继续努力啦，晚安。"
     },
     {
-        "audio": "G0070_S0199.wav",
         "transcription": "只是比以前少喇，還是我向你回報啊",
         "expected": "只是比以前少啦，还是我向你汇报啊。"
     },
     {
-        "audio": "G0051_S0338.wav",
         "transcription": "掛住你喇咪，瞓着下",
         "expected": "挂住你嘞呗，瞓唔着哈哈。"
     },
     {
-        "audio": "G0070_S0493.wav",
         "transcription": "噉我就估，人我認識嘛",
         "expected": "咁我就估人我认识吗？"
     },
     {
-        "audio": "G0055_S0456.wav",
         "transcription": "哈哈，討厭老公，噉你係唔想好好地讓我啊",
         "expected": "呵呵讨厌老公，咁你系唔想好好哋养我啊。"
     },
     {
-        "audio": "G0055_S0007.wav",
         "transcription": "哈哈，就係嗰個紋身圖太細喇，我想搞大啲",
         "expected": "哈哈就系嗰个纹身图太细啦我想搞大啲。"
     },
     {
-        "audio": "G0070_S0404.wav",
         "transcription": "可以畀我啲時間嗎",
         "expected": "可以俾我啲时间吗？"
     },
     {
-        "audio": "G0052_S0087.wav",
         "transcription": "好多人今日都走咗返嚟喇",
         "expected": "好多人今日都走咗翻嚟啦！"
     },
     {
-        "audio": "G0051_S0173.wav",
         "transcription": "掛住喇，黑眼瞓喇，瞓覺喇，晚安",
         "expected": "挂住啦，瞌眼瞓啦，瞓觉啦，晚安。"
     },
     {
-        "audio": "G0053_S0095.wav",
         "transcription": "好似阿韜噉樣嘅字我？咩意思呀？",
         "expected": "好似阿涛咁样嘅自我？咩意思啊？"
     },
     {
-        "audio": "G0067_S0544.wav",
         "transcription": "而家你已經進入夢鄉喇",
         "expected": "而家你已经进入梦乡啦！"
     },
     {
-        "audio": "G0051_S0450.wav",
         "transcription": "乖乖，你係個小壞蛋",
         "expected": "乖乖你系个小坏蛋！"
     },
     {
-        "audio": "G0070_S0531.wav",
         "transcription": "今晚，我有好多話想同你講",
         "expected": "今晚我有好多话想同你讲。"
     },
     {
-        "audio": "G0055_S0148.wav",
         "transcription": "我瞓覺啦，冇泥呀，你嗰度",
         "expected": "我瞓觉啦冇嚟啊你嗰度。"
     },
     {
-        "audio": "G0052_S0470.wav",
         "transcription": "哦，好嘅，知道喇",
         "expected": "哦，好嘅。知道啦。"
     },
     {
-        "audio": "G0072_S0319.wav",
         "transcription": "所以以後唔好嘞麻煩咗你嘞",
         "expected": "所以以后唔好啦，麻烦咗你啦。"
     },
     {
-        "audio": "G0054_S0526.wav",
         "transcription": "你邊日真係有時間，我好期待呀",
         "expected": "你边日真系有时间我好期待啊。"
     },
     {
-        "audio": "G0052_S0112.wav",
         "transcription": "唔，北京打㗎，咪我啲嘢",
         "expected": "嗯，北京打噶，问我啲嘢。"
     },
     {
-        "audio": "G0054_S0381.wav",
         "transcription": "唉，呢一切嘅一切都係點解呢",
         "expected": "唉呢一切嘅一切都是点解咧？"
     },
     {
-        "audio": "G0051_S0119.wav",
         "transcription": "丑哥，你仲同兄弟咁客氣",
         "expected": "丑哥你仲同兄弟咁客气。"
     },
     {
-        "audio": "G0071_S0036.wav",
         "transcription": "其實我都好在乎大媽嘅",
         "expected": "其实我都好在乎大妈嘅！"
     },
     {
-        "audio": "G0067_S0064.wav",
         "transcription": "咁你而家喺宿舍呀？",
         "expected": "咁你而家喺宿舍啊。"
     },
     {
-        "audio": "G0051_S0470.wav",
         "transcription": "哦，同我打電話好唔好？",
         "expected": "哦，同我打电话好唔好？"
     },
     {
-        "audio": "G0072_S0321.wav",
         "transcription": "瞓着咗啦，點解唔講嘢呀",
         "expected": "瞓着咗啦？点解唔讲嘢啊？"
     },
     {
-        "audio": "G0052_S0252.wav",
         "transcription": "我唔可憐㗎，會好㗎！好快就會好㗎！",
         "expected": "我唔可怜噶，会好噶，好快就会好噶。"
     },
     {
-        "audio": "G0052_S0039.wav",
         "transcription": "我係一二九，你唔出去咯",
         "expected": "我喺一二九你唔出去啦？"
     },
     {
-        "audio": "G0052_S0462.wav",
         "transcription": "張家文係我，我知道你喺度，一定要會等我",
         "expected": "张嘉敏系我，我知道你喺度，一定要回答我。"
     },
     {
-        "audio": "G0067_S0366.wav",
         "transcription": "你冇收到我短信咩？",
         "expected": "你冇收到我短信咩？"
     },
     {
-        "audio": "G0071_S0176.wav",
         "transcription": "噉你聽日照一個咪得囉",
         "expected": "咁你听日照一个咪得咯！"
     },
     {
-        "audio": "G0051_S0108.wav",
         "transcription": "我知道喇，我知道唔可以升張",
         "expected": "我知道啦，我知道唔可以声张。"
     },
     {
-        "audio": "G0053_S0181.wav",
         "transcription": "我唔理，你就係同我企埋我都唔會自卑㗎",
         "expected": "我唔理，你就系同我企埋我都唔会自卑噶。"
     },
     {
-        "audio": "G0067_S0262.wav",
         "transcription": "睇嚟，你都係諗得幾遠㗎喎",
         "expected": "睇嚟你都系谂得几远噶喎！"
     },
     {
-        "audio": "G0053_S0027.wav",
         "transcription": "呢個係唔係你嘅愛好啊？",
         "expected": "呢个系唔系你嘅爱好啊？"
     },
     {
-        "audio": "G0068_S0216.wav",
         "transcription": "而家搞唔掂，要你先得",
         "expected": "自己搞唔掂，要你先得。"
     },
     {
-        "audio": "G0054_S0248.wav",
         "transcription": "好嘞，老婆晚安，唔係",
         "expected": "好啦老婆晚安唔啊。"
     },
     {
-        "audio": "G0055_S0023.wav",
         "transcription": "嗯，你都係，石淡啦",
         "expected": "嗯你都系锡啖啦。"
     },
     {
-        "audio": "G0051_S0481.wav",
         "transcription": "信射，哈，你改而唔知道，兩點二十四早就過咗喇",
         "expected": "唓唓哼，你果然唔知道，两点二十四早就过咗啦。"
     },
     {
-        "audio": "G0052_S0453.wav",
         "transcription": "我睇到條短信喇，好屈唔好喇",
         "expected": "我，睇到条短信啦，好郁闷啊！"
     },
     {
-        "audio": "G0054_S0154.wav",
         "transcription": "你會搵到比我更好嘅女仔㗎",
         "expected": "你会搵到比我更好嘅女仔噶！"
     },
     {
-        "audio": "G0055_S0060.wav",
         "transcription": "我對你唔溫柔咩",
         "expected": "我对你唔温柔咩？"
     },
     {
-        "audio": "G0054_S0468.wav",
         "transcription": "唔好意思呀，我頭先喺忙緊",
         "expected": "唔好意思啊，我头先喺忙紧。"
     },
     {
-        "audio": "G0052_S0360.wav",
         "transcription": "就同同你都係朋友一樣",
         "expected": "就同同你都系朋友一样！"
     },
     {
-        "audio": "G0070_S0273.wav",
         "transcription": "我去揾你，要麼你嚟我宿舍吧",
         "expected": "我去搵你，要么你嚟我宿舍吧！"
     },
     {
-        "audio": "G0054_S0500.wav",
         "transcription": "香香乜都冇，好喇，花到好奇發訊息啦",
         "expected": "呵呵乜都冇。好啦翻到屋企发信息啦。"
     },
     {
-        "audio": "G0071_S0520.wav",
         "transcription": "我都畀你寫一啖",
         "expected": "我都俾你锡一啖。"
     },
     {
-        "audio": "G0071_S0007.wav",
         "transcription": "唔係，依邊朋友叫咗，第二日先去啦",
         "expected": "唔系，依边朋友叫咗！第日先去啦。"
     },
     {
-        "audio": "G0071_S0300.wav",
         "transcription": "冇，我已經瞓喺張床度喇",
         "expected": "冇，我已经瞓喺张床度啦！"
     },
     {
-        "audio": "G0052_S0293.wav",
         "transcription": "打電話冇事，就掛住你哋啫",
         "expected": "打电话冇事，就挂住你哋啫。"
     },
     {
-        "audio": "G0072_S0301.wav",
         "transcription": "我就話，我就鍾意你同我嬲嗰時，殺力",
         "expected": "我就话我就中意你同我嬲嗰阵时耍赖。"
     },
     {
-        "audio": "G0068_S0281.wav",
         "transcription": "想畀你，想等你，幫我出下主意",
         "expected": "想俾你想等你帮我出下主意！"
     },
     {
-        "audio": "G0067_S0477.wav",
         "transcription": "你嚟唔嚟呀？我鎖悶呀",
         "expected": "你嚟唔嚟啊，我锁门啦。"
     },
     {
-        "audio": "G0068_S0154.wav",
         "transcription": "我返唔返我知道",
         "expected": "我翻唔翻我知道。"
     },
     {
-        "audio": "G0070_S0291.wav",
         "transcription": "白天瞓多咗，晚上瞓唔着囉",
         "expected": "白天瞓多咗晚上瞓唔着哦。"
     },
     {
-        "audio": "G0052_S0245.wav",
         "transcription": "我改咗你個封面，你唔介意吖嘛",
         "expected": "我改咗你个封面，你唔介意啊吗？"
     },
     {
-        "audio": "G0051_S0407.wav",
         "transcription": "只係希望解開你嘅心結",
         "expected": "只系希望解开你嘅心结！"
     },
     {
-        "audio": "G0067_S0329.wav",
         "transcription": "加埋你，總共十二個人",
         "expected": "加埋你总共十二个人。"
     },
     {
-        "audio": "G0071_S0526.wav",
         "transcription": "靚女瞓覺未呀？可唔可以傾下計呀？",
         "expected": "靓女瞓觉未啊，可唔可以倾下偈啊。"
     },
     {
-        "audio": "G0052_S0069.wav",
         "transcription": "算啦，我知道呢件事嘅大小",
         "expected": "算啦，我知道呢件事嘅大小。"
     },
     {
-        "audio": "G0053_S0518.wav",
         "transcription": "我今日咩都冇講，自己嘅事唔想講",
         "expected": "我今日咩都冇讲，自己嘅事唔想讲。"
     },
     {
-        "audio": "G0071_S0182.wav",
         "transcription": "嗯，休息啦，注意啲，哦",
         "expected": "嗯，休息啦，注意啲，么。"
     },
     {
-        "audio": "G0071_S0425.wav",
         "transcription": "我好想食你嘅寶貝",
         "expected": "我好想食你嘅宝贝。"
     },
     {
-        "audio": "G0054_S0219.wav",
         "transcription": "點同你做啊？你嘅事件又唔喺我度",
         "expected": "点同你做啊？你嘅试卷又唔系喺我度？"
     },
     {
-        "audio": "G0068_S0475.wav",
         "transcription": "最近有啲忙冇照顧你",
         "expected": "最近有啲忙冇照顾你！"
     },
     {
-        "audio": "G0068_S0047.wav",
         "transcription": "唔打擾，唔打擾，點？有咩可能會打擾到我呀？",
         "expected": "唔打扰，唔打扰！点有咩可能会打扰到我啊？"
     },
     {
-        "audio": "G0055_S0424.wav",
         "transcription": "聽日嘅考試一定要考好",
         "expected": "听日嘅考试一定要考好。"
     },
     {
-        "audio": "G0054_S0253.wav",
         "transcription": "你今日食咗飯未呀？",
         "expected": "你今日食咗饭未啊？"
     },
     {
-        "audio": "G0052_S0028.wav",
         "transcription": "做咩呀？到邊度喇？",
         "expected": "做咩啊？到边度啦？"
     },
     {
-        "audio": "G0072_S0266.wav",
         "transcription": "哈哈，冇事，你都早啲瞓啦",
         "expected": "呵呵冇事，你都早啲瞓啦。"
     },
     {
-        "audio": "G0054_S0012.wav",
         "transcription": "唔好嘅，我等你電話",
         "expected": "嗯，好嘅！我等你电话。"
     },
     {
-        "audio": "G0054_S0334.wav",
         "transcription": "唔打架你休息喇，你瞓啦",
         "expected": "唔打搅你休息啦，你瞓啦！"
     },
     {
-        "audio": "G0070_S0512.wav",
         "transcription": "既然唔可以喺一切",
         "expected": "既然唔可以喺一齐！"
     },
     {
-        "audio": "G0070_S0042.wav",
         "transcription": "我冇怪你，只係今日心情唔點好",
         "expected": "我冇怪你，只系今日心情唔点好。"
     },
     {
-        "audio": "G0051_S0201.wav",
         "transcription": "你老婆喺度睇小說喇",
         "expected": "你老婆喺度睇小说啦。"
     },
     {
-        "audio": "G0053_S0073.wav",
         "transcription": "嗯，好啦，我瞓覺喇，你而家喺邊啊？",
         "expected": "嗯！好啦！我瞓觉啦！你而家喺边啊？"
     },
     {
-        "audio": "G0053_S0116.wav",
         "transcription": "我已經好耐冇為自己諗過乜嘢喇",
         "expected": "我已经好耐冇为自己谂过乜嘢嘞。"
     },
     {
-        "audio": "G0054_S0262.wav",
         "transcription": "得噉就噉做啦，下晝十二點聯繫",
         "expected": "得咁就咁做啦下昼十二点联系。"
     },
     {
-        "audio": "G0054_S0011.wav",
         "transcription": "唔好攰住呀我會心痛㗎",
         "expected": "唔好攰着啊，我会心痛噶。"
     },
     {
-        "audio": "G0072_S0354.wav",
         "transcription": "仲係唔可以話畀我聽㗎咩",
         "expected": "仲系唔可以话俾我听咩？"
     },
     {
-        "audio": "G0068_S0289.wav",
         "transcription": "王爺，你哋做咩呀？",
         "expected": "王亦，你喺度做咩啊？"
     },
     {
-        "audio": "G0070_S0022.wav",
         "transcription": "西西，上呢？在宿舍呢",
         "expected": "西西想咧在宿舍咧。"
     },
     {
-        "audio": "G0067_S0474.wav",
         "transcription": "好，我愛你，掛住你快啲返來好唔好啊",
         "expected": "好我爱你挂住你，快啲翻嚟好唔好？"
     },
     {
-        "audio": "G0051_S0018.wav",
         "transcription": "好嘅，聽你講嘢感覺好舒服",
         "expected": "好嘅，听你讲嘢感觉好舒服！"
     },
     {
-        "audio": "G0067_S0394.wav",
         "transcription": "食完飯就去唱歌啊，你仲想瞓咩",
         "expected": "食完饭就去唱歌啊，你仲想瞓咩？"
     },
     {
-        "audio": "G0070_S0301.wav",
         "transcription": "無聊，就畀我打電話，唔理幾夜，我都接",
         "expected": "无聊就俾我打电话，唔理几夜我都接！"
     },
     {
-        "audio": "G0072_S0373.wav",
         "transcription": "主要係因為佢比較方便，所以就食佢",
         "expected": "主要系因为佢比较方便，所以就食佢。"
     },
     {
-        "audio": "G0071_S0457.wav",
         "transcription": "瞓唔著，你做咩呀？攰唔攰？",
         "expected": "瞓唔着，你做咩啊，攰唔攰？"
     },
     {
-        "audio": "G0054_S0378.wav",
         "transcription": "一定要好好做啊，一定要成功啊",
         "expected": "一定要好好做哦一定要成功哦！"
     },
     {
-        "audio": "G0051_S0303.wav",
         "transcription": "我冇畀你全想，聽日啦",
         "expected": "我冇俾你传相，听日啦！"
     },
     {
-        "audio": "G0053_S0374.wav",
         "transcription": "冇所謂，再攰都值得",
         "expected": "冇所谓，再攰都值得。"
     },
     {
-        "audio": "G0051_S0238.wav",
         "transcription": "嗯，當然希望你",
         "expected": "嗯，当然希望你。"
     },
     {
-        "audio": "G0068_S0016.wav",
         "transcription": "嘿嘿，係咪過份啦老婆",
         "expected": "嘿嘿，系咪过分啦老婆。"
     },
     {
-        "audio": "G0053_S0250.wav",
         "transcription": "我戥你開心，我哋分手啦",
         "expected": "我戥你开心，我哋分手啦！"
     },
     {
-        "audio": "G0067_S0419.wav",
         "transcription": "係啊，我星期三休息",
         "expected": "系啊，我星期三休息。"
     },
     {
-        "audio": "G0051_S0520.wav",
         "transcription": "五嫲，老公，晚安",
         "expected": "唔啊，老公晚安！"
     },
     {
-        "audio": "G0071_S0267.wav",
         "transcription": "傻瓜，你寫完快啲瞓喇",
         "expected": "傻瓜你写完快啲瞓啦！"
     },
     {
-        "audio": "G0071_S0440.wav",
         "transcription": "我決定咗聽日去，但係後日要返嚟",
         "expected": "我决定咗听日去，但系后日要翻嚟。"
     },
     {
-        "audio": "G0054_S0260.wav",
         "transcription": "啱到冇睇上合適嘅",
         "expected": "啱到。冇睇上合适嘅。"
     },
     {
-        "audio": "G0068_S0312.wav",
         "transcription": "嘩，明白喇，你鍾意我呀？",
         "expected": "哇明白咧你中意我啊。"
     },
     {
-        "audio": "G0052_S0091.wav",
         "transcription": "好，人哋冇過就好",
         "expected": "好，人哋冇过就好。"
     },
     {
-        "audio": "G0067_S0210.wav",
         "transcription": "嘿，你都係我嘅傻傻老婆",
         "expected": "嘿，你都系我嘅傻傻老婆。"
     },
     {
-        "audio": "G0068_S0320.wav",
         "transcription": "噉我聽日發畀你，你後日發畀我",
         "expected": "咁我听日发俾你，你后日发俾我。"
     },
     {
-        "audio": "G0067_S0372.wav",
         "transcription": "而家仲未係時候",
         "expected": "依家仲未系时候啊。"
     },
     {
-        "audio": "G0053_S0280.wav",
         "transcription": "啱斷奶嘅羔羊，每日保持精料一百克",
         "expected": "啱断奶嘅羔羊每日补饲精料一百克。"
     },
     {
-        "audio": "G0051_S0343.wav",
         "transcription": "我，或者講出嚟就會舒服啲，你話係唔係？",
         "expected": "我，或者讲出嚟就会舒服啲。你话系唔系！"
     },
     {
-        "audio": "G0070_S0256.wav",
         "transcription": "我點可以輕易放棄呢",
         "expected": "我点可以轻易放弃咧？"
     },
     {
-        "audio": "G0068_S0098.wav",
         "transcription": "今日攰到散晒假，當之幾點先會返屋企",
         "expected": "唉，今日攰到散晒架，都唔知几点先可以翻屋企啊。"
     },
     {
-        "audio": "G0054_S0477.wav",
         "transcription": "噉要辛苦你喇，估計近排可能唔會喇",
         "expected": "咁要辛苦你啦估计近排可能唔会啦！"
     },
     {
-        "audio": "G0068_S0306.wav",
         "transcription": "你又有冇羨慕吖",
         "expected": "你又有冇羡慕啊？"
     },
     {
-        "audio": "G0054_S0362.wav",
         "transcription": "我仲以為你要補添",
         "expected": "我仲以为你要报添！"
     },
     {
-        "audio": "G0053_S0301.wav",
         "transcription": "你半夜一直忙緊咩呀？",
         "expected": "你半日一直忙紧咩啊？"
     },
     {
-        "audio": "G0055_S0132.wav",
         "transcription": "多謝你嘅台句，你都有你嘅財",
         "expected": "多谢你嘅抬举你都有你嘅才。"
     },
     {
-        "audio": "G0068_S0116.wav",
         "transcription": "瞓啦，我都愛你，希望佢可以好好對你",
         "expected": "瞓啦，我都爱你，希望佢可以好好对你。"
     },
     {
-        "audio": "G0055_S0196.wav",
         "transcription": "我冇病，只係因為我愛你愛得太",
         "expected": "我冇病，只系因为我爱你爱得太。"
     },
     {
-        "audio": "G0051_S0260.wav",
         "transcription": "你哋仲要跟住考跳舞，係唔係呀？",
         "expected": "你哋仲要跟着考跳舞，系唔系啊？"
     },
     {
-        "audio": "G0055_S0052.wav",
         "transcription": "冇瞓，都瞓唔着",
         "expected": "冇瞓，都瞓唔着。"
     },
     {
-        "audio": "G0055_S0453.wav",
         "transcription": "我會做你嘅天使陪住你㗎，分啦！",
         "expected": "我会做你嘅天使陪着你噶，瞓啦！"
     },
     {
-        "audio": "G0067_S0520.wav",
         "transcription": "驚咗你啊，唔使講喇",
         "expected": "惊咗你啊，唔使讲啦。"
     },
     {
-        "audio": "G0067_S0315.wav",
         "transcription": "我都唔知講咩話喇",
         "expected": "我都唔知讲咩好啦。"
     },
     {
-        "audio": "G0068_S0137.wav",
         "transcription": "我就想休息一日喺屋企睇電視",
         "expected": "我就想休息一日喺屋企睇电视。"
     },
     {
-        "audio": "G0054_S0370.wav",
         "transcription": "起身解手，仲未瞓呀，早啲瞓好嘛",
         "expected": "起身解手，仲未瞓啊？早啲瞓，好吗？"
     },
     {
-        "audio": "G0052_S0038.wav",
         "transcription": "你做乜唔理我喇",
         "expected": "你做咩唔理我啦？"
     }

@@ -1,0 +1,4002 @@
+[
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生理。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同加许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁条。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣泉。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生理。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生理。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生理。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    },
+    {
+        "transcription": "麻雀食壶其中一种形式十四只分别系东南西北中发白一桶九桶一索九索一万九万再加以上市但一只。",
+        "expected": "麻雀食糊其中一種形式，十四隻分別係：東、南、西、北、中、發、白、一筒、九筒、一索、九索、一萬、九萬，再加以上是但一隻"
+    },
+    {
+        "transcription": "专用词汇表。",
+        "expected": "專用詞彙表"
+    },
+    {
+        "transcription": "离开人世系死亡比较正式嘅委远宇。",
+        "expected": "離開人世；係「死亡」比較正式嘅委婉語"
+    },
+    {
+        "transcription": "将货品嘅价钱设得唔合理地高博人唔知价而俾多咗钱，虽然唔算诈骗，但都系唔诚实嘅经商手法。",
+        "expected": "將貨品嘅價錢設得唔合理地高，博人唔知價而畀多咗錢；雖然唔算詐騙，但都係唔誠實嘅經商手法"
+    },
+    {
+        "transcription": "喊出嚟，原来佢唔系小明老婆。",
+        "expected": "喊出嚟，原來佢唔係小明老婆呀？"
+    },
+    {
+        "transcription": "表示赞同家许。",
+        "expected": "表示贊同、嘉許"
+    },
+    {
+        "transcription": "定出一个双方觉得过高唔合理嘅要求。",
+        "expected": "定出一個雙方覺得過高，唔合理嘅要求"
+    },
+    {
+        "transcription": "拜托你将呢本书攞俾佢。",
+        "expected": "拜託你將呢本書攞俾佢吖。"
+    },
+    {
+        "transcription": "一种由猪蹄制成嘅食物量匙值。",
+        "expected": "一種由豬蹄製成嘅食物（量詞：隻）"
+    },
+    {
+        "transcription": "生礼。",
+        "expected": "喪禮"
+    },
+    {
+        "transcription": "庙宇两晋之间见有乡庭。",
+        "expected": "廟宇兩進之間建有香亭。"
+    },
+    {
+        "transcription": "我反为中意睇卡通片。",
+        "expected": "我反為鍾意睇卡通片。"
+    },
+    {
+        "transcription": "带有威吓嘅公开声明预言。",
+        "expected": "帶有威嚇嘅公開聲明、預言"
+    },
+    {
+        "transcription": "使得。",
+        "expected": "使得"
+    },
+    {
+        "transcription": "而家都系稳两份兼职做住先咋。",
+        "expected": "而家都係揾兩份兼職做住先咋。"
+    },
+    {
+        "transcription": "用喺正式场合同打工仔近似一般指底层下级嘅雇员量词个。",
+        "expected": "用喺正式場合，同打工仔近似，一般指底層、下級嘅僱員（量詞：個）"
+    },
+    {
+        "transcription": "亦愁。",
+        "expected": "疫埠"
+    },
+    {
+        "transcription": "以知证明。",
+        "expected": "以資證明"
+    },
+    {
+        "transcription": "水来伸手饭来张口。",
+        "expected": "水來伸手飯來張口"
+    },
+    {
+        "transcription": "一种好常见嘅食物将一般专指鸡蛋蛋黄同蛋白发匀加有落镬炒量匙碟粉。",
+        "expected": "一種好常見嘅食物，將（一般專指雞蛋）蛋黃同蛋白發勻，加油落鑊炒（量詞：碟／份）"
+    },
+    {
+        "transcription": "睇到买卖盘两边咁多一样 number嘅挂盘就知，系搭紧棒啦。",
+        "expected": "睇到買賣盤兩邊咁多一樣冧把嘅掛盤就知係搭緊棚啦。"
+    },
+    {
+        "transcription": "一个人食孖条系双重享受。",
+        "expected": "一個人食孖條係雙重享受。"
+    },
+    {
+        "transcription": "狠毒蓄意为其他人造成严重伤害。",
+        "expected": "狠毒 ；蓄意為其他人造成嚴重傷害"
+    },
+    {
+        "transcription": "电流通过嘅路径量磁调。",
+        "expected": "電流通過嘅路徑（量詞：條）"
+    },
+    {
+        "transcription": "过期。",
+        "expected": "過期"
+    },
+    {
+        "transcription": "同杀黑社会隐喻。",
+        "expected": "同殺 ，黑社會隱語"
+    },
+    {
+        "transcription": "局长下令特警队攻坚之后先发现班匪徒已经一早走咗。",
+        "expected": "局長下令特警隊攻堅之後先發現班匪徒已經一早走咗。"
+    },
+    {
+        "transcription": "天色黑暗冇月光星光嘅夜晚。",
+        "expected": "天色黑暗，冇月光、星光嘅夜晚"
+    },
+    {
+        "transcription": "作者将人物性格克或不活灵活言。",
+        "expected": "作者將人物性格刻畫得活靈活現。"
+    },
+    {
+        "transcription": "市民应该留喺户内，并到安全地方暂避，直至大雨过去。",
+        "expected": "市民應該留喺户內，並到安全地方暫避，直至大雨過去。"
+    },
+    {
+        "transcription": "选举委员会。",
+        "expected": "選舉委員會"
+    },
+    {
+        "transcription": "用最高速度。",
+        "expected": "用最高速度"
+    },
+    {
+        "transcription": "羊嘅叫声。",
+        "expected": "羊嘅叫聲"
+    },
+    {
+        "transcription": "教育自己啲仔女。",
+        "expected": "教育自己啲仔女"
+    },
+    {
+        "transcription": "联署。",
+        "expected": "聯署"
+    },
+    {
+        "transcription": "十除以五等于二二就系相数。",
+        "expected": "10除以5等於2， 2就係商數。"
+    },
+    {
+        "transcription": "扮演同鬼神沟通嘅媒介嘅人，有神通或者超能力可以帮人同鬼神沟通嘅人量词过。",
+        "expected": "扮演同鬼神溝通嘅媒介嘅人；有神通或者超能力，可以幫人同鬼神溝通嘅人（量詞：個）"
+    },
+    {
+        "transcription": "喺外国成长嘅华人。",
+        "expected": "喺外國成長嘅華人"
+    },
+    {
+        "transcription": "争少少就成功或者完成一件事。",
+        "expected": "爭少少就成功或者完成一件事"
+    },
+    {
+        "transcription": "肝功能衰退。",
+        "expected": "肝功能衰退"
+    },
+    {
+        "transcription": "用手掌打人块脸。",
+        "expected": "用手掌打人塊臉"
+    },
+    {
+        "transcription": "单人房。",
+        "expected": "單人房"
+    },
+    {
+        "transcription": "饮清面前嘅酒。",
+        "expected": "飲清面前嘅酒"
+    },
+    {
+        "transcription": "命运坎坷。",
+        "expected": "命運坎坷"
+    },
+    {
+        "transcription": "形容表情放松。",
+        "expected": "形容表情放鬆"
+    },
+    {
+        "transcription": "比如挑起事端引发争拗。",
+        "expected": "比喻挑起事端，引發爭拗"
+    },
+    {
+        "transcription": "谣传。",
+        "expected": "謠傳"
+    },
+    {
+        "transcription": "睇完套鬼片，我个心仲系卜卜声咁跳。",
+        "expected": "睇完套鬼片，我個心仲係卜卜聲噉跳。"
+    },
+    {
+        "transcription": "教人垂类。",
+        "expected": "教人垂淚"
+    },
+    {
+        "transcription": "尽情咁去做通常只破坏一啲事。",
+        "expected": "盡情噉去做，通常指破壞一啲事"
+    }
+]
