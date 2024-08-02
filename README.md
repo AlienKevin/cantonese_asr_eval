@@ -37,7 +37,7 @@
 2. The first 1,000 utterances are chosen for evaluation for each of the other datasets.
 
 ### Postprocessing
-1. Convert all Chinese characters.
+1. Convert all Chinese characters to simplified.
 2. Strip away all punctuations and spaces.
 3. Remove any emotion or event tags (sensevoice only).
 
