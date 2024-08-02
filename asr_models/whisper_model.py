@@ -10,6 +10,7 @@ class WhisperASRModel(ASRModel):
             device=device,
         )
         self.pipe.model.config.forced_decoder_ids = self.pipe.tokenizer.get_decoder_prompt_ids(language=lang, task="transcribe")
+        self.pipe.model.generation_config.suppress_tokens = None
 
     def generate(self, input):
         results = self.pipe(input)
