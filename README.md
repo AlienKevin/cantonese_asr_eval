@@ -41,6 +41,22 @@
 2. Strip away all punctuations and spaces.
 3. Remove any emotion or event tags (sensevoice only).
 
-## Results
+## Reproduction
+
+### Environment
+```
+pip install funasr transformers torch torchaudio datasets librosa matplotlib tqdm
+```
+See the `environment.yml` for a reference conda environment on the macOS.
+
+### Evaluate
+```
+python run.py
+```
 
 Generated outputs of all the models can be found under the `results/` folder.
+
+Then, you can calculate the character error rate for the results using:
+```
+python eval.py
+```
