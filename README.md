@@ -1,4 +1,4 @@
-# Evaluation of Open Source Cantonese ASR Models on Diverse Domains
+# Evaluation of Open Source Cantonese ASR Models in Diverse Domains
 ![CER Chart](cer_chart.png)
 
 | Dataset      | sensevoice_small CER | whisper_large_v2_cantonese_scrya CER | whisper_small_cantonese CER |
@@ -40,3 +40,7 @@
 1. Convert all Chinese characters.
 2. Strip away all punctuations and spaces.
 3. Remove any emotion or event tags (sensevoice only).
+
+## Results
+
+Generated outputs of all the models can be found under the `results/` folder.
