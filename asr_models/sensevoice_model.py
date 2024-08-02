@@ -3,12 +3,13 @@ from funasr.utils.postprocess_utils import rich_transcription_postprocess
 from .asr_model import ASRModel
 
 class SenseVoiceASRModel(ASRModel):
-    def __init__(self, device, model_path="iic/SenseVoiceSmall"):
+    def __init__(self, device, model_path="FunAudioLLM/SenseVoiceSmall"):
         self.model = AutoModel(
             model=model_path,
             vad_model="fsmn-vad",
             vad_kwargs={"max_single_segment_time": 30000},
-            device=device
+            device=device,
+            hub="hf",
         )
 
     def generate(self, input):
