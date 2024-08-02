@@ -39,7 +39,7 @@ for dataset_index in range(num_datasets):
         elif model_index == 1:
             model = WhisperASRModel(model_name="alvanlii/whisper-small-cantonese", device=device)
         elif model_index == 2:
-            model = WhisperASRModel(model_name="openai/whisper-large-v3", device=device)
+            model = WhisperASRModel(model_name="Scrya/whisper-large-v2-cantonese", device=device)
         
         model_name = model.get_name()
 
