@@ -114,11 +114,12 @@ def plot_evaluation_results(evaluation_results, dataset_tasks):
                 label=model_name,
                 color=colors[i % len(colors)])
 
-    plt.xlabel('Domains')
-    plt.ylabel('CER (%)')
-    plt.title('Evaluation of Open Source Cantonese ASR Models in Diverse Domains')
-    plt.xticks([p * (1 + group_spacing) for p in x], dataset_labels, rotation=0, ha='center')
-    plt.legend()
+    plt.xlabel('Domains', fontsize=18)
+    plt.ylabel('CER (%)', fontsize=18)
+    plt.title('Evaluation of Open Source Cantonese ASR Models in Diverse Domains', fontsize=22)
+    plt.xticks([p * (1 + group_spacing) for p in x], dataset_labels, rotation=0, ha='center', fontsize=16)
+    plt.yticks(fontsize=16)
+    plt.legend(fontsize=18)
     plt.tight_layout()
     plt.show()
 
@@ -131,11 +132,11 @@ if __name__ == "__main__":
 
     dataset_tasks = {
         "common_voice_17_0": "Mixed",
-        "guangzhou_daily_use": "Daily Conversation",
-        "guangzhou_cabin": "Commands in Vehicle",
-        "mixed_cantonese_and_english": "Cantonese & English",
-        "zoengjyutgaai_saamgwokjinji": "Historical Storytelling",
-        "wordshk_hiujin": "Synthetic Speech",
+        "guangzhou_daily_use": "Daily Use",
+        "guangzhou_cabin": "Commands",
+        "mixed_cantonese_and_english": "Yue & Eng",
+        "zoengjyutgaai_saamgwokjinji": "Storytelling",
+        "wordshk_hiujin": "Synthetic",
     }
 
     plot_evaluation_results(evaluation_results, dataset_tasks)
