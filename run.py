@@ -40,6 +40,12 @@ for dataset_index in range(num_datasets):
             model = WhisperASRModel(device=device)
         
         model_name = model.get_name()
+
+        # Skip if the result file already exists
+        if os.path.exists(f'results/{model_name}/{dataset_name}.json'):
+            print(f"Results for {model_name} on {dataset_name} already exist. Skipping...")
+            continue
+
         results = []
         for batch_audios, batch_sentences in tqdm(dataset, desc=f"{model_name} on {dataset_name}", total=len(dataset)//batch_size):
             transcriptions = model.generate([
