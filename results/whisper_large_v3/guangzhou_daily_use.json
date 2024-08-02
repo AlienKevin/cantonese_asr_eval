@@ -1,0 +1,4002 @@
+[
+    {
+        "transcription": "人多未必是好事,人力貴在精,不是多。",
+        "expected": "人多未必系好事，人力贵在精唔系多！"
+    },
+    {
+        "transcription": "我只有300元,內回車票就200元",
+        "expected": "我得三百啦，来回车票就两百啦。"
+    },
+    {
+        "transcription": "下台再簽單,我再等一會。",
+        "expected": "下台就系签单，我再等一阵啦。"
+    },
+    {
+        "transcription": "嗯,最後一個星期很漫長啊",
+        "expected": "嗯，最后一个星期好漫长啊。"
+    },
+    {
+        "transcription": "是不是想找人陪你?",
+        "expected": "系唔系想搵人陪你？"
+    },
+    {
+        "transcription": "想睡就睡吧,一盒硬睡吧",
+        "expected": "呵，想瞓咪瞓咯！你瞌眼瞓啊？"
+    },
+    {
+        "transcription": "好似真誠地關心朋友",
+        "expected": "好识真诚咁关心朋友！"
+    },
+    {
+        "transcription": "在我可以做到的情況下",
+        "expected": "喺我可以做到嘅情况下啦！"
+    },
+    {
+        "transcription": "不要再費盡心機了",
+        "expected": "唔好再费尽心机啦！"
+    },
+    {
+        "transcription": "我講話算數一定讓她幸福",
+        "expected": "我讲嘢算数一定俾佢幸福！"
+    },
+    {
+        "transcription": "你連走的勇氣都沒有,更加沒有說保護我了。",
+        "expected": "你连走嘅勇气都冇，更加唔好讲保护我啦。"
+    },
+    {
+        "transcription": "那就不要趴著,平躺在這裡,不要壓壞了",
+        "expected": "咁就冇趴住啦平瞓喺度冇压坏咗啊。"
+    },
+    {
+        "transcription": "嗯,你在外面小心點",
+        "expected": "嗯，你喺出面小心啲。"
+    },
+    {
+        "transcription": "說一句催眠的話給我好不好啊",
+        "expected": "讲句催眠嘅说话俾我好唔好啊？"
+    },
+    {
+        "transcription": "我是他米泉的女朋友",
+        "expected": "我系佢米泉嘅女朋友。"
+    },
+    {
+        "transcription": "我還在吃飯,吃完飯再說吧",
+        "expected": "我仲食紧饭啊，食完饭先玩啊！"
+    },
+    {
+        "transcription": "那你現在身上有多少錢?",
+        "expected": "咁你依家身上有几多钱。"
+    },
+    {
+        "transcription": "小秦,我弟弟在你那裡嗎?",
+        "expected": "小秦我弟弟喺你嗰度吗？"
+    },
+    {
+        "transcription": "你是男的还是女的?你叫什么名字?哪里来的?",
+        "expected": "你系男嘅定系女嘅，你叫咩名，边度嚟噶？"
+    },
+    {
+        "transcription": "真的沒事嗎?嚇死我了",
+        "expected": "真系冇事咩？吓死我啦！"
+    },
+    {
+        "transcription": "如果喝多了,我們就不說了,你睡吧",
+        "expected": "如果饮多咗我哋就唔讲嘞，你瞓啦。"
+    },
+    {
+        "transcription": "都跟你說了還問",
+        "expected": "都同你讲咗嘞仲问！"
+    },
+    {
+        "transcription": "越來越覺得你是最合適的",
+        "expected": "越嚟越觉得你系最合适嘅！"
+    },
+    {
+        "transcription": "我請你食飯兩個人幾好早些睡",
+        "expected": "我请你食饭两个人几好早啲瞓。"
+    },
+    {
+        "transcription": "你也一樣,晚安。",
+        "expected": "你都一样，晚安！"
+    },
+    {
+        "transcription": "我就接受爸爸媽媽的意見找個人嫁了",
+        "expected": "我就接受爸爸妈妈嘅意见，搵个人嫁啦！"
+    },
+    {
+        "transcription": "心靜不怕影子歪",
+        "expected": "身正不怕影子歪。"
+    },
+    {
+        "transcription": "你有那份心,我已經很滿足了,真的",
+        "expected": "你有嗰份心我已经好满足啦真噶。"
+    },
+    {
+        "transcription": "還沒說清楚嗎?",
+        "expected": "仲未讲清楚咩？"
+    },
+    {
+        "transcription": "親愛的,你現在在做什麼?",
+        "expected": "亲爱嘅，你而家做紧咩啊？"
+    },
+    {
+        "transcription": "來吧,碎碎的蛇",
+        "expected": "嚟啦碎碎嘅事！"
+    },
+    {
+        "transcription": "到了生存和生活的感覺",
+        "expected": "到咗生存同埋生活嘅感觉。"
+    },
+    {
+        "transcription": "是啊,我睡了覺了",
+        "expected": "系啊。我瞓咗觉啦？"
+    },
+    {
+        "transcription": "那你還要一個人蹲一個月嗎?",
+        "expected": "咁你仲要一个人踎一个月啊！"
+    },
+    {
+        "transcription": "你可以感受到我的存在嗎?",
+        "expected": "你可以感受到我嘅存在咩？"
+    },
+    {
+        "transcription": "我會珍惜你的,至於你不喜歡我做的",
+        "expected": "我会珍惜你嘅，至于你唔中意我做嘅。"
+    },
+    {
+        "transcription": "就是了,還不如想想你比較好",
+        "expected": "就系咯，仲不如谂下你好过！"
+    },
+    {
+        "transcription": "快點回來吧,都不好笑",
+        "expected": "快啲翻嚟啦都唔好笑。"
+    },
+    {
+        "transcription": "那不發了,你明天要上班,那你快點睡覺吧。",
+        "expected": "咁唔发啦，你听日要翻工，咁你快啲瞓觉啦。"
+    },
+    {
+        "transcription": "我一會兒還要跟你們家裡的流氓採訪",
+        "expected": "我一阵间仲要同你哋屋企刘文采访啊！"
+    },
+    {
+        "transcription": "我一回到家就回到牆上發短信給你",
+        "expected": "我一翻到屋企就瞓喺床上发短信俾你噶。"
+    },
+    {
+        "transcription": "我等你把衣服拿給我",
+        "expected": "我等你将啲衫攞俾我。"
+    },
+    {
+        "transcription": "我今天沒有擔他,以後都不會了。",
+        "expected": "我今日冇担佢，以后都唔会啦。"
+    },
+    {
+        "transcription": "少和妹妹聊天",
+        "expected": "少同阿妹倾偈啊！"
+    },
+    {
+        "transcription": "我們這邊不緊要的",
+        "expected": "我哋呢边唔紧要噶。"
+    },
+    {
+        "transcription": "希望你今天是快樂的,還沒笑的。",
+        "expected": "希望你今晚系快乐嘅，微笑嘅！"
+    },
+    {
+        "transcription": "你為什麼才回我信息?",
+        "expected": "你点解先回我信息啊？"
+    },
+    {
+        "transcription": "我的寶寶,我想睡覺了,你睡了嗎?",
+        "expected": "我嘅宝宝我想瞓啦，你瞓未啊。"
+    },
+    {
+        "transcription": "我說不管你了,有用嗎?",
+        "expected": "我话唔理你啦，有用咩？"
+    },
+    {
+        "transcription": "如果你把我當朋友這麼看",
+        "expected": "如果你将我当朋友咁睇。"
+    },
+    {
+        "transcription": "嗯,這樣就好,有沒有想我?姐姐很想你",
+        "expected": "嗯咁就得！有冇挂住我啊？姐姐好挂住你啊。"
+    },
+    {
+        "transcription": "明天早上要陪姐姐去入课,下午去换班。",
+        "expected": "听日早上要陪姐姐去入货，下午去换班。"
+    },
+    {
+        "transcription": "他被你強迫,你就要被他更強迫",
+        "expected": "佢比你犀利你就要比佢仲犀利！"
+    },
+    {
+        "transcription": "明天給我交畫費呀",
+        "expected": "听日同我交话费啊！"
+    },
+    {
+        "transcription": "好的,那就快點睡吧!",
+        "expected": "好嘅，咁就快啲瞓啦！"
+    },
+    {
+        "transcription": "剛剛去刷牙了,你洗衣服了沒有?帥哥",
+        "expected": "啱啱去刷牙啦，你洗衫未啊？僆仔。"
+    },
+    {
+        "transcription": "我喝多了就好暈了我在樓下等你,快點",
+        "expected": "我饮多咗好晕啊我喺楼下等你快啲。"
+    },
+    {
+        "transcription": "哈哈,不一樣囉",
+        "expected": "哈哈！哎唔一样咯！"
+    },
+    {
+        "transcription": "不接,再接我要亂死了。",
+        "expected": "唔接再接我要乱死啦。"
+    },
+    {
+        "transcription": "朋友 是否一定要分新狗?",
+        "expected": "朋友系唔系一定要分新旧？"
+    },
+    {
+        "transcription": "今天怎樣了?定好日子了嗎?",
+        "expected": "今日点啊？定好日子未？"
+    },
+    {
+        "transcription": "嗯,明天打电话给你。",
+        "expected": "嗯听日打电话俾你。"
+    },
+    {
+        "transcription": "華安!晚安!",
+        "expected": "哇安晚黑俾你短信。"
+    },
+    {
+        "transcription": " you",
+        "expected": "呵呵好嘅你就休息啦。"
+    },
+    {
+        "transcription": "我一年級都沒上學,你呢?",
+        "expected": "我一年级都冇翻学，你咧。"
+    },
+    {
+        "transcription": "現在睡了嗎?我吃飯了,拜拜!",
+        "expected": "而家瞓觉未啊，我食饭嘞，拜拜。"
+    },
+    {
+        "transcription": "當然是我講的啦,親愛的你還沒回家呀。",
+        "expected": "梗系系我讲噶啦，亲爱嘅你仲未翻到屋企啊？"
+    },
+    {
+        "transcription": "幾天沒見你了,好掛念你",
+        "expected": "几日冇见你啦，好挂住你啊。"
+    },
+    {
+        "transcription": "晚上好,你在做什麼?是不是已經睡了?",
+        "expected": "晚上好啊！喺度做紧咩啊？系咪已经瞓咗啦？"
+    },
+    {
+        "transcription": "讓他做老當,你把握好度就可以了",
+        "expected": "俾佢做老当，你把握好度就得啦。"
+    },
+    {
+        "transcription": "知道了,老公還沒發公知啊",
+        "expected": "知啦，老公仲未发工资啊？"
+    },
+    {
+        "transcription": "睡得太多會發福的早上",
+        "expected": "瞓得太多会发福噶，早唞。"
+    },
+    {
+        "transcription": "你不在線,我跟誰談呢?",
+        "expected": "你唔在线我同边个倾咧？"
+    },
+    {
+        "transcription": "你知道你給我看要求的時候有沒有想過我的處境",
+        "expected": "你知道你俾我睇要求嘅时候，有冇谂过我嘅处境啊？"
+    },
+    {
+        "transcription": "嗯,喂,明天也可以聊吗?",
+        "expected": "嗯！喂！听日都可以倾吗？"
+    },
+    {
+        "transcription": "對了,明天早上不坐班車了吧?",
+        "expected": "系嘞，听日早上唔坐班车嘞吧？"
+    },
+    {
+        "transcription": "如果累了就睡覺吧",
+        "expected": "如果系攰咗你就瞓觉啦。"
+    },
+    {
+        "transcription": "我早就已經看出來了",
+        "expected": "我早就已经睇出嚟啦！"
+    },
+    {
+        "transcription": "你再不回来,我就睡了。",
+        "expected": "你再唔翻嚟我就瞓啦。"
+    },
+    {
+        "transcription": "不用這麼敏感",
+        "expected": "唔使净系咁敏感。"
+    },
+    {
+        "transcription": "真的不生氣?那你明天幾點上班?",
+        "expected": "真系唔嬲，咁你听日几点上班啊？"
+    },
+    {
+        "transcription": "我為什麼不認識你?",
+        "expected": "我点解唔识你啊？"
+    },
+    {
+        "transcription": "不好意思,我發錯了。",
+        "expected": "唔好意思，我发错啦。"
+    },
+    {
+        "transcription": "我說了她每天都要和你一起嗎?",
+        "expected": "我话咗要日日同你一齐咩？"
+    },
+    {
+        "transcription": "趙姐跟你說了",
+        "expected": "赵姐同你讲咗嘞啩！"
+    },
+    {
+        "transcription": "你趕著去跟他解釋嗎?",
+        "expected": "你赶住去同佢解释咩。"
+    },
+    {
+        "transcription": "你每天都在這裡幹什麼?",
+        "expected": "你日日都喺度做乜嘢啊？"
+    },
+    {
+        "transcription": "我今天已經想清楚了。",
+        "expected": "我今日已经谂清楚啦。"
+    },
+    {
+        "transcription": "我媽說你們不可靠",
+        "expected": "我妈话你哋唔可靠！"
+    },
+    {
+        "transcription": "要不然你才上來一個星期後把錢送下去",
+        "expected": "一唔系你先上嚟，一个星期后将钱送落去！"
+    },
+    {
+        "transcription": "和你乖乖浪漫完未呀",
+        "expected": "同你嘅乖乖浪漫完未啊？"
+    },
+    {
+        "transcription": "那他見到我們了吧?",
+        "expected": "咁佢见到我哋嘞啩？"
+    },
+    {
+        "transcription": "但是你,我沒有怪你的意思",
+        "expected": "但系你，我冇怪你嘅意思。"
+    },
+    {
+        "transcription": "未來我落班更早。",
+        "expected": "未咧，我落班仲早。"
+    },
+    {
+        "transcription": "在做什麼?我下班了",
+        "expected": "做紧咩啊？我落班啦。"
+    },
+    {
+        "transcription": "什麼啊?我一直在槍吉啊",
+        "expected": "咩啊。我一直喺昌吉啊。"
+    },
+    {
+        "transcription": "爸爸,你這個星期回來嗎?",
+        "expected": "爸爸你呢个星期翻唔翻嚟啊。"
+    },
+    {
+        "transcription": "你們在那邊也好吧",
+        "expected": "你哋喺嗰边都好吧！"
+    },
+    {
+        "transcription": "所以我才說你是我的女人",
+        "expected": "所以我先话你系我嘅女人！"
+    },
+    {
+        "transcription": "做什麼?為什麼狂吼?",
+        "expected": "做咩啊点解狂呕嘅？"
+    },
+    {
+        "transcription": "我們誰都沒有折磨誰",
+        "expected": "我哋边个都冇折磨边个！"
+    },
+    {
+        "transcription": "我知道我騙你,是我不對",
+        "expected": "我知我呃你系我唔啱。"
+    },
+    {
+        "transcription": "老婆,我到宿舍了",
+        "expected": "老婆我到宿舍啦！"
+    },
+    {
+        "transcription": "難道是掛著我掛著到睡不著覺?",
+        "expected": "唔通系挂住我挂住到瞓唔着觉。"
+    },
+    {
+        "transcription": "希望你早點睡覺,看書不要太晚了",
+        "expected": "希望你早啲瞓觉，睇书唔好睇太夜啦。"
+    },
+    {
+        "transcription": "我不喜歡看電視呀!",
+        "expected": "我唔中意睇电视啊。"
+    },
+    {
+        "transcription": "你自己再看看,到時……",
+        "expected": "你自己再睇睇，到时。"
+    },
+    {
+        "transcription": "對不起呀,我也對不起",
+        "expected": "对唔住啊，我都对唔住。"
+    },
+    {
+        "transcription": "你不累嗎?我不玩了,我們兩個短信聊聊天吧",
+        "expected": "你唔攰咩？我唔玩啦，我哋两个短信倾下偈啊。"
+    },
+    {
+        "transcription": "好,以後你們就互相幫助吧,藍博在不在?",
+        "expected": "哦，以后你哋就互相帮助啊，兰博喺唔喺度啊？"
+    },
+    {
+        "transcription": "好啦,不說了,我在這裡上班了",
+        "expected": "好啦，唔讲啦，我喺度上紧班啊。"
+    },
+    {
+        "transcription": "我沒有騙你,我一個人無聊",
+        "expected": "我冇呃你啊，我一个人无聊啊。"
+    },
+    {
+        "transcription": "在那個蒙古包自己煮飯唱歌 沙嗲",
+        "expected": "喺嗰个蒙古包，自己煮饭唱歌，撒的！"
+    },
+    {
+        "transcription": "寶貝,除了家人就只有你了",
+        "expected": "宝贝除咗屋企人就只有你啦！"
+    },
+    {
+        "transcription": "是不是真心的?裡面有沒有家庭因素?",
+        "expected": "系咪真心噶？有冇家庭因素喺入边啊？"
+    },
+    {
+        "transcription": "你現在身體是最重要的",
+        "expected": "你而家身体系最重要噶。"
+    },
+    {
+        "transcription": "我不希望你走快睡覺,就不要亂說話了",
+        "expected": "我唔希望，就快瞓觉啦，就唔会乱讲嘢啦。"
+    },
+    {
+        "transcription": "我知道,我就是那個小孩",
+        "expected": "我知我就系嗰个细路。"
+    },
+    {
+        "transcription": "你也要理解一下我嘛",
+        "expected": "你都要理解下我啊嘛！"
+    },
+    {
+        "transcription": "老婆,你歌唱完了,回個訊息好嗎?",
+        "expected": "老婆，你歌唱完啦回个信息好吗？"
+    },
+    {
+        "transcription": "到了打電話我下去",
+        "expected": "哦到咗打电话我落去啊。"
+    },
+    {
+        "transcription": "星期六浪漫吻别",
+        "expected": "星期六浪漫吻别。"
+    },
+    {
+        "transcription": "多謝啦,無事,等佢地自己去租啦。",
+        "expected": "多谢啦。冇事。等佢哋自己去租啦。"
+    },
+    {
+        "transcription": "我告訴你,你不要這樣對我",
+        "expected": "我话俾你听你唔好咁对我。"
+    },
+    {
+        "transcription": "我是你的,我有權分擔的",
+        "expected": "我系你噶，我有权分担噶！"
+    },
+    {
+        "transcription": "只有我沒有你那麼有錢但是我爸爸很多",
+        "expected": "就得我冇你咁有钱，但系我爸好多。"
+    },
+    {
+        "transcription": "我希望你好好休息",
+        "expected": "我希望你好好休息！"
+    },
+    {
+        "transcription": "不是吧?唉,還沒睡嗎?",
+        "expected": "唔系吧！唉，仲未瞓啊？"
+    },
+    {
+        "transcription": "老婆剛剛才掉了線",
+        "expected": "老婆啱先跌咗线啦！"
+    },
+    {
+        "transcription": "順便也勸勸你自己吧",
+        "expected": "顺便都劝下你自己啊！"
+    },
+    {
+        "transcription": "你在這堆學校找不到嗎?",
+        "expected": "你喺你哋学校搵唔到咩？"
+    },
+    {
+        "transcription": "老婆,我喝酒了,你還沒睡嗎?",
+        "expected": "老婆我饮酒啦，你仲未瞓啊？"
+    },
+    {
+        "transcription": "嗯,快點回來,老婆。",
+        "expected": "嗯，快啲翻嚟，老婆。"
+    },
+    {
+        "transcription": "不早了,你早點休息吧",
+        "expected": "唔早啦，你早啲唞啦。"
+    },
+    {
+        "transcription": "我買了一袋海藻面膜",
+        "expected": "我买咗一袋海藻面膜。"
+    },
+    {
+        "transcription": "我的傻妹,你說的全錯",
+        "expected": "我嘅傻妹，你讲到全部错啊！"
+    },
+    {
+        "transcription": "誰叫你打其他男生的?",
+        "expected": "边个叫你打其他男仔噶？"
+    },
+    {
+        "transcription": "7月20日是我媽媽的生日",
+        "expected": "七月二十号，系我妈妈嘅生日。"
+    },
+    {
+        "transcription": "這麼晚了還談?",
+        "expected": "咁夜啦仲倾啊？"
+    },
+    {
+        "transcription": "所以你開車要注意",
+        "expected": "所以你开车要注意啊！"
+    },
+    {
+        "transcription": "那我就告訴你一點點",
+        "expected": "咁我就话少少俾你知啊！"
+    },
+    {
+        "transcription": "好吧,早點睡吧",
+        "expected": "好啦！早啲瞓啦！"
+    },
+    {
+        "transcription": "不要讓我擔心你",
+        "expected": "唔好俾我担心你啦。"
+    },
+    {
+        "transcription": "如果你不想在一起,我無所謂。",
+        "expected": "如果你唔想喺一齐啦我冇所谓。"
+    },
+    {
+        "transcription": "我也不知道啊,怎麼辦?",
+        "expected": "我都唔知啊，点算啊？"
+    },
+    {
+        "transcription": "哄你這麼大,要好很多",
+        "expected": "氹下你咁大要好好多。"
+    },
+    {
+        "transcription": "特別想穿這件衣服給老公看",
+        "expected": "特别想着啲靓衫俾老公睇。"
+    },
+    {
+        "transcription": "還是早點睡吧,說不定可以夢到我了。",
+        "expected": "都系早啲瞓啦，话唔定可以梦到我嘞。"
+    },
+    {
+        "transcription": "捲總算做完了,快累死了",
+        "expected": "卷总算做完啦，快攰死啦。"
+    },
+    {
+        "transcription": "好,沒那麼早睡,再看書好嗎?",
+        "expected": "好，唔好咁早瞓，再睇下书好嘛？"
+    },
+    {
+        "transcription": "你現在要上網了嗎?",
+        "expected": "你而家要去上网啊？"
+    },
+    {
+        "transcription": "呵呵,见过啊,老婆过来都可以看到哦。",
+        "expected": "呵呵见过啊老婆过嚟都可以睇到哦。"
+    },
+    {
+        "transcription": "對了,你的願望是什麼?",
+        "expected": "系啦，你嘅愿望系咩啊！"
+    },
+    {
+        "transcription": " Để tìm hiểu, hãy đăng ký kênh để nhận thêm nhiều video mới nhé.",
+        "expected": "两样都想，你嚟唔嚟。"
+    },
+    {
+        "transcription": "其他不要跟我說,不管你過日子,我……",
+        "expected": "其他唔好同我讲，唔嚟你过日子我。"
+    },
+    {
+        "transcription": "現在最想做的事就是睡覺",
+        "expected": "依家最想做嘅事就系瞓觉。"
+    },
+    {
+        "transcription": "可不可以發一張你的照片給我?",
+        "expected": "可唔可以发一张你嘅相啊俾我啊！"
+    },
+    {
+        "transcription": "都不會,看你的本事吧",
+        "expected": "都唔会，睇你嘅本事啦！"
+    },
+    {
+        "transcription": "好忙呀你呢還可以吧 有沒有時間看我",
+        "expected": "好忙啊，你咧，还可以吧，有冇时间睇我。"
+    },
+    {
+        "transcription": "我們說好了男女遭對門互相照顧",
+        "expected": "我哋讲好咗男女租对门，互相照顾。"
+    },
+    {
+        "transcription": "我永遠都不想失去你",
+        "expected": "我永远都唔想失去你！"
+    },
+    {
+        "transcription": "下季內臨,專登為大家推出大地灣七日遊。",
+        "expected": "夏季来临专登为大家推出大地湾七日游！"
+    },
+    {
+        "transcription": "好好休息吧,不要自己惹自己,我沒有錯",
+        "expected": "好好休息啦！唔好自己激自己啦！我冇错！"
+    },
+    {
+        "transcription": "你也要過好日子",
+        "expected": "嗱你都要过好日子啊。"
+    },
+    {
+        "transcription": "要不然你也叫他買",
+        "expected": "一唔系你都叫佢买？"
+    },
+    {
+        "transcription": "回去了嗎?寶貝蛋",
+        "expected": "翻去未啊宝贝蛋？"
+    },
+    {
+        "transcription": "真的嗎?說分就分?",
+        "expected": "真系嘅话瞓就瞓。"
+    },
+    {
+        "transcription": "這麼快?這次我沒錢了小楊,不發了",
+        "expected": "咁快啊，呢次我冇钱啦小样，唔发哦。"
+    },
+    {
+        "transcription": "我沒有輕浮的意思,只是想到你了",
+        "expected": "我冇轻浮嘅意思，只系谂到你嘞。"
+    },
+    {
+        "transcription": "今天還想安慰你",
+        "expected": "今日仲想安慰你。"
+    },
+    {
+        "transcription": "剛剛在這裡洗澡乖乖睡吧吃你",
+        "expected": "啱啱喺度冲凉，乖乖瞓啦，锡你。"
+    },
+    {
+        "transcription": "老婆我回到家了,你睡了嗎?",
+        "expected": "老婆我翻到屋企啦，你瞓咗未啊。"
+    },
+    {
+        "transcription": "不應該的,你走的時候為什麼不跟我說?",
+        "expected": "唔应该噶你走嘅时候点解唔同我讲啊。"
+    },
+    {
+        "transcription": "真愛的老公,今天你很忙",
+        "expected": "亲爱嘅老公，今日你好忙啊？"
+    },
+    {
+        "transcription": "但我更加不想說別人的壞話",
+        "expected": "但我更加唔想讲人哋嘅坏话！"
+    },
+    {
+        "transcription": "希希,也不要看到這麼晚了",
+        "expected": "嘿嘿都唔好睇到咁夜啦。"
+    },
+    {
+        "transcription": "寶寶,睡了沒有?很想到你身邊",
+        "expected": "宝宝瞓咗未啊？好想到你身边啊。"
+    },
+    {
+        "transcription": "可以,什麼都可以,不過你水瓶趕不上我。",
+        "expected": "得，乜都得！不过你水平赶唔上我。"
+    },
+    {
+        "transcription": "小心哥哥,不要被他知道了",
+        "expected": "小心哥哥，唔好俾佢知道啦。"
+    },
+    {
+        "transcription": "每天有個好心情",
+        "expected": "每日有个好心情！"
+    },
+    {
+        "transcription": "希望他也是這樣想",
+        "expected": "希望佢都系咁样谂！"
+    },
+    {
+        "transcription": "你也是我親愛的拜拜",
+        "expected": "你都系哦亲爱的，拜拜。"
+    },
+    {
+        "transcription": "給他們看看,都叫過份?",
+        "expected": "俾佢哋睇下都叫过分？"
+    },
+    {
+        "transcription": "今天收到多少禮物?",
+        "expected": "今日收到几多礼物啊？"
+    },
+    {
+        "transcription": "沒去,為什麼還沒睡?",
+        "expected": "冇去。点解仲未瞓？"
+    },
+    {
+        "transcription": "明天早上十一点半到学校,不要迟到啦!",
+        "expected": "听日早上十一点半到学校唔好迟到啦。"
+    },
+    {
+        "transcription": "我到家了,睡吧",
+        "expected": "我到屋企啦，瞓低啦。"
+    },
+    {
+        "transcription": "姐夫都睡了,你生得漂亮",
+        "expected": "姐夫都瞓咗啦？你生得靓吗？"
+    },
+    {
+        "transcription": "只要證明我在宿舍就可以了",
+        "expected": "只要证明我喺宿舍就得啦。"
+    },
+    {
+        "transcription": "沒工作啊,你們在做什麼?沒上班嗎?",
+        "expected": "冇嘢做啊，你哋喺度做紧咩啊，冇翻工咩？"
+    },
+    {
+        "transcription": "你又比我快了一步",
+        "expected": "你又比我快咗一步！"
+    },
+    {
+        "transcription": "問我就問了好幾次啦",
+        "expected": "问我就问咗我好几次啦！"
+    },
+    {
+        "transcription": "你和我都是一樣,刪了我的信息",
+        "expected": "你同我都系一样，删咗我嘅信息。"
+    },
+    {
+        "transcription": "老婆,回去睡覺吧",
+        "expected": "老婆，翻去瞓觉啦！"
+    },
+    {
+        "transcription": "或者說在他心中我有一份空間就夠了吧",
+        "expected": "或者讲喺佢心中我有一份空间就够啦啩。"
+    },
+    {
+        "transcription": "把心交給你,我很放心",
+        "expected": "将个心交俾你我好放心。"
+    },
+    {
+        "transcription": "和你發短訊,不覺得睏",
+        "expected": "同你发短信唔觉得眼瞓。"
+    },
+    {
+        "transcription": "呵呵,木木,那算不算你是為了我生氣呀?",
+        "expected": "呵呵，木木咁算唔算你系为咗我嬲啊。"
+    },
+    {
+        "transcription": "你也是呀老公早點休息別這麼累了",
+        "expected": "你都系啊老公早啲休息唔好咁攰啦。"
+    },
+    {
+        "transcription": "哦,那沒事吧,肯定會還有好的女孩子",
+        "expected": "哦，咁冇事啦，肯定会仲有好嘅女仔噶。"
+    },
+    {
+        "transcription": "沒事做,向宿舍走。",
+        "expected": "冇嘢做，向宿舍走。"
+    },
+    {
+        "transcription": "那我就要舒舒服服睡覺了你就睡吧",
+        "expected": "咁我就要舒舒服服嘅瞓觉啦，你就奋斗啦！"
+    },
+    {
+        "transcription": "我哪里令你看不惯吗?",
+        "expected": "我边度令你睇唔惯咩？"
+    },
+    {
+        "transcription": "你不是在這裡上網嗎?為什麼會不見了?",
+        "expected": "你唔系喺度上网咩？点解会唔见咗？"
+    },
+    {
+        "transcription": "你太令我失望了,你老母的死亡",
+        "expected": "你太令我失望啦唔理老母嘅死亡。"
+    },
+    {
+        "transcription": "沒事的,怎麼可以說是你害了我呢?",
+        "expected": "冇事嘅，点可以话系你害咗我咧？"
+    },
+    {
+        "transcription": "兒子身上長了很多痘痘",
+        "expected": "儿子身上长了好多豆豆。"
+    },
+    {
+        "transcription": "沒有啊,你呢?做了什麼?",
+        "expected": "冇啊你咧做紧乜啊。"
+    },
+    {
+        "transcription": "鍛鍊你呀,以後你一個人怎麼辦?",
+        "expected": "锻炼你啊！以后你一个人点算啊？"
+    },
+    {
+        "transcription": "我到九月份去看你",
+        "expected": "我到九月份去睇你？"
+    },
+    {
+        "transcription": "哦,那就放心了",
+        "expected": "哦！咁就放心啦！呵呵。"
+    },
+    {
+        "transcription": "我想去呀,但沒空",
+        "expected": "我想去啊！得闲都无聊。"
+    },
+    {
+        "transcription": "到時候成姐姐老你老了嗎?不是吧?",
+        "expected": "到时候成姐姐老，你老了吗，不是吧！"
+    },
+    {
+        "transcription": "你有什麼打算?",
+        "expected": "你有咩打算啊？"
+    },
+    {
+        "transcription": "我才不怕,我又沒做什麼",
+        "expected": "我先唔惊啊，我又冇做咩。"
+    },
+    {
+        "transcription": "多會啊為什麼一定要回去?",
+        "expected": "多会啊？为什么一定要回去？"
+    },
+    {
+        "transcription": "不要緊啦,別說對不起,這樣就沒聽嘛",
+        "expected": "唔紧要啦，唔好讲对唔住，咁就冇听啊嘛。"
+    },
+    {
+        "transcription": "下班了嗎?我還沒拿",
+        "expected": "落班未啊？我仲未落啊！"
+    },
+    {
+        "transcription": "有下次你要幫我啊",
+        "expected": "有下次你要帮我啊。"
+    },
+    {
+        "transcription": "燕子還是忘記了我了",
+        "expected": "燕子都系忘记咗我啦。"
+    },
+    {
+        "transcription": "回答問題和工作有什麼關係?",
+        "expected": "回答问题同工作有咩关系啊？"
+    },
+    {
+        "transcription": "你呀,不乖,睡吧,早點。",
+        "expected": "你啊？唔乖，瞓啦早啲。"
+    },
+    {
+        "transcription": "是的,我聽你的,晚安。哈哈。",
+        "expected": "系嘅。我听你嘅。晚安。呵呵。"
+    },
+    {
+        "transcription": "老公,你沒事吧?",
+        "expected": "老公，你冇事吧？"
+    },
+    {
+        "transcription": "你又想沒事找事,想吵架嗎?",
+        "expected": "你又想冇事搵事想嗌交啊？"
+    },
+    {
+        "transcription": "呵呵,差不多了嗎?",
+        "expected": "呵呵差唔多咩！"
+    },
+    {
+        "transcription": "你快點睡吧,好夜了。",
+        "expected": "你快啲瞓吧，好夜啦。"
+    },
+    {
+        "transcription": "兩個人要相遇二門",
+        "expected": "两个人要相濡以沫。"
+    },
+    {
+        "transcription": "花,現在心情好些未呀?",
+        "expected": "花，而家心情好啲未啊？"
+    },
+    {
+        "transcription": "還是看這麼晚了",
+        "expected": "唔好仲系睇咁夜嘞喎！"
+    },
+    {
+        "transcription": "好的,我猜你今天晚上又要失眠了",
+        "expected": "好噶，我估计今日晚黑又要失眠啦。"
+    },
+    {
+        "transcription": "嗯,你也是,Bye!",
+        "expected": "嗯你都系。拜！"
+    },
+    {
+        "transcription": "那就發短訊說吧",
+        "expected": "咁就发短信讲啦。"
+    },
+    {
+        "transcription": "哦,那老婆早點休息吧,明天幾點去啊?",
+        "expected": "哦，咁老婆早啲休息啦，听日几点去啊？"
+    },
+    {
+        "transcription": "哦?你不要嚇我啊,你可笑啊。",
+        "expected": "哦？你唔好吓我啊，你可笑啊！"
+    },
+    {
+        "transcription": "希望你新的一天有一個新的開始",
+        "expected": "希望你新嘅一日有一个新嘅开始！"
+    },
+    {
+        "transcription": "有什麼不好意思的",
+        "expected": "有咩唔好意思啫？"
+    },
+    {
+        "transcription": "你不要接電話,我聽聽你的彩鈴",
+        "expected": "你咪接电话，我听下你嘅彩铃。"
+    },
+    {
+        "transcription": "三番五次問來乜嘢呀?",
+        "expected": "三番五次问嚟乜嘢啊？"
+    },
+    {
+        "transcription": "彭錫有什麼好玩的?",
+        "expected": "鹏石有咩好玩啊。"
+    },
+    {
+        "transcription": "老公,老婆想,都快瘋了",
+        "expected": "老公，老婆想，都快癫啦。"
+    },
+    {
+        "transcription": "回家洗澡睡了嗎?",
+        "expected": "啱翻嚟冲凉，瞓咗未啊？"
+    },
+    {
+        "transcription": "你為什麼要這樣對我?今天又是這樣",
+        "expected": "你点解要咁样对我啊，今日又系咁。"
+    },
+    {
+        "transcription": "算了,我還小,不敢理你",
+        "expected": "算啦，我仲细，唔敢领教。"
+    },
+    {
+        "transcription": "多謝你我知道想你晚安",
+        "expected": "多谢你！我知道，想你！晚安！"
+    },
+    {
+        "transcription": "你那裡沒什麼看啊",
+        "expected": "你嗰度冇咩睇啊！"
+    },
+    {
+        "transcription": "你不是說心裡有我嗎?",
+        "expected": "你唔系话心里有我咩？"
+    },
+    {
+        "transcription": "你覺得好嗎?很久沒有你的消息了",
+        "expected": "你过得好吗？好耐未有你嘅消息啦。"
+    },
+    {
+        "transcription": "如果想睡觉就要咬自己提醒",
+        "expected": "如果想瞓觉就要咬自己提醒！"
+    },
+    {
+        "transcription": "好啦,我的寶貝,我睡覺了,拜拜",
+        "expected": "好啦我嘅宝贝我瞓觉啦拜拜。"
+    },
+    {
+        "transcription": "一般我很少做夢",
+        "expected": "一般我好少发梦！"
+    },
+    {
+        "transcription": "那就一直抱著你到天亮好不好?",
+        "expected": "咁就一直揽住你到天光啦，好唔好？"
+    },
+    {
+        "transcription": "你給我發的號碼呢?我在這裡上夜班",
+        "expected": "你俾我发嘅号码咧，我喺度上夜班。"
+    },
+    {
+        "transcription": "你們現在還在玩?",
+        "expected": "你哋而家仲喺度玩紧？"
+    },
+    {
+        "transcription": "你下班了嗎?忙不忙啊?有事你就直接說吧!",
+        "expected": "你落班未啊？忙唔忙啊？有嘢你直接讲啊。"
+    },
+    {
+        "transcription": "我沒有扔,也沒有跌破。你知道我不好意思。",
+        "expected": "我冇掟亦都冇跌烂你知我唔好意思啊。"
+    },
+    {
+        "transcription": "大哥啊,你以後可不可以照顧我啊?",
+        "expected": "大佬啊你以后可唔可以照顾下我啊！"
+    },
+    {
+        "transcription": "喜歡你,服不服你?",
+        "expected": "中意你服唔服你。"
+    },
+    {
+        "transcription": "哦?你不是喜歡武俠的嗎?",
+        "expected": "哦？你唔系中意武侠的吗？"
+    },
+    {
+        "transcription": "那你拿衣服在大門口?我們快到了",
+        "expected": "咁你攞衫喺大门口，我哋快到嘞。"
+    },
+    {
+        "transcription": "你好,請問你有什麼事?",
+        "expected": "你好请问你有咩事？"
+    },
+    {
+        "transcription": "保贝老婆相信自己",
+        "expected": "宝贝老婆，相信自己！"
+    },
+    {
+        "transcription": "地,那是一種天地的真摯友情。",
+        "expected": "地，梗系一种天地嘅真挚友情。"
+    },
+    {
+        "transcription": "現在給你回短訊",
+        "expected": "依家俾你回短信。"
+    },
+    {
+        "transcription": "我是個沒有原則的人嗎?",
+        "expected": "我系个冇原则嘅人咩？"
+    },
+    {
+        "transcription": "訊號不好,登不上去,等一會吧",
+        "expected": "信号唔好，登唔上去等阵嘛！"
+    },
+    {
+        "transcription": "哦,不要發這個短訊,讓他們看到吧!",
+        "expected": "哦！冇发呢个短信啦！俾佢哋睇到啦！"
+    },
+    {
+        "transcription": "明天再說吧,我一起來就發給你。",
+        "expected": "听日再讲啦，我一起身就发俾你。"
+    },
+    {
+        "transcription": "發覺了,為什麼還不睡?",
+        "expected": "发过啦，点解仲唔瞓啊？"
+    },
+    {
+        "transcription": "真的很喜歡她,怎麼辦?",
+        "expected": "真系好中意佢啊，点算啊？"
+    },
+    {
+        "transcription": "想說的事現在說吧",
+        "expected": "想讲嘅嘢依家讲啊！"
+    },
+    {
+        "transcription": "發什麼?你快點回信,快沒電了",
+        "expected": "发咩啊你快啲复信快冇电啦。"
+    },
+    {
+        "transcription": "要我叫你都可以,但必須馬上跟我睡覺。",
+        "expected": "要我叫你都得，但必须马上同我瞓觉。"
+    },
+    {
+        "transcription": "明天中午带我逛去吧",
+        "expected": "听日中午带我逛去啊！"
+    },
+    {
+        "transcription": "人家的痛苦之上等待",
+        "expected": "人哋嘅痛苦之上，等待。"
+    },
+    {
+        "transcription": "執子之手,與子孩郎。",
+        "expected": "执子之手，与子偕老。"
+    },
+    {
+        "transcription": "就是因為我對你太好,你才這麼愛我",
+        "expected": "就系因为我对你太好，你先咁爱我。"
+    },
+    {
+        "transcription": "不捨得我的人太多了",
+        "expected": "唔舍得我嘅人太多啦。"
+    },
+    {
+        "transcription": "為何在我面前想做個小孩呢?",
+        "expected": "点解喺我面前想做个细路咧。"
+    },
+    {
+        "transcription": "如果人沒有思維能力,那多好啊!",
+        "expected": "如果人冇思维能力咁几好啊！"
+    },
+    {
+        "transcription": "真的?但是你可以來嗎?",
+        "expected": "真系噶但系你可唔可以嚟啊！"
+    },
+    {
+        "transcription": "等你回来就好了努力工作吧晚安",
+        "expected": "等你翻嚟就好啦，努力工作啦，晚安。"
+    },
+    {
+        "transcription": "我媽不讓我回家,說家裡現在沒什麼人",
+        "expected": "我阿妈唔俾我翻，话屋企而家冇咩嘢人。"
+    },
+    {
+        "transcription": "我一個人才回來",
+        "expected": "我一个人先翻咗嚟。"
+    },
+    {
+        "transcription": "今天早上跑步前適合來",
+        "expected": "今日早上跑步前啱嚟！"
+    },
+    {
+        "transcription": "做什麼?不信心嗎?",
+        "expected": "做咩啊？唔顺心啊？"
+    },
+    {
+        "transcription": "我沒有生你的氣,你有你的自由",
+        "expected": "我冇嬲你，你有你嘅自由。"
+    },
+    {
+        "transcription": "那就4或者6吧,住恐家",
+        "expected": "咁就四或者六啦，住孔家？"
+    },
+    {
+        "transcription": "我不好意思说出来,但是我必须说。",
+        "expected": "我咩我唔好意思讲出嚟，但系我必须讲。"
+    },
+    {
+        "transcription": "現在炒什麼?可以聊聊天嗎?",
+        "expected": "而家喺度做咩啊？可唔可以倾阵偈啊？"
+    },
+    {
+        "transcription": "我們煮沙耳汗",
+        "expected": "我哋住沙尔汉呢度。"
+    },
+    {
+        "transcription": "剛下班,很累啊,你做什麼還沒睡?",
+        "expected": "啱收工，好攰啊，你做咩仲未瞓啊？"
+    },
+    {
+        "transcription": "只要你心中有愛就不會孤單",
+        "expected": "只要你心中有爱就唔会孤单！"
+    },
+    {
+        "transcription": "他們還沒回來,都沒有打電話",
+        "expected": "佢哋仲未翻嚟啊，都冇打电话。"
+    },
+    {
+        "transcription": "我只能說你要回家平安",
+        "expected": "我只能话你要平安翻屋企。"
+    },
+    {
+        "transcription": "還有那些告密的,偷走了不出來了",
+        "expected": "哦仲有嗰啲告密嘅，偷走咗唔出嚟啦。"
+    },
+    {
+        "transcription": "小馬,我今天在烏市,今天回不去了,沒車。",
+        "expected": "小马，我今日喺乌市，今日翻唔到去啊，冇车。"
+    },
+    {
+        "transcription": "哦,理論是不是和我們一起考呢?",
+        "expected": "哦，理论系咪同我哋一齐考咧？"
+    },
+    {
+        "transcription": "你是不是考完就走?",
+        "expected": "你系唔系考完就走？"
+    },
+    {
+        "transcription": "你不是誰都不喜歡嗎?",
+        "expected": "你唔系边个都唔中意咩！"
+    },
+    {
+        "transcription": "不會,我也喜歡你",
+        "expected": "唔会，我都中意你！"
+    },
+    {
+        "transcription": "那有時間就過來吧",
+        "expected": "呵呵咁有时间就过嚟啊。"
+    },
+    {
+        "transcription": "晚餐又沒吃呢難道說酸奶就是晚餐?",
+        "expected": "晚餐又冇食咧，唔通讲酸奶就系晚餐？"
+    },
+    {
+        "transcription": " 이건 발불덩산이야.",
+        "expected": "如果唔系会冻亲噶！"
+    },
+    {
+        "transcription": "八點,晚安",
+        "expected": "八点，晚安。"
+    },
+    {
+        "transcription": "今晚我情緒不好,突然就失落了",
+        "expected": "今晚我情绪唔好，突然就失落嘞。"
+    },
+    {
+        "transcription": "哼,可惜你沒有這個本事",
+        "expected": "呵，可惜你冇咁嘅本事啊。"
+    },
+    {
+        "transcription": "當然,這是一定的,老婆很乖,老公放心",
+        "expected": "当然咁系一定嘅，老婆好乖，老公放心！"
+    },
+    {
+        "transcription": "你厲害,還跟我關機。",
+        "expected": "你犀利仲同我关机！"
+    },
+    {
+        "transcription": "跟他講得很清楚,但他還是這樣",
+        "expected": "同佢讲得好清楚啦但系佢仲系咁。"
+    },
+    {
+        "transcription": "不是呀,你又做什麼?",
+        "expected": "唔系啊，你又做咩啦？"
+    },
+    {
+        "transcription": "哥哥,不去了,休息不了。",
+        "expected": "哥哥唔去啊，休息唔到啊。"
+    },
+    {
+        "transcription": "姐姐明天早上記得叫我起床了",
+        "expected": "家姐听日朝早记得叫我起身啦。"
+    },
+    {
+        "transcription": "她說先做朋友 彼此了解一下",
+        "expected": "佢话先做朋友，彼此了解下先。"
+    },
+    {
+        "transcription": "明天早點來呀,我裝好了,明天早點走",
+        "expected": "听日早啲嚟啊，我装好啦，听日早啲走。"
+    },
+    {
+        "transcription": "我也不想再為這件事心神憔悴 身影脫離",
+        "expected": "我都唔想再为呢件事心神憔悴，神影脱离。"
+    },
+    {
+        "transcription": "自己都不珍惜我也不必放在心上",
+        "expected": "自己都唔珍惜我都冇必要放喺心上啦。"
+    },
+    {
+        "transcription": "老公現在也會生氣不要生氣好不好",
+        "expected": "老公而家都会嬲啦，唔好嬲啦好唔好。"
+    },
+    {
+        "transcription": "你不是猜到了嗎?不信嗎?",
+        "expected": "你唔系估到嘞咩，唔信啊。"
+    },
+    {
+        "transcription": "这方面他要多思考思考",
+        "expected": "呢啲方面佢要多思考思考。"
+    },
+    {
+        "transcription": "阿嫂你好山哥在不在?我是他兄弟",
+        "expected": "阿嫂你好，山哥喺唔喺度啊？我系佢兄弟。"
+    },
+    {
+        "transcription": "那就行了,你早點休息吧",
+        "expected": "咁就得啦，你早啲休息啦！"
+    },
+    {
+        "transcription": "我覺得不好,為什麼你今天才想起我?",
+        "expected": "我过得唔好点解你今日先谂起我啊。"
+    },
+    {
+        "transcription": "嗯,我在看首飾,你做自己的事吧",
+        "expected": "嗯？我喺度睇紧手饰，你做你自己嘢啦。"
+    },
+    {
+        "transcription": "好吧,我不囉嗦了,晚安",
+        "expected": "好啦我唔啰嗦啦，早唞！"
+    },
+    {
+        "transcription": "嗯,對呀,你還沒回來?",
+        "expected": "嗯系啊你仲未翻嚟啊？"
+    },
+    {
+        "transcription": "好啊,上年係啊,早頭,晚安。",
+        "expected": "好啊，常联系啊。早唞，晚安。"
+    },
+    {
+        "transcription": "老婆,你睡了沒有?",
+        "expected": "老婆你瞓咗未啊？"
+    },
+    {
+        "transcription": "沒毅力,那好吧",
+        "expected": "冇毅力，咁好啦。"
+    },
+    {
+        "transcription": "我明天去看希望有",
+        "expected": "我听日去睇希望有。"
+    },
+    {
+        "transcription": "你休息了嗎?早點睡吧!",
+        "expected": "你休息咗未啊？早啲睡觉吧！"
+    },
+    {
+        "transcription": "你睡吧 不打擾你了 晚安",
+        "expected": "你瞓吧，唔打搅你啦，晚安。"
+    },
+    {
+        "transcription": "早點休息,以後不要這樣啦!",
+        "expected": "早啲休息，以后唔好咁样啦。"
+    },
+    {
+        "transcription": "這個星期回家好嗎?",
+        "expected": "呢个星期翻屋企好嘛！"
+    },
+    {
+        "transcription": "海幽,他們最好沒有找到我頭上",
+        "expected": "海休佢哋最好冇搵到我头上！"
+    },
+    {
+        "transcription": "哥哥,没看错人啊。",
+        "expected": "哥哥冇睇错人啊！"
+    },
+    {
+        "transcription": "沒有,我在想要不要捉子球",
+        "expected": "冇啊我喺度谂紧要唔要捉纸球。"
+    },
+    {
+        "transcription": "那我以後互相要尊重",
+        "expected": "咁我以后互相要尊重咯！"
+    },
+    {
+        "transcription": "哇,今天出奇這麼乖,都不習慣了",
+        "expected": "哇，今日出奇咁乖，都唔习惯啦。"
+    },
+    {
+        "transcription": "不好意思,很抱歉這麼晚還發信息給你",
+        "expected": "唔好意思，好抱歉咁夜仲发信息俾你。"
+    },
+    {
+        "transcription": "太好了,你要不要早點休息?",
+        "expected": "好夜啦你要唔要早啲休息啊？"
+    },
+    {
+        "transcription": "哥,今晚還加班嗎?",
+        "expected": "哥今晚仲加班咩？"
+    },
+    {
+        "transcription": "期待會發生什麼呢?",
+        "expected": "期待佢发生啲咩咧？"
+    },
+    {
+        "transcription": "最好可以將它說到接受我",
+        "expected": "最好可以将佢讲到接受我！"
+    },
+    {
+        "transcription": "我的校服是高中的",
+        "expected": "我校服系高中嘅。"
+    },
+    {
+        "transcription": "六八 明天我下夜班在宿舍",
+        "expected": "六百，听日我落夜班喺宿舍。"
+    },
+    {
+        "transcription": "我还要给你查一遍",
+        "expected": "我还要俾你查一遍。"
+    },
+    {
+        "transcription": "明年他上學走了,你怎麼辦?",
+        "expected": "明年佢翻学走咗你点算啊？"
+    },
+    {
+        "transcription": "知道了,今天下午辛苦你了",
+        "expected": "知道啦，今日下午辛苦你啦！"
+    },
+    {
+        "transcription": "我說錯了,再也不說了,好嗎?",
+        "expected": "我讲错嘢再都唔讲啦好唔好啊？"
+    },
+    {
+        "transcription": "還有一件事情你想知道嗎?",
+        "expected": "仲有一件事情你想知吗？"
+    },
+    {
+        "transcription": "你不想跟我講話,我也不想這樣",
+        "expected": "你唔想同我讲嘢我都唔系咁想。"
+    },
+    {
+        "transcription": "人要誠實、明明呀!",
+        "expected": "人要诚实，明唔明啊？"
+    },
+    {
+        "transcription": "快點睡吧,你很傻呀",
+        "expected": "快啲瞓啦，好傻啊你！"
+    },
+    {
+        "transcription": "發個空白短信是什麼意思?",
+        "expected": "发个空白短信系咩意思啊？"
+    },
+    {
+        "transcription": "你明天不用上班嗎?",
+        "expected": "你听日唔使翻工咩？"
+    },
+    {
+        "transcription": "從現在開始,我不會再為你傷心",
+        "expected": "从而家开始我唔会再为你伤心。"
+    },
+    {
+        "transcription": "你這麼多理由幹什麼?",
+        "expected": "要咁多理由做咩啫？"
+    },
+    {
+        "transcription": "那你可不可以答應我一個要求?",
+        "expected": "咁你可唔可以应承我一个要求啊。"
+    },
+    {
+        "transcription": "我今天一個都沒有看對",
+        "expected": "我今日一个都冇睇啱。"
+    },
+    {
+        "transcription": "孩子要相信自己的實力",
+        "expected": "嗯，孩子要相信自己嘅实力！"
+    },
+    {
+        "transcription": "為什麼你們這麼想讓我去?",
+        "expected": "你点解咁想等我去咧！"
+    },
+    {
+        "transcription": "還有十幾分鐘吧一會散會再給你發",
+        "expected": "仲有十几分钟吧，一阵散会再俾你发。"
+    },
+    {
+        "transcription": "你就坐在那裡就行了",
+        "expected": "你就坐喺嗰度就得啦！"
+    },
+    {
+        "transcription": "我不想跟你說話我討厭你",
+        "expected": "我唔想同你讲嘢，我憎你。"
+    },
+    {
+        "transcription": "幾日沒見 有點掛著你喔",
+        "expected": "几日冇见有啲挂住你哦！"
+    },
+    {
+        "transcription": "人家打了我",
+        "expected": "人哋打咗我啊！"
+    },
+    {
+        "transcription": "你要記住,掛著我就要打電話",
+        "expected": "你要记住啊，挂住我就要打电话。"
+    },
+    {
+        "transcription": "我聽到你們的聲音,我心動了,我也很緊張",
+        "expected": "我听到你把声我心动啦，我都好紧张。"
+    },
+    {
+        "transcription": "哼,我生氣了,你不來?",
+        "expected": "哼，我嬲啦，你唔理啊？"
+    },
+    {
+        "transcription": "電影看完沒有?我準備回去了",
+        "expected": "电影睇完未啊？我准备翻去啦。"
+    },
+    {
+        "transcription": "那你休息吧,我看著辦",
+        "expected": "咁你休息啦！我睇住办！"
+    },
+    {
+        "transcription": "好像人家都說我手法不錯",
+        "expected": "好似人哋都讲我手法唔错。"
+    },
+    {
+        "transcription": "你好,我可以跟你認識一下嗎?",
+        "expected": "你好！我可唔可以同你认识一下啊？"
+    },
+    {
+        "transcription": "不要加班太晚了,快點睡覺吧",
+        "expected": "唔好加班太夜啦，快啲瞓觉啦？"
+    },
+    {
+        "transcription": "哦,那哥哥是基礎不好還是作文不好啊?",
+        "expected": "哦！咁哥哥系基础唔好定系作文唔好啊？"
+    },
+    {
+        "transcription": "我知道這件事的嚴重性",
+        "expected": "我知道呢件事嘅严重性。"
+    },
+    {
+        "transcription": "我還打算考第一呢,怎可以掛呢?",
+        "expected": "我仲打算考第一咧，点可以挂咧！"
+    },
+    {
+        "transcription": "做什麼不要我了嗎",
+        "expected": "做咩唔要我嘞吗？"
+    },
+    {
+        "transcription": "今天回去怎麼樣?",
+        "expected": "今日翻去点啊？"
+    },
+    {
+        "transcription": "你為何這麼傻?喜歡了我,我又沒有什麼好",
+        "expected": "你做乜咁傻中意咗我，我又冇咩好噶。"
+    },
+    {
+        "transcription": "小野鬼,你愛拼了",
+        "expected": "小气鬼，你喺边啊？"
+    },
+    {
+        "transcription": "好好睡覺,我們要忙",
+        "expected": "好好瞓觉我哋忙。"
+    },
+    {
+        "transcription": "你身邊保護你,你放心睡吧。",
+        "expected": "你身边保护你，你放心瞓啦。"
+    },
+    {
+        "transcription": "好的,就讓自己放手去愛吧",
+        "expected": "好嘅就俾自己放手去爱啦！"
+    },
+    {
+        "transcription": "到家吃完飯給我電話 等",
+        "expected": "到屋企食完饭俾我电话！等。"
+    },
+    {
+        "transcription": "我們玩,是因為心情不好",
+        "expected": "我嚟玩系因为心情唔好。"
+    },
+    {
+        "transcription": "如果你覺得對不起我",
+        "expected": "如果你觉得对唔住我。"
+    },
+    {
+        "transcription": "可以,反正越早越好,你自己看著辦吧。",
+        "expected": "可以，反正越早越好。你自己睇住办吧。"
+    },
+    {
+        "transcription": "大哥呀,這麼久了,你還不行嗎?",
+        "expected": "大佬啊咁耐啦你仲未得咩！"
+    },
+    {
+        "transcription": "你回答吧,這次我帶子啦",
+        "expected": "你答啦今次我带纸啦！"
+    },
+    {
+        "transcription": "哦,知道了,回来就好。",
+        "expected": "哦，知道啦！翻嚟就好！"
+    },
+    {
+        "transcription": "我以為你不理我了",
+        "expected": "我以为你唔理我得啦。"
+    },
+    {
+        "transcription": "哦,也好多學點東西",
+        "expected": "哦，都好学多啲嘢。"
+    },
+    {
+        "transcription": "可能我想多了,但都是為了我們好",
+        "expected": "可能我谂多咗啦，但系都系为咗我哋好！"
+    },
+    {
+        "transcription": "好像在開玩笑嗎?我很認真的",
+        "expected": "我似讲笑咩！我好认真噶！"
+    },
+    {
+        "transcription": "一時我看走不了先兩步都行好吧",
+        "expected": "一时我睇走唔到嘞，先两步都行好吧。"
+    },
+    {
+        "transcription": "這樣我們分手吧我不想浪費感情",
+        "expected": "咁样，我哋分手啦，我唔想浪费感情啊！"
+    },
+    {
+        "transcription": "今天下班去打野",
+        "expected": "今日落咗班去打夜。"
+    },
+    {
+        "transcription": "現在就聽到了",
+        "expected": "依家咪听到咯。"
+    },
+    {
+        "transcription": "哈哈,沒把小英子騙過去",
+        "expected": "哈哈！冇将小英子呃过去。"
+    },
+    {
+        "transcription": "相信你睡覺吧夢想成真",
+        "expected": "相信你，瞓觉吧，梦想成真。"
+    },
+    {
+        "transcription": "你知道我當時的心情嗎?",
+        "expected": "你知唔知我当时嘅心情啊？"
+    },
+    {
+        "transcription": "不睡了,做什麼?",
+        "expected": "唔瞓啊，做咩啊？"
+    },
+    {
+        "transcription": "竟教出這麼多無禮貌的臭小子",
+        "expected": "竟教出咁多冇礼貌嘅衰仔！"
+    },
+    {
+        "transcription": "在不在呀?丫頭,我晚上用這個給你發短訊",
+        "expected": "喺唔喺度啊丫头？我晚上用呢个同你发短信。"
+    },
+    {
+        "transcription": "我以為你已經將我忘記了",
+        "expected": "我以为你已经将我忘记咗啦。"
+    },
+    {
+        "transcription": "哈哈,那就好,你真的很聰明",
+        "expected": "呵呵咁就好你真系好聪明。"
+    },
+    {
+        "transcription": "你現在都跟我沒話說了",
+        "expected": "你依家都同我冇嘢讲啊！"
+    },
+    {
+        "transcription": "不要,你隱藏了笑容",
+        "expected": "唔好你隐藏咗笑容！"
+    },
+    {
+        "transcription": "好難受呀,就快要死了。",
+        "expected": "好难受，就快要死啦。"
+    },
+    {
+        "transcription": "我真的很累,改天再一起玩吧,我睡了。",
+        "expected": "我真的很累，改天再一起玩吧，我睡了！"
+    },
+    {
+        "transcription": "我們沒有下一次了",
+        "expected": "我哋冇下一次啦。"
+    },
+    {
+        "transcription": "我愛你這是我心裏的話",
+        "expected": "我爱你，呢个系我心入边嘅话。"
+    },
+    {
+        "transcription": "哼,明天早點叫你起來",
+        "expected": "哼听日早啲叫你起身！"
+    },
+    {
+        "transcription": "來吧,回來我帶你",
+        "expected": "嚟啦，翻嚟我带你！"
+    },
+    {
+        "transcription": "以后和我之间不用多说,有点客气",
+        "expected": "以后同我之间唔使讲多谢有啲客气喎！"
+    },
+    {
+        "transcription": "我想送一個你喜歡的",
+        "expected": "我想送个你中意噶。"
+    },
+    {
+        "transcription": "老婆媽,我睡了,記得夢見我",
+        "expected": "老婆晚安我瞓啦。记得梦见我啊。"
+    },
+    {
+        "transcription": "那些是你的事,你想說就說吧,我也不想過問",
+        "expected": "嗰啲系你嘅事，你想讲就讲啦，我都唔想过问。"
+    },
+    {
+        "transcription": "我做什麼?本來就是這樣",
+        "expected": "我做咩啊？本嚟就系啊！"
+    },
+    {
+        "transcription": "那你也要讓我知道做什麼的",
+        "expected": "咁你都要俾我知道做咩噶？"
+    },
+    {
+        "transcription": "你也早點睡吧,上來吧",
+        "expected": "嗯！你都早啲瞓啦！想你！"
+    },
+    {
+        "transcription": "然後回房間,向我發訊息",
+        "expected": "忽忽。咁就翻房，同我发信息。"
+    },
+    {
+        "transcription": "可能比照片上少為寬一點",
+        "expected": "可能比照片上稍微宽一啲啦。"
+    },
+    {
+        "transcription": "又做了天忍者呀",
+        "expected": "又做咗天忍者啊？"
+    },
+    {
+        "transcription": "我睡了,你來了之後再聯繫。",
+        "expected": "我瞓啦，你嚟咗之后再联系。"
+    },
+    {
+        "transcription": "長大有長大的好小時候有小時候的好",
+        "expected": "长大有长大嘅好，小时候有小时候嘅好。"
+    },
+    {
+        "transcription": "剛有人找我,所以不在宿舍。",
+        "expected": "刚有人搵我所以唔喺宿舍。"
+    },
+    {
+        "transcription": "嘿,沒辦法,你晚上吃什麼?",
+        "expected": "嘿，冇办法，你晚黑食咩啊。"
+    },
+    {
+        "transcription": "我的事永遠都是我的",
+        "expected": "我嘅嘢永远都系我嘅！"
+    },
+    {
+        "transcription": "它在你心中一定很重要吧",
+        "expected": "佢喺你心入边一定好重要啩！"
+    },
+    {
+        "transcription": "老公,我們永遠都不要提分手,好嗎?",
+        "expected": "老公我哋永远都唔好提分手好吗？"
+    },
+    {
+        "transcription": "要再不要受我們去打球法事下啦",
+        "expected": "要再唔好受我哋去打球发泄下啦。"
+    },
+    {
+        "transcription": "大寶貝你在做什麼?",
+        "expected": "大宝贝你喺度做紧乜嘢啊？"
+    },
+    {
+        "transcription": "那你吃完早點休息吧,累了一整天。",
+        "expected": "咁你食完早啲唞啊，攰咗成日啦！"
+    },
+    {
+        "transcription": "沒有,你還沒搞好嗎?會嗎?",
+        "expected": "冇，你仲未搞好咩，攰嘛。"
+    },
+    {
+        "transcription": "啊?就給這個?這個就是你說的不用買的?",
+        "expected": "啊？就俾呢个啊？呢个就系你讲嘅唔使买嘅。"
+    },
+    {
+        "transcription": "快了,剛剛進市區,好累啊,想抱一下你",
+        "expected": "快啦，啱啱入市区！好攰啊，想揽下你！"
+    },
+    {
+        "transcription": "你叫什麼名字?",
+        "expected": "唉，你叫咩名？"
+    },
+    {
+        "transcription": "月,我只要你開心幸福。",
+        "expected": "月，我只要你开心幸福！"
+    },
+    {
+        "transcription": "我很想見你一面,你可以給我一次面嗎?",
+        "expected": "好想见你一面，你可唔可以俾一次面俾我啊？"
+    },
+    {
+        "transcription": "你還記得我們租的房子嗎?",
+        "expected": "你仲记得我哋租嗰间屋吗？"
+    },
+    {
+        "transcription": "哈哈,沒生氣,我拍手的。",
+        "expected": "呵呵，冇嬲，我怕丑噶。"
+    },
+    {
+        "transcription": "就像今天發給你的彩信一樣",
+        "expected": "就似今日发俾你嘅彩信一样。"
+    },
+    {
+        "transcription": "嗯,你也是啊,晚安。",
+        "expected": "嗯你都系啊！晚安。"
+    },
+    {
+        "transcription": "我一定好好對你想一想",
+        "expected": "我一定好好对你，谂一谂？"
+    },
+    {
+        "transcription": "回去睡覺好不好",
+        "expected": "翻去瞓觉好唔好？"
+    },
+    {
+        "transcription": "重要的是自己的身體,人人都說了",
+        "expected": "重要嘅系自己嘅身体，啲人成日都讲啊。"
+    },
+    {
+        "transcription": "不是啦,只是看看你有没有时间回来一下嘛",
+        "expected": "唔系啦，只系睇下你有冇时间翻嚟一下啫嘛。"
+    },
+    {
+        "transcription": "行啊,你這麼冷行不行啊",
+        "expected": "得啊！你咁冻，得唔得啊？"
+    },
+    {
+        "transcription": "不要說了,你這麼晚還在外面",
+        "expected": "唔好讲啊。你咁夜仲喺出边。"
+    },
+    {
+        "transcription": "收到了,多謝,我一定會快樂",
+        "expected": "收到啦，多谢，我一定会快乐。"
+    },
+    {
+        "transcription": "BB,你幾時替我洗衣服?",
+        "expected": "BB你几时同我洗衫啊。"
+    },
+    {
+        "transcription": "那就不要再想了都會變好的",
+        "expected": "咁就唔好谂啦，都会变好噶。"
+    },
+    {
+        "transcription": "你不是野,你是人,你是我的好哥哥",
+        "expected": "你唔系嘢，你系人，你系我嘅好哥哥。"
+    },
+    {
+        "transcription": "期盼回家和親人團結的那一刻",
+        "expected": "期盼回家和亲人团聚的那一刻！"
+    },
+    {
+        "transcription": "你不是一直跟我說你們沒有關係嗎?",
+        "expected": "你唔系一直同我讲你哋冇关系咩？"
+    },
+    {
+        "transcription": "我對不喜歡的女人看也不看",
+        "expected": "我对唔中意嘅女人，睇都唔睇。"
+    },
+    {
+        "transcription": "老婆,早上7點30,麻煩叫叫我",
+        "expected": "老婆，朝早七点三十麻烦叫下我。"
+    },
+    {
+        "transcription": "和家長解駱還是有一定因素",
+        "expected": "同家长教育仲系有一定因素！"
+    },
+    {
+        "transcription": "睡了嗎?唉,煩的,我明天中午過去",
+        "expected": "睡咗未啊，唉！烦嘅，我听日中午过去。"
+    },
+    {
+        "transcription": "老公眼痛,想先睡行不行?",
+        "expected": "老公只眼痛想先瞓得唔得？"
+    },
+    {
+        "transcription": " Mea niofana.",
+        "expected": "未啊，你要瞓啦？"
+    },
+    {
+        "transcription": "我都睡了,你這個豬把我吵醒了,怎麼辦?",
+        "expected": "我都瞓啦，你个猪将我嘈醒啊，点算。"
+    },
+    {
+        "transcription": "唉,多想換位感受一下",
+        "expected": "唉多想换位感受下。"
+    },
+    {
+        "transcription": "在做什麼?最近好嗎?",
+        "expected": "做紧咩啊？最近好吗？"
+    },
+    {
+        "transcription": "你問清楚做甚麼",
+        "expected": "你问咁清楚做咩啫？"
+    },
+    {
+        "transcription": "你不喜歡打字還是不想回答?",
+        "expected": "你唔中意打字定系唔想答啊。"
+    },
+    {
+        "transcription": "剛剛撥錯號了,打你那邊,不好意思",
+        "expected": "啱拨错号嘞，打你嗰度唔好意思喎。"
+    },
+    {
+        "transcription": "住在這裡就可以了有哥哥在這裡",
+        "expected": "住喺度就得啦，有哥哥喺度，呵。"
+    },
+    {
+        "transcription": "說得容易,現在又這麼好借嗎?",
+        "expected": "讲得容易，而家有咁好借咩？"
+    },
+    {
+        "transcription": "那過幾天來吧你想做什麼我陪著你",
+        "expected": "咁过几日嚟啊，你想做咩我陪住你。"
+    },
+    {
+        "transcription": "在床上睡低睡不着",
+        "expected": "喺床上瞓低，瞓唔着。"
+    },
+    {
+        "transcription": "我也不知道,說不上吧",
+        "expected": "我都唔知话唔上啊。"
+    },
+    {
+        "transcription": "明天15公斤黃麵",
+        "expected": "听日十五公斤黄面。"
+    },
+    {
+        "transcription": "我將這些人生不可或缺的一種東西送給你",
+        "expected": "我将呢啲人生不可或缺嘅一种嘢送俾你！"
+    },
+    {
+        "transcription": "但我現在不缺愛了",
+        "expected": "但系我而家唔缺爱啦！"
+    },
+    {
+        "transcription": "早点找到一个你心目中",
+        "expected": "早啲搵到一个你心目中。"
+    },
+    {
+        "transcription": "但我這樣又不對,這樣又不對",
+        "expected": "但系我咁又唔啱，咁又唔啱！"
+    },
+    {
+        "transcription": "我跟你開玩笑",
+        "expected": "我同你开玩笑啊！"
+    },
+    {
+        "transcription": "馬上到,駕車門口",
+        "expected": "马上到！家姐门口！"
+    },
+    {
+        "transcription": "嗯嗯,有點睏了",
+        "expected": "嗯嗯有啲眼瞓咧！"
+    },
+    {
+        "transcription": "還沒睡嗎?兄弟,幫幫忙吧!",
+        "expected": "未瞓啊，兄弟帮下手咧？"
+    },
+    {
+        "transcription": "時刻都不會忘記曾經相識的朋友",
+        "expected": "时刻都唔会忘记曾经相识嘅朋友。"
+    },
+    {
+        "transcription": "還不如這樣說也好",
+        "expected": "仲不如咁讲好。"
+    },
+    {
+        "transcription": "哦,我們遲些試試。",
+        "expected": "哦，我哋迟啲试下。"
+    },
+    {
+        "transcription": "因為還有你的老公",
+        "expected": "因为仲有你老公？"
+    },
+    {
+        "transcription": "忘記我說過的所有吧",
+        "expected": "忘记我讲过嘅所有嘢吧？"
+    },
+    {
+        "transcription": "好啦,我沒事,事好了,別生氣啦",
+        "expected": "好啦！我冇事事好啦！唔好嬲啦！"
+    },
+    {
+        "transcription": "我明天去幫你",
+        "expected": "我听日去帮你手啊。"
+    },
+    {
+        "transcription": "好好好 你還要做什麼?",
+        "expected": "呵呵，你喺度做咩啊？"
+    },
+    {
+        "transcription": "剛剛睡覺,你在做什麼?",
+        "expected": "啱瞓低，你喺度做咩啊。"
+    },
+    {
+        "transcription": "明天早上去成都的時候,跟我發訊息。",
+        "expected": "听日早上去成都嘅时候同我发信息。"
+    },
+    {
+        "transcription": "那你自己看着吧能搞多少就带多少吧",
+        "expected": "咁你自己睇住吧，能搞几多就带几多吧。"
+    },
+    {
+        "transcription": "我找個寶公仔,我容易嗎?",
+        "expected": "我搵个布公仔我容易吗？"
+    },
+    {
+        "transcription": "沒回家,從夜總會出來,說要去酒吧。",
+        "expected": "冇翻屋企，从夜总会出嚟话要去酒吧。"
+    },
+    {
+        "transcription": "我一會兒去看看,你那裡有沒有吃的?",
+        "expected": "我一阵睇一阵啊，你嗰度有冇食噶？"
+    },
+    {
+        "transcription": "以後不會再叫你出來啦,這個是最後一次。",
+        "expected": "以后唔会再叫你出嚟啦，呢个系最后一次！"
+    },
+    {
+        "transcription": "我睡不著 在這裡掛著你",
+        "expected": "我瞓唔着，喺度挂住你。"
+    },
+    {
+        "transcription": "你知不知道如何查手機密碼?",
+        "expected": "你知唔知点样查手机密码？"
+    },
+    {
+        "transcription": "不是,本身就是",
+        "expected": "唔系，本身就系噶。"
+    },
+    {
+        "transcription": "姐夫,這段時間好忙呀",
+        "expected": "姐夫呢段时间好忙啊？"
+    },
+    {
+        "transcription": "那就好了,我還擔心你,快點休息吧",
+        "expected": "咁就好啦，我仲担心你啊？快休息啦！"
+    },
+    {
+        "transcription": "沒有,在這裡繼續當中,你回到家了嗎?",
+        "expected": "冇，喺度继续当中，你翻到屋企未？"
+    },
+    {
+        "transcription": "每天都在想你老闆還沒累不累",
+        "expected": "日日都喺度谂你落班未攰唔攰。"
+    },
+    {
+        "transcription": "明天再聊,好好休息,要顧著我",
+        "expected": "听日再倾，好好休息啊要挂住我啊！"
+    },
+    {
+        "transcription": " Chắc là cậu lúc mắt mạnh hơn.",
+        "expected": "亲爱嘅老公晚安！"
+    },
+    {
+        "transcription": "你自己照顧好自己等我靜幾天好不好",
+        "expected": "你自己照顾好自己，等我静几日啦好唔好？"
+    },
+    {
+        "transcription": "沒那麼早睡得著嗎?",
+        "expected": "冇咁早瞓得着咩？"
+    },
+    {
+        "transcription": "那你先試試睡吧睡不著我們再聊",
+        "expected": "咁你先试下瞓啦，瞓唔着我哋再倾。"
+    },
+    {
+        "transcription": "剛剛在這裡吃飯,你為什麼還沒睡?",
+        "expected": "啱啱喺度食饭，你做咩仲未瞓？"
+    },
+    {
+        "transcription": "你還是我的好寶寶",
+        "expected": "你仲系我嘅好BB。"
+    },
+    {
+        "transcription": "部分文字丟失幸福健康才是寶",
+        "expected": "部分文字丢失，幸福健康先系宝。"
+    },
+    {
+        "transcription": "子萱,我和你開玩笑,不要生氣,我又想念你了",
+        "expected": "紫萱我同你开玩笑咋唔好嬲啦我有挂住你噶。"
+    },
+    {
+        "transcription": "7月3日我去阿拉泰考試,能否見你?",
+        "expected": "七月三号我去阿勒泰考试能否见你。"
+    },
+    {
+        "transcription": "過獎了,哈哈哈,你太好了",
+        "expected": "过奖啦。嗯嗯！哈哈哈，你太好啦。"
+    },
+    {
+        "transcription": "剛剛睡了可以床上你在那裡做什麼?",
+        "expected": "啱啱瞓咗喺床上，你喺度做紧乜嘢啊？"
+    },
+    {
+        "transcription": "讓我好好珍惜你一次,好嗎?",
+        "expected": "等我好好珍惜你一次好吗？"
+    },
+    {
+        "transcription": "那明天什麼時候回家?",
+        "expected": "咁听日咩时候翻屋企啊。"
+    },
+    {
+        "transcription": "有什么可以感谢的呢?实在想感谢的话,就梦到我啦!",
+        "expected": "有咩好多谢嘅咧，实在想多谢嘅话就梦到我啦。"
+    },
+    {
+        "transcription": "其實後悔又可以怎樣呢?",
+        "expected": "其实后悔又可以点啫？"
+    },
+    {
+        "transcription": "好,那還是你同意我去看你。",
+        "expected": "好，咁仲系你同意我去睇你。"
+    },
+    {
+        "transcription": "哈哈,那要什麼味道?",
+        "expected": "呵呵咁要咩味噶？"
+    },
+    {
+        "transcription": "我下了,掛個號在那裡,呵呵,回去睡覺吧",
+        "expected": "我落啦，挂个号喺嗰度，呵呵，翻去瞓觉啦。"
+    },
+    {
+        "transcription": "睡了嗎?我剛剛洗完衣服",
+        "expected": "瞓未！我啱洗完衫。"
+    },
+    {
+        "transcription": "和男女有關?男的",
+        "expected": "同男女有关？男嘅。"
+    },
+    {
+        "transcription": "我真的沒想到那個樣子的事",
+        "expected": "我真系冇谂到嗰个样嘅事。"
+    },
+    {
+        "transcription": "我好掛住你 你掛住我嗎",
+        "expected": "我好挂住你你挂住我吗？"
+    },
+    {
+        "transcription": "看著寫作業呀!超多!",
+        "expected": "忙住写作业啊，超多。"
+    },
+    {
+        "transcription": "那算什麼要求呀?還沒見到呀",
+        "expected": "咁算咩要求啊，哼，仲未见到啊。"
+    },
+    {
+        "transcription": "海豚想給天使一個",
+        "expected": "海豚想俾天使一个。"
+    },
+    {
+        "transcription": "害怕就是你不想去改变",
+        "expected": "害怕就是你不想去改变？"
+    },
+    {
+        "transcription": "好啊,睡吧,我睡了,你也保證吧",
+        "expected": "好啊，瞓啦我攰啦，你都保证啊。"
+    },
+    {
+        "transcription": "睡吧,早睡,明天努力考。",
+        "expected": "瞓啦！早唞！听日俾心机考！"
+    },
+    {
+        "transcription": "我還可以吧,我都準備睡了",
+        "expected": "我还可以吧我都准备瞓啦。"
+    },
+    {
+        "transcription": "吃完了,跟他說,再去買。",
+        "expected": "食完啦，同佢讲，再去买。"
+    },
+    {
+        "transcription": "如有動靜,急事要給我打電話",
+        "expected": "如有动静，急事要俾我打电话。"
+    },
+    {
+        "transcription": "那好吧 就不當他是命令了 行不行",
+        "expected": "咁好啦，就唔当佢系命令啦，得唔得？"
+    },
+    {
+        "transcription": "想念你呀,幸好現在就去找你",
+        "expected": "挂住你啊，恨不得而家就去搵你。"
+    },
+    {
+        "transcription": "誰說的?我當然喜歡你",
+        "expected": "边个话噶，我梗系中意你啊。"
+    },
+    {
+        "transcription": "不過我相信老公到時候一定可以過的",
+        "expected": "不过我相信老公到时候一定可以过噶。"
+    },
+    {
+        "transcription": "謝謝,你姐夫心臟病在醫院",
+        "expected": "多谢，你姐夫心脏病喺医院啊！"
+    },
+    {
+        "transcription": "我一點自制力也沒有",
+        "expected": "我一啲自制力都冇。"
+    },
+    {
+        "transcription": "你又怎樣?我又做錯了甚麼?",
+        "expected": "你又点啊？我又做错咗咩啊？"
+    },
+    {
+        "transcription": "睡了嗎?我掛著你了",
+        "expected": "瞓咗未我挂住你啦。"
+    },
+    {
+        "transcription": "我要信心 總相信你",
+        "expected": "我有信心，仲相信你！"
+    },
+    {
+        "transcription": "不在他們家,回家了",
+        "expected": "唔喺佢哋屋企翻咗屋企啦。"
+    },
+    {
+        "transcription": "沒什麼,如果你要睡就睡吧!",
+        "expected": "冇啊，如果你要瞓就瞓啦。"
+    },
+    {
+        "transcription": "你為什麼現在跟我一樣?",
+        "expected": "你点解依家同我一样啦？"
+    },
+    {
+        "transcription": "反正我心裡掛著你愛著你",
+        "expected": "反正我心入边挂住你，爱着你？"
+    },
+    {
+        "transcription": "你是這麼想的嗎?我們……",
+        "expected": "你系咁谂嘅咩？我哋。"
+    },
+    {
+        "transcription": "哥,我服了你",
+        "expected": "哥，我服咗你啦！"
+    },
+    {
+        "transcription": "我沒睡,在看電視,妹妹。",
+        "expected": "我冇瞓，喺田睇电视阿妹。"
+    },
+    {
+        "transcription": "為甚麼不回信給我?不要我了是嗎?",
+        "expected": "做乜唔回短信俾我啊？唔要我啦系吗？"
+    },
+    {
+        "transcription": "你在烏市多好,我去看看你。",
+        "expected": "你喺乌市几好，我去睇睇你。"
+    },
+    {
+        "transcription": "我還有話要說,我們在網上說吧",
+        "expected": "我仲有嘢讲啊，我哋网上讲啦！"
+    },
+    {
+        "transcription": "呵呵,你以為你的胃裡面有攪拌機嗎?",
+        "expected": "呵呵，你以为你嘅胃入面有搅拌机啊。"
+    },
+    {
+        "transcription": "睡着了,你忙完吧,你爸哪一天生日呀?",
+        "expected": "瞓紧啊，你忙完啦？你爸边一日生日啊？"
+    },
+    {
+        "transcription": "你真的對我很重要",
+        "expected": "你真系对我好重要。"
+    },
+    {
+        "transcription": "對不起,我先走了。",
+        "expected": "对唔住，我先走啦？"
+    },
+    {
+        "transcription": "男人都真是自戀啊",
+        "expected": "男人都真系自恋啊！"
+    },
+    {
+        "transcription": "你為什麼還沒下線?",
+        "expected": "你点解仲未落线噶！"
+    },
+    {
+        "transcription": "報紙上說野貓之刑的人極富創造力",
+        "expected": "报纸上话夜猫子型嘅人极富创造力哈哈！"
+    },
+    {
+        "transcription": "我現在只會愛你一生一世",
+        "expected": "我而家只会爱你一生一世！"
+    },
+    {
+        "transcription": "當然啦,一直有事,沒回覆你",
+        "expected": "梗系啦。一直有事，冇复你。"
+    },
+    {
+        "transcription": "我喜歡你 那你呢?",
+        "expected": "我中意你，咁你咧？"
+    },
+    {
+        "transcription": "但是你的誠心還不夠呀",
+        "expected": "咁系你嘅诚心仲未够啊。"
+    },
+    {
+        "transcription": "你快去考試了,好好學習吧",
+        "expected": "你快考试啦，好好学习啦。"
+    },
+    {
+        "transcription": "算了吧你,你現在不放心了?",
+        "expected": "算吧啦你，你而家唔放心啦！"
+    },
+    {
+        "transcription": "雨天路滑注意行車",
+        "expected": "雨天路滑，注意行车！"
+    },
+    {
+        "transcription": "有什麼不好意思的",
+        "expected": "有咩唔好意思嘅啫！"
+    },
+    {
+        "transcription": "做什麼?寶貝還沒睡覺?",
+        "expected": "做咩啊。宝贝仲未瞓觉啊？"
+    },
+    {
+        "transcription": "我發誓 騙你我是小狗",
+        "expected": "我发誓，呃你我系狗仔。"
+    },
+    {
+        "transcription": "我怕不發訊息,為何還未睡?",
+        "expected": "我嘅唔出信息，点解仲未瞓。"
+    },
+    {
+        "transcription": "嗯,我們馬上睡覺,老婆快睡吧",
+        "expected": "嗯，我哋马上就瞓啦，老婆快瞓啦。"
+    },
+    {
+        "transcription": "造成你們在外面",
+        "expected": "造成你哋喺外面？"
+    },
+    {
+        "transcription": "這麼晚了,去哪裡吃飯?自己什麼都不懂煮。",
+        "expected": "咁夜嘞去边度食饭啊？自己咩都唔识煮。"
+    },
+    {
+        "transcription": "你和他到底想怎樣?",
+        "expected": "你同佢到底想点啊？"
+    },
+    {
+        "transcription": "不行就要叫你回來",
+        "expected": "唔得就要叫你翻嚟。"
+    },
+    {
+        "transcription": "睡著,好屈悶,你要睡覺了嗎?",
+        "expected": "瞓唔着好郁闷，你要瞓觉未啊。"
+    },
+    {
+        "transcription": "不是為不值得我傷心的人",
+        "expected": "唔系为唔值得我伤心嘅人。"
+    },
+    {
+        "transcription": "我一點都不好,睡不著,掛著你吧",
+        "expected": "我一啲都唔好，瞓唔着，挂住你啦。"
+    },
+    {
+        "transcription": "住在那裡?明天不上班嗎?",
+        "expected": "住喺嗰度啊，听日唔上班咩？"
+    },
+    {
+        "transcription": "老公,你們這兩天感覺如何?習慣了嗎?",
+        "expected": "老公你哋呢两日日感觉点啊？习惯未啊？"
+    },
+    {
+        "transcription": "你不是未睡嗎?",
+        "expected": "你唔系未瞓嘛。"
+    },
+    {
+        "transcription": "我有你就夠了,快點睡吧,夢",
+        "expected": "哈我有你就够啦，快啲瞓啦，木。"
+    },
+    {
+        "transcription": "你自己說好的話變就變,我怎信你呀?",
+        "expected": "你自己讲好嘅话变就变，我点信你啊。"
+    },
+    {
+        "transcription": "你也快睡覺吧",
+        "expected": "你都快啲瞓觉吧你。"
+    },
+    {
+        "transcription": "睡不著,也睡,我也睡不著",
+        "expected": "瞓唔着都瞓我都瞓唔着。"
+    },
+    {
+        "transcription": "好吧,你現在洗吧!",
+        "expected": "咁好啦，你而家洗吧！"
+    },
+    {
+        "transcription": "姐姐好最近好嗎?在做什麼?",
+        "expected": "姐姐好，最近好吗？做紧咩啊？"
+    },
+    {
+        "transcription": "我不想你為我付出",
+        "expected": "我唔想你为我付出。"
+    },
+    {
+        "transcription": "那你去買一雙舒服的鞋吧",
+        "expected": "咁你去买对舒服嘅鞋啦！"
+    },
+    {
+        "transcription": "我很希望工程結束呀!",
+        "expected": "我好希望工程结束啊！"
+    },
+    {
+        "transcription": "明天去唐春蘭那裡把我的眼鏡拿上",
+        "expected": "听日去唐春兰嗰度将我副眼镜攞上。"
+    },
+    {
+        "transcription": "沒有啊,我有你這麼喜歡打電話嗎?看電影啊",
+        "expected": "冇啊，我有你咁中意打电话咩？睇电影啊。"
+    },
+    {
+        "transcription": "現在睏了嗎?乖乖!",
+        "expected": "而家眼瞓未啊乖乖？"
+    },
+    {
+        "transcription": "我只是說說我的意見,你別想太多",
+        "expected": "我只系讲下我嘅意见你唔好谂咁多。"
+    },
+    {
+        "transcription": "看我一張照片,我給你一個想我就看的照片",
+        "expected": "睇我张相，我俾你一个想我就睇嘅相。"
+    },
+    {
+        "transcription": "你還沒回去嗎?都這麼晚了",
+        "expected": "你仲未翻去咩？都咁夜啦。"
+    },
+    {
+        "transcription": "不方便就算吧,你哪有時間再說。",
+        "expected": "唔方便就算吧啦，你边日有时间再讲嘞。"
+    },
+    {
+        "transcription": "今天心情說不上來",
+        "expected": "今日心情讲唔上嚟。"
+    },
+    {
+        "transcription": "我是槍吉,星期六弟弟結婚,幫手吧!",
+        "expected": "我喺昌吉，星期六细佬结婚，帮手啊。"
+    },
+    {
+        "transcription": "那好吧,睡覺啦,晚安",
+        "expected": "咁好啦，瞓觉啦，晚安。"
+    },
+    {
+        "transcription": "不要再亂抱,我要睡覺,你也睡吧!",
+        "expected": "唔好再乱谂，我要瞓觉，你都瞓啦。"
+    },
+    {
+        "transcription": "這些有什麼意思呢?",
+        "expected": "呢啲有咩意思啊。"
+    },
+    {
+        "transcription": "你是一個很自私的人",
+        "expected": "你系一个好自私嘅人。"
+    },
+    {
+        "transcription": "但不知道你覺得好不好",
+        "expected": "但系唔知道你过得好唔好。"
+    },
+    {
+        "transcription": "剛剛回家,累死了",
+        "expected": "啱翻到屋企，攰死啦！"
+    },
+    {
+        "transcription": "真心的,為什麼你不可以好好地愛一個人?",
+        "expected": "真心嘅点解你唔可以好好哋咁爱一个人？"
+    },
+    {
+        "transcription": "你問我的傷心事吧",
+        "expected": "你问我啲伤心事咯。"
+    },
+    {
+        "transcription": "車上發訊息太困難",
+        "expected": "车上发信息太困难！"
+    },
+    {
+        "transcription": "真的嗎?你還被人家攔住了?方堂",
+        "expected": "真系噶，你仲俾人哋难住啦，荒唐。"
+    },
+    {
+        "transcription": "老公我才寫作業",
+        "expected": "老公我先写作业嘞喎。"
+    },
+    {
+        "transcription": "多少都要注意些",
+        "expected": "多少都系要注意啲！"
+    },
+    {
+        "transcription": "我沒有上晚節集沒有享受到啊不好感冒了",
+        "expected": "我冇上晚自习，冇享受到啊，唔好感冒啦！"
+    },
+    {
+        "transcription": "明天早上十點叫我就行啦",
+        "expected": "听朝十点叫我就得啦。"
+    },
+    {
+        "transcription": "嗯,好,饭吧,晚安。",
+        "expected": "嗯，好，瞓吧，晚安！"
+    },
+    {
+        "transcription": "你們在扭什麼?停了這麼多消防車",
+        "expected": "你哋楼做乜嘢啊？停咗咁多消防车嘅？"
+    },
+    {
+        "transcription": "回家看看,我都五年沒回家了",
+        "expected": "翻屋企睇睇，我都五年冇翻过屋企啦！"
+    },
+    {
+        "transcription": "嗯,好啊,你自己也注意多些吧",
+        "expected": "嗯好啊，你自己都注意多啲啦。"
+    },
+    {
+        "transcription": "你明天早上可以碰見徐鵬嗎?",
+        "expected": "你听日早上可以碰见徐盼吗？"
+    },
+    {
+        "transcription": "小博啊,我們這邊的星星好美啊",
+        "expected": "小博啊，我哋呢边嘅星星好靓啊。"
+    },
+    {
+        "transcription": "好心馬,沒小偷就繼續睡吧,呵呵",
+        "expected": "好心嘛，冇小偷就继续瞓啦，呵呵。"
+    },
+    {
+        "transcription": "你睡吧,我等一下再睡",
+        "expected": "你瞓啦，我等阵再瞓。"
+    },
+    {
+        "transcription": "什麼事都不要想了,大冷床,晚安!",
+        "expected": "乜嘢事都唔好谂啦，大懒虫晚安！"
+    },
+    {
+        "transcription": "我們就和平分手吧,你也不要再威脅我了",
+        "expected": "我哋就和平分手啦，你都唔好再威胁我啦！"
+    },
+    {
+        "transcription": "嗯,我知道,我明白",
+        "expected": "嗯，我知，我明。"
+    },
+    {
+        "transcription": "不是吧,我是良民,我很來向的。",
+        "expected": "不是吧，我是梁民，我很内向的。"
+    },
+    {
+        "transcription": "嗯 你什麼時候來的?",
+        "expected": "嗯，你咩时候嚟啊？"
+    },
+    {
+        "transcription": "你也早點睡吧,想你",
+        "expected": "你都早啲瞓谂你。"
+    },
+    {
+        "transcription": "如果太累,老婆就睡覺吧",
+        "expected": "老婆如果特别攰老婆就瞓觉啦。"
+    },
+    {
+        "transcription": "我一直都很相信的,因為他選得很準的。",
+        "expected": "我一直都好信噶因为佢算得好准噶！"
+    },
+    {
+        "transcription": "你要是方便,我可以给你打个电话说几句吗?",
+        "expected": "你要是方便我可以俾你打个电话讲几句吗？"
+    },
+    {
+        "transcription": "你還沒睡嗎?老婆,我很想念你",
+        "expected": "你仲未瞓啊老婆，我好挂住你啊。"
+    },
+    {
+        "transcription": "笨蛋老婆,做什麼?掛著我沒有?",
+        "expected": "笨蛋老婆做咩啊？挂住我未啊？"
+    },
+    {
+        "transcription": "乖乖老婆,這樣才像我的乖乖寶貝嗎?",
+        "expected": "乖乖老婆，咁样先似我嘅乖乖宝贝啊嘛。"
+    },
+    {
+        "transcription": "我是何丹,你去不去呀?",
+        "expected": "我系何丹，你去唔去啊？"
+    },
+    {
+        "transcription": "你睡了嗎?我打電話過去",
+        "expected": "你瞓咗未啊？我打电话过去。"
+    },
+    {
+        "transcription": "我還在路上,你睡吧,乖,聽話,晚安。",
+        "expected": "我仲喺路上，你瞓吧，乖，听话，晚安。"
+    },
+    {
+        "transcription": "現在回到宿舍了嗎?",
+        "expected": "翻到宿舍未啊而家？"
+    },
+    {
+        "transcription": "睡了嗎?今天很忙是不是?不要回我訊息",
+        "expected": "瞓咗未啊？今日好忙系咪？冇回我信息。"
+    },
+    {
+        "transcription": "一年了,我們好厲害呀!",
+        "expected": "一年啦我哋好犀利啊。"
+    },
+    {
+        "transcription": "怎樣下線呀?我到家了,吃點東西",
+        "expected": "点样下线啊？我到屋企啦，吃啲嘢。"
+    },
+    {
+        "transcription": "沒有啊,今天是星期四",
+        "expected": "冇啊，咁就星期四啊。"
+    },
+    {
+        "transcription": "你現在有點忙嗎?",
+        "expected": "你而家有啲忙咩？"
+    },
+    {
+        "transcription": "兄弟快點啊,幹什麼啊?",
+        "expected": "兄弟快啲啊，做咩嘢啊！"
+    },
+    {
+        "transcription": "我明天買票21號走你的票我買了",
+        "expected": "我听日买票，二十一号走，你嘅票我买咗啦。"
+    },
+    {
+        "transcription": "夏天過去不想做了,再說吧",
+        "expected": "夏天过去唔想做嘞再讲嘞。"
+    },
+    {
+        "transcription": "你今天是不是發生生氣?我看你好像不太開心",
+        "expected": "你今日系唔系发嬲啊？我睇你好似唔系好开心？"
+    },
+    {
+        "transcription": "睡覺時的錢碗要關好,知不知道?",
+        "expected": "瞓觉嗰阵前门啊，嗰啲乜嘢要关好啊，知唔知啊？"
+    },
+    {
+        "transcription": "骗人?那你钱包里面是什么?",
+        "expected": "呃人，咁你钱包入面系乜嘢嚟噶？"
+    },
+    {
+        "transcription": "你做什麼?不睡覺嗎?",
+        "expected": "你做咩啊，唔瞓觉啦咩。"
+    },
+    {
+        "transcription": "怎樣?你不是要跟我談嗎?",
+        "expected": "点啊，你唔系要同我倾嘅咩？"
+    },
+    {
+        "transcription": "如果你不出来",
+        "expected": "如果你唔好出嚟！"
+    },
+    {
+        "transcription": "受傷了肯定老實",
+        "expected": "受伤啦肯定老实啦！"
+    },
+    {
+        "transcription": "你做什麼?是不是生氣了?",
+        "expected": "你做咩啦？系咪嬲啦？"
+    },
+    {
+        "transcription": "我想做的事,誰都阻止不了",
+        "expected": "我想做嘅嘢边个都阻止唔到！"
+    },
+    {
+        "transcription": "你要我拿我媽手機有什麼事說呀",
+        "expected": "你要我攞我妈手机有咩事讲啊？"
+    },
+    {
+        "transcription": "明天再說在那裡上班",
+        "expected": "听日再讲喺嗰度上班！"
+    },
+    {
+        "transcription": "我哪做錯了?你跟我說吧,老婆。",
+        "expected": "我边度做错咗啊你同我讲啊老婆。"
+    },
+    {
+        "transcription": "我在這裡和我宿舍的人聊天然後等著關燈",
+        "expected": "我喺度同我宿舍嘅人倾偈，跟住等住熄灯。"
+    },
+    {
+        "transcription": "就是啊,我整天想都是你的影",
+        "expected": "就系啊，我唔成脑都系你嘅影。"
+    },
+    {
+        "transcription": "哦,七點掛,早點休息,祝你做個好夢。",
+        "expected": "哦，七点啩，早啲休息祝你做个好梦。"
+    },
+    {
+        "transcription": "沒有啊,今天是第一次,真的睡不著",
+        "expected": "冇啊，今日系第一次，真系瞓唔着。"
+    },
+    {
+        "transcription": "你說什麼?他說什麼?",
+        "expected": "你讲咩啊佢讲咩啊？"
+    },
+    {
+        "transcription": "你在這裡做什麼?回個短信吧!",
+        "expected": "你喺度做咩啊？复个短信啦。"
+    },
+    {
+        "transcription": "你上次給我說的不是這個地址",
+        "expected": "你上次俾我讲嘅唔系呢个地址啊。"
+    },
+    {
+        "transcription": "那我睡覺了,你也早點休息吧",
+        "expected": "嗯，咁我瞓觉啦，你都早啲休息啦。"
+    },
+    {
+        "transcription": "月底,我去阿勒泰学习去了。",
+        "expected": "月底我去阿勒泰学习去啦！"
+    },
+    {
+        "transcription": "同志們,現在是機會來了",
+        "expected": "同志们，而家机会嚟啦。"
+    },
+    {
+        "transcription": "嗯,就是要考試了,好心急啊。",
+        "expected": "嗯就系要考试啦好心急啊。"
+    },
+    {
+        "transcription": "嗯,知道了,老婆,愛你",
+        "expected": "嗯，知啦，老婆爱你。"
+    },
+    {
+        "transcription": "你也是我愛你的寶貝",
+        "expected": "你都系我爱你宝贝。"
+    },
+    {
+        "transcription": "好,那等我下班之後吧,好不好?",
+        "expected": "好，咁等我落班之后啦，好唔好？"
+    },
+    {
+        "transcription": "快出來了",
+        "expected": "咁就系快出嚟啦！"
+    },
+    {
+        "transcription": "他答應不會再犯,還有下次就會自己離開。",
+        "expected": "佢应承唔会再犯噶，仲有下次就会自己离开！"
+    },
+    {
+        "transcription": "就對了,你做不做四路",
+        "expected": "答啱啦，你做唔做四路。"
+    },
+    {
+        "transcription": "你到家門口給我發訊息,我給你開門",
+        "expected": "你到屋企门口俾我发信息，我俾你开门！"
+    },
+    {
+        "transcription": "老公快點洗腳",
+        "expected": "老公快啲嚟洗脚。"
+    },
+    {
+        "transcription": "你睡吧,我明天早點起",
+        "expected": "你瞓啦，我听日早啲起。"
+    },
+    {
+        "transcription": "你們為什麼這麼晚才下課?",
+        "expected": "你哋点解咁夜先落课啊？"
+    },
+    {
+        "transcription": "親愛的,你在做什麼?",
+        "expected": "亲爱嘅！你喺度做咩啊？"
+    },
+    {
+        "transcription": "你想急死人嗎?不要這樣,求你",
+        "expected": "你想急死人啊？唔好咁啦求你。"
+    },
+    {
+        "transcription": "有什麼可以不說出來的?說說吧",
+        "expected": "有咩可以唔讲出嚟嘅，形容一下啦？"
+    },
+    {
+        "transcription": "媽媽,回來給我帶個冰的水。",
+        "expected": "妈妈翻嚟俾我带个冰嘅水。"
+    },
+    {
+        "transcription": "你就不可以告訴我嗎?我不會生氣的",
+        "expected": "你就唔可以话俾我知咩？我唔会嬲噶。"
+    },
+    {
+        "transcription": "馬上就快了",
+        "expected": "马上！就快嘞！"
+    },
+    {
+        "transcription": "你妈妈好好地活着呢?",
+        "expected": "你嫲嫲好好咁活着咧？"
+    },
+    {
+        "transcription": "就是做夢中出現的你,還是你",
+        "expected": "就系发梦梦中出现嘅你仲系你。"
+    },
+    {
+        "transcription": "祝你事事順利,天天都開心",
+        "expected": "祝你事事顺利，日日都开心！"
+    },
+    {
+        "transcription": "那就好了,多煮,快點睡吧",
+        "expected": "咁就好啦，多注意啊，快啲瞓啦，晚安。"
+    },
+    {
+        "transcription": "哈哈,零的技術還可以呀",
+        "expected": "哈哈零嘅技术还可以啊。"
+    },
+    {
+        "transcription": "我發現現在開始在乎你了",
+        "expected": "我发现依家开始在乎你啊。"
+    },
+    {
+        "transcription": "親愛的波波,生日快樂,一定要幸福呀!",
+        "expected": "亲爱嘅波波，生日快乐！一定要幸福啊！"
+    },
+    {
+        "transcription": "我真的後悔要他來,真的不想在一起了。",
+        "expected": "我真系后悔要佢嚟，真系唔想喺一齐啦。"
+    },
+    {
+        "transcription": "他們在忙自己的事,不要打架",
+        "expected": "佢哋忙紧自己嘅事，唔好打搅。"
+    },
+    {
+        "transcription": "我現在在辦公室打字",
+        "expected": "我而家喺办公室打字。"
+    },
+    {
+        "transcription": "我真的睡了,好不好?",
+        "expected": "我真系瞓咗啊好唔好。"
+    },
+    {
+        "transcription": "你要對我說出你心裡的那句",
+        "expected": "你要对我讲出你心入边嗰句！"
+    },
+    {
+        "transcription": "明白什麼?你說到我都糊塗了",
+        "expected": "明白咩啊？你讲到我都糊涂咗啦。"
+    },
+    {
+        "transcription": "沒有人,都在洗衣服",
+        "expected": "冇人，都喺度洗衫！"
+    },
+    {
+        "transcription": "你自己知道嗎?",
+        "expected": "你自己知咩？"
+    },
+    {
+        "transcription": "只是我很忙,現在忙完了,好累",
+        "expected": "只系我好忙，而家忙完啦，好攰。"
+    },
+    {
+        "transcription": "放100克的芯片",
+        "expected": "放一百个心嘞，瞓啦！"
+    },
+    {
+        "transcription": "還要小心點皮毛多,呵呵。",
+        "expected": "仲要小心啲个皮帽多呵呵。"
+    },
+    {
+        "transcription": "嗯,好好玩,路上小心",
+        "expected": "嗯，好好玩，路上小心！"
+    },
+    {
+        "transcription": "趁我們今晚心情特別不好,別打了,睡覺吧",
+        "expected": "亲爱的今晚心情特别唔好，唔好打啦，瞓觉啊。"
+    },
+    {
+        "transcription": "阿嫂叫謝哥給我回電話",
+        "expected": "阿嫂叫谢哥同我复电话。"
+    },
+    {
+        "transcription": "我收拾不了你,以後讓你老婆收拾你吧",
+        "expected": "我收拾唔到你，以后等你老婆收拾你去！"
+    },
+    {
+        "transcription": "好吧,親愛的老婆,你睏不睏?",
+        "expected": "好啦！亲爱嘅老婆，你眼唔眼瞓啊？"
+    },
+    {
+        "transcription": "我抱著很舒服",
+        "expected": "我揽住好舒服啊！"
+    },
+    {
+        "transcription": "哈哈,今天睡得不好了吧?",
+        "expected": "哈哈今日瞓得唔好啦啩！"
+    },
+    {
+        "transcription": "如果不想讓我用車,我可不可以呢?",
+        "expected": "如果唔想俾用车我可唔可以咧？"
+    },
+    {
+        "transcription": "嗯嗯,我說為什麼又不理我了",
+        "expected": "嗯嗯我话点解又唔理我啊？"
+    },
+    {
+        "transcription": "嗯,就那個高高的瘦瘦的那個男生吧",
+        "expected": "嗯就嗰个高高地瘦瘦地嗰个男仔啦。"
+    },
+    {
+        "transcription": "你這樣說,就是對自己沒信心",
+        "expected": "你咁样讲即系对自己冇信心啫。"
+    },
+    {
+        "transcription": "我點的感覺是你不想和我說話",
+        "expected": "我点解感觉系你唔想同我讲嘢啦。"
+    },
+    {
+        "transcription": "如果想睡,你就睡吧",
+        "expected": "如果想瞓啦你就瞓嘞！"
+    },
+    {
+        "transcription": "醒醒吧,你現在在白道玩",
+        "expected": "醒起啦，你而家喺百度玩。"
+    },
+    {
+        "transcription": "沒有,你差點嚇死我",
+        "expected": "冇。你争啲吓死我。"
+    },
+    {
+        "transcription": "我覺得很不好意思,所以說不出來",
+        "expected": "我觉得好唔好意思，所以讲唔出嚟。"
+    },
+    {
+        "transcription": "這幾天上山看陽光,今天才回來",
+        "expected": "呢几日上山睇羊去啦今日先翻嚟。"
+    },
+    {
+        "transcription": "啊哈,這麼晚了,還不休息?",
+        "expected": "啊吓，咁夜啦，仲唔休息啊。"
+    },
+    {
+        "transcription": "我在這裡打電話,你給小發訊息。",
+        "expected": "我喺度打电话，你俾小发信息。"
+    },
+    {
+        "transcription": "哈哈,你跟我聯絡不方便嗎?",
+        "expected": "呵呵，你同我联络唔方便吗？"
+    },
+    {
+        "transcription": "我買了,已經沖了",
+        "expected": "我买咗啦，已经充咗啦。"
+    },
+    {
+        "transcription": "還說明了你把我當作自己人體",
+        "expected": "仲讲明咗你将我当自己人睇。"
+    },
+    {
+        "transcription": "老匙羹到我家了",
+        "expected": "老匙羹到我屋企啦。"
+    },
+    {
+        "transcription": "想念你的臉可以嗎?",
+        "expected": "挂住你那嗰张面得唔得啊！"
+    },
+    {
+        "transcription": "如果真的這樣,那就太好了",
+        "expected": "如果真系咁，咁就太好啦！"
+    },
+    {
+        "transcription": "要找我有什麼不可以說的",
+        "expected": "要搵我有咩唔可以讲噶？"
+    },
+    {
+        "transcription": "啊? 多少? 什麼時候?",
+        "expected": "啊？几多？咩时候？"
+    },
+    {
+        "transcription": "那你就答應他吧?",
+        "expected": "咁你就应承佢嘞咩？"
+    },
+    {
+        "transcription": "呵呵,這就是肯定的啦!",
+        "expected": "呵呵，咁就系肯定噶啦。"
+    },
+    {
+        "transcription": "你好,你睡了嗎?",
+        "expected": "你好，你瞓咗未。"
+    },
+    {
+        "transcription": "我說他不願意現在在公安局上班",
+        "expected": "我话佢唔愿意，而家喺公安局上班啊。"
+    },
+    {
+        "transcription": "還在回味前兩天",
+        "expected": "仲喺度回味紧前两日啊？"
+    },
+    {
+        "transcription": "你難道沒有發現我的變化嗎?",
+        "expected": "你唔通冇发现我嘅变化咩？"
+    },
+    {
+        "transcription": "第一次主動發短信給我",
+        "expected": "第一次主动发短信俾我。"
+    },
+    {
+        "transcription": "我們都是心太軟這樣不好",
+        "expected": "我哋都系心太软，咁样唔好！"
+    },
+    {
+        "transcription": "剛剛洗完澡睡在床上,你睡不著嗎?",
+        "expected": "啱洗完面瞓喺床上，你瞓唔着啊？"
+    },
+    {
+        "transcription": "做什麼不接我電話?",
+        "expected": "做咩唔接我电话？"
+    },
+    {
+        "transcription": "好了好了 你又來了",
+        "expected": "好啦，好啦，你又嚟啦！"
+    },
+    {
+        "transcription": "我们可以交朋友吗?",
+        "expected": "我们可以交朋友吗？"
+    },
+    {
+        "transcription": "不睏睡,想念你了嗎?",
+        "expected": "唔眼瞓挂住你嘞咩？嘻嘻。"
+    },
+    {
+        "transcription": "我現在也沒多少錢了,可能借不到給你",
+        "expected": "我依家都冇几多钱啊，可能借唔到俾你！"
+    },
+    {
+        "transcription": "那你就去找他們吧",
+        "expected": "咁你就去搵佢哋咯。"
+    },
+    {
+        "transcription": "我從朋友那裡打聽到的",
+        "expected": "我从朋友嗰度打听到嘅。"
+    },
+    {
+        "transcription": "不是說最近又胖了嗎?為什麼敢吃飯?",
+        "expected": "唔系话最近又肥咗咩？点解咁食饭啊？"
+    },
+    {
+        "transcription": "為什麼我覺得想嘔吐呢?",
+        "expected": "点解我觉得想呕咧？"
+    },
+    {
+        "transcription": "辛苦你了,不過好可愛喔",
+        "expected": "辛苦你啦，不过好可爱喎。"
+    },
+    {
+        "transcription": "到我還差一點就忙完了",
+        "expected": "到！我仲差一啲就忙完啦。"
+    },
+    {
+        "transcription": "昨天沒睡好,你做什麼?",
+        "expected": "琴日冇瞓好啊！你做咩啊。"
+    },
+    {
+        "transcription": "好了,你快睡吧",
+        "expected": "好啦，你快啲瞓啦。"
+    },
+    {
+        "transcription": "那就讓我們陪你一起吃西瓜吧",
+        "expected": "咁就等我哋陪你一齐食西瓜啦。"
+    },
+    {
+        "transcription": "週末你穿超短裙啊?",
+        "expected": "周末你着超短裙啊？"
+    },
+    {
+        "transcription": "但事情太突然了,沒跟你商量。",
+        "expected": "但事情太突然啦，冇同你商量。"
+    },
+    {
+        "transcription": "等我好了好好陪你好嗎",
+        "expected": "等我好咗好好陪你好吗？"
+    },
+    {
+        "transcription": "是不是很忙啊?還在上網啊?",
+        "expected": "系咪好忙啊，仲喺度上网啊。"
+    },
+    {
+        "transcription": "多注意安全多休息不要太累",
+        "expected": "多注意安全，多休息，唔好太攰啦。"
+    },
+    {
+        "transcription": "今天不打算回來了嗎?",
+        "expected": "今日唔打算翻嚟啦咩？"
+    },
+    {
+        "transcription": "好啦,知道啦,我知道啦,多謝啊。",
+        "expected": "好啦知啦我知啦多谢啊！"
+    },
+    {
+        "transcription": "相信你不會連累",
+        "expected": "相信你唔会乱嚟！"
+    },
+    {
+        "transcription": "哥你好啊,這麼晚了,你在哪裡?",
+        "expected": "哥你好啊，咁夜你喺边啊。"
+    },
+    {
+        "transcription": "何時可以回來?早的話我等你",
+        "expected": "几时可以翻嚟啊？早嘅话我等你。"
+    },
+    {
+        "transcription": "看到了嗎?是肉嗎?",
+        "expected": "睇到未啊？系玉咩？"
+    },
+    {
+        "transcription": "剛剛睡,回去休息吧,不要累壞身體",
+        "expected": "啱啱瞓，翻去休息啦，唔好攰亲个身体啊。"
+    },
+    {
+        "transcription": "等我一會兒不小心斷掉",
+        "expected": "等我一阵，唔小心断掉啦。"
+    },
+    {
+        "transcription": "睡觉了吗?祝你有个好梦,晚安!",
+        "expected": "瞓觉未啊，祝你有个好梦，晚安。"
+    },
+    {
+        "transcription": "睡了啦,你剛回來,老婆",
+        "expected": "瞓咗啦！你啱翻嚟，老婆。"
+    },
+    {
+        "transcription": "今天太晚了,明天還要上班,等周末去好不好?",
+        "expected": "今日太夜啦，听日仲要上班，等周末去好唔好？"
+    },
+    {
+        "transcription": "現在為什麼會變成這樣呢?",
+        "expected": "而家点解会变成咁样啊？"
+    },
+    {
+        "transcription": "現在到哪了?早點休息,不要上網了",
+        "expected": "而家到边度啦，早啲休息，唔好上网啦。"
+    },
+    {
+        "transcription": "鬼仙信呢?你是我什麼人呀?",
+        "expected": "鬼先信咧，你系我乜嘢人啊？"
+    },
+    {
+        "transcription": "你的一會兒連半個小時都沒有了",
+        "expected": "你嘅一阵连半个钟都冇啊！"
+    },
+    {
+        "transcription": "睡吧,自己保重好,我掛住你",
+        "expected": "瞓觉啦，自己保重好，我挂住你。"
+    },
+    {
+        "transcription": "我睡著了,等睡醒再說吧",
+        "expected": "我瞓着咗啦，等瞓醒再讲啦。"
+    },
+    {
+        "transcription": "明天的太阳还是鲜红的",
+        "expected": "听日嘅太阳仲系鲜红噶。"
+    },
+    {
+        "transcription": "我玩的話就自己弄",
+        "expected": "我玩嘅话就自己整。"
+    },
+    {
+        "transcription": "我的家人怎可能一陣就好啊",
+        "expected": "我嘅佳人，点可能一阵就好啊！"
+    },
+    {
+        "transcription": "非要看到我痛苦的樣子你才安心嗎?",
+        "expected": "非要睇到我痛苦嘅样你先安心咩？"
+    },
+    {
+        "transcription": "我為什麼口甜舌滑? 經常不相信我",
+        "expected": "我点解口甜舌滑啊，成日唔信我。"
+    },
+    {
+        "transcription": "剛剛那件又跟我說了拿了不好弄得",
+        "expected": "刚刚郭建又同我讲啦，攞咗唔好整得。"
+    },
+    {
+        "transcription": "我们都会有美好的明天",
+        "expected": "我哋都会有美好嘅明天。"
+    },
+    {
+        "transcription": "是啊,你的小事寫完沒有?",
+        "expected": "系啊你嘅小说写完未啊？"
+    },
+    {
+        "transcription": "你一個人在睡嗎?",
+        "expected": "你一个人喺瞓啊？"
+    },
+    {
+        "transcription": "哈哈,看電視呀,老公你明天要不要工作呀?",
+        "expected": "呵呵。睇电视啊！老公你听日使唔使做嘢啊？"
+    },
+    {
+        "transcription": "你家裡有很多工作嗎?",
+        "expected": "你屋企地多嘢做么？"
+    },
+    {
+        "transcription": "但我想像過你是個完美的王子",
+        "expected": "但系我想象过你系个如此完美嘅王子！"
+    },
+    {
+        "transcription": "你可不可以好好地回答一个问题?",
+        "expected": "你可唔可以好好哋回答一个问题啊？"
+    },
+    {
+        "transcription": "有攝像頭就可以?",
+        "expected": "有摄像头就可以？"
+    },
+    {
+        "transcription": "還在懷疑我喜歡不喜歡你",
+        "expected": "仲喺度怀疑紧我中唔中意你啊？"
+    },
+    {
+        "transcription": "我和你說過的,你不記得?",
+        "expected": "我同你讲过噶？你唔记得？"
+    },
+    {
+        "transcription": "那里就可以好多爸妈?真的?睡觉了吗?",
+        "expected": "那你就可以好多吧吗？真嘅，瞓低未啊。"
+    },
+    {
+        "transcription": "你至於用這種口氣跟我說話嗎?",
+        "expected": "你至于用呢种口气同我讲嘢咩？"
+    },
+    {
+        "transcription": "這次回去我做很多事",
+        "expected": "今次翻去我做好多嘢啊！"
+    },
+    {
+        "transcription": "我們睡覺了,晚安。",
+        "expected": "我哋瞓觉啦晚安！"
+    },
+    {
+        "transcription": "我買了很多東西吃",
+        "expected": "我买咗好多嘢食。"
+    },
+    {
+        "transcription": "是否晚睡了?我想睡了,我的眼睛都睜不開了。",
+        "expected": "眼唔眼瞓啊？我想瞓啦，我只眼都擘唔开啊。"
+    },
+    {
+        "transcription": "我不为难你 你是你 自由",
+        "expected": "我唔为难你，你系你自由。"
+    },
+    {
+        "transcription": "不准睡,我想跟你聊天",
+        "expected": "唔准瞓，我想同你倾偈。"
+    },
+    {
+        "transcription": "我靠你什麼意思?",
+        "expected": "我靠，你乜嘢意思？"
+    },
+    {
+        "transcription": "我在外面等你,很冷,老婆",
+        "expected": "我喺出便等紧你啊，好冻啊老婆。"
+    },
+    {
+        "transcription": "我現在打電話給你,可以嗎?",
+        "expected": "我依家打电话俾你可唔可以啊。"
+    },
+    {
+        "transcription": "猪,你明天早上回来吗?",
+        "expected": "猪，你明天早上翻嚟吗？"
+    },
+    {
+        "transcription": "唉,看來我還是多此一舉",
+        "expected": "唉睇嚟我都系多此一举啊！"
+    },
+    {
+        "transcription": "你一定要转发因为我要你幸福一世",
+        "expected": "你一定要转发因为我要你幸福一世。"
+    },
+    {
+        "transcription": "不是跟你說了叫你老實交代嗎?",
+        "expected": "唔系同你讲咗叫你老实交代咩？"
+    },
+    {
+        "transcription": "回家打電話給我,不要忘記了",
+        "expected": "翻嚟打电话俾我，唔好唔记得啦。"
+    },
+    {
+        "transcription": "你為什麼不睡覺?",
+        "expected": "唓，你做咩仲唔瞓觉？"
+    },
+    {
+        "transcription": "怎樣?不想理我?知道了,有關機",
+        "expected": "点啊？唔想理我啊，知道啦，又关机！"
+    },
+    {
+        "transcription": " Uổng, nên xác minh là lệ",
+        "expected": "晕你失眠啊你？"
+    },
+    {
+        "transcription": "心快樂健康好不好?",
+        "expected": "心，快乐健康，好唔好？"
+    },
+    {
+        "transcription": "我現在很煩,不知道還要不要複讀",
+        "expected": "我而家好烦啊，真系唔知仲要唔要复读啊。"
+    },
+    {
+        "transcription": "今天找了我很久嗎?",
+        "expected": "今日搵咗我好耐咩。"
+    },
+    {
+        "transcription": "那你小心點啦,我是要放開追你啦",
+        "expected": "咁你要小心啲啊，我系要放开咁追你啦！"
+    },
+    {
+        "transcription": "我想給我最愛的人點首歌類似愛情",
+        "expected": "我想俾我最爱嘅人点首歌类似爱情！"
+    },
+    {
+        "transcription": "好,等我啊,不知為何我心裡很難受",
+        "expected": "嗯，好，等我喎，唔知点解我心入面好难受。"
+    },
+    {
+        "transcription": "你也要夢到我呀",
+        "expected": "你也是要梦到我啊！"
+    },
+    {
+        "transcription": "等一會還要洗衣服",
+        "expected": "等阵仲要洗衫添。"
+    },
+    {
+        "transcription": "所以不能熬太晚",
+        "expected": "所以唔可以捱得太夜啊。"
+    },
+    {
+        "transcription": "好好睡吧,發覺好夢",
+        "expected": "好好哋瞓吧！发个好梦。"
+    },
+    {
+        "transcription": "不情願就算了,我不勉強。",
+        "expected": "唔情愿就算啦，我唔勉强。"
+    },
+    {
+        "transcription": "不要罵我,可以嗎?你開心就可以了",
+        "expected": "唔好闹我得唔得，你开心就得啦。"
+    },
+    {
+        "transcription": "答應我,不要跟他說我跟你說了這些",
+        "expected": "应承我唔好同佢讲我同你讲咗呢啲嘢！"
+    },
+    {
+        "transcription": "我先睡了 你也快點來吧",
+        "expected": "我瞓先嘞喎，你都快啲嚟啊！"
+    },
+    {
+        "transcription": "親愛的,我剛剛回來,你睡覺了嗎?我掛著你",
+        "expected": "亲爱的我啱啱翻嚟，你瞓觉未啊？挂住你。"
+    },
+    {
+        "transcription": "我不想回家了,他還在那裡吃飯",
+        "expected": "我唔想翻屋企嘞，呢阵佢仲喺度食饭吧？"
+    },
+    {
+        "transcription": "或者是我太愛笑了吧?",
+        "expected": "或者系我太爱笑啦吧！"
+    },
+    {
+        "transcription": "我就被你罰罪",
+        "expected": "我就俾你发咋。"
+    },
+    {
+        "transcription": "你怎樣?感覺不對",
+        "expected": "你点啊，感觉唔啱。"
+    },
+    {
+        "transcription": "今天為甚麼這麼早就睡覺了?",
+        "expected": "今日做乜咁早就瞓啦？"
+    },
+    {
+        "transcription": "這麼晚了,你在哪裡?在做什麼?",
+        "expected": "咁夜喺边啊，做紧咩啊？"
+    },
+    {
+        "transcription": "你選馬愛的杜大叔?",
+        "expected": "你敢吗我嘅杜大叔？"
+    },
+    {
+        "transcription": "呵呵,覺不覺得我蠢的時候好可愛呀?",
+        "expected": "呵呵，觉唔觉得我蠢嘅时候好可爱啊。"
+    },
+    {
+        "transcription": "你真可笑,不知道給我的信息嗎?",
+        "expected": "你真系可笑唔知道俾我个信息嘅咩。"
+    },
+    {
+        "transcription": "老公,我睡了,你也早點休息。",
+        "expected": "老公我瞓啦，你都早啲休息哦。"
+    },
+    {
+        "transcription": "等我們的家裡弄好了我就把它弄得香噴噴的",
+        "expected": "嗯等我哋嘅屋企搞好啦我就将佢搞得香喷喷嘅。"
+    },
+    {
+        "transcription": "那不停找他的情機,那你好好地陪他吧",
+        "expected": "咁唔停搵佢嘅停机，咁你好好地陪佢啦。"
+    },
+    {
+        "transcription": "既然撞到了就要抓住機會,不要錯過",
+        "expected": "既然撞到咗就要捉住机会！唔好错过啊！"
+    },
+    {
+        "transcription": "你們去刷牙吧,一會兒讓我來",
+        "expected": "咁你哋去擦牙啦，一阵俾我发啦。"
+    },
+    {
+        "transcription": "你在那邊點啊有時間就給我回覆訊息",
+        "expected": "你喺嗰边点啊，有时间就同我复信息。"
+    },
+    {
+        "transcription": "你在哪?為什麼還不回家?",
+        "expected": "你喺边啊点解仲唔翻屋企？"
+    },
+    {
+        "transcription": "我相信你看到了",
+        "expected": "我相信你睇到啦！"
+    },
+    {
+        "transcription": "那你讓我說什麼好工作的事,不過沒事",
+        "expected": "咁你俾我讲咩好，工作嘅事，不过冇事。"
+    },
+    {
+        "transcription": "那就好,我很擔心",
+        "expected": "咁就好，我好担心啊！"
+    },
+    {
+        "transcription": "想 經常想起我們的過去",
+        "expected": "谂，成日谂起我哋嘅过去。"
+    },
+    {
+        "transcription": "我尊重你的決定",
+        "expected": "我尊重你嘅决定！"
+    },
+    {
+        "transcription": "沒有就跟李牧有聯繫",
+        "expected": "冇就同阿里木有联系。"
+    },
+    {
+        "transcription": "可能半個月我睏了",
+        "expected": "可能半个月，唉，我眼瞓啦。"
+    },
+    {
+        "transcription": "而我就因為這樣哭了很多天",
+        "expected": "而我就因为咁，喊咗好多日。"
+    },
+    {
+        "transcription": "我打房間電話給你陪你",
+        "expected": "我打房间电话俾你陪你啊。"
+    },
+    {
+        "transcription": "嗯,好吧,你還傻啊,是不是?",
+        "expected": "嗯，好啦，你仲傻啊，系咪啊。"
+    },
+    {
+        "transcription": "打完了,早點睡吧,我也睡了,掛著你。",
+        "expected": "打完啦早啲瞓啦我都瞓啦挂住你。"
+    },
+    {
+        "transcription": "那你早點休息吧,我忙了",
+        "expected": "咁你早啲休息啦，我忙啦！"
+    },
+    {
+        "transcription": "老公,今日石河只好似有六級地震。",
+        "expected": "老公，今晚石河子好似有六级地震。"
+    },
+    {
+        "transcription": "你有什麼安排?",
+        "expected": "你有咩安排啊？"
+    },
+    {
+        "transcription": "我努力讓自己睡覺",
+        "expected": "哦，我努力让自己瞓！"
+    },
+    {
+        "transcription": "沒睡,你在這裡做什麼?睡了嗎?",
+        "expected": "冇瞓，你喺度做咩啊？瞓咗未啊？"
+    },
+    {
+        "transcription": "你是誰?有事嗎?",
+        "expected": "你是边个啊有事咩？"
+    },
+    {
+        "transcription": "好,睡吧,太晚了,祝你發個好夢",
+        "expected": "好好瞓啦！太夜啦！祝你发个好梦！"
+    },
+    {
+        "transcription": "那你是不是不想要我?",
+        "expected": "咁你系咪唔要我啦。"
+    },
+    {
+        "transcription": "沒法啦,睡啦,晚安。",
+        "expected": "唔好发啦！瞓啦！晚安！"
+    },
+    {
+        "transcription": "你問就用飛佬鎖匙不就行了?",
+        "expected": "你问郑菲攞锁匙咪得咯。"
+    },
+    {
+        "transcription": "那你們去哪裡吃?",
+        "expected": "咁你哋去边度食啊？"
+    },
+    {
+        "transcription": "我們11點下班",
+        "expected": "我哋十一点落班。"
+    },
+    {
+        "transcription": "你在這裡做什麼?說真話?",
+        "expected": "你喺度做咩，讲真话。"
+    },
+    {
+        "transcription": "你說這個是不是真愛呀?",
+        "expected": "你话，呢个系唔系真爱啊？"
+    },
+    {
+        "transcription": "那些就叫做光榮",
+        "expected": "哈，嗰啲就叫做光荣。"
+    },
+    {
+        "transcription": "我明天過去給你交30元",
+        "expected": "我听日过去俾你交三十蚊。"
+    },
+    {
+        "transcription": "嗯,比試喜歡才能幸福。",
+        "expected": "嗯彼此喜欢先能够幸福！"
+    },
+    {
+        "transcription": "又說我,你上不到高中怎麼辦?",
+        "expected": "又话我，你上唔到高中点算？"
+    },
+    {
+        "transcription": "昨晚都沒有回我訊息的,呵呵",
+        "expected": "寻晚都冇复我信息的，呵呵。"
+    },
+    {
+        "transcription": "你要好好考試呀!",
+        "expected": "你要好好考试啊！"
+    },
+    {
+        "transcription": "那好好睡吧,不打電話了,快點好",
+        "expected": "咁好好瞓啦，唔打电话啦，快啲好！"
+    },
+    {
+        "transcription": "那你想叫什麼?",
+        "expected": "咁你想叫咩啊？"
+    },
+    {
+        "transcription": "看在我比較善良的份上就不收你學費了",
+        "expected": "睇在我比较善良嘅份上就唔收你学费啦！"
+    },
+    {
+        "transcription": "你讓他繼續努力吧,晚安",
+        "expected": "你俾佢继续努力啦，晚安。"
+    },
+    {
+        "transcription": "只是比以前少了還是我向你匯報",
+        "expected": "只是比以前少啦，还是我向你汇报啊。"
+    },
+    {
+        "transcription": "掛住你啦,睡不著,哈哈",
+        "expected": "挂住你嘞呗，瞓唔着哈哈。"
+    },
+    {
+        "transcription": "那我就猜,人我認識嗎?",
+        "expected": "咁我就估人我认识吗？"
+    },
+    {
+        "transcription": "呵呵,討厭老公,那你是不想好好地讓我嗎?",
+        "expected": "呵呵讨厌老公，咁你系唔想好好哋养我啊。"
+    },
+    {
+        "transcription": "哈哈,就是那個紋身套太小了,我想搞大一點",
+        "expected": "哈哈就系嗰个纹身图太细啦我想搞大啲。"
+    },
+    {
+        "transcription": "可以給我一點時間嗎?",
+        "expected": "可以俾我啲时间吗？"
+    },
+    {
+        "transcription": "很多人今天都走了回來了",
+        "expected": "好多人今日都走咗翻嚟啦！"
+    },
+    {
+        "transcription": "挂住了,黑暗睡了,睡覺了,晚安",
+        "expected": "挂住啦，瞌眼瞓啦，瞓觉啦，晚安。"
+    },
+    {
+        "transcription": "好像阿韜這樣的自我?什麼意思?",
+        "expected": "好似阿涛咁样嘅自我？咩意思啊？"
+    },
+    {
+        "transcription": "現在你已經進入夢想了",
+        "expected": "而家你已经进入梦乡啦！"
+    },
+    {
+        "transcription": "乖乖,你是個小壞蛋。",
+        "expected": "乖乖你系个小坏蛋！"
+    },
+    {
+        "transcription": "今晚我有很多话想跟你说",
+        "expected": "今晚我有好多话想同你讲。"
+    },
+    {
+        "transcription": "我睡覺了,你那邊沒泥",
+        "expected": "我瞓觉啦冇嚟啊你嗰度。"
+    },
+    {
+        "transcription": "哦 好的 知道了",
+        "expected": "哦，好嘅。知道啦。"
+    },
+    {
+        "transcription": "所以以後不要了麻煩了你了",
+        "expected": "所以以后唔好啦，麻烦咗你啦。"
+    },
+    {
+        "transcription": "你哪天真的有時間,我很期待",
+        "expected": "你边日真系有时间我好期待啊。"
+    },
+    {
+        "transcription": "嗯,我已經打了,問我的事",
+        "expected": "嗯，北京打噶，问我啲嘢。"
+    },
+    {
+        "transcription": "唉,這一切的一切都是為了甚麼呢?",
+        "expected": "唉呢一切嘅一切都是点解咧？"
+    },
+    {
+        "transcription": "丑哥 你还和兄弟这么客气",
+        "expected": "丑哥你仲同兄弟咁客气。"
+    },
+    {
+        "transcription": "其實我也很在乎大媽的",
+        "expected": "其实我都好在乎大妈嘅！"
+    },
+    {
+        "transcription": "那你現在在宿舍嗎?",
+        "expected": "咁你而家喺宿舍啊。"
+    },
+    {
+        "transcription": "喔,跟我打電話好不好?",
+        "expected": "哦，同我打电话好唔好？"
+    },
+    {
+        "transcription": "睡著了為什麼不說話?",
+        "expected": "瞓着咗啦？点解唔讲嘢啊？"
+    },
+    {
+        "transcription": "我不可憐的,會好的,很快就會好的",
+        "expected": "我唔可怜噶，会好噶，好快就会好噶。"
+    },
+    {
+        "transcription": "我在129,你不出去嗎?",
+        "expected": "我喺一二九你唔出去啦？"
+    },
+    {
+        "transcription": "張嘉敏是我我知道你在這裡,一定要回答我",
+        "expected": "张嘉敏系我，我知道你喺度，一定要回答我。"
+    },
+    {
+        "transcription": "你沒有收到我的短信嗎?",
+        "expected": "你冇收到我短信咩？"
+    },
+    {
+        "transcription": "那你明天照一個就行了",
+        "expected": "咁你听日照一个咪得咯！"
+    },
+    {
+        "transcription": "我知道啦,我知道不可以升章。",
+        "expected": "我知道啦，我知道唔可以声张。"
+    },
+    {
+        "transcription": "我不管,你就是和我站在一起,我也不會自卑的",
+        "expected": "我唔理，你就系同我企埋我都唔会自卑噶。"
+    },
+    {
+        "transcription": "看來你也想得挺遠的",
+        "expected": "睇嚟你都系谂得几远噶喎！"
+    },
+    {
+        "transcription": "這是不是你的愛好?",
+        "expected": "呢个系唔系你嘅爱好啊？"
+    },
+    {
+        "transcription": "現在搞不好,要你才行",
+        "expected": "自己搞唔掂，要你先得。"
+    },
+    {
+        "transcription": "好吧,老婆,晚安。",
+        "expected": "好啦老婆晚安唔啊。"
+    },
+    {
+        "transcription": "嗯,你也是,吃一口吧",
+        "expected": "嗯你都系锡啖啦。"
+    },
+    {
+        "transcription": "莎莎,你果然不知道,2點24早就過了。",
+        "expected": "唓唓哼，你果然唔知道，两点二十四早就过咗啦。"
+    },
+    {
+        "transcription": "我看多條短信了,好鬱悶呀",
+        "expected": "我，睇到条短信啦，好郁闷啊！"
+    },
+    {
+        "transcription": "你會找到比我更好的女孩子",
+        "expected": "你会搵到比我更好嘅女仔噶！"
+    },
+    {
+        "transcription": "我對你不溫柔嗎?",
+        "expected": "我对你唔温柔咩？"
+    },
+    {
+        "transcription": "不好意思,我剛才在忙",
+        "expected": "唔好意思啊，我头先喺忙紧。"
+    },
+    {
+        "transcription": "照統統那段朋友一樣",
+        "expected": "就同同你都系朋友一样！"
+    },
+    {
+        "transcription": "我去找你,要不要你來我宿舍吧?",
+        "expected": "我去搵你，要么你嚟我宿舍吧！"
+    },
+    {
+        "transcription": "哈哈,什麼都沒有,好,回家發訊息吧",
+        "expected": "呵呵乜都冇。好啦翻到屋企发信息啦。"
+    },
+    {
+        "transcription": "我也讓你親一口",
+        "expected": "我都俾你锡一啖。"
+    },
+    {
+        "transcription": "不是,這邊朋友叫了,日後再去吧",
+        "expected": "唔系，依边朋友叫咗！第日先去啦。"
+    },
+    {
+        "transcription": "沒有,我已經躺在床上了",
+        "expected": "冇，我已经瞓喺张床度啦！"
+    },
+    {
+        "transcription": "打电话没事,就挂着你们而已",
+        "expected": "打电话冇事，就挂住你哋啫。"
+    },
+    {
+        "transcription": "我就說我就喜歡你跟我生氣的時候殺你",
+        "expected": "我就话我就中意你同我嬲嗰阵时耍赖。"
+    },
+    {
+        "transcription": "想等你幫我出下主意",
+        "expected": "想俾你想等你帮我出下主意！"
+    },
+    {
+        "transcription": "你來不來呀?我鎖門呀",
+        "expected": "你嚟唔嚟啊，我锁门啦。"
+    },
+    {
+        "transcription": "我回不回我知道",
+        "expected": "我翻唔翻我知道。"
+    },
+    {
+        "transcription": "白天睡多了,晚上睡不著",
+        "expected": "白天瞓多咗晚上瞓唔着哦。"
+    },
+    {
+        "transcription": "我改了你的封面,你不介意吧?",
+        "expected": "我改咗你个封面，你唔介意啊吗？"
+    },
+    {
+        "transcription": "只是希望解开你的心结",
+        "expected": "只系希望解开你嘅心结！"
+    },
+    {
+        "transcription": "加起來總共12個人",
+        "expected": "加埋你总共十二个人。"
+    },
+    {
+        "transcription": "美女睡了嗎?可以聊聊天嗎?",
+        "expected": "靓女瞓觉未啊，可唔可以倾下偈啊。"
+    },
+    {
+        "transcription": "算了,我知道這件事的大小",
+        "expected": "算啦，我知道呢件事嘅大小。"
+    },
+    {
+        "transcription": "我今天什麼都沒說,自己的事不想說。",
+        "expected": "我今日咩都冇讲，自己嘅事唔想讲。"
+    },
+    {
+        "transcription": "休息吧,注意一點",
+        "expected": "嗯，休息啦，注意啲，么。"
+    },
+    {
+        "transcription": "我很想吃你的寶貝",
+        "expected": "我好想食你嘅宝贝。"
+    },
+    {
+        "transcription": "怎跟你做呀?你的事件又不是在我身上",
+        "expected": "点同你做啊？你嘅试卷又唔系喺我度？"
+    },
+    {
+        "transcription": "最近有些忙,沒照顧你",
+        "expected": "最近有啲忙冇照顾你！"
+    },
+    {
+        "transcription": "不打擾,不打擾,有什麼可能會打擾到我?",
+        "expected": "唔打扰，唔打扰！点有咩可能会打扰到我啊？"
+    },
+    {
+        "transcription": "明天的考試一定要考好",
+        "expected": "听日嘅考试一定要考好。"
+    },
+    {
+        "transcription": "你今天吃飯了嗎?",
+        "expected": "你今日食咗饭未啊？"
+    },
+    {
+        "transcription": "做什麼呀?到哪了?",
+        "expected": "做咩啊？到边度啦？"
+    },
+    {
+        "transcription": "哈哈,沒事,你也早點睡吧",
+        "expected": "呵呵冇事，你都早啲瞓啦。"
+    },
+    {
+        "transcription": "好的,我等你的電話",
+        "expected": "嗯，好嘅！我等你电话。"
+    },
+    {
+        "transcription": "不打擾了,你要休息了,你睡吧",
+        "expected": "唔打搅你休息啦，你瞓啦！"
+    },
+    {
+        "transcription": "既然不可以在一起",
+        "expected": "既然唔可以喺一齐！"
+    },
+    {
+        "transcription": "我沒有怪你只是今天心情不好",
+        "expected": "我冇怪你，只系今日心情唔点好。"
+    },
+    {
+        "transcription": "你老婆在看小说啦",
+        "expected": "你老婆喺度睇小说啦。"
+    },
+    {
+        "transcription": "嗯,好吧,我睡覺了,你現在在哪裡?",
+        "expected": "嗯！好啦！我瞓觉啦！你而家喺边啊？"
+    },
+    {
+        "transcription": "我已經很久沒為自己想過什麼了",
+        "expected": "我已经好耐冇为自己谂过乜嘢嘞。"
+    },
+    {
+        "transcription": "好,那就這樣吧,下午十二點聯繫",
+        "expected": "得咁就咁做啦下昼十二点联系。"
+    },
+    {
+        "transcription": "不要累了,我會心痛的",
+        "expected": "唔好攰着啊，我会心痛噶。"
+    },
+    {
+        "transcription": "還是不能告訴我嗎?",
+        "expected": "仲系唔可以话俾我听咩？"
+    },
+    {
+        "transcription": "王毅,你在做什麼?",
+        "expected": "王亦，你喺度做咩啊？"
+    },
+    {
+        "transcription": "西西,上呢?在宿舍呢?",
+        "expected": "西西想咧在宿舍咧。"
+    },
+    {
+        "transcription": "好,我愛你,掛住你,快點回來好不好?",
+        "expected": "好我爱你挂住你，快啲翻嚟好唔好？"
+    },
+    {
+        "transcription": "好的,聽你說話感覺很舒服。",
+        "expected": "好嘅，听你讲嘢感觉好舒服！"
+    },
+    {
+        "transcription": "吃完飯就去唱歌呀,你還想睡嗎?",
+        "expected": "食完饭就去唱歌啊，你仲想瞓咩？"
+    },
+    {
+        "transcription": "無聊就給我打電話不管多晚我都接",
+        "expected": "无聊就俾我打电话，唔理几夜我都接！"
+    },
+    {
+        "transcription": "主要是因為比較方便所以就吃它",
+        "expected": "主要系因为佢比较方便，所以就食佢。"
+    },
+    {
+        "transcription": "睡不著,你做什麼?累不累?",
+        "expected": "瞓唔着，你做咩啊，攰唔攰？"
+    },
+    {
+        "transcription": "一定要好好做,一定要成功",
+        "expected": "一定要好好做哦一定要成功哦！"
+    },
+    {
+        "transcription": "我冇比你传想, 听日啦!",
+        "expected": "我冇俾你传相，听日啦！"
+    },
+    {
+        "transcription": "無所謂,再累都值得",
+        "expected": "冇所谓，再攰都值得。"
+    },
+    {
+        "transcription": "嗯,當然希望你。",
+        "expected": "嗯，当然希望你。"
+    },
+    {
+        "transcription": "嘿嘿,是不是過份了老婆",
+        "expected": "嘿嘿，系咪过分啦老婆。"
+    },
+    {
+        "transcription": "我替你高興,我們分手吧",
+        "expected": "我戥你开心，我哋分手啦！"
+    },
+    {
+        "transcription": "是啊,我星期三休息",
+        "expected": "系啊，我星期三休息。"
+    },
+    {
+        "transcription": "媽媽,老公,晚安。",
+        "expected": "唔啊，老公晚安！"
+    },
+    {
+        "transcription": "傻瓜,你寫完快點睡吧!",
+        "expected": "傻瓜你写完快啲瞓啦！"
+    },
+    {
+        "transcription": "我決定了明天去,但是後天要回來。",
+        "expected": "我决定咗听日去，但系后日要翻嚟。"
+    },
+    {
+        "transcription": "正好沒看相合的",
+        "expected": "啱到。冇睇上合适嘅。"
+    },
+    {
+        "transcription": "嘩!明白了,你喜歡我呀!",
+        "expected": "哇明白咧你中意我啊。"
+    },
+    {
+        "transcription": "好,人家沒有過就好",
+        "expected": "好，人哋冇过就好。"
+    },
+    {
+        "transcription": "你也是我的傻傻老婆",
+        "expected": "嘿，你都系我嘅傻傻老婆。"
+    },
+    {
+        "transcription": "那我明天發給你,你以後也發給我",
+        "expected": "咁我听日发俾你，你后日发俾我。"
+    },
+    {
+        "transcription": "現在還不是時候",
+        "expected": "依家仲未系时候啊。"
+    },
+    {
+        "transcription": "適合斷奶的羔羊每天保持精尿100克",
+        "expected": "啱断奶嘅羔羊每日补饲精料一百克。"
+    },
+    {
+        "transcription": "哦,或者說出來就會舒服點,你說是不是?",
+        "expected": "我，或者讲出嚟就会舒服啲。你话系唔系！"
+    },
+    {
+        "transcription": "我怎可以轻而放弃呢?",
+        "expected": "我点可以轻易放弃咧？"
+    },
+    {
+        "transcription": "今天累到散架了不知道幾點才可以回家",
+        "expected": "唉，今日攰到散晒架，都唔知几点先可以翻屋企啊。"
+    },
+    {
+        "transcription": "那要辛苦你了,估計近來可能不會了",
+        "expected": "咁要辛苦你啦估计近排可能唔会啦！"
+    },
+    {
+        "transcription": "你又有沒有羨慕呀?",
+        "expected": "你又有冇羡慕啊？"
+    },
+    {
+        "transcription": "我還以為你要報",
+        "expected": "我仲以为你要报添！"
+    },
+    {
+        "transcription": "你半天一直忙著什麼?",
+        "expected": "你半日一直忙紧咩啊？"
+    },
+    {
+        "transcription": "多謝你的抬舉,你也有你的才!",
+        "expected": "多谢你嘅抬举你都有你嘅才。"
+    },
+    {
+        "transcription": "睡吧,我也愛你,希望她可以好好對你。",
+        "expected": "瞓啦，我都爱你，希望佢可以好好对你。"
+    },
+    {
+        "transcription": "我沒有病,只是因為我愛你愛得太…",
+        "expected": "我冇病，只系因为我爱你爱得太。"
+    },
+    {
+        "transcription": "你們還要跟著考跳舞,是不是?",
+        "expected": "你哋仲要跟着考跳舞，系唔系啊？"
+    },
+    {
+        "transcription": "沒睡,也睡不著",
+        "expected": "冇瞓，都瞓唔着。"
+    },
+    {
+        "transcription": "我會做你的天使陪著你,睡吧",
+        "expected": "我会做你嘅天使陪着你噶，瞓啦！"
+    },
+    {
+        "transcription": "怕了你,不用說了",
+        "expected": "惊咗你啊，唔使讲啦。"
+    },
+    {
+        "transcription": "我也不知道該說什麼了",
+        "expected": "我都唔知讲咩好啦。"
+    },
+    {
+        "transcription": "我就想休息一天在家裡看電視",
+        "expected": "我就想休息一日喺屋企睇电视。"
+    },
+    {
+        "transcription": "起床解手?還沒睡嗎?早點睡好嗎?",
+        "expected": "起身解手，仲未瞓啊？早啲瞓，好吗？"
+    },
+    {
+        "transcription": "你為什麼不理我?",
+        "expected": "你做咩唔理我啦？"
+    }
+]

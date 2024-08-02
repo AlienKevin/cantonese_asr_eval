@@ -1,0 +1,4002 @@
+[
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    },
+    {
+        "transcription": "你知不知道今天的温度会下到低至10度,一定要穿厚一点的衣服。",
+        "expected": "\"你知唔知今日嘅temperature會落到低至10度，一定要著厚d嘅clothes啊！\""
+    },
+    {
+        "transcription": "我查了天氣app,他說今天會有Thunderstorm,最好不要去戶外行走",
+        "expected": "\"我check咗天氣app，佢話今日會有thunderstorm，最好唔好去戶外行嘅。\""
+    },
+    {
+        "transcription": "這部機器已經被關閉了因為Tifun信號已經升至Number 8來了",
+        "expected": "\"飛機已經被grounded喇，因為typhoon signal已經升到No.8嚟啦。\""
+    },
+    {
+        "transcription": "周圍都有Well-developed mode嚴重限制我們的視野開車時要小心點",
+        "expected": "\"周圍都有well-developed霧，嚴重limit我哋嘅visibility，開車嘅時候要小心啲！\""
+    },
+    {
+        "transcription": "預測說今天的天氣會變得很冷會降到冷凍點甚至可能會有雪",
+        "expected": "\"Forecast話晚上嘅weather會變得好cold，會降到freezing point，甚至可能會有snow喎。\""
+    },
+    {
+        "transcription": "感覺到今晚的風也很舒服,天氣剛剛好,真是一個完美的夜晚去郊遊",
+        "expected": "\"感覺到今晚嘅breeze都好舒服，temperature剛剛好，真係一個perfect night去郊遊。\""
+    },
+    {
+        "transcription": "你有没有见过这么浸陷的Sunset天气真的很完美可以坐下来慢慢欣赏",
+        "expected": "\"你有冇見過咁震撼嘅sunset? 天氣真係好perfect，可以坐下嚟慢慢欣賞。\" "
+    },
+    {
+        "transcription": "看來週末的天氣會比較不穩定,可能會有Rain Shower,最好做好準備。",
+        "expected": "\"睇嚟weekend嘅weather會比較unstable，可能會有rain shower，最好做好準備。\""
+    },
+    {
+        "transcription": "地鐵公告說因為暴雨離閘,很多Rose都會被Flooded,需要改行其他Rose回家",
+        "expected": "\"地鐵公告話因為暴雨嚟襲，好多routes都被flooded，需要改行其他routes返屋企。\""
+    },
+    {
+        "transcription": "這樣的Humidity真的令人很難受幸好有Air Conditioning可以調節",
+        "expected": "\"咁嘅Humidity真係令人好難受，幸好有air conditioning可以調節。\""
+    },
+    {
+        "transcription": "我個人很喜歡去金鐘的Foot Court,因為那裡的選擇很廣,應有盡有。",
+        "expected": "\"我個人好like去金鐘嘅food court，因為嗰度嘅選擇好wide，應有盡有。\""
+    },
+    {
+        "transcription": "台灣的Bubble Tea真的太吸引了,任何時間我都有Mood去喝",
+        "expected": "\"台灣嘅bubble tea真係太addictive，任何時間我都有mood去飲。\""
+    },
+    {
+        "transcription": "我對港式的點心很有passion特別是燒賣和鳳爪簡直是Heavenly Good",
+        "expected": "\"我對港式嘅dim sum好有passion，特別係燒賣和鳳爪，簡直係heavenly good!\""
+    },
+    {
+        "transcription": "如果你想去吃最真正的港式燒臘我會推薦你去中環那間燒鵝店Taipei's",
+        "expected": "\"如果你想去食最authentic嘅港式燒臘，我會推薦你去中環嗰間燒鵝店，太best了!\""
+    },
+    {
+        "transcription": "每次去旺角,我都會去那間甜品店,他們的芝麻糊和腐竹畫得像一隻白色的狗,令我忍不住要多吃幾碗。",
+        "expected": "\"每次去旺角，我都會去嗰間甜品店，佢地嘅芝麻糊同腐竹滑得like silky smooth一樣，令我忍唔住要多食幾碗。\""
+    },
+    {
+        "transcription": "在王埔那間日本餐廳的Sushi,Sashimi都新鮮之餘,Presentation都好On Point,好Worth It。",
+        "expected": "\"喺黃埔嗰間日本餐廳嘅sushi, sashimi都新鮮之餘，presentation都好on point，好worth it!\""
+    },
+    {
+        "transcription": "我個人很享受來自美國的快餐文化對我來說,大快而到一頓漢堡加薯條是簡單的喜悅",
+        "expected": "\"我個人好enjoy嚟自美國嘅fast food culture，對我嚟講，大快朵頤一頓漢堡加薯條係牛冚匸象嘅simple pleasure。\" "
+    },
+    {
+        "transcription": "我的兄弟很喜歡去天馬公園那裡的餃子店他說那裡的餃子Juicy滿分,差不絕口",
+        "expected": "\"我個兄弟好鍾意去添馬公園果度嘅餃子店,佢話果度啲餃子juicy滿分，讚唔絕口。\" "
+    },
+    {
+        "transcription": "打邊爐就是我冬天的最愛舒適食物我喜歡邊吃邊和朋友吃吃吃拿來驅寒實在無法抵擋",
+        "expected": "\"打邊爐就係我冬天嘅favourite comfort food，我鍾意邊食邊同friend嗑嗑牙，攞嚟驅寒實在冇得頂。\""
+    },
+    {
+        "transcription": "意大利麵是我任何時候的去到的食物不論是Carbonara還是Bolognese我都很喜歡都很容易和快",
+        "expected": "\"意大利麵係我anytime嘅go-to meal，不論係carbonara定係bolognese我都鍾意，都好easy & quick！\""
+    },
+    {
+        "transcription": "新上很快可以計劃一個旅程去新的地點享受一下新鮮空氣很享受",
+        "expected": "\"真想好快可以plan一個trip，去新嘅destination，嘆吓新鮮air，好enjoyable呀！\""
+    },
+    {
+        "transcription": "每次逛過Airports的Duty 3 Shop我就會感到興奮一角去了另一個世界",
+        "expected": "\"每次行過airport嘅duty free shop我就会feel excited，一覺去咗另一個world。\""
+    },
+    {
+        "transcription": "如果去日本,我一定會想去迪士尼蘭。只是想想也很開心。",
+        "expected": "\"如果去Japan，我一定會想去disneyland，淨係想諗都好happy！\""
+    },
+    {
+        "transcription": "希望下次可以去Africa做一個Safari Tour去見見Wildlife,好Adventurous",
+        "expected": "\"希望下次可以去Africa做一個safari tour, 去見下wildlife，好adventurous!\""
+    },
+    {
+        "transcription": "我很喜歡去Historical City,看看那些Historic Buildings,學一下那裡的History。",
+        "expected": "\"我好鐘意去historical city，睇吓嗰啲historic buildings，學下嗰度嘅history.\""
+    },
+    {
+        "transcription": "下一個夢想的地點是紐約,我想去Times Square Countdown,感覺很fantastic。",
+        "expected": "\"下一個dream destination係New York，我想去times square countdown，感覺好fantastic嘅！\""
+    },
+    {
+        "transcription": "夏天的時候去Australia就最好去Beach玩水很酷又可以BBQ很爽呀",
+        "expected": "\"夏天既時候去Australia就最好，去beach玩水好cool，又可以BBQ，好爽啊！\""
+    },
+    {
+        "transcription": "下次旅行我想去Filmed Hotel入住,怪不得每次出行都想試人。The experience 新的啦!",
+        "expected": "\"下次travel我想去themed hotel入住，話晒每次出行都想試人哋experience嘅新嘅喇！\""
+    },
+    {
+        "transcription": "我想去名菜館嘗試一下他們的signature dishes吃到我心滿意足,好comforting呀",
+        "expected": "\"我想去名菜館嘗試吓佢哋嘅signature dishes，食到我心滿意足，好comforting 啊！\" "
+    },
+    {
+        "transcription": "一定要去試試Tropical Island Snorkeling見一下漂亮的Coral Reef和Colorful Fish感覺很放鬆",
+        "expected": "\"一定要試下去tropical island snorkeling，見下靚嘅coral reef 同 colourful fish，感覺好relaxing！\""
+    },
+    {
+        "transcription": "享受去Shopping Mall玩的時候,很多品牌我都可以選,還可以試新出的Trendy Clothes",
+        "expected": "\"我好享受去shopping mall玩嘅時候，好多品牌我都可以選，仲可以試新出嘅trendy clothes。\""
+    },
+    {
+        "transcription": "我的週末去看了《The Avengers》的電影電影那麼激烈,真是我今年看過最好的秀",
+        "expected": "\"我個weekend去睇咗'The Avengers'嘅movie，電影咁intense，真係我今年睇過最好嘅show。\""
+    },
+    {
+        "transcription": "我對健身有很大的熱誠每次去健身都很開心感覺自己越來越適合",
+        "expected": "\"我對fitness有好大嘅passion，每次去gym都好happy，感覺自己越來越fit。\""
+    },
+    {
+        "transcription": "我喜歡用我的手機玩電腦遊戲畫質很明顯我最喜歡PUBG",
+        "expected": "\"我鍾意用我部smartphone玩mobile games，個graphic好sharp，我最鍾意'PUBG'。\""
+    },
+    {
+        "transcription": "我最近開始追韓劇《Crash Landing on You》,個plot 好intriguing,每集都令我excited。",
+        "expected": "\"我最近開始追韓劇'Crash Landing On You'，個plot好intriguing，每集都令我excited。\""
+    },
+    {
+        "transcription": "我愛唱K每次都唱POP歌我朋友說我的Vocal Skills不錯",
+        "expected": "\"我love唱K，每次都唱pop songs，我朋友話我嘅vocal skills唔錯。\""
+    },
+    {
+        "transcription": "我在Instagram的influencer都影響了我的lifestyle他們post的photos都好inspiring",
+        "expected": "\"我喺Instagram嘅influencer都影響咗我嘅lifestyle，佢地post嘅photos都好inspiring。\""
+    },
+    {
+        "transcription": "我和朋友去了一家新开的酒吧那里的Cocktails很优质是一个Chill的地方",
+        "expected": "\"我同我朋友去咗一間新開嘅bar，嗰度cocktails好優質，係一個chill嘅地方。\""
+    },
+    {
+        "transcription": "每次跑完Marathon後,我都感覺到全新筋骨舒暢真的很有獎勵",
+        "expected": "\"每次跑完marathon後，我都feel到全身筋骨舒暢，真係好rewarding！\""
+    },
+    {
+        "transcription": "我們每個星期都會做一次Yoga,所以壓力和集中精神很有幫助",
+        "expected": "\"我哋每個禮拜都會做一次yoga，對於relieve壓力同提高concentration好有幫助呢。\""
+    },
+    {
+        "transcription": "我们的Basketball Team 今次比赛表现得很Good,大家都玩得很努力,我很感动",
+        "expected": "\"我哋嘅basketball team今次比賽表現得好good，大家都play得好努力，我好感動呀！\""
+    },
+    {
+        "transcription": "這個週末,我們有釣魚計劃雖然我不是很擅長,但也很準備好期待有一個有趣和放鬆的日子",
+        "expected": "\"呢個weekend，我哋有釣魚plan，雖然我唔係好擅長，但都well prepared，期待有一個fun and relaxing day。\""
+    },
+    {
+        "transcription": "我平時比較喜歡做健身比外出活動好可以專注地訓練肌肉又可以避免太陽",
+        "expected": "\"我平時prefer做gym好過outdoor activities，可以專注咁train肌肉，又可以avoid曬太陽呢。\""
+    },
+    {
+        "transcription": "我對這個足球季很期待我最喜歡的隊伍有出色的表現",
+        "expected": "\"我對於呢個football season好excited，好期待我最鐘意嘅隊伍有出色嘅表現喎。\""
+    },
+    {
+        "transcription": "即使我不是一個專業的游泳者但每次我游泳都感覺到很清新享受到水的酷",
+        "expected": "\"即使我唔係一個professional swimmer，但每次我游泳都feel到好refreshed，享受到water嘅cool感覺。\""
+    },
+    {
+        "transcription": "我喜歡去 hike,在山上可以享受到自然,同時也可以達到保持身體的效果。",
+        "expected": "\"我鐘意去hike, 喺山上面可以enjoy到nature，同時都可以達到keep fit嘅效果。\""
+    },
+    {
+        "transcription": "做Yoga 時我們會玩一些輕柔的音樂可以幫助我們放鬆和集中精神",
+        "expected": "\"做yoga嘅時候我們會play一啲輕柔嘅音樂，可以幫助我們relax同集中精神。\""
+    },
+    {
+        "transcription": "跑障礙賽是一種挑戰自己的運動過程雖然tough但真的很有分量",
+        "expected": "\"跑障礙賽(course)係一種挑戰自己嘅運動，過程雖然tough，但真係好有fun呀。\""
+    },
+    {
+        "transcription": "我看到报道说他们准备 Implement 新的 Rent Control Policy我觉得这样很保护住客但都怕有 Negative Side Effects 在房东身上",
+        "expected": "\"我見到報導話佢哋準備implement新嘅rent control policy，我覺得咁樣好保護住住客，但都怕有negative side effects喺房東身上。\""
+    },
+    {
+        "transcription": "一直以來我們的教育系統有很多疑問最近的DSE Reform Plan可以解決部分問題但又有人質疑這個改變會不會太rush",
+        "expected": "\"一直以嚟，我哋嘅教育system有好多疑問，最近嘅DSE reform plan可以解決部分問題，但又有啲人質疑呢個改變會唔會太rushed?\""
+    }
+]

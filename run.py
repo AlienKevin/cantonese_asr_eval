@@ -14,18 +14,18 @@ from tqdm import tqdm
 
 device = ("cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu"))
 batch_size = 50
-num_models = 2
+num_models = 3
 num_datasets = 6
 
 for dataset_index in range(num_datasets):
     if dataset_index == 0:
-        dataset = CommonVoiceDataset(batch_size=batch_size)
+        dataset = ZoengjyutgaaiSaamgwokjinjiDataset(batch_size=batch_size)
     elif dataset_index == 1:
         dataset = GuangzhouDailyUseDataset(batch_size=batch_size)
     elif dataset_index == 2:
         dataset = GuangzhouCabinDataset(batch_size=batch_size)
     elif dataset_index == 3:
-        dataset = ZoengjyutgaaiSaamgwokjinjiDataset(batch_size=batch_size)
+        dataset = CommonVoiceDataset(batch_size=batch_size)
     elif dataset_index == 4:
         dataset = WordshkHiujinDataset(batch_size=batch_size)
     elif dataset_index == 5:
@@ -37,7 +37,9 @@ for dataset_index in range(num_datasets):
         if model_index == 0:
             model = SenseVoiceASRModel(device=device)
         elif model_index == 1:
-            model = WhisperASRModel(device=device)
+            model = WhisperASRModel(model_name="alvanlii/whisper-small-cantonese", device=device)
+        elif model_index == 2:
+            model = WhisperASRModel(model_name="openai/whisper-large-v3", device=device)
         
         model_name = model.get_name()
 

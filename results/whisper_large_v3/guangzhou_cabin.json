@@ -1,0 +1,4002 @@
+[
+    {
+        "transcription": "可以減弱音量",
+        "expected": "可以 减弱 音量 啦"
+    },
+    {
+        "transcription": "麻煩你幫我播放這個音樂收藏夾",
+        "expected": "唔该 你 帮我 播放 呢个 音乐 收藏夹"
+    },
+    {
+        "transcription": "有沒有搞錯呀?兩兄弟都不知道地址在哪,立刻發來去吧!",
+        "expected": "有冇搞错啊两兄弟都唔知道地址喺边度嗱嗱声发翻嚟佢啦"
+    },
+    {
+        "transcription": "打給對的號碼",
+        "expected": "打翻 俾 啱 先 号码"
+    },
+    {
+        "transcription": " À Phương, đây là tên của...",
+        "expected": "阿欢你听朝"
+    },
+    {
+        "transcription": "阿B剪了個齊音法",
+        "expected": "阿B剪咗个齐阴发"
+    },
+    {
+        "transcription": "你的大女兒喝的是什麼奶粉啊?",
+        "expected": "你个大女饮嘅系咩奶粉啊"
+    },
+    {
+        "transcription": "除下阿年这一数,也很精致",
+        "expected": "除翻阿莲条数都好经济喎"
+    },
+    {
+        "transcription": "請直接收聽下一個電台",
+        "expected": "唔该直接 收听 下 一个 电台 咯"
+    },
+    {
+        "transcription": "姑娘你幾晚好得閒",
+        "expected": "姑娘呢几晚好得闲"
+    },
+    {
+        "transcription": "比你一文子大方,唔好客氣。",
+        "expected": "俾你一文纸大方唔好客气"
+    },
+    {
+        "transcription": "價錢多少也沒有說",
+        "expected": "价钱几多又冇讲嘅"
+    },
+    {
+        "transcription": "肥仔,那好休了他",
+        "expected": "肥仔咁好休咗佢啦"
+    },
+    {
+        "transcription": "群名就是这样",
+        "expected": "个群名就系咁啊"
+    },
+    {
+        "transcription": "把這個電台設為音樂之聲",
+        "expected": "将 呢个 电台 设 为 音乐 之声"
+    },
+    {
+        "transcription": "有個電話無接,現在回覆",
+        "expected": "有 个 电话 冇 接 现在 回 复"
+    },
+    {
+        "transcription": "担多不起啊,星爷",
+        "expected": "担当唔起啊星爷"
+    },
+    {
+        "transcription": "隨機播放音樂",
+        "expected": "随机 播放 音乐"
+    },
+    {
+        "transcription": "有這樣的服務嗎?以前你個個都亂來我",
+        "expected": "有咁样嘅服务嘛 我以前你个个都系联系我"
+    },
+    {
+        "transcription": "好無聊啊,今天喝了一杯",
+        "expected": "好无聊啊今物休息"
+    },
+    {
+        "transcription": "我可不可以打開空調",
+        "expected": "我 可 唔 可以 打开 个 空调"
+    },
+    {
+        "transcription": "点关了这个AM电台",
+        "expected": "点 删咗 呢个 A M 电台"
+    },
+    {
+        "transcription": "我想聽聽歌,繼續放吧!",
+        "expected": "我 想 听下 歌  继续 放 啦"
+    },
+    {
+        "transcription": "以後不想再聽這首歌",
+        "expected": "以后 唔 想 再 听 呢 首 歌"
+    },
+    {
+        "transcription": "寶愛寶滴公",
+        "expected": "播 IPOD 啲 歌"
+    },
+    {
+        "transcription": "我哥的QQ",
+        "expected": "我哥的Q Q"
+    },
+    {
+        "transcription": "加快升電啦,早日出裝",
+        "expected": "加快升电啦早日出装"
+    },
+    {
+        "transcription": "和我把天窗關掉",
+        "expected": "同我 将 个 天窗 关咗佢 啦"
+    },
+    {
+        "transcription": "木顏色筆",
+        "expected": "木颜色笔"
+    },
+    {
+        "transcription": "今晚同學聚會又說去長崎今晚要兩點多才可以睡覺",
+        "expected": "今晚同学聚会又话去唱K肯定要两今晚要两点几先可以瞓觉噶啦"
+    },
+    {
+        "transcription": "我要副駕駛座位暖一點",
+        "expected": "我 要 副 驾驶 座位 暖 啲"
+    },
+    {
+        "transcription": "首歌很好聽,讓我先收藏",
+        "expected": "首 歌 好好 听 等我 收藏 先"
+    },
+    {
+        "transcription": "睡醒一覺,什麼事都沒有",
+        "expected": "瞓醒一觉乜事都冇"
+    },
+    {
+        "transcription": "人多啊,麻煩你們姐姐多派幾個吧",
+        "expected": "人多啊唔该你哋阿姐派多几个啦"
+    },
+    {
+        "transcription": "你玻璃碟裡面的時候",
+        "expected": "李波嚟店里边嘅时候"
+    },
+    {
+        "transcription": "我想獲得幫助",
+        "expected": "我 想 获得 帮做"
+    },
+    {
+        "transcription": "幫我取消當前對話?",
+        "expected": "帮我 取消 当前 对话 啊"
+    },
+    {
+        "transcription": "我想知道還有多久到目的地",
+        "expected": "我 想 知道 仲 有 几耐 到 目的地 啊"
+    },
+    {
+        "transcription": "領導你好,我覺得這條人命多得人喜歡",
+        "expected": "领导呢好我觉得呢条人命几得人中意"
+    },
+    {
+        "transcription": "打開未接過短信",
+        "expected": "打开 未接 嘅 短信"
+    },
+    {
+        "transcription": "我在想,你生氣又生氣的樣子",
+        "expected": "我喺度谂紧你又生气又嬲个样宜家"
+    },
+    {
+        "transcription": "02456",
+        "expected": "零 二 四 五 六"
+    },
+    {
+        "transcription": "直接打开多媒体应用",
+        "expected": "直接 打开 多媒体 应用 啦"
+    },
+    {
+        "transcription": "將空調模式調為自動",
+        "expected": "将 空调 模式 设为 自动"
+    },
+    {
+        "transcription": "幫我打開天窗",
+        "expected": "帮我 开 一下 天窗"
+    },
+    {
+        "transcription": "有沒有蟹吃啊?",
+        "expected": "有冇蟹石啊"
+    },
+    {
+        "transcription": "平時買的那間,然後沒開門去了另外一間店櫃子,這個是大的那些",
+        "expected": "平时买嗰间跟着冇开门去咗另外一间店鬼知呢个系大嗰啲喎"
+    },
+    {
+        "transcription": "還欠我",
+        "expected": "仲赞我"
+    },
+    {
+        "transcription": "現在的天窗網聯打開",
+        "expected": "宜家 嘅 天窗 网联 打开"
+    },
+    {
+        "transcription": "ว้าว",
+        "expected": "哇"
+    },
+    {
+        "transcription": " Hữu giáo miền",
+        "expected": "好优美"
+    },
+    {
+        "transcription": "牙佬撞布公",
+        "expected": "雅鲁藏布江"
+    },
+    {
+        "transcription": "那些月餅更加不用付錢我啦,是一種孝心的",
+        "expected": "嗰啲月饼更加唔使俾翻钱我啦系一种孝心嘅"
+    },
+    {
+        "transcription": "我想把這個屏幕調到最暗",
+        "expected": "我 想 将呢个 屏幕 调到 最暗 啊"
+    },
+    {
+        "transcription": "我這邊是誰來的",
+        "expected": "我呢边系边个嚟嘅"
+    },
+    {
+        "transcription": "鄉鸚帽",
+        "expected": "听 音乐"
+    },
+    {
+        "transcription": "我想知道現在,我在哪裡?",
+        "expected": "我 想 知道 宜家我 喺边"
+    },
+    {
+        "transcription": "請設置限速為60",
+        "expected": "唔该 设置 限速 为 六十"
+    },
+    {
+        "transcription": "我想聽柴賀夫斯基的天鵝湖",
+        "expected": "我 想 听才可夫斯基 嘅 天鹅湖"
+    },
+    {
+        "transcription": "厄武咁容易壞",
+        "expected": "压冇咁容易坏"
+    },
+    {
+        "transcription": "好熱呀,開空調呀",
+        "expected": "好热 啊 开 空调 啊"
+    },
+    {
+        "transcription": "我最喜歡的這首歌代表我的新鮮",
+        "expected": "我最中意嘅呢一首歌代表我嘅新鲜"
+    },
+    {
+        "transcription": "停",
+        "expected": "停"
+    },
+    {
+        "transcription": "聯繫人張三編輯短信發送",
+        "expected": "联系人 张三 编辑 短信 发送"
+    },
+    {
+        "transcription": "整熱負駕駛的座椅",
+        "expected": "整 热 副驾驶嘅 座椅"
+    },
+    {
+        "transcription": "今日講過任橋任良",
+        "expected": "今日讲个任乔任梁"
+    },
+    {
+        "transcription": "要我们写的筆记簿",
+        "expected": "要我哋写嘅笔记簿"
+    },
+    {
+        "transcription": "把車內風量調到最大可不可以",
+        "expected": "把 车内 风量 调到 最大 可 唔 可以"
+    },
+    {
+        "transcription": "你現在是在做作業嗎?",
+        "expected": "你依家做紧作业嚟噶"
+    },
+    {
+        "transcription": "這個月有沒有貸款可以給我啊?",
+        "expected": "呢个月有冇剃款可以俾我啊"
+    },
+    {
+        "transcription": "我想收聽下一個電台",
+        "expected": "我 想 收听 下 一个 电台 啊"
+    },
+    {
+        "transcription": "這麼少嗎?",
+        "expected": "咁少嘅咩"
+    },
+    {
+        "transcription": "我要今晚上去才可以幫你找",
+        "expected": "我要今晚上去先可以帮你搵喎"
+    },
+    {
+        "transcription": "叔叔將三發送短信",
+        "expected": "叔叔 张三 发送 短信"
+    },
+    {
+        "transcription": "幫我看看有什麼未讀的短信",
+        "expected": "帮我 睇 下 有 乜 未读 短信 啊"
+    },
+    {
+        "transcription": "我想問語音控制點條",
+        "expected": "我 想 问 语音 控制 点 调"
+    },
+    {
+        "transcription": "聽柴可夫斯基的天鵝湖",
+        "expected": "听 柴可夫斯基 嘅 天鹅湖"
+    },
+    {
+        "transcription": "我發不到紅包啊,要陰正實名啊",
+        "expected": "我发唔到红包啊要因证实名啊"
+    },
+    {
+        "transcription": "明天上海什麼天氣呢?",
+        "expected": "听日 上海 咩 天气 咧"
+    },
+    {
+        "transcription": "麻煩幫我收藏一下當前歌曲",
+        "expected": "唔该 帮我 收藏 一下 当前 歌曲"
+    },
+    {
+        "transcription": "中獎的朋友",
+        "expected": "中奖的平友"
+    },
+    {
+        "transcription": "不要這首歌",
+        "expected": "唔 要 呢 首 歌"
+    },
+    {
+        "transcription": "特別是那些學費很貴的專業",
+        "expected": "特别系嗰啲学费好贵呢个专业啊嘛"
+    },
+    {
+        "transcription": " Một yêu thương mục đích này.",
+        "expected": "我 要 去 目的地"
+    },
+    {
+        "transcription": "誰可以幫我關注廣播呀",
+        "expected": "边个 以 帮我 关咗  广播 啊"
+    },
+    {
+        "transcription": "想聽iPod上的歌",
+        "expected": "想 听 iPod 上边 啲 歌"
+    },
+    {
+        "transcription": "直接放大地圖",
+        "expected": "直接 放大 地图 啦"
+    },
+    {
+        "transcription": "屏幕调光一点",
+        "expected": "个 屏幕 调光 啲"
+    },
+    {
+        "transcription": "不錯,先收藏它",
+        "expected": "唔 错 收藏佢先"
+    },
+    {
+        "transcription": "要我今晚決定明天去訂票",
+        "expected": "要我今晚决定听日去订票"
+    },
+    {
+        "transcription": "喂,幫我調細一點風涼吧",
+        "expected": "喂 帮我 调 细 啲 个 风量 啦"
+    },
+    {
+        "transcription": "你數來看",
+        "expected": "你数嚟睇下系"
+    },
+    {
+        "transcription": "我想弄一首歌給大家聽",
+        "expected": "我 想 整 首 歌 听下"
+    },
+    {
+        "transcription": "播放收藏的音乐",
+        "expected": "播放 收藏 嘅 音乐"
+    },
+    {
+        "transcription": "知不知道今天多好啊",
+        "expected": "知 唔 知 今物几号 啊"
+    },
+    {
+        "transcription": "8887-61738",
+        "expected": "八 八 八 七 六 一 七 三 八"
+    },
+    {
+        "transcription": "我現在在哪個位置",
+        "expected": "我 依家 喺 边个 位置"
+    },
+    {
+        "transcription": "現在很難找了舊石本來是放在地上的現在都把它升上來了",
+        "expected": "而家好难搵啊嚿石呢本嚟系放喺地下嘅依家都将佢升咗上嚟咯"
+    },
+    {
+        "transcription": "但我卓瑶一起回來了",
+        "expected": "但系我卓瑶一齐返嚟喎"
+    },
+    {
+        "transcription": "定下位看看我們現在在哪裏",
+        "expected": "定 下 位 睇下 我 哋依家 喺边"
+    },
+    {
+        "transcription": "麻煩你將我把車內風量調到最細",
+        "expected": "麻烦 你将我 把 车内 风量 调到 最细"
+    },
+    {
+        "transcription": "搜索沿途的加油站",
+        "expected": "搜索 下 沿途 嘅 加油站"
+    },
+    {
+        "transcription": "播放上一首歌",
+        "expected": "播放 上 一首 歌"
+    },
+    {
+        "transcription": "打多次这个电话",
+        "expected": "打 多 次 呢个 电话"
+    },
+    {
+        "transcription": "如果港幣有用的話",
+        "expected": "如果港币有用嘅话"
+    },
+    {
+        "transcription": "多一些給你",
+        "expected": "多一啲俾你"
+    },
+    {
+        "transcription": "597395",
+        "expected": "五九七三九五"
+    },
+    {
+        "transcription": "發我和你去海航時的那個呢?",
+        "expected": "发我同你去海航嗰阵嗰个咧"
+    },
+    {
+        "transcription": "我一時不發呆,他便棄了。",
+        "expected": "你一时唔发包佢就气了"
+    },
+    {
+        "transcription": "買蛇鼠哪會中啊",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "transcription": "就是一個體現新式五媒的人",
+        "expected": "就系嗰睇援信息唔回嘅人啊"
+    },
+    {
+        "transcription": "麻煩顯示未接來電",
+        "expected": "麻烦 显示 未接 来电"
+    },
+    {
+        "transcription": "打哭落眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "transcription": "吃了早餐二十多元还不太好吃",
+        "expected": "食咗个早餐二十几蚊仲唔系几好食"
+    },
+    {
+        "transcription": "紅莉回家",
+        "expected": "红你翻屋"
+    },
+    {
+        "transcription": "633782816",
+        "expected": "六 三 三 七 八 二 八 一 六"
+    },
+    {
+        "transcription": " Một ngàn sách bắt",
+        "expected": "木颜色笔"
+    },
+    {
+        "transcription": "男同學不夠大氣",
+        "expected": "啲男同学唔够带气"
+    },
+    {
+        "transcription": "我以為我",
+        "expected": "我以为饿"
+    },
+    {
+        "transcription": "沒錢也是這樣",
+        "expected": "冇钱都系咁噶啦"
+    },
+    {
+        "transcription": "36107162",
+        "expected": "三 六 一 零 七 一 六 二"
+    },
+    {
+        "transcription": "189914",
+        "expected": "十 八 九 九 十 四"
+    },
+    {
+        "transcription": "縮小地圖可以看得全面一點",
+        "expected": "缩细 地图 可以 睇 得 全面 啲"
+    },
+    {
+        "transcription": "將車內風量調到最細",
+        "expected": "将 车内 风量 调到 最细"
+    },
+    {
+        "transcription": "我要系统切换到上一页",
+        "expected": "我 要 系统 切换 到 上 一页"
+    },
+    {
+        "transcription": " FM điện thoại",
+        "expected": "FM 电台"
+    },
+    {
+        "transcription": "有人打電話給我",
+        "expected": "有人 打 电话 俾我"
+    },
+    {
+        "transcription": " Cup.",
+        "expected": "给"
+    },
+    {
+        "transcription": "我有個電話入,下次再傾過",
+        "expected": "我 有个 电话 入 下次 再 倾 过"
+    },
+    {
+        "transcription": "到此為止",
+        "expected": "到 此 为 止"
+    },
+    {
+        "transcription": "網聯幫我打開它",
+        "expected": "网帘 帮我 打开 佢"
+    },
+    {
+        "transcription": "這個電台很有意思",
+        "expected": "这个 电台 好 有 意思"
+    },
+    {
+        "transcription": "破壞方塊",
+        "expected": "破坏方块"
+    },
+    {
+        "transcription": "麻烦把车内风量调到最小",
+        "expected": "麻烦 把 车内 风量 调到 最细"
+    },
+    {
+        "transcription": "還有紀內道人民廣場",
+        "expected": "仲 有 几耐 到 人民 广场"
+    },
+    {
+        "transcription": "那些月餅不用給我錢了,是我的一片孝心",
+        "expected": "嗰啲月饼唔使俾翻钱我啦系我嘅一片孝心"
+    },
+    {
+        "transcription": "不准要我去責怪任何一個人",
+        "expected": "咁唔准要我唔会去责怪任何一个人嘅"
+    },
+    {
+        "transcription": " 띡게",
+        "expected": "的嘅"
+    },
+    {
+        "transcription": "停止加热 附座椅",
+        "expected": "停止 加热 副 座椅"
+    },
+    {
+        "transcription": "做个聆听者我觉得是很好的",
+        "expected": "做个聆听者系好好嘅咯我觉得"
+    },
+    {
+        "transcription": "有一點點害怕",
+        "expected": "有小小惊惊哋喎"
+    },
+    {
+        "transcription": "渡航去福林路竹林村",
+        "expected": "导航 去 福林 路 竹林 村"
+    },
+    {
+        "transcription": "在你角度裡,你人為未見過就不會有喜歡對嗎?",
+        "expected": "喺你角度里你人为未见过就唔会有喜欢对吗"
+    },
+    {
+        "transcription": "有点冻加下调高的温度",
+        "expected": "有点 冻 家 下 调高 啲 温度"
+    },
+    {
+        "transcription": "打給1381922455",
+        "expected": "打 俾一三八一九二二四八五五"
+    },
+    {
+        "transcription": "我想打開打開這個天窗的標誌",
+        "expected": "我 想 打开打开 呢个 天窗嘅 标志"
+    },
+    {
+        "transcription": "我打算收集三个电话",
+        "expected": "拨打 叔叔 张三 嘅 电话"
+    },
+    {
+        "transcription": "車上他死都要我找一首歌出來",
+        "expected": "车上佢死都要我搵一首歌出嚟"
+    },
+    {
+        "transcription": "入香取足",
+        "expected": "入乡随俗"
+    },
+    {
+        "transcription": "说来说去,话题没有新意",
+        "expected": "讲嚟讲去都系个话题冇咩新意"
+    },
+    {
+        "transcription": "下了中山",
+        "expected": "落咗中山啊"
+    },
+    {
+        "transcription": "麻煩這個電台收藏",
+        "expected": "麻烦  呢个 电台 收藏"
+    },
+    {
+        "transcription": "是不是我不說話,人們覺得我很欺負呢?",
+        "expected": "系唔系我唔出声啲人觉得我好虾咧"
+    },
+    {
+        "transcription": "走了去睡覺",
+        "expected": "走咗去瞓觉"
+    },
+    {
+        "transcription": "幫我打開超速提示,麻煩",
+        "expected": "帮我 打开 超速 提示 唔该"
+    },
+    {
+        "transcription": "千萬不要衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "transcription": "我要把屏幕调到最高",
+        "expected": "我 要 将 屏幕 调 调到 最光"
+    },
+    {
+        "transcription": "我要知道實時路況",
+        "expected": "我 要 知道 实时 路况"
+    },
+    {
+        "transcription": "你這裡買幾錢一盒",
+        "expected": "你度买几钱一盒"
+    },
+    {
+        "transcription": "放多少天假?",
+        "expected": "放几多日假啊"
+    },
+    {
+        "transcription": "音樂之聲電台現在和我調到",
+        "expected": "音乐 之声 电台 宜家 同我 调到"
+    },
+    {
+        "transcription": "你即是叫救進行七的",
+        "expected": "你即是叫鸠进含柒嘅啫"
+    },
+    {
+        "transcription": "當然啦,還用問的",
+        "expected": "梗系啦仲使问嘅"
+    },
+    {
+        "transcription": "步車限速60",
+        "expected": "部 车 限速 六十"
+    },
+    {
+        "transcription": "我只是說不知道他去過所以他不想我去那邊",
+        "expected": "我姐系话唔知佢去过所以佢唔想我喺嗰边"
+    },
+    {
+        "transcription": "有四盒月餅嗎?薩琪瑪有嗎?",
+        "expected": "有四盒月饼吗萨琪玛有吗"
+    },
+    {
+        "transcription": "加以附加座椅",
+        "expected": "加热 副驾 座椅"
+    },
+    {
+        "transcription": "結果上賣波",
+        "expected": "嘅果想买波"
+    },
+    {
+        "transcription": " 시청해주셔서 감사합니다.",
+        "expected": "上面"
+    },
+    {
+        "transcription": "我姐說不知道她沒去過所以她不想我在那邊",
+        "expected": "我姐话唔知佢未去过所以佢想佢唔想我喺嗰边"
+    },
+    {
+        "transcription": "我想試試吹風模式裡面的吹腳模式",
+        "expected": "我 想 试 试 吹风 模式 里面 嘅 吹 脚 模式"
+    },
+    {
+        "transcription": "罷去不厭的站崗",
+        "expected": "百去不厌的湛江"
+    },
+    {
+        "transcription": " Làm ai đó ngỏ tà hoi",
+        "expected": "蓝牙 音乐 打开"
+    },
+    {
+        "transcription": "我說的不是廣東話嗎?",
+        "expected": "我讲嘅唔系广东话咩"
+    },
+    {
+        "transcription": "做个聆听者是好好的,我觉得。",
+        "expected": "做个聆听者系好好个我觉得"
+    },
+    {
+        "transcription": "而有些人只想求安安穩穩有份工作",
+        "expected": "而有的人佢只想求安安稳稳有份工作"
+    },
+    {
+        "transcription": "微博已",
+        "expected": "微博尔"
+    },
+    {
+        "transcription": "我爸爸睡客廳",
+        "expected": "我老豆瞓客厅"
+    },
+    {
+        "transcription": "想聽周杰倫的七里香",
+        "expected": "想 听 周杰伦 嘅 七里香"
+    },
+    {
+        "transcription": "轉接USB耳音樂",
+        "expected": "转 接 U S B 二 音乐"
+    },
+    {
+        "transcription": "我們吃吃看距離都可以",
+        "expected": "我哋食食下佢嚟都得"
+    },
+    {
+        "transcription": "我想大聲一點,行嗎?",
+        "expected": "我 想 大声 小小 得 唔 得啊"
+    },
+    {
+        "transcription": "飛到幾前",
+        "expected": "飞到几钱"
+    },
+    {
+        "transcription": "調細過音量佢",
+        "expected": "调 细 个 音量 佢"
+    },
+    {
+        "transcription": "我想從收藏夾中刪除這首音樂",
+        "expected": "我 想 从 个 收藏夹 中 删除 呢首 音乐"
+    },
+    {
+        "transcription": "娘搬了去新屋住了",
+        "expected": "亮女搬咗去新屋住啦"
+    },
+    {
+        "transcription": "我想聽王菲的紅豆",
+        "expected": "我 想 听 王菲 嘅 红豆"
+    },
+    {
+        "transcription": "我很小",
+        "expected": "我好细个喎"
+    },
+    {
+        "transcription": "直接把空調溫度調高兩度",
+        "expected": "直接 把 空调 温度 升高 两 度 啦"
+    },
+    {
+        "transcription": "在今天贏200盞",
+        "expected": "喺今日赢两百揸"
+    },
+    {
+        "transcription": "重播一下上面的电台",
+        "expected": "重播一下上边嘅个电台"
+    },
+    {
+        "transcription": "麻煩我想打開媒體應用",
+        "expected": "唔该 我 想 打开 个 媒体 应用"
+    },
+    {
+        "transcription": "上海明天天氣如何?",
+        "expected": "上海 听日 天气 点"
+    },
+    {
+        "transcription": " Hon är fan...",
+        "expected": "红你翻"
+    },
+    {
+        "transcription": "麻煩設置用手機幫我接電話",
+        "expected": "麻烦 设置 用 手机 帮我 接 电话"
+    },
+    {
+        "transcription": "當然啦,還用問的",
+        "expected": "梗系啦仲使问嘅"
+    },
+    {
+        "transcription": "請把限時提醒打開",
+        "expected": "请 把 限时 提醒 打开 嘞"
+    },
+    {
+        "transcription": "直接退出路线传览",
+        "expected": "直接 退出 路线 全览 咯"
+    },
+    {
+        "transcription": "担当不起啊,星爷",
+        "expected": "担当唔起啊星爷"
+    },
+    {
+        "transcription": "不知道路況如何呢? 先看看",
+        "expected": "唔 知 路况 点样 哩 睇 下 先"
+    },
+    {
+        "transcription": "幫我切換地圖",
+        "expected": "帮我 切换 个 地图"
+    },
+    {
+        "transcription": "布曲布了三首,所以不能唱",
+        "expected": "报曲报咗三首咁所以冇得唱"
+    },
+    {
+        "transcription": "溫度太高的我好冷呀",
+        "expected": "温度 开高 啲 我 好冻 啊"
+    },
+    {
+        "transcription": "麻烦帮忙取消当前电台",
+        "expected": "麻烦 帮手 取消 当前 电台"
+    },
+    {
+        "transcription": "播放CD音樂",
+        "expected": "波放 C D 音乐"
+    },
+    {
+        "transcription": "你是玉姐",
+        "expected": "你系玉姐嚟噶"
+    },
+    {
+        "transcription": "一看那些都是開始爛的所以沒有跟著買之後買個沙田油",
+        "expected": "一睇嗰啲都系开始烂嘅所以冇跟住买之后买个沙田柚"
+    },
+    {
+        "transcription": "明天去東莞拿貨",
+        "expected": "听日去东莞攞货"
+    },
+    {
+        "transcription": "麻煩幫我開一下空氣淨化器",
+        "expected": "唔该 帮我 开下 空气 净化器"
+    },
+    {
+        "transcription": "好想聽聽CD",
+        "expected": "好 想 听下 C D"
+    },
+    {
+        "transcription": "人家用相機拍了髮給我",
+        "expected": "人哋用相机影咗发俾我噶"
+    },
+    {
+        "transcription": "又會有這樣的事,你保朋友在下面的嗎?",
+        "expected": "又会有咁嘅事你冇朋友喺下边噶咩"
+    },
+    {
+        "transcription": "直接播放下一首音樂",
+        "expected": "直接 播放 下 一首 音乐 啦"
+    },
+    {
+        "transcription": "幫我打給呼叫中心",
+        "expected": "帮我 打 俾 呼叫 中心"
+    },
+    {
+        "transcription": "又好像是",
+        "expected": "又好似系喔"
+    },
+    {
+        "transcription": "打開天窗",
+        "expected": "打开 个 天窗"
+    },
+    {
+        "transcription": "0117726",
+        "expected": "零 一 一 七 七 二 六"
+    },
+    {
+        "transcription": "哇,這麼厲害",
+        "expected": "哇咁犀利嘅"
+    },
+    {
+        "transcription": "買蛇鼠哪會中呀",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "transcription": "音樂可不可以繼續放啊?",
+        "expected": "音乐 可 唔 可以 继续 放 啊"
+    },
+    {
+        "transcription": "哪裡沒有位置",
+        "expected": "边度冇导位啊"
+    },
+    {
+        "transcription": "都是上一個電台好聽",
+        "expected": "都 系 上 一个 电台 好听"
+    },
+    {
+        "transcription": "阿當哪裏不舒服?",
+        "expected": "阿当边度唔舒服"
+    },
+    {
+        "transcription": "将空调温度调到最高",
+        "expected": "将 空调 温度 调到 最光"
+    },
+    {
+        "transcription": "有點冷,空調溫度調到最高",
+        "expected": "有 啲 冻 啊 个 空调 温度 调到 最高 啊"
+    },
+    {
+        "transcription": "我喜歡這首歌,我要把它收藏",
+        "expected": "我 中意 呢首 歌 我 要 将 佢 收藏"
+    },
+    {
+        "transcription": "我想知道語音識別具體是怎樣用的",
+        "expected": "我 想 知道 语音 识别 具体 系 点样 用 嘅"
+    },
+    {
+        "transcription": "要看報啊,真是是,撲透,都在做拜神啊",
+        "expected": "要睇布啊阵喺喺扑头度做紧拜神啊"
+    },
+    {
+        "transcription": "現在已經第二天早上了",
+        "expected": "宜家都已经到第二日早上啦"
+    },
+    {
+        "transcription": "我想看下一頁",
+        "expected": "我 想 睇 睇 下 一页"
+    },
+    {
+        "transcription": "你好,二姐姐,去哪裡玩?",
+        "expected": "你好啊二家姐去边度玩啊"
+    },
+    {
+        "transcription": "我說我哪有時間拍拖?我已經把我最美的青春給了你媽了",
+        "expected": "我话我有边有时间拍拖啫我已经将我最美嘅青春俾咗你妈咯"
+    },
+    {
+        "transcription": "說不定我也不用",
+        "expected": "横定我都唔拥"
+    },
+    {
+        "transcription": "我想聽音樂之聲",
+        "expected": "我 想 听 音乐 之声 啊"
+    },
+    {
+        "transcription": "靠譜今年8月15生意應該好好掛",
+        "expected": "舅父今年八月十五生意应该好好啩应该"
+    },
+    {
+        "transcription": "6 4 2 7 2 10 13 4 5",
+        "expected": "六 四 二 七 二 十 十 三 四 五"
+    },
+    {
+        "transcription": "直接聽藍芽上的音樂",
+        "expected": "直接 听 蓝牙 上 的 音乐"
+    },
+    {
+        "transcription": "美樣園電影幫我搜一下",
+        "expected": "美人鱼 电影 帮我 搜 下"
+    },
+    {
+        "transcription": "中獎的朋友",
+        "expected": "中奖嘅朋友"
+    },
+    {
+        "transcription": "為什麼沒有覆磨的鑽石劍?",
+        "expected": "为什么没有复磨嘅钻石剑"
+    },
+    {
+        "transcription": "車狗肉有什麼好吃的",
+        "expected": "车狗肉有咩好食"
+    },
+    {
+        "transcription": "麻煩幫我關了主價助過加熱",
+        "expected": "麻烦 帮我 关咗 主驾 座 个 加热"
+    },
+    {
+        "transcription": "是我自己不爭氣而已,我明白的不要緊,我不會去責怪任何一個人的",
+        "expected": "系我自己唔争气啫我明白嘅唔紧要我唔会去责怪任何一个人嘅"
+    },
+    {
+        "transcription": "直接設置地圖朝向為車頭向上",
+        "expected": "直接 设制 地图 朝向 为 车头 向上 啦"
+    },
+    {
+        "transcription": "先把天窗帘也铺上",
+        "expected": "合埋 个 天窗 帘 先"
+    },
+    {
+        "transcription": "你不解释我的意思",
+        "expected": "你误解咗我嘅意思啊"
+    },
+    {
+        "transcription": "到人民港場還要多久",
+        "expected": "到 人民 广场 仲 要 几耐"
+    },
+    {
+        "transcription": "不懂路話開個導航全艦啦",
+        "expected": "唔 识 路 啊 开个 导航 全览 啦"
+    },
+    {
+        "transcription": "海南島",
+        "expected": "海难岛"
+    },
+    {
+        "transcription": "我又不覺得很熱我今天還要說是穿長褲來上班",
+        "expected": "我啊唔觉得好热喎我今日仲要话系着长裤过嚟上班嘅喎"
+    },
+    {
+        "transcription": "好冬光空調",
+        "expected": "好冻 关 空调"
+    },
+    {
+        "transcription": "關了音幕",
+        "expected": "关咗 个 音乐"
+    },
+    {
+        "transcription": "很爽",
+        "expected": "好爽面"
+    },
+    {
+        "transcription": "戰地風暴",
+        "expected": "战地风暴"
+    },
+    {
+        "transcription": "可以幫我導航出家庭地址嗎?",
+        "expected": "可以 帮我 导航 出 家庭 地址 吗"
+    },
+    {
+        "transcription": "誰敢打他地鐵",
+        "expected": "边个够胆佢哋接啊"
+    },
+    {
+        "transcription": "將地圖整成北向上",
+        "expected": "将 地图 整 成 北 向上"
+    },
+    {
+        "transcription": "水強你今晚不要捉長崎嗎?",
+        "expected": "水强你今晚唔好捉象棋咩"
+    },
+    {
+        "transcription": "89102",
+        "expected": "八 九 十 零 二"
+    },
+    {
+        "transcription": "直接打开增加音量",
+        "expected": "直接 打开 增加 音量"
+    },
+    {
+        "transcription": "我在念著你,又生氣又生氣,那樣現在",
+        "expected": "我喺度念紧你又生气又嬲个样宜家"
+    },
+    {
+        "transcription": "飛到幾前",
+        "expected": "飞到几钱"
+    },
+    {
+        "transcription": "北平康厚",
+        "expected": "比平胸好"
+    },
+    {
+        "transcription": "去哪裡啊?",
+        "expected": "去边度鬼啊"
+    },
+    {
+        "transcription": "找到磚頭給你拍",
+        "expected": "搵嚿砖头俾你拍"
+    },
+    {
+        "transcription": "麻煩關閉一下空氣淨化器",
+        "expected": "唔该 关闭 下 空气 净化器"
+    },
+    {
+        "transcription": "AM電台 講播",
+        "expected": "A M 电台广播"
+    },
+    {
+        "transcription": "不怕嘲笑的下來帶我一起過去吧",
+        "expected": "唔经肇庆嘅落嚟大沙一齐过去啦"
+    },
+    {
+        "transcription": "我只说不知他未去,所以他不想我去那边。",
+        "expected": "我姐话唔知佢未去所以佢唔想我系嗰边"
+    },
+    {
+        "transcription": "那些看完信息不回的人",
+        "expected": "嗰啲睇完信息唔回嘅人啊"
+    },
+    {
+        "transcription": "你的衛生掃握器",
+        "expected": "你啲维生素C咯"
+    },
+    {
+        "transcription": "我想打多次",
+        "expected": "我 想 打 多 次"
+    },
+    {
+        "transcription": "電話簿未通報,跳吧",
+        "expected": "部 车 个 电话本 未 同步 啊 调 啦"
+    },
+    {
+        "transcription": "我想打开随便听",
+        "expected": "我 想 打开 随便 听"
+    },
+    {
+        "transcription": "從三部後",
+        "expected": "重新 拨号"
+    },
+    {
+        "transcription": "究竟我們團隊有多大?",
+        "expected": "究竟我哋团队有几大"
+    },
+    {
+        "transcription": "413876026",
+        "expected": "四 一 三 八 七 六 零 二 六"
+    },
+    {
+        "transcription": " 타이어인데 하잔",
+        "expected": "睇人哋客栈"
+    },
+    {
+        "transcription": "这个语音输入不错",
+        "expected": "呢个语音输入输入法唔错喔"
+    },
+    {
+        "transcription": "好幽默",
+        "expected": "好幽幂"
+    },
+    {
+        "transcription": "我想設置目的地",
+        "expected": "我 想 设置 目的地"
+    },
+    {
+        "transcription": "這首歌不好聽,不要了",
+        "expected": "呢首 歌 唔 好听 唔要 啦"
+    },
+    {
+        "transcription": "設置下汽車限速",
+        "expected": "设置 下 汽车 限速 啦"
+    },
+    {
+        "transcription": "我想听第二个USB上的音乐",
+        "expected": "我 想 听 第 二 个U S B上 嘅 音乐"
+    },
+    {
+        "transcription": "現在去網上搜尋美人魚電影",
+        "expected": "而家 去 网上 搜 秦下 美人鱼 电影"
+    },
+    {
+        "transcription": "好熱呀 開一下空調",
+        "expected": "好热 啊 开 下 空调"
+    },
+    {
+        "transcription": "汽車限速設定為60kmh",
+        "expected": "汽车 限速 设定为 六十"
+    },
+    {
+        "transcription": "我想聽收藏FM電台",
+        "expected": "我 想 听 收藏 F M 电台"
+    },
+    {
+        "transcription": "開個天窗通通風",
+        "expected": "开 个 天窗 通 通风"
+    },
+    {
+        "transcription": "對呀,你那個LAC的工作",
+        "expected": "系喎你嗰个L A C嘅工作"
+    },
+    {
+        "transcription": "聽到婆婆在哭",
+        "expected": "听到个婆仔喺响度啩"
+    },
+    {
+        "transcription": "5 10 10 1 3 40",
+        "expected": "五 十 十 一 三 四 十"
+    },
+    {
+        "transcription": "把隨便廳打開",
+        "expected": "将 随便 听 打开"
+    },
+    {
+        "transcription": "買了雪冰不會中啊",
+        "expected": "买蛇鼠边会中啊"
+    },
+    {
+        "transcription": "數學做什麼寶?",
+        "expected": "数学做什么簿"
+    },
+    {
+        "transcription": "然後我們今天在這裡搶山路18彎",
+        "expected": "然后今日我哋今日喺度抢山路十八弯"
+    },
+    {
+        "transcription": "最辛苦的",
+        "expected": "最辛苦的"
+    },
+    {
+        "transcription": "我何時可以去世紀大道",
+        "expected": "我 几 时 可以 去 到 世纪 大道"
+    },
+    {
+        "transcription": "千萬不要衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "transcription": "女兒很傻",
+        "expected": "条女好索喎"
+    },
+    {
+        "transcription": "还有繁体字",
+        "expected": "仲有繁体字"
+    },
+    {
+        "transcription": "跳過這個電台吧",
+        "expected": "跳 过 呢个 电台 啦"
+    },
+    {
+        "transcription": "這個系統有什麼用?",
+        "expected": "呢个 系统 有 咩 用 啊"
+    },
+    {
+        "transcription": "肯定要兩晚,要兩點才能睡覺的",
+        "expected": "肯定要两晚要两点才能瞓觉个咯"
+    },
+    {
+        "transcription": "打去13819224855這個電話",
+        "expected": "打 去 一三八一九二二四八五五呢个 电话"
+    },
+    {
+        "transcription": "昨天買了一部小米5",
+        "expected": "寻日买咗部小米五"
+    },
+    {
+        "transcription": "三次",
+        "expected": "删除"
+    },
+    {
+        "transcription": "沒有出去吹風嗎?",
+        "expected": "冇出去吹嘢咩"
+    },
+    {
+        "transcription": "你到手了嗎?",
+        "expected": "你倒数未啊"
+    },
+    {
+        "transcription": "走了去睡覺",
+        "expected": "走咗去瞓觉"
+    },
+    {
+        "transcription": "後日安唔安排得到",
+        "expected": "后日安唔安排得到"
+    },
+    {
+        "transcription": "有些冷,我可不可以将温度调到最高?",
+        "expected": "有啲 冻 我 可 唔 可以 将 啲 温度 调 得 最高 啊"
+    },
+    {
+        "transcription": "4758254",
+        "expected": "四 七 五 八 二 五 四"
+    },
+    {
+        "transcription": "等我一会儿,我打电话给1381922485",
+        "expected": "等我 一阵 先 啦 我 打 个 电话 俾 一三八一九二二四八五五"
+    },
+    {
+        "transcription": "我要聽周杰倫的七里香",
+        "expected": "我 要 听 周杰伦 嘅 七里香"
+    },
+    {
+        "transcription": "繼續音樂",
+        "expected": "继续 music"
+    },
+    {
+        "transcription": "可以幫我設置地圖朝向為車頭向上嗎?",
+        "expected": "可以 帮我 设置 地图 朝向 为 车头 向上 吗"
+    },
+    {
+        "transcription": "幫我縮小地圖",
+        "expected": "帮我 缩细 个 地图"
+    },
+    {
+        "transcription": "幫我關一下天窗通風可以嗎?",
+        "expected": "帮我 删一下 天窗 通风 可以 吗"
+    },
+    {
+        "transcription": "打開天窗網簾",
+        "expected": "打开 个天窗  网帘"
+    },
+    {
+        "transcription": "我要聽收藏音樂",
+        "expected": "我 要 听 收藏 音乐"
+    },
+    {
+        "transcription": "不該加大車裡面的風涼",
+        "expected": "唔该 加大 车 入 边 嘅风量"
+    },
+    {
+        "transcription": "有時間的話我肯定參加的",
+        "expected": "有时间嘅话我肯定参加嘅"
+    },
+    {
+        "transcription": "刀人背部",
+        "expected": "督人背脊"
+    },
+    {
+        "transcription": "麻煩你調細一下聲音",
+        "expected": "唔该 你 调 细 下 声音"
+    },
+    {
+        "transcription": "說他吃了飯,也是去喝酒的",
+        "expected": "话佢食亲饭都系去饮酒嘅啦"
+    },
+    {
+        "transcription": "我就一般了",
+        "expected": "我就一般啦"
+    },
+    {
+        "transcription": "蒸排骨是烘燒排骨",
+        "expected": "蒸排骨系红烧排骨啊"
+    },
+    {
+        "transcription": "導航關閉",
+        "expected": "导航 关闭"
+    },
+    {
+        "transcription": "點用與音色別額",
+        "expected": "点 用 语音 识别 啊"
+    },
+    {
+        "transcription": "不好意思被你吵醒了",
+        "expected": "唔好意思俾你嘈醒咗"
+    },
+    {
+        "transcription": "退過收音機吧,好做啊",
+        "expected": "退 个 收音机 啦 好嘈 啊"
+    },
+    {
+        "transcription": " Một có kẻ kiêu kiêu",
+        "expected": "我哥嘅Q Q"
+    },
+    {
+        "transcription": "924127",
+        "expected": "九 二 四 一 二 七"
+    },
+    {
+        "transcription": "直接刮斷鋰電",
+        "expected": "直接 挂 断 嚟电 啦"
+    },
+    {
+        "transcription": "聯繫138 1922 4855",
+        "expected": "联系 一三八四九二二四八五五"
+    },
+    {
+        "transcription": "開個路線全欖啦",
+        "expected": "开 个 路线 全览 啦"
+    },
+    {
+        "transcription": " 00023",
+        "expected": "零 零 零 二 三"
+    },
+    {
+        "transcription": "我想顯示微度短信",
+        "expected": "我 想 显示 未读 短信"
+    },
+    {
+        "transcription": "麻煩你幫我把空調溫度升高一點",
+        "expected": "唔该 同我 升高 啲 空调 温度 咯"
+    },
+    {
+        "transcription": "不要意外地休息",
+        "expected": "唔可以休息噶"
+    },
+    {
+        "transcription": "我要聽下一個電台",
+        "expected": "我 要 听下 一个 电台"
+    },
+    {
+        "transcription": "那個第三隻",
+        "expected": "个第三者"
+    },
+    {
+        "transcription": "打开语音识别先",
+        "expected": "打开 语音 识别 先"
+    },
+    {
+        "transcription": "直截至FM廣播為124.3",
+        "expected": "直接 设置F M广播 为 一二四点三"
+    },
+    {
+        "transcription": "短信講給張三叔叔",
+        "expected": "短信 讲 俾 张三 叔叔"
+    },
+    {
+        "transcription": "我跟你一起玩",
+        "expected": "我同你玩埋咯"
+    },
+    {
+        "transcription": "帶頂兩支酒先自豪呀! 裴正",
+        "expected": "带定两支酒先至好啊培静"
+    },
+    {
+        "transcription": "我要放大地圖",
+        "expected": "我 要 放大 啲 个 地图 啊"
+    },
+    {
+        "transcription": "我何時才能到達目的地?",
+        "expected": "我 几 时 先 可以 到达 目的地"
+    },
+    {
+        "transcription": "今天是甚麼日子?",
+        "expected": "今日 系 咩 日子"
+    },
+    {
+        "transcription": "我想收聽收藏的調頻FM電台",
+        "expected": "我 想 收听 收藏 嘅 调频  F M 电台"
+    },
+    {
+        "transcription": "系統幫我轉地圖朝向我,要車頭向上",
+        "expected": "系统 帮我 转 地图 朝向 我 要 车头 向上"
+    },
+    {
+        "transcription": " CẢM...",
+        "expected": "咁"
+    },
+    {
+        "transcription": "但我只是玩玩而已拍得不好 還望見亮",
+        "expected": "好嘅但系我都系玩下玩下噶咋影得唔好还望见谅"
+    },
+    {
+        "transcription": "值得思考",
+        "expected": "值的思考"
+    },
+    {
+        "transcription": "都沒有人性的",
+        "expected": "都冇人性嘅"
+    },
+    {
+        "transcription": "今天又回家那麼久,又沒有下去工作",
+        "expected": "今日又翻上咁耐又冇落去做嘢嘅"
+    },
+    {
+        "transcription": "開啟iPod",
+        "expected": "开下 iPod 啲 歌"
+    },
+    {
+        "transcription": "好無聊呀,今日休息",
+        "expected": "好无聊啊今物修休息"
+    },
+    {
+        "transcription": "李波來到店裡的時候",
+        "expected": "李波嚟到店里的时候"
+    },
+    {
+        "transcription": "我想吸收叔叔的發送短訊",
+        "expected": "我 想 给 叔叔 张三 发送 短信"
+    },
+    {
+        "transcription": "搶家裡的好嗎?",
+        "expected": "才屋企几好吧"
+    },
+    {
+        "transcription": "6 9 10 9 7",
+        "expected": "六 九 十 九 七"
+    },
+    {
+        "transcription": "3 5 9 9 2",
+        "expected": "三 十 九 九 二"
+    },
+    {
+        "transcription": "我知道問我是應該但是有的東西該問就問,不該問就不要問",
+        "expected": "我知道问我系应该但系有嘅嘢该问就问唔该问就唔好问"
+    },
+    {
+        "transcription": "可以把車內風量調到最大嗎?",
+        "expected": "可以 把 车内 风量 调到 最大 吗"
+    },
+    {
+        "transcription": "如果你明天的話,再找找我吧",
+        "expected": "如果听你听日嘅话再搵搵我啦"
+    },
+    {
+        "transcription": "可以关闭路线全栏",
+        "expected": "可以关闭路线全览"
+    },
+    {
+        "transcription": "接著馬又輸了",
+        "expected": "跟着买又输啦"
+    },
+    {
+        "transcription": "調量屏幕",
+        "expected": "调亮 屏幕"
+    },
+    {
+        "transcription": "播放剛才我收藏的",
+        "expected": "播 翻 头先 我 收藏 嘅"
+    },
+    {
+        "transcription": "夢茶茶黑媽媽",
+        "expected": "蒙查查黑妈妈"
+    },
+    {
+        "transcription": "你拍過有沒有三次拖?",
+        "expected": "你拍过有冇三次拖"
+    },
+    {
+        "transcription": "你幫我打開尾道短信吧",
+        "expected": "你 帮我 打开 未读 短信 啦"
+    },
+    {
+        "transcription": "不要哄我啦,我上過小學的",
+        "expected": "唔好氹我啦我上过小学噶"
+    },
+    {
+        "transcription": "麻煩轉回上一個",
+        "expected": "唔该 转 返 上 一个"
+    },
+    {
+        "transcription": "關了導航",
+        "expected": "熄咗 导航"
+    },
+    {
+        "transcription": "那條爛攤",
+        "expected": "你条躝瘫"
+    },
+    {
+        "transcription": "對呀,你那個LAC的工作,知道你畫什麼什麼的",
+        "expected": "系喎你嗰个 L A C 嘅工作纸你画咩啲乜"
+    },
+    {
+        "transcription": "按照操作來做就可以了",
+        "expected": "按嗰个操作嚟做就得啦"
+    },
+    {
+        "transcription": "我想播第二個要補償的音樂",
+        "expected": "我 想 播 第 二 个U盘 上啲 音乐"
+    },
+    {
+        "transcription": "把胸部关了",
+        "expected": "将 空调 关咗 佢"
+    },
+    {
+        "transcription": "我想回家了",
+        "expected": "我 想 翻 屋企 啦"
+    },
+    {
+        "transcription": "不知道幾點了 幫我看一下時間",
+        "expected": "唔知 几 点 啦 帮我 睇 下 时间"
+    },
+    {
+        "transcription": "可以再放大点的地图吗",
+        "expected": "可以 再 放大 啲 个 地图 吗"
+    },
+    {
+        "transcription": "珠江羅,我們這裡有哪個鄉下地方?",
+        "expected": "珠江咯我哋呢度有边度啊呢乡下地方"
+    },
+    {
+        "transcription": "事先提醒誰要睡覺",
+        "expected": "事先提醒边个要瞓觉"
+    },
+    {
+        "transcription": "我上空跳 跳低兩度",
+        "expected": "我 想 空调 调低 两 度"
+    },
+    {
+        "transcription": "幫我降低一下屏幕浪度",
+        "expected": "帮我 降低 下 屏幕 亮度 先"
+    },
+    {
+        "transcription": "我說的不是廣東話嗎?",
+        "expected": "我讲嘅唔系广东话咩"
+    },
+    {
+        "transcription": "你只是叫救進陷7而已",
+        "expected": "你即系叫鸠进含柒嘅啫"
+    },
+    {
+        "transcription": "不要停,繼續放",
+        "expected": "唔好 停 继续 放"
+    },
+    {
+        "transcription": "我這邊是誰來的?",
+        "expected": "我呢边系边个嚟噶"
+    },
+    {
+        "transcription": "今天讲过阴桥阴凉",
+        "expected": "今物讲嗰个任乔任梁"
+    },
+    {
+        "transcription": "你的遺孀數字",
+        "expected": "你啲维生素 C咯"
+    },
+    {
+        "transcription": "道行到福山路竹林路",
+        "expected": "导航 到 福山 路 竹林 路"
+    },
+    {
+        "transcription": "我要手機通話",
+        "expected": "我 要 手机 通话"
+    },
+    {
+        "transcription": "趁我想聽USB上的音樂",
+        "expected": "亲 我 想 听 U S B上边 嘅 音乐"
+    },
+    {
+        "transcription": "幫我設置廣播位置為124.3",
+        "expected": "帮我 设置 个 广播 为 一二四点三"
+    },
+    {
+        "transcription": "吃了早餐二十多元,還是不太好吃",
+        "expected": "食咗早餐二十几蚊仲系唔系几好食"
+    },
+    {
+        "transcription": "下一世不結婚不做女人做個有本事的男人",
+        "expected": "下一世唔结婚唔做女人做个有本事嘅男人"
+    },
+    {
+        "transcription": "請問我能不能把屏幕調到最暗光的?",
+        "expected": "唔该 可 唔 可以 将 个 屏幕 调到 最暗 光 度 啊"
+    },
+    {
+        "transcription": "我要去公司",
+        "expected": "我 要 去 公司"
+    },
+    {
+        "transcription": "我不想跟你聊天了",
+        "expected": "我 唔 想 同 你 倾 偈啦"
+    },
+    {
+        "transcription": "喝下心不好被它吃",
+        "expected": "印下心唔好俾佢食"
+    },
+    {
+        "transcription": "切換到SD廳上的音樂",
+        "expected": "切换 到 S D 听 上面 嘅 音乐 啦"
+    },
+    {
+        "transcription": "麻煩幫我把未讀短信顯示出來",
+        "expected": "麻烦 帮我 将 未读 短信 显示 出嚟"
+    },
+    {
+        "transcription": "幫我把屏幕調到最亮",
+        "expected": "帮我 将 屏幕 调到 最光"
+    },
+    {
+        "transcription": "不要說得那麼粗口",
+        "expected": "唔好讲得咁粗口啦"
+    },
+    {
+        "transcription": "關天章忘年",
+        "expected": "关 天窗 网帘"
+    },
+    {
+        "transcription": "手法是手腕舞",
+        "expected": "手快有手慢冇啊"
+    },
+    {
+        "transcription": "我們吃吃看,距離都可以",
+        "expected": "我哋食食下佢嚟都得"
+    },
+    {
+        "transcription": "退出吧,沒事了",
+        "expected": "退出 啦 冇 事 啦"
+    },
+    {
+        "transcription": "系統將風量調到最大",
+        "expected": "系统 将 个 风量 调到 最大 吧"
+    },
+    {
+        "transcription": "在這裡在做什麼?",
+        "expected": "喺度做紧乜嘢啊"
+    },
+    {
+        "transcription": "幫我退出陰莫",
+        "expected": "帮我 退出 音乐"
+    },
+    {
+        "transcription": "9459 5982",
+        "expected": "九 四 五 十 九 五 九 八 二"
+    },
+    {
+        "transcription": "我也想多吃點大頭蔥菜",
+        "expected": "我都好想食多啲大头葱菜先咧"
+    },
+    {
+        "transcription": "吃完之後你想拍什麼給我?",
+        "expected": "食羊之后你谂住影啲咩俾我"
+    },
+    {
+        "transcription": "屏幕較到最暗",
+        "expected": "屏幕 较 到 最暗"
+    },
+    {
+        "transcription": "直哥都好唔通取消收藏佢",
+        "expected": "只 歌 都  好唔听 取消 收藏 佢"
+    },
+    {
+        "transcription": "我要開了空氣淨化器",
+        "expected": "我 要 开咗 空气 净化器"
+    },
+    {
+        "transcription": "關閉 填腔",
+        "expected": "关闭 天窗"
+    },
+    {
+        "transcription": "直接收藏调幅电台",
+        "expected": "直接 收藏 调幅 电台 咯"
+    },
+    {
+        "transcription": "你好",
+        "expected": "你好嘢"
+    },
+    {
+        "transcription": "我想打開十字路方",
+        "expected": "我 想 打开 实时 路况"
+    },
+    {
+        "transcription": "麻煩你跟我說一下如何使用語音識別",
+        "expected": "唔该 同我 讲 下 点 用 语音 识别 喇"
+    },
+    {
+        "transcription": "不想聽 首播",
+        "expected": "唔 听 呢 首 播"
+    },
+    {
+        "transcription": "請打開導航去公司",
+        "expected": "请 打开 导航 去 公司"
+    },
+    {
+        "transcription": "車上怕死都要找一首歌出來",
+        "expected": "车上他死都要找一首歌出嚟"
+    },
+    {
+        "transcription": "有沒有時間過濾?",
+        "expected": "有冇时间过嚟咯"
+    },
+    {
+        "transcription": "我想看下未讀短信",
+        "expected": "我 想 睇 下 未读 短信"
+    },
+    {
+        "transcription": "a的m次除以a的n次方等于多少?",
+        "expected": "A嘅M次除A嘅N次方等于多少"
+    },
+    {
+        "transcription": " Trình nhâm",
+        "expected": "静音"
+    },
+    {
+        "transcription": "蝙蝠群號 藝場",
+        "expected": "蝙蝠屏号危墙"
+    },
+    {
+        "transcription": "有管家不讓你自己吃主食",
+        "expected": "有管家唔俾你自己食煮食"
+    },
+    {
+        "transcription": "227091",
+        "expected": "二 二 七 零 九 一"
+    },
+    {
+        "transcription": "這麼大隻人,怕你這個拳頭嗎?",
+        "expected": "咁大只人惊你呢个拳头咩"
+    },
+    {
+        "transcription": "63239",
+        "expected": "六 三 二 三 九"
+    },
+    {
+        "transcription": "我要搏打呼叫中心",
+        "expected": "我 要 拨打 呼叫 中心"
+    },
+    {
+        "transcription": "關了路線全艦",
+        "expected": "关咗个路线 全览"
+    },
+    {
+        "transcription": "你們不可以安靜一點",
+        "expected": "你哋唔可以安静少少"
+    },
+    {
+        "transcription": "給你一元字大方",
+        "expected": "俾你一蚊纸大方"
+    },
+    {
+        "transcription": "你倒數了嗎?",
+        "expected": "你倒数未啊"
+    },
+    {
+        "transcription": "我要關空氣淨化氣",
+        "expected": "我 要 关 空气 净化器"
+    },
+    {
+        "transcription": "請你將廣播關閉",
+        "expected": "请 你 将 广播 关闭"
+    },
+    {
+        "transcription": "搭狗肉也没什么好吃",
+        "expected": "唓狗肉都无咩好食"
+    },
+    {
+        "transcription": "主架再加熱一下",
+        "expected": "主驾 座 要 加热 下"
+    },
+    {
+        "transcription": "開超速提示",
+        "expected": "开 超速 提示"
+    },
+    {
+        "transcription": "介绍系统功能",
+        "expected": "介绍 系统 功能"
+    },
+    {
+        "transcription": "祈祷我年慢的",
+        "expected": "祈祷我年晚的"
+    },
+    {
+        "transcription": "沒問題,我就10月4日休假落",
+        "expected": "啊冇问题我就十月四号休假咯"
+    },
+    {
+        "transcription": "請將空氣淨化起關閉",
+        "expected": "请 将 空气 净化器 关闭"
+    },
+    {
+        "transcription": "幫我刪這首歌",
+        "expected": "帮我 删 呢 首 歌"
+    },
+    {
+        "transcription": "我想聽音樂之聲電台",
+        "expected": "我 想 听 音乐 之声 电台"
+    },
+    {
+        "transcription": "回到接你,怎樣?",
+        "expected": "翻过去接你啊点啊"
+    },
+    {
+        "transcription": "關閉限行提示",
+        "expected": "关闭 限行 提示"
+    },
+    {
+        "transcription": "不看實事老方",
+        "expected": "唔 睇 实时 路况"
+    },
+    {
+        "transcription": "請問你知不知道這裡是哪裡?",
+        "expected": "请问 你 知 唔 知 呢度 是 边度 啊"
+    },
+    {
+        "transcription": "明天上開 咩天氣",
+        "expected": "明日 上海 咩 天气"
+    },
+    {
+        "transcription": "未睡醒繼續睡,不要理他",
+        "expected": "未瞓醒继续瞓唔好理佢"
+    },
+    {
+        "transcription": "我現在覺得很開心",
+        "expected": "我宜家觉得好开心啊"
+    },
+    {
+        "transcription": "那段時間很流行做出口的可能是出口轉來銷的",
+        "expected": "嗰段时间好兴做出口嘅可能系出口转内销的"
+    },
+    {
+        "transcription": "哇!太大風了,調低音量",
+        "expected": "哇 太大 风 啦调低 啲 音风量"
+    },
+    {
+        "transcription": "平時買那間,跟著還不開門去了另一間店",
+        "expected": "平时买嗰间跟住仲唔开门去咗另一间店"
+    },
+    {
+        "transcription": "癡心就會原諒你",
+        "expected": "痴心就会原谅你啦"
+    },
+    {
+        "transcription": "麻烦你帮我关闭路线全栏",
+        "expected": "麻烦 你 帮我 关闭 路线 全览"
+    },
+    {
+        "transcription": "370955942",
+        "expected": "三 七 零 九 五 五 九 四 二"
+    },
+    {
+        "transcription": "親幫我把屏幕調到最暗",
+        "expected": "亲 帮我 把 屏幕 调到 最暗"
+    },
+    {
+        "transcription": "將空調調到最大",
+        "expected": "将 空调 调到 最大"
+    },
+    {
+        "transcription": "上次你們聚會在興盛路吃的那間辣的",
+        "expected": "上次你哋聚会喺兴盛路食嘅嗰间辣嘅"
+    },
+    {
+        "transcription": "不知道有沒有貨",
+        "expected": "都唔知有冇货"
+    },
+    {
+        "transcription": "系統導航到家庭地址",
+        "expected": "系统 导航 到 家庭 地址"
+    },
+    {
+        "transcription": "我一定不會辜負同學的期望",
+        "expected": "我一定唔会辜负同学嘅期望"
+    },
+    {
+        "transcription": "領了優惠券才是19.9元",
+        "expected": "领咗优惠劵先系十九个九"
+    },
+    {
+        "transcription": "这个不是你自己写的吗?",
+        "expected": "呢个唔系你自己写嘅咩"
+    },
+    {
+        "transcription": "我現在不是在澳門等我回澳門再告訴你",
+        "expected": "我依家唔系喺澳门等我翻去澳门我再话俾你知"
+    },
+    {
+        "transcription": "加熱張椅子",
+        "expected": "加热 张 凳"
+    },
+    {
+        "transcription": "現在車內風量較大",
+        "expected": "而家 嘅 车 里边 嘅 风量校 大 啲"
+    },
+    {
+        "transcription": "在做什麼?",
+        "expected": "做紧咩啊"
+    },
+    {
+        "transcription": "我想調高空調溫度",
+        "expected": "我 想 调高 空调 温度"
+    },
+    {
+        "transcription": "你去我家別墅喝吧,打包過來過兩天又要去伊拉克談些軍火生意,沒空了",
+        "expected": "你过我间别墅度饮啦打包过嚟啊过两日又要去伊拉克倾啲军火生意唔得闲啊"
+    },
+    {
+        "transcription": "請把屏幕調整到最亮",
+        "expected": "唔该 将 屏幕 调整 到 最光"
+    },
+    {
+        "transcription": "如果說見面後還未了解對方就帶回去的話我覺得這樣不是很好",
+        "expected": "如果话见下面未了解对方就带返去嘅话我觉得咁样唔系几好咯"
+    },
+    {
+        "transcription": "好冷呀,幫我關一下空調",
+        "expected": "好冻 啊 帮我 关 下 空调"
+    },
+    {
+        "transcription": "語音控制如何使用?",
+        "expected": "语音 控制 点样 用 啊"
+    },
+    {
+        "transcription": "破坏方法",
+        "expected": "破坏方块"
+    },
+    {
+        "transcription": "千萬不要衝動",
+        "expected": "千祈唔好冲同"
+    },
+    {
+        "transcription": "音樂之聲有好聽的歌",
+        "expected": "音乐 之声 有 好听 嘅 歌 喎"
+    },
+    {
+        "transcription": "直接解除收音機,靜音吧",
+        "expected": "直接 解除 收音机 静音 啦"
+    },
+    {
+        "transcription": "第一次使用寻求指令让来帮助",
+        "expected": "第 一次 使用 寻求 指令 样 例 帮助"
+    },
+    {
+        "transcription": "需要多久才到?",
+        "expected": "需要 几耐 先 到 啊"
+    },
+    {
+        "transcription": "我哥的QQ",
+        "expected": "我哥的Q Q"
+    },
+    {
+        "transcription": "語音識別點用",
+        "expected": "语音 识别 点 用"
+    },
+    {
+        "transcription": "我想接听来电",
+        "expected": "我 想 接通 来电"
+    },
+    {
+        "transcription": "喂 你好",
+        "expected": "喂 你好"
+    },
+    {
+        "transcription": "今天講過是任喬良",
+        "expected": "今日讲个系任乔梁"
+    },
+    {
+        "transcription": "送中基BB嗎?",
+        "expected": "宋钟基B B吗"
+    },
+    {
+        "transcription": "發我和你去海巷的時候的那些",
+        "expected": "发我同你去海航嗰阵嗰啲呢"
+    },
+    {
+        "transcription": "到底你有没有想过这些问题?",
+        "expected": "到底你有冇谂过依啲问题先"
+    },
+    {
+        "transcription": "我今天在家裡",
+        "expected": "我今日喺屋企啊"
+    },
+    {
+        "transcription": "直接關閉超速提示",
+        "expected": "直接 关闭 超速 提示"
+    },
+    {
+        "transcription": "還要是牛肉絲",
+        "expected": "仲要系牛肉丝添"
+    },
+    {
+        "transcription": "喂,現在快點幫我打電話去急救中心。",
+        "expected": "喂 宜家 快 啲 帮我 打 电话 去 急救 中心"
+    },
+    {
+        "transcription": "入鄉隨俗,是這樣的",
+        "expected": "入乡随俗系咁噶啦"
+    },
+    {
+        "transcription": "我不想車速超過60kmh",
+        "expected": "我 唔 想 车速 超过 六十"
+    },
+    {
+        "transcription": "男朋友都沒有 何來有BB你以為我是你呀",
+        "expected": "男朋友都冇何来有B B你以为我系你啊"
+    },
+    {
+        "transcription": "如果港币有用的话",
+        "expected": "如果 港币 有 用 嘅话"
+    },
+    {
+        "transcription": "知道他今天才跟我說隻手起凹凹",
+        "expected": "知道佢今物先同我讲只手起粒粒"
+    },
+    {
+        "transcription": "收聽USB上的音樂",
+        "expected": "收听 U S B 上 嘅 音乐"
+    },
+    {
+        "transcription": "人家叫他去深密島騎單車,他都不敢去",
+        "expected": "人哋叫佢去生物岛踩单车佢都唔敢去"
+    },
+    {
+        "transcription": "麻煩關閉天窗",
+        "expected": "唔该 关闭 天窗"
+    },
+    {
+        "transcription": "你在做什麼?",
+        "expected": "你在助乜嘢啊"
+    },
+    {
+        "transcription": "等下次發工資我要去Shopping",
+        "expected": "等下次发咗工资我要去shopping下"
+    },
+    {
+        "transcription": "現在只能講一講語音,這樣打出字來",
+        "expected": "而家只可以讲一讲语音咁样打字出嚟"
+    },
+    {
+        "transcription": "片 一路 吐槽",
+        "expected": "片一路吐槽"
+    },
+    {
+        "transcription": "調節溫度",
+        "expected": "调节 温度"
+    },
+    {
+        "transcription": "3 4 1 10 1097",
+        "expected": "三 四 一 十 十 九 七"
+    },
+    {
+        "transcription": "今晚同學聚會又說去唱K 肯定今晚要兩點多才能睡覺",
+        "expected": "今晚同学聚会又话去唱 K 肯定要两今晚要两点几才能瞓觉噶啦"
+    },
+    {
+        "transcription": "放蓝牙里面的",
+        "expected": "放 蓝牙 里面 的"
+    },
+    {
+        "transcription": "幫我回撥未接電話",
+        "expected": "帮我 回拨 未接 电话"
+    },
+    {
+        "transcription": "有點熱,可以把風量調大一點嗎?",
+        "expected": "有啲 热 可以 把 风量 教大 一 啲 吗"
+    },
+    {
+        "transcription": "我要看檔案,哪有空出去玩",
+        "expected": "我要睇档啊边度得闲出去玩"
+    },
+    {
+        "transcription": "你是那種不做一做要做大事的種嗎?",
+        "expected": "你系嗰种一系唔做一做要做要做大事嘅种嘛"
+    },
+    {
+        "transcription": "調至最細風量",
+        "expected": "调到 最细 风量"
+    },
+    {
+        "transcription": "開啟超速提示",
+        "expected": "开下 超速 提示"
+    },
+    {
+        "transcription": "露妝曝光",
+        "expected": "雅鲁藏步江"
+    },
+    {
+        "transcription": "你戴耳機又聽得到嗎?",
+        "expected": "你带到耳机又听嘅到咩"
+    },
+    {
+        "transcription": "我想關下天窗幕簾",
+        "expected": "我 想 关下 天窗 幕帘"
+    },
+    {
+        "transcription": "18633",
+        "expected": "十 八 六 三 三"
+    },
+    {
+        "transcription": "你可以安靜一點",
+        "expected": "你嘅可以安静少少"
+    },
+    {
+        "transcription": "關閉對話",
+        "expected": "关闭 对话"
+    },
+    {
+        "transcription": " 너는 욕제야",
+        "expected": "你系玉姐嚟噶"
+    },
+    {
+        "transcription": "我和阿妹的傑作",
+        "expected": "我同阿妹嘅杰作"
+    },
+    {
+        "transcription": "下一輩子不結婚不做女人做過日本事的男人",
+        "expected": "下一世唔结婚唔做女人做个有本事嘅男人"
+    },
+    {
+        "transcription": "聽藍芽音樂",
+        "expected": "听 蓝牙 音乐"
+    },
+    {
+        "transcription": "到底你有没有想过这些问题?",
+        "expected": "到底你有冇谂过依啲问题先"
+    },
+    {
+        "transcription": "一星期有四天左右",
+        "expected": "一个星期有四日度啦"
+    },
+    {
+        "transcription": "縮小一點地圖",
+        "expected": "缩细 啲 个 地图"
+    },
+    {
+        "transcription": "馬上把他刪掉吧",
+        "expected": "嗱嗱声删咗佢啦"
+    },
+    {
+        "transcription": "打開廣播",
+        "expected": "打开 个 广播"
+    },
+    {
+        "transcription": "我最喜歡的一首歌,代表著我的新鮮",
+        "expected": "我最中意嘅一首歌代表着我嘅新鲜"
+    },
+    {
+        "transcription": "停了副駕駛加熱",
+        "expected": "停 咗 个 驾副驾驶 加热"
+    },
+    {
+        "transcription": "你能不能抬到了",
+        "expected": "你谂得太多嘞"
+    },
+    {
+        "transcription": "小時候試吃過",
+        "expected": "细个时食过"
+    },
+    {
+        "transcription": " Thiểu quán đi",
+        "expected": "调光 啲"
+    },
+    {
+        "transcription": "把空调开到最小",
+        "expected": "将 个 空调 开 到 最细"
+    },
+    {
+        "transcription": "老闆,你好點嗎?需要耳機支持",
+        "expected": "老细你好掂啊需要以嘅支持"
+    },
+    {
+        "transcription": "打開超速提醒",
+        "expected": "打开 超速 提醒"
+    },
+    {
+        "transcription": "我要跳轉到地圖那裡",
+        "expected": "我 要 跳 转到 地图 嗰度"
+    },
+    {
+        "transcription": "很刺眼,關了天窗",
+        "expected": "好 刺眼 啊 关咗 天窗 佢 啦"
+    },
+    {
+        "transcription": "惟雄縮中了特馬都不出聲",
+        "expected": "维洪叔中咗特码都唔出声"
+    },
+    {
+        "transcription": "比打字真係快得多,你一講就完OK囉!",
+        "expected": "比打字真系快得多你一讲就完OK咯"
+    },
+    {
+        "transcription": "收藏首歌",
+        "expected": "收藏 首 歌"
+    },
+    {
+        "transcription": "跳暗歌評",
+        "expected": "调暗 个 屏"
+    },
+    {
+        "transcription": "教我用語音控制",
+        "expected": "教 我 用 语音 控制"
+    },
+    {
+        "transcription": "新鮮土福靈",
+        "expected": "新鲜土茯苓"
+    },
+    {
+        "transcription": "若想了解一下你們年輕人的生活方式",
+        "expected": "若想了解下你哋年轻人的生活方式"
+    },
+    {
+        "transcription": "找張三博去公司電話",
+        "expected": "稳 张三 拨 佢 公司 电话"
+    },
+    {
+        "transcription": "白去不厭的站岗",
+        "expected": "百去不厌的湛江"
+    },
+    {
+        "transcription": "麻煩將空調調低兩度",
+        "expected": "麻烦 将 个 空调 调低 两 度"
+    },
+    {
+        "transcription": "實時路放開",
+        "expected": "实时 路况 开启"
+    },
+    {
+        "transcription": "不要耍傻把萌啦",
+        "expected": "唔好诈傻扮懵啦"
+    },
+    {
+        "transcription": "喂師傅今晚得閒打麻將嗎?得閒了",
+        "expected": "韦师傅今晚得闲打麻雀吗得闲聊"
+    },
+    {
+        "transcription": "是啊是啊,看你的老鼠",
+        "expected": "系啊系啊睇你嘅老鼠"
+    },
+    {
+        "transcription": "你好弱 你好弱",
+        "expected": "你好弱你好弱"
+    },
+    {
+        "transcription": "我們會盡力做好每一項工",
+        "expected": "我哋会尽力做好每一行个"
+    },
+    {
+        "transcription": "整光少少 平幕光度",
+        "expected": "整光 少少 屏幕 光 度"
+    },
+    {
+        "transcription": "唐老師有沒有跟你說田徑番什麼時候開始?",
+        "expected": "唐老师有冇同你讲田径翻什么时候开始"
+    },
+    {
+        "transcription": "很冷啊,調高一點空調溫度吧",
+        "expected": "好冻 啊 调高 啲 个 空调 温度 啦"
+    },
+    {
+        "transcription": "我到廣深開檔",
+        "expected": "我到广新开档"
+    },
+    {
+        "transcription": "這班賊頭最近不是沒有行動嗎?",
+        "expected": "呢班柒头呢排唔系冇行动呢"
+    },
+    {
+        "transcription": "想想那些系統功能數據流程科技還有軟件那邊",
+        "expected": "谂下嗰啲诶系统功能啊数据流程科技仲有啊软件嗰边啊"
+    },
+    {
+        "transcription": "頭尾開掌",
+        "expected": "头未开奖"
+    },
+    {
+        "transcription": "好像一開始是你先跟我說話的現在反而問我是誰",
+        "expected": "好似一开始系你同我讲嘢先嘅喎依家反而问我系边个"
+    },
+    {
+        "transcription": "我想开大风量",
+        "expected": "我 想 开大 啲 风量"
+    },
+    {
+        "transcription": "起碼能升五個段位",
+        "expected": "起码能升五个段位"
+    },
+    {
+        "transcription": "空调温度调到最大",
+        "expected": "空调 温度 调到 最大"
+    },
+    {
+        "transcription": "我不想聽這首歌下一首",
+        "expected": "我 唔 想 听 呢首 歌 下 一首"
+    },
+    {
+        "transcription": "男朋友都沒有,何來有寶寶?你以為我是你嗎?",
+        "expected": "男朋友都冇何来有 B B 你以为我系你啊"
+    },
+    {
+        "transcription": "今晚有空嗎?",
+        "expected": "今晚得唔得闲啦"
+    },
+    {
+        "transcription": "結束這個對話吧",
+        "expected": "结束 个对话 啦"
+    },
+    {
+        "transcription": "今天是幾號呀?",
+        "expected": "今日 系 几号 啊"
+    },
+    {
+        "transcription": "隨便聽,快點打開",
+        "expected": "随便 听 快 啲打开"
+    },
+    {
+        "transcription": "投眉開掌",
+        "expected": "头未开奖"
+    },
+    {
+        "transcription": "你知道我從來都不計較這些東西",
+        "expected": "你知道我从来都唔计较呢啲嘢噶啦"
+    },
+    {
+        "transcription": "今天示范一下",
+        "expected": "真人示范下"
+    },
+    {
+        "transcription": "海灘島",
+        "expected": "海滩岛"
+    },
+    {
+        "transcription": "我心裡真的很難過",
+        "expected": "我心理真系好难过"
+    },
+    {
+        "transcription": "都市上一個電台好聽",
+        "expected": "都 是 上 一个 电台 好听"
+    },
+    {
+        "transcription": "切換到2D地圖",
+        "expected": "切换 到 二 D 地图"
+    },
+    {
+        "transcription": "不放紅豆",
+        "expected": "播放 红豆"
+    },
+    {
+        "transcription": "唐老師有沒有跟你說田徑番什麼時候開始",
+        "expected": "唐老师有冇跟你讲田径翻什么时候开始"
+    },
+    {
+        "transcription": "我發不到紅包啊",
+        "expected": "我发唔到红包啊"
+    },
+    {
+        "transcription": "即收藏,刪除它",
+        "expected": "即收藏 删咗佢"
+    },
+    {
+        "transcription": "我想現在的音樂設置成循環播放",
+        "expected": "我 想 依家 嘅 音乐 设置 成 循环 播放"
+    },
+    {
+        "transcription": "平时买过间跟着没开门去咗另外一间",
+        "expected": "平时买个间跟住冇开门去咗另外一间"
+    },
+    {
+        "transcription": "我跟你一起玩",
+        "expected": "我同你玩埋咯"
+    },
+    {
+        "transcription": "收藏的電台好聽點",
+        "expected": "收藏 嘅 电台 好听 啲"
+    },
+    {
+        "transcription": "幾個賓還是有的",
+        "expected": "几个崩仲系有嘅"
+    },
+    {
+        "transcription": "把吹風模式設為吹腳",
+        "expected": "将 吹风 模式 设 设为 吹 脚"
+    },
+    {
+        "transcription": "我知道你今晚沒有打算陪我",
+        "expected": "我知你今晚冇打算陪我嘅啦"
+    },
+    {
+        "transcription": "特別是那個學費很貴這個專業",
+        "expected": "特别系嗰个学费好贵呢个专业啊嘛"
+    },
+    {
+        "transcription": "我很小時候",
+        "expected": "我好细个喎"
+    },
+    {
+        "transcription": "是的,你休息吧",
+        "expected": "系啊休息啦你"
+    },
+    {
+        "transcription": "我想試試用語音識別教我",
+        "expected": "我 想 试下 用 语音 识别 教 下 我"
+    },
+    {
+        "transcription": "美波",
+        "expected": "微博"
+    },
+    {
+        "transcription": "轉上一首歌",
+        "expected": "转翻上 一只 歌"
+    },
+    {
+        "transcription": "再次謝謝你",
+        "expected": "再次唔该晒你"
+    },
+    {
+        "transcription": "最經濟路線先",
+        "expected": "最 经济 路线 先"
+    },
+    {
+        "transcription": "上車去死都要找一首歌出來",
+        "expected": "上车佢死都要搵一首歌出嚟"
+    },
+    {
+        "transcription": "不要這個FM電台",
+        "expected": "唔 要 呢个 F M 电台"
+    },
+    {
+        "transcription": "價錢多少也沒有說",
+        "expected": "价钱几多又冇讲啊"
+    },
+    {
+        "transcription": "從花崗上",
+        "expected": "松花江上"
+    },
+    {
+        "transcription": "我想放大這個地圖",
+        "expected": "我 想 放大 啲 个 地图 啊"
+    },
+    {
+        "transcription": "把地圖弄大一點",
+        "expected": "整大 啲 嗰 地图"
+    },
+    {
+        "transcription": "事先提醒誰要睡覺了聲...覺...靜音",
+        "expected": "事先提醒边个要瞓觉啦声校静音"
+    },
+    {
+        "transcription": "發你一張圖過來吧",
+        "expected": "发你一张图过嚟啊"
+    },
+    {
+        "transcription": "調光的屏幕很暗",
+        "expected": "调 返 光 啲 屏幕 好暗"
+    },
+    {
+        "transcription": "其實K2總指的是什麼類型的歌?",
+        "expected": "其实奇异种子系咩来噶"
+    },
+    {
+        "transcription": "如何使用语音识别",
+        "expected": "点样 史用 语音识 识别"
+    },
+    {
+        "transcription": "好像是藏藍色三角阿瑟",
+        "expected": "好似系着蓝色衫个阿sir"
+    },
+    {
+        "transcription": "我要最短時間到人民廣場",
+        "expected": "我 要 最 短 时间 到 人民 广场"
+    },
+    {
+        "transcription": "系统读出未读短信",
+        "expected": "系统 读出 未读 短信"
+    },
+    {
+        "transcription": "這個不好用",
+        "expected": "这个不好用"
+    },
+    {
+        "transcription": "将副作业加热",
+        "expected": "将 副 座椅 加热"
+    },
+    {
+        "transcription": " PowerFone XT YUM-NGO",
+        "expected": "播放S D音乐"
+    },
+    {
+        "transcription": "刀仔教的嗎?",
+        "expected": "都使教嘅咩"
+    },
+    {
+        "transcription": "不發屌啦,這個老成",
+        "expected": "唔发屌你个老醒啊"
+    },
+    {
+        "transcription": "昨天買了一部小米5",
+        "expected": "琴日买咗部小米五"
+    },
+    {
+        "transcription": "誰逆你睡覺呢?",
+        "expected": "边个益你唔瞓觉咧"
+    },
+    {
+        "transcription": "快點幫我關閉限行程",
+        "expected": "快 啲 帮我 关咗韩 限行 提醒"
+    },
+    {
+        "transcription": " 이제야",
+        "expected": "而且啊我"
+    },
+    {
+        "transcription": "那…怎算顯示東莞的呢?",
+        "expected": "咁点算显示东莞嘅咧"
+    },
+    {
+        "transcription": "打不打夠你們看電視呀?",
+        "expected": "打唔打搅你哋睇电视啊呀"
+    },
+    {
+        "transcription": "我想聽ipod上的音樂",
+        "expected": "我 想 听ipod上 嘅 音乐"
+    },
+    {
+        "transcription": "现在帮我打个电话去张三叔",
+        "expected": "而家 帮我 打 个 电话 去 张三 叔"
+    },
+    {
+        "transcription": "整個地圖出來",
+        "expected": "整个 地图 出 嚟"
+    },
+    {
+        "transcription": "自信",
+        "expected": "自信"
+    },
+    {
+        "transcription": "我知道你今晚沒有打算陪我",
+        "expected": "我知你今晚冇打算陪我噶啦"
+    },
+    {
+        "transcription": "幫我發個短訊",
+        "expected": "帮我 发 个 短信"
+    },
+    {
+        "transcription": "大家都知道,但是有多少人做得到你失去事业,单单健康的,都不是什么,个人认为。",
+        "expected": "个个都知道但系有几多个人做得到你无咗事业单单健康诶都系都唔系几咩咯个人认为"
+    },
+    {
+        "transcription": "請切換到上一頁",
+        "expected": "请 切换 到 上 一页"
+    },
+    {
+        "transcription": "打多個電話過去",
+        "expected": "打 多 个 电话 过去"
+    },
+    {
+        "transcription": "是啊,休息一下吧",
+        "expected": "系啊休息啊你嘞"
+    },
+    {
+        "transcription": "250171",
+        "expected": "二 五 零 一 七 一"
+    },
+    {
+        "transcription": "裙子的名字就是這樣",
+        "expected": "个群名就系咁啊嚟咯个"
+    },
+    {
+        "transcription": "重打電話",
+        "expected": "重 打 电话"
+    },
+    {
+        "transcription": "系统有什么功能展示一下",
+        "expected": "系统 有 咩 功能 展示 一下"
+    },
+    {
+        "transcription": "你當不當水性",
+        "expected": "你懂唔懂水性"
+    },
+    {
+        "transcription": "跳轉到地圖",
+        "expected": "跳 转到 地图"
+    },
+    {
+        "transcription": "我要聽IPOD的歌",
+        "expected": "我 要 听 iPod 嘅 歌"
+    },
+    {
+        "transcription": "1699164",
+        "expected": "十 六 九 九 一 六 四"
+    },
+    {
+        "transcription": "關注在耳加熱",
+        "expected": "关 住 座椅 加热"
+    },
+    {
+        "transcription": "167507",
+        "expected": "十 六 七 五 零 七"
+    },
+    {
+        "transcription": "我也很想吃多些大桃蔥菜",
+        "expected": "我都好想食多啲大头葱菜先咧"
+    },
+    {
+        "transcription": "小時候認識過",
+        "expected": "细嗰时食过"
+    },
+    {
+        "transcription": "不好意思發給你",
+        "expected": "唔好意思发俾你咯"
+    },
+    {
+        "transcription": "另一方面,他有關心我",
+        "expected": "另一方面佢又关心我"
+    },
+    {
+        "transcription": "我現在也是準備出發",
+        "expected": "我而家都系出整准备出发"
+    },
+    {
+        "transcription": "我要藏收藏夾裡面剔除這首歌",
+        "expected": "我 要 从 收藏夹 入边 剔除 呢首 歌"
+    },
+    {
+        "transcription": "接到航道家庭地址了",
+        "expected": "接 导航 到 家庭 地址 啦"
+    },
+    {
+        "transcription": "聽下一首歌",
+        "expected": "听下 一只 歌 仔"
+    },
+    {
+        "transcription": "梁老師,你現在有空嗎?",
+        "expected": "梁老师你家得唔得闲啊"
+    },
+    {
+        "transcription": "麻煩學習淨化",
+        "expected": "唔该 开下 净化嘞"
+    },
+    {
+        "transcription": "你想做的事不用問我",
+        "expected": "你想做嘅嘢唔使问过我噶"
+    },
+    {
+        "transcription": "麻煩你拉下天窗忘念",
+        "expected": "麻烦 你 拉 下 天窗 网帘"
+    },
+    {
+        "transcription": "หมาลับเหล่า",
+        "expected": "麻粒佬"
+    },
+    {
+        "transcription": "夢茶茶 喝 媽媽",
+        "expected": "蒙查查黑妈妈"
+    },
+    {
+        "transcription": "我到廣山開檔",
+        "expected": "我到广新开档"
+    },
+    {
+        "transcription": "入邊有些門,開天窗通下風",
+        "expected": "入边 有 啲 闷 开 天窗 通下 风"
+    },
+    {
+        "transcription": "我在想你生氣又生氣的樣子",
+        "expected": "我喺度谂紧你又生气又嬲个样依家"
+    },
+    {
+        "transcription": "尼波利到",
+        "expected": "李波嚟到"
+    },
+    {
+        "transcription": "我想關拜主座以加熱",
+        "expected": "我 想 关闭 主 座椅 加热"
+    },
+    {
+        "transcription": "上海明天的天氣如何?",
+        "expected": "上海 听日 嘅 天气 点样"
+    },
+    {
+        "transcription": "入內做咩",
+        "expected": "入嚟做咩"
+    },
+    {
+        "transcription": "直接收藏跳頻電台",
+        "expected": "直接 收藏 调频 电台 咯"
+    },
+    {
+        "transcription": "美寶儀",
+        "expected": "微博尔"
+    },
+    {
+        "transcription": "我想把車內的風調到最大",
+        "expected": "我 想 将 部车 入边 嘅 风 调到 最大"
+    },
+    {
+        "transcription": "打开天窗等空气流通",
+        "expected": "打开 天窗 等 空气 流通"
+    },
+    {
+        "transcription": "885 826 535",
+        "expected": "八 八 五 八 二 六 五 三 五"
+    },
+    {
+        "transcription": "還沒吃飯,生了沒有?",
+        "expected": "仲未食饭生咗未啊"
+    },
+    {
+        "transcription": "方向在哪?",
+        "expected": "方向喺边"
+    },
+    {
+        "transcription": "7883637",
+        "expected": "七 八 八 三 六 三 七"
+    },
+    {
+        "transcription": "757 367",
+        "expected": "七 五 七 三 六 七"
+    },
+    {
+        "transcription": "幫我取消收藏當前歌曲",
+        "expected": "帮我 取消 收藏 当前 歌曲"
+    },
+    {
+        "transcription": "江美的小孩是否賣了一部車?",
+        "expected": "江米个西仔系咪买咗部车啊"
+    },
+    {
+        "transcription": "收聽下個電台",
+        "expected": "收听 下 个 电台"
+    },
+    {
+        "transcription": "我想放大地圖",
+        "expected": "我 想 放大 地图"
+    },
+    {
+        "transcription": "我現在不在澳門,等我回澳門再告訴你",
+        "expected": "我现在唔喺澳门 等我翻去澳门 我再话你知"
+    },
+    {
+        "transcription": "不是像你這樣",
+        "expected": "唔系好似你咁"
+    },
+    {
+        "transcription": "把這個電台取消收藏",
+        "expected": "将 呢个 电台 取消 收藏"
+    },
+    {
+        "transcription": "把屏幕調到最暗可以嗎?",
+        "expected": "将屏幕 调到 最暗 可以 吗"
+    },
+    {
+        "transcription": "29個小時後終於找到我的傻老公",
+        "expected": "二十九个小时后终于搵到我嘅傻老公"
+    },
+    {
+        "transcription": " Sông pha con răng",
+        "expected": "松花江上"
+    },
+    {
+        "transcription": "私交性的",
+        "expected": "黐胶线嘅"
+    },
+    {
+        "transcription": "你不想認識阿巴特嗎?",
+        "expected": "你唔想识个哑巴得噶啦"
+    },
+    {
+        "transcription": "我想知道這條路的加油站在哪裏",
+        "expected": "我 想 知道 呢 条 路 嘅 加油站 喺 边度"
+    },
+    {
+        "transcription": "今晚我去阿媽家吃飯",
+        "expected": "今晚我过去阿妈度食饭"
+    },
+    {
+        "transcription": "想打開閒行提醒",
+        "expected": "亲 想 打开 限行 提醒"
+    },
+    {
+        "transcription": "不發屌你個老醒呀",
+        "expected": "唔发屌你个老醒啊"
+    },
+    {
+        "transcription": "請將導航開傳了",
+        "expected": "唔该 将 导航 开 全览"
+    },
+    {
+        "transcription": "鄧以文陳靜夏",
+        "expected": "邓绮文陈静霞"
+    },
+    {
+        "transcription": "可不可以收藏这个电台的",
+        "expected": "可 唔 可以 收藏 呢个 电台 噶"
+    },
+    {
+        "transcription": " 저는 이 컬러가",
+        "expected": "我 想 听S D歌 咯"
+    },
+    {
+        "transcription": "我要聽歌",
+        "expected": "我 要 听 歌"
+    },
+    {
+        "transcription": "10593431",
+        "expected": "一 零 九 三 四 三 一"
+    },
+    {
+        "transcription": "就是我不用吸去绑定微信",
+        "expected": "就系我唔用给佢绑定微信啦"
+    },
+    {
+        "transcription": "你不想認識那個阿瓜的話",
+        "expected": "你唔想识个哑瓜得噶哇"
+    },
+    {
+        "transcription": "切換到地圖",
+        "expected": "切换 到 地图"
+    },
+    {
+        "transcription": "翻上一手",
+        "expected": "翻上 一首"
+    },
+    {
+        "transcription": "我想重新撥多次號碼",
+        "expected": "我 想 重新 拨 多 次 个 号码"
+    },
+    {
+        "transcription": "播放下個電台",
+        "expected": "播放 下 个 电台"
+    },
+    {
+        "transcription": "你不是很睏嗎?還不早點休息",
+        "expected": "你唔系好眼瞓咩仲唔早啲休息"
+    },
+    {
+        "transcription": "現在是甚麼時候?",
+        "expected": "而家 咩 位置"
+    },
+    {
+        "transcription": "我知道問我是應該,但是有的時候,該問就問,不該問就不要問。",
+        "expected": "我知道问我系应该但系有嘅时候该问就问唔该问就唔好问"
+    },
+    {
+        "transcription": "关闭实时路放",
+        "expected": "关闭 实时 路况 啦"
+    },
+    {
+        "transcription": "我要做的事",
+        "expected": "柯要做嘅事"
+    },
+    {
+        "transcription": "粵語主廚就沒有了不過女生的話就可以安排一下男主廚真的沒有了",
+        "expected": "粤语主厨就冇啦不过女仔嘅话咧就可以安排下男主厨啊真系冇啦"
+    },
+    {
+        "transcription": "關閉實時路況",
+        "expected": "关下 实时 路况"
+    },
+    {
+        "transcription": "只為你家默默付出",
+        "expected": "只为你家默默付出"
+    },
+    {
+        "transcription": "我現在也過得很開心",
+        "expected": "我而家都过得好开心啦"
+    },
+    {
+        "transcription": "你在做什麼?",
+        "expected": "喺度做紧咩啊"
+    },
+    {
+        "transcription": "直接播放上一個電台",
+        "expected": "直接 播放 上 一个 电台 啦"
+    },
+    {
+        "transcription": "有些熱添關了主價的家業",
+        "expected": "有 啲 热 添 关咗 主驾 个 加热"
+    },
+    {
+        "transcription": "還要多久才到?",
+        "expected": "仲 要 几耐 先 到 啊"
+    },
+    {
+        "transcription": "超速提示打开",
+        "expected": "超速 提示 打开"
+    },
+    {
+        "transcription": "打咸露眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "transcription": "直接手機撥打呼叫中心",
+        "expected": "直接 手机 拨打 呼叫 中心"
+    },
+    {
+        "transcription": "你這個臭小子",
+        "expected": "顶你个臭西啊"
+    },
+    {
+        "transcription": "你想得太多了",
+        "expected": "你谂得太多啦"
+    },
+    {
+        "transcription": "我要開空氣淨化氣",
+        "expected": "我 要 开 空气 净化器"
+    },
+    {
+        "transcription": "都沒有玩夠呢?",
+        "expected": "都未有玩够咧"
+    },
+    {
+        "transcription": "今晚過來吧",
+        "expected": "今晚过嚟嘛"
+    },
+    {
+        "transcription": " Φίλοι μου, ευχαριστώ.",
+        "expected": "飞到几钱"
+    },
+    {
+        "transcription": "我上回公司",
+        "expected": "我 想 翻 公司"
+    },
+    {
+        "transcription": "對呀,看你的老鼠",
+        "expected": "系啊系啊睇你嘅老鼠"
+    },
+    {
+        "transcription": "請關閉天窗通風",
+        "expected": "唔该 关闭 天窗 通风"
+    },
+    {
+        "transcription": "快点放SD卡的歌仔出来听听吧",
+        "expected": "快 啲 放 SD 卡 嘅 歌 仔出 嚟 听 下 啦"
+    },
+    {
+        "transcription": "今天講了一個任務橋樑",
+        "expected": "今日讲咗个任务乔梁"
+    },
+    {
+        "transcription": "年幼有没有问题",
+        "expected": "年休有冇问题"
+    },
+    {
+        "transcription": "231314",
+        "expected": "二 三 一 三 一 四"
+    },
+    {
+        "transcription": "好像一開始,是你跟我說什麼先過,現在反而問我是誰",
+        "expected": "好似一开始系你同我讲咩先个宜家反而问我系边个"
+    },
+    {
+        "transcription": "人家叫他去深密島踩單車他也不敢去",
+        "expected": "人哋叫佢去生物岛踩单车佢又都唔敢去"
+    },
+    {
+        "transcription": "無緣無故被關了",
+        "expected": "无啦啦被删咗"
+    },
+    {
+        "transcription": "都幾多佢",
+        "expected": "督几刀佢"
+    },
+    {
+        "transcription": "你這樣小孩子,你父母很不開心的",
+        "expected": "你咁细生细路你爸妈好唔开心噶"
+    },
+    {
+        "transcription": "我到時發條訊息給你",
+        "expected": "我到时发条信息俾你"
+    },
+    {
+        "transcription": "但我不知道苹果有没有这个功能",
+        "expected": "不过我唔知道苹果有冇呢个功能咧"
+    },
+    {
+        "transcription": "不好意思被你吵醒了",
+        "expected": "唔好意思俾你嘈醒咗"
+    },
+    {
+        "transcription": "請切換去上一頁",
+        "expected": "请 切换 去 上 一页 啦"
+    },
+    {
+        "transcription": "幫我接通電話",
+        "expected": "帮我 接通 个电话"
+    },
+    {
+        "transcription": "你的腳有沒有好一點還有沒有以前那樣腫",
+        "expected": "你嗰只脚有冇好啲仲有冇以前咁肿"
+    },
+    {
+        "transcription": "另一方面,他有关心我",
+        "expected": "另一方面佢又关心我"
+    },
+    {
+        "transcription": "關閉天窗網列",
+        "expected": "关闭 天窗 网帘"
+    },
+    {
+        "transcription": "保持這個電台",
+        "expected": "keep 住 呢个 电台 先"
+    },
+    {
+        "transcription": "你不為食,你餐餐有大餐食",
+        "expected": "你不胃食你餐餐有大餐食"
+    },
+    {
+        "transcription": "先不聽歌了",
+        "expected": "先 唔 听 歌 住 啦"
+    },
+    {
+        "transcription": "叫他快遞羊板割离",
+        "expected": "叫佢快递样板过嚟"
+    },
+    {
+        "transcription": "包房",
+        "expected": "播放"
+    },
+    {
+        "transcription": "我見過你真人了",
+        "expected": "我见过你真人啦"
+    },
+    {
+        "transcription": "燜狗肉有什麼好吃?",
+        "expected": "炆狗肉有咩好食"
+    },
+    {
+        "transcription": "我聽得不清楚,但Sandy",
+        "expected": "我 听 得 唔 清楚 大 声啲"
+    },
+    {
+        "transcription": "屏幕亮度太亮了,可以把屏幕調到最暗嗎?",
+        "expected": "屏幕 亮度 太 亮 啦 可以 把 屏幕 调到 最暗 吗"
+    },
+    {
+        "transcription": "廣播打開",
+        "expected": "广播 打开"
+    },
+    {
+        "transcription": "請幫我把電腦模式設為3D",
+        "expected": "唔该 帮我 将 地图 模式 设为 三 D 啦"
+    },
+    {
+        "transcription": "戶口還有5塊水可以幫他下注結果想買球",
+        "expected": "户口仲有五嚿水可以帮佢落注嘅果想买波"
+    },
+    {
+        "transcription": "加快升電早日出裝",
+        "expected": "加快升电早日出装"
+    },
+    {
+        "transcription": "我现在在哪个位置",
+        "expected": "我 宜家 喺 边个 位置"
+    },
+    {
+        "transcription": "系統節隨便聽",
+        "expected": "系统 设 随便 听"
+    },
+    {
+        "transcription": "想唱這首歌",
+        "expected": "收藏 呢首 歌"
+    },
+    {
+        "transcription": "做什麼你說話這麼溫柔?",
+        "expected": "做咩你讲嘢咁温柔"
+    },
+    {
+        "transcription": "老師,這些題目就麻煩你了",
+        "expected": "老师呢啲题目就唔该你啦喎"
+    },
+    {
+        "transcription": "你好",
+        "expected": "你好"
+    },
+    {
+        "transcription": "放多少日假?",
+        "expected": "放几多日假啊"
+    },
+    {
+        "transcription": "調至最低溫度",
+        "expected": "较 到 最低 温度 啦"
+    },
+    {
+        "transcription": "你也在忙",
+        "expected": "你都喺度忙紧喎"
+    },
+    {
+        "transcription": "我聽SD上面的歌 幫我打開SD",
+        "expected": "我 啫S D上面 嘅 歌 啊 帮我 打开S D"
+    },
+    {
+        "transcription": "5G",
+        "expected": "唔 接"
+    },
+    {
+        "transcription": "你這麼大女兒喝的是什麼奶粉啊",
+        "expected": "你咁大嗰女饮嘅系乜奶粉啊"
+    },
+    {
+        "transcription": "播上一首歌吧",
+        "expected": "播 翻 上 一首 歌 啦"
+    },
+    {
+        "transcription": "我有太阳帽",
+        "expected": "我 要 听 音乐"
+    },
+    {
+        "transcription": "把音量調小一點",
+        "expected": "将 音量 开 细 啲"
+    },
+    {
+        "transcription": " Tô hồng tô mục tiết tỉ",
+        "expected": "导航 到 目的地"
+    },
+    {
+        "transcription": "直接把當前電台從收藏夾中刪除",
+        "expected": "直接 把 当前 电台 从 收藏夹 中 删除"
+    },
+    {
+        "transcription": "一個人在做什麼?",
+        "expected": "一个人喺度做乜嘢啊"
+    },
+    {
+        "transcription": "我今天在家裡",
+        "expected": "我今日喺屋企呀"
+    },
+    {
+        "transcription": "我想撥打張三電話",
+        "expected": "我 想 拨打 张三 电话"
+    },
+    {
+        "transcription": "為公司",
+        "expected": "回 公司"
+    },
+    {
+        "transcription": "把地圖縮小一點",
+        "expected": "将 地地图 缩细 啲"
+    },
+    {
+        "transcription": "是不是我不說話,人們覺得我很欺負呢?",
+        "expected": "系唔系我唔出声啲人觉得我好虾呢"
+    },
+    {
+        "transcription": "我先調一下",
+        "expected": "我 调下 先"
+    },
+    {
+        "transcription": "看看實時路況",
+        "expected": "睇 下 实时 路况"
+    },
+    {
+        "transcription": "明天回去何時下來",
+        "expected": "听日翻去几时落嚟"
+    },
+    {
+        "transcription": "關通條",
+        "expected": "关 空调"
+    },
+    {
+        "transcription": "重新拨通电话",
+        "expected": "重新 拨 通 电话"
+    },
+    {
+        "transcription": "怕潮",
+        "expected": "怕丑"
+    },
+    {
+        "transcription": "說什麼呀?我怕你兒子跟他媽媽說而已",
+        "expected": "讲乜嘢啊我怕你个仔同佢妈咪讲咋"
+    },
+    {
+        "transcription": "和我放IPOD上的音幕",
+        "expected": "同我 放iPod 上面 嘅音乐"
+    },
+    {
+        "transcription": "不可以休息了,有人放大家",
+        "expected": "唔可以休息啦有人放大假"
+    },
+    {
+        "transcription": "我現在不需要天窗通風",
+        "expected": "我 现在需 唔 需要 天窗 通风"
+    },
+    {
+        "transcription": "不要說得那麼粗口",
+        "expected": "唔好讲得咁粗口咧"
+    },
+    {
+        "transcription": "45561797",
+        "expected": "四 五 五 六 一 七 九 七"
+    },
+    {
+        "transcription": "空调关",
+        "expected": "空调 关"
+    },
+    {
+        "transcription": "是我自己不爭氣而已,我明白的,不要緊,不會責怪任何一個人的",
+        "expected": "系我自己唔争气啫我明白噶唔紧要唔会责怪任何一个人嘅"
+    },
+    {
+        "transcription": "是的,你休息一下吧",
+        "expected": "系啊休息啊你呢"
+    },
+    {
+        "transcription": "重複播放多次剛才的節目",
+        "expected": "重复 播 多 次 头先 嘅 节目"
+    },
+    {
+        "transcription": "給我打開了天窗",
+        "expected": "同我 开咗 个 天窗 佢"
+    },
+    {
+        "transcription": "經過中信走到體育東十字路口",
+        "expected": "经过中信中信行到呢个体育东嗰个十字路口"
+    },
+    {
+        "transcription": "某上班...什麼",
+        "expected": "冇上班咩"
+    },
+    {
+        "transcription": "不可能功德盡是",
+        "expected": "不可能攻得进去"
+    },
+    {
+        "transcription": "大家的商品",
+        "expected": "带遮的相片"
+    },
+    {
+        "transcription": "我想跟你說4.3號出來了",
+        "expected": "诶我想同你讲四点三好出嚟嘞"
+    },
+    {
+        "transcription": "轉內循環",
+        "expected": "转 内 循环"
+    },
+    {
+        "transcription": "千萬不要衝動",
+        "expected": "千祈唔好冲动"
+    },
+    {
+        "transcription": "看能不能入球",
+        "expected": "睇入唔入球啫"
+    },
+    {
+        "transcription": "有些熱車內風量調到最大",
+        "expected": "有 啲 热 车内 风量 调到 最大"
+    },
+    {
+        "transcription": "我要輸入目的地",
+        "expected": "我 要 输入 目的地"
+    },
+    {
+        "transcription": "收藏音樂",
+        "expected": "收藏 音乐 啦"
+    },
+    {
+        "transcription": "昨天買了一部小米5",
+        "expected": "琴日买咗部小米五"
+    },
+    {
+        "transcription": "寶仔",
+        "expected": "簿仔"
+    },
+    {
+        "transcription": "我現在想去竹林樓101號",
+        "expected": "我 依家 想 去 竹林 路 一零一 号"
+    },
+    {
+        "transcription": "用嘴巴搭救",
+        "expected": "用把口搭够"
+    },
+    {
+        "transcription": "在收藏夾關了電台",
+        "expected": "喺收藏夹 删咗 个 电台"
+    },
+    {
+        "transcription": "音樂太大聲了,調低吧",
+        "expected": "音乐 太 大声 啦 调翻 低 啦"
+    },
+    {
+        "transcription": "你們女生應該不會玩遊戲吧",
+        "expected": "你哋女仔应该唔会玩游戏个啦"
+    },
+    {
+        "transcription": "又笑又哭",
+        "expected": "系又笑又喊"
+    },
+    {
+        "transcription": "原來有什麼便利店呢?",
+        "expected": "沿途 有 咩 嘢 便利店 呢"
+    },
+    {
+        "transcription": "進來幹什麼?",
+        "expected": "入嚟做咩"
+    },
+    {
+        "transcription": "聽下一首歌",
+        "expected": "听下 一首 歌"
+    },
+    {
+        "transcription": "嘿,我想跟你說四點好七雷呢",
+        "expected": "诶我想同你讲四点好出来嘞"
+    },
+    {
+        "transcription": " Chuyên môn mây dính",
+        "expected": "厨柜门未整"
+    },
+    {
+        "transcription": "單曲循環播放",
+        "expected": "单曲 循环 播放"
+    },
+    {
+        "transcription": "特別是那些學費很貴的專業",
+        "expected": "特别系嗰啲学费好贵呢个专业啊嘛"
+    },
+    {
+        "transcription": "我爸爸睡客廳",
+        "expected": "我老豆瞓客厅"
+    },
+    {
+        "transcription": "到剛剛好跳下",
+        "expected": "度 啱啱 好 调下 啦"
+    },
+    {
+        "transcription": "打開地圖給我",
+        "expected": "打开 地图 俾 我"
+    },
+    {
+        "transcription": "繼續播放音樂",
+        "expected": "继续 播放 音乐"
+    },
+    {
+        "transcription": "後面還有一個小寶,有個三個袋",
+        "expected": "后边仲有个簿仔有个三个袋"
+    },
+    {
+        "transcription": "打开功能说明",
+        "expected": "打开 功能 说明"
+    },
+    {
+        "transcription": "比平空好",
+        "expected": "比平胸好"
+    },
+    {
+        "transcription": "娟姐麻煩你把節目表發給我看看",
+        "expected": "娟姐麻烦你嗰节目表发俾我睇一睇啊"
+    },
+    {
+        "transcription": "你知道我從來都不計較這些東西的啦",
+        "expected": "你知道我从嚟都唔计较依啲嘢噶啦"
+    },
+    {
+        "transcription": "羅剛橙就看得明白啦",
+        "expected": "萝岗橙就睇得明啦"
+    },
+    {
+        "transcription": "我想將超速提示關掉",
+        "expected": "我 想 将 超速 提示 关掉"
+    },
+    {
+        "transcription": "這班賊頭最近當然沒行動啦用口就夠",
+        "expected": "呢班柒头呢排梗系冇行动啦用把口就够"
+    },
+    {
+        "transcription": "我想減弱音量",
+        "expected": "我 想 减弱 音量"
+    },
+    {
+        "transcription": "我要打個電話給急救中心",
+        "expected": "我 要 打 个 电话 俾 急救 中心"
+    },
+    {
+        "transcription": "可以代多少?",
+        "expected": "可以袋几多啊"
+    },
+    {
+        "transcription": "你兩個",
+        "expected": "你两嗰"
+    },
+    {
+        "transcription": "不用開路線傳籃了",
+        "expected": "唔 使 开 路线 全览 啦"
+    },
+    {
+        "transcription": "看着那张,真的消失了吗?",
+        "expected": "睇住嗰张真系消失咗喎"
+    },
+    {
+        "transcription": "偷懶啊 去撩啊 偷懶啊",
+        "expected": "偷懒啊去聊啊偷懒啊"
+    },
+    {
+        "transcription": "接著賣遊書",
+        "expected": "跟住卖又输啦"
+    },
+    {
+        "transcription": "打開天窗通下風",
+        "expected": "打开 个 天窗 通下 风 啦"
+    },
+    {
+        "transcription": "是不是很少我打拔畫的字出來呀?",
+        "expected": "系咪好少我打白话啲字出嚟啊"
+    },
+    {
+        "transcription": "下了中山",
+        "expected": "落咗中山啦"
+    },
+    {
+        "transcription": "停了電話",
+        "expected": "cut 咗 个 电话 佢"
+    },
+    {
+        "transcription": "將風量調細一點",
+        "expected": "将 个 风量 调 细 一 啲"
+    },
+    {
+        "transcription": "太合聽 我要把它切字成循環播放",
+        "expected": "太 啱 听 我 要 把佢 设置 成 循环 播放"
+    },
+    {
+        "transcription": "我想把屏幕調到最亮的",
+        "expected": "我 想 将 屏幕 校 到 最光 亮度"
+    },
+    {
+        "transcription": "我想回家吃飯",
+        "expected": "我 想 翻 屋企 食饭 啦"
+    },
+    {
+        "transcription": "懂得賭河",
+        "expected": "熄咗 个 导航"
+    },
+    {
+        "transcription": "黃定我都不用",
+        "expected": "横定我都唔用"
+    },
+    {
+        "transcription": "音量開大一點",
+        "expected": "音量 开大 少少"
+    },
+    {
+        "transcription": "秋天",
+        "expected": "秋天"
+    },
+    {
+        "transcription": "請靜音",
+        "expected": "静音 啦 唔该"
+    },
+    {
+        "transcription": "是在城隔旁的那間,記得叫什麼",
+        "expected": "系许晴隔篱嘅嗰度嗰间记得叫咩咯"
+    },
+    {
+        "transcription": "打開空氣淨化器",
+        "expected": "打开 空气 净化器"
+    },
+    {
+        "transcription": "你好啊,麻煩你幫我打開空氣淨化器",
+        "expected": "你好 啊 唔 该 你 帮我 打开 空气 净化器"
+    },
+    {
+        "transcription": "一天做十多個小時",
+        "expected": "咁咪一日做十几个钟"
+    },
+    {
+        "transcription": "整個周杰倫七里向專輯來聽下",
+        "expected": "整个 周杰伦 七里香 专辑 嚟 听下"
+    },
+    {
+        "transcription": "調低音量",
+        "expected": "调低个 音量佢"
+    },
+    {
+        "transcription": "看著那張真的消失了",
+        "expected": "睇住嗰张真系西消失咗喎"
+    },
+    {
+        "transcription": "關閉廣播",
+        "expected": "关闭 广播"
+    },
+    {
+        "transcription": "烈火紅心",
+        "expected": "烈火雄心"
+    },
+    {
+        "transcription": "取消收藏當前調幅AM電台",
+        "expected": "取消 收藏 当前 调幅 A M 电台 吧"
+    },
+    {
+        "transcription": "我想用手机接这个电话帮我连过来",
+        "expected": "我 想 用 个 手机 接 呢个 电话 帮我 连 过 嚟"
+    },
+    {
+        "transcription": "冠姐麻煩你發個節目表給我看看",
+        "expected": "观姐麻烦你发个节目表俾我睇睇啊"
+    },
+    {
+        "transcription": "限行提示開",
+        "expected": "限行 提示 开"
+    },
+    {
+        "transcription": "或許我也不用",
+        "expected": "横定我都唔拥"
+    },
+    {
+        "transcription": "打个电话13819224855",
+        "expected": "打 个 电话 一三八一九二二四八五五"
+    },
+    {
+        "transcription": " Y Linh",
+        "expected": "二 零"
+    },
+    {
+        "transcription": " Đình công bao liệu",
+        "expected": "连工包料"
+    },
+    {
+        "transcription": "我不用看導航全欄了",
+        "expected": "我 唔 使 睇 导航 全览 啦"
+    },
+    {
+        "transcription": "你這麼小,生小孩你父母會不開心?",
+        "expected": "你咁细生细路仔你爸妈好唔开心嘅喎"
+    },
+    {
+        "transcription": "過來我請你吃飯吧",
+        "expected": "过嚟我请你食饭啦"
+    },
+    {
+        "transcription": "麻煩打開導航全欄",
+        "expected": "唔该 打开 导航 全览"
+    },
+    {
+        "transcription": "我想了解一下用户手册",
+        "expected": "我 想 了解 下 用户 手册"
+    },
+    {
+        "transcription": "上收好聽點",
+        "expected": "上首 好听 啲"
+    },
+    {
+        "transcription": "本來以為是12月份的,就把機票都訂了",
+        "expected": "本来以为系十二月差嘅就把机票都订了"
+    },
+    {
+        "transcription": "還沒睡醒繼續睡,不要理他",
+        "expected": "未瞓醒继续瞓唔好理佢"
+    },
+    {
+        "transcription": "該做的事",
+        "expected": "柯要做嘅事"
+    },
+    {
+        "transcription": " Có thể mình sẽ gom con thiếu ngâm tiếp",
+        "expected": "个 屏 唔 使 咁 光 调暗 啲"
+    },
+    {
+        "transcription": "再聽多次上一首歌",
+        "expected": "再 听 多 次 上 一首 歌"
+    },
+    {
+        "transcription": "暫停講播",
+        "expected": "暂停 广播"
+    },
+    {
+        "transcription": "不用裝模作樣了",
+        "expected": "唔使扮嘢啦"
+    },
+    {
+        "transcription": "講個實事路況聽下",
+        "expected": "讲 个 实时 路况 听下"
+    },
+    {
+        "transcription": "是不是紫綫來的?",
+        "expected": "系唔系纸扇嚟嘅"
+    },
+    {
+        "transcription": "接個電話先",
+        "expected": "接 个 电话 先"
+    },
+    {
+        "transcription": "你從哪裡坐來深圳?",
+        "expected": "你从边度坐嚟深圳啊"
+    },
+    {
+        "transcription": "去到福山路、竹林路有什麼路線?幫我搜索一下",
+        "expected": "去 到 福山 路 竹林 路 有 咩 路线 啊 帮我 搜索 下"
+    },
+    {
+        "transcription": "播放上一部電台",
+        "expected": "播放 上 一个 电台"
+    },
+    {
+        "transcription": "你的衛生掃描",
+        "expected": "你啲维生素C咯"
+    },
+    {
+        "transcription": "FM電台變得越來越無聊,刪除吧!",
+        "expected": "个 F M 电台 变 得 越来越 无聊 删除 得 啦"
+    },
+    {
+        "transcription": "不是 開玩笑的 等下我放下你 你很沒面子",
+        "expected": "唔系讲笑嘅喎等下我放低你你好冇面喎"
+    },
+    {
+        "transcription": "好,不聊,幫我關了收音機",
+        "expected": "好 唔聊 帮我 关咗收音机"
+    },
+    {
+        "transcription": "你大女兒喝的是什麼奶粉?",
+        "expected": "你个大女饮嘅系乜奶粉啊"
+    },
+    {
+        "transcription": "840-7951",
+        "expected": "八 四 十 七 九 五 一"
+    },
+    {
+        "transcription": "不好意思找到了,在書包的衣服中藏著",
+        "expected": "唔好意思搵到啦喺书包嘅衣服藏住"
+    },
+    {
+        "transcription": "就是",
+        "expected": "就系"
+    },
+    {
+        "transcription": "我不要靜音",
+        "expected": "我 唔 要 静音"
+    },
+    {
+        "transcription": "打开天窗通风",
+        "expected": "打开 个 天窗 通下 风"
+    },
+    {
+        "transcription": "關個天窗網簾",
+        "expected": "关 个 天窗 网帘"
+    },
+    {
+        "transcription": "都是一件很開心的事",
+        "expected": "都系一件好开心嘅事"
+    },
+    {
+        "transcription": "前面有没有便利店?",
+        "expected": "前面 有 冇啲 便利店"
+    },
+    {
+        "transcription": "顯示指令讓來",
+        "expected": "显示 指令 样 例"
+    },
+    {
+        "transcription": "音樂之聲,你想點的歌給誰聽呢?",
+        "expected": "音乐 咨询 您 想 点嘅 歌 俾 边个 听 咧"
+    },
+    {
+        "transcription": " Chết cô dành hãy tụ Sô-me-a",
+        "expected": "一个人喺度做咩啊"
+    },
+    {
+        "transcription": "我想把空调温度调到最小",
+        "expected": "我 想 将 空调 温度 调到 最细"
+    },
+    {
+        "transcription": "單頂殼",
+        "expected": "丹顶鹤"
+    },
+    {
+        "transcription": "比平凶好",
+        "expected": "比平胸好"
+    },
+    {
+        "transcription": "幫我收藏這首歌",
+        "expected": "帮我 收藏 呢首 歌"
+    },
+    {
+        "transcription": "比教育有什麼好吃的",
+        "expected": "俾狗肉有乜好食喎"
+    },
+    {
+        "transcription": "入鄉隨俗,就這樣",
+        "expected": "入乡随俗系咁啦"
+    },
+    {
+        "transcription": "播放下一首",
+        "expected": "播放 下 一首"
+    },
+    {
+        "transcription": "又好笑又哭",
+        "expected": "系又好笑又喊"
+    },
+    {
+        "transcription": "起碼能升五個段位",
+        "expected": "起码能升五个段位"
+    },
+    {
+        "transcription": "請問我可不可以調低屏幕亮度",
+        "expected": "请问 我 可 唔 可以 调低 屏幕 亮度"
+    },
+    {
+        "transcription": "我要看檔,哪有空出去玩",
+        "expected": "我要睇档啊边度得闲出去玩"
+    },
+    {
+        "transcription": "我想把車內風量調到最大",
+        "expected": "我 想 把 车内 风量 调到 最大"
+    },
+    {
+        "transcription": "我想打开个限行提醒",
+        "expected": "我 想 打开 个 限行 提醒"
+    },
+    {
+        "transcription": "不怕小慶的下來帶生一起過去",
+        "expected": "唔经肇庆噶落嚟大沙一齐过去啦"
+    },
+    {
+        "transcription": "偷懶啊 去撩啊偷懶啊",
+        "expected": "偷懒啊去料啊偷懒啊"
+    },
+    {
+        "transcription": "翻OK",
+        "expected": "翻屋企"
+    },
+    {
+        "transcription": "打不打擾你看電視?",
+        "expected": "打唔打搅你睇电视啊"
+    },
+    {
+        "transcription": "覺得現在這個電台不好聽",
+        "expected": "觉得 依家 呢个 电台 唔 好 听"
+    },
+    {
+        "transcription": "請關閉十字路方",
+        "expected": "请 关闭 实时 路况"
+    },
+    {
+        "transcription": "好冷呀,麻煩關空調",
+        "expected": "好冻 啊 唔该 关 空调"
+    },
+    {
+        "transcription": "現在打開超速提示",
+        "expected": "宜家 打开 超速 提示"
+    },
+    {
+        "transcription": "你車上,他死都要,問首歌七禮。",
+        "expected": "你车上佢死都要搵首歌出嚟"
+    },
+    {
+        "transcription": "吃藥之後你想拍什麼給我?",
+        "expected": "食药之后你谂住影乜俾我"
+    },
+    {
+        "transcription": "查查世紀大道的路線看看什麼情況",
+        "expected": "查 下 世纪 大道 嘅 路线 睇 下 咩 情况"
+    },
+    {
+        "transcription": "先停了收音機",
+        "expected": "停 咗 个 收音机 先"
+    },
+    {
+        "transcription": "開高一點步空調",
+        "expected": "开 翻 高 啲 部 空调"
+    },
+    {
+        "transcription": "จิตจิ๊บกว่าที่วัน",
+        "expected": "直接 挂 断 电话"
+    },
+    {
+        "transcription": "放音幕",
+        "expected": "放 音乐"
+    },
+    {
+        "transcription": "麻煩你幫我發個短信給他",
+        "expected": "麻烦 你 帮我 发 个 短信 俾 佢"
+    },
+    {
+        "transcription": "大隻說,今天有沒有去釣魚?",
+        "expected": "大只讲今物有冇去条臭涌度钓鱼啊"
+    },
+    {
+        "transcription": "沒完你呢",
+        "expected": "冇预你咧"
+    },
+    {
+        "transcription": " 다하게",
+        "expected": "它 嘅"
+    },
+    {
+        "transcription": "快點打120",
+        "expected": "快 啲 打 一二零"
+    },
+    {
+        "transcription": "有時間的話我肯定參加的",
+        "expected": "有时间嘅话我肯定参加嘅"
+    },
+    {
+        "transcription": "刪除 當前收藏夾中調頻FM電台",
+        "expected": "删除 当前 收藏夹 中 调频 F M 电台"
+    },
+    {
+        "transcription": "9839930",
+        "expected": "九 八 三 九 九 三 零"
+    },
+    {
+        "transcription": "天底下哪有这么便宜的生意的有的话我都去做啦",
+        "expected": "天底下边有咁平嘅生意噶有嘅话我都去做啦"
+    },
+    {
+        "transcription": "退出歌曲播放",
+        "expected": "退出 歌曲 播放"
+    },
+    {
+        "transcription": "有什麼系統功能?",
+        "expected": "有 咩 系统 功能 啊"
+    },
+    {
+        "transcription": "還要牛肉串",
+        "expected": "仲要系牛肉丝嘅添"
+    },
+    {
+        "transcription": "最近當然沒有行動",
+        "expected": "呢排梗系冇行动啦"
+    },
+    {
+        "transcription": "你戴著耳機又聽的",
+        "expected": "你带到耳机又听嘅"
+    },
+    {
+        "transcription": "似鮫鱔",
+        "expected": "黐胶线"
+    },
+    {
+        "transcription": "播放音樂路徑收藏夾",
+        "expected": "播放 音乐 路径 收藏夹"
+    },
+    {
+        "transcription": "不用用超速提示",
+        "expected": "唔 使用 个 超速 提示 啦"
+    },
+    {
+        "transcription": "見到就給你",
+        "expected": "见到就俾你"
+    },
+    {
+        "transcription": "鄉下佬所為",
+        "expected": "乡下佬所为"
+    },
+    {
+        "transcription": "調低屏幕亮度",
+        "expected": "调低 啲 屏幕 亮度"
+    },
+    {
+        "transcription": "8 4 2 4 4",
+        "expected": "八 四 二 四 四"
+    },
+    {
+        "transcription": "6106939",
+        "expected": "六 一 零 六 九 三 九"
+    },
+    {
+        "transcription": "一群神經病",
+        "expected": "一班神经西啊"
+    },
+    {
+        "transcription": "幫我調暗一下庭木",
+        "expected": "帮我 调暗 下 个 亭幕"
+    },
+    {
+        "transcription": "061 6269",
+        "expected": "零 六 十 一 六 二 六 九"
+    },
+    {
+        "transcription": "他要做的事",
+        "expected": "佢要做嘅事"
+    },
+    {
+        "transcription": "所以你今晚又沒有捉象棋嗎?",
+        "expected": "水强你今晚有冇捉象棋咩"
+    },
+    {
+        "transcription": "我心裡真的很難過",
+        "expected": "我心理真系好难过啊"
+    },
+    {
+        "transcription": "首歌不好听取消收藏先",
+        "expected": "首 歌 唔 好听 取消 收藏 先"
+    },
+    {
+        "transcription": "國慶我不知道,要看情況了",
+        "expected": "国庆我唔知喎要睇情况啦"
+    },
+    {
+        "transcription": "你知道我從來都不計較這些東西",
+        "expected": "你知道我从来都唔计较呢啲嘢噶啦"
+    },
+    {
+        "transcription": "現在他的生意也不錯",
+        "expected": "依家佢生意都几好啊"
+    },
+    {
+        "transcription": "想聽CD的歌",
+        "expected": "想 听 C D 嘅 歌"
+    },
+    {
+        "transcription": "通報電話簿",
+        "expected": "同步 电话簿"
+    },
+    {
+        "transcription": "娟姐麻煩你發個節目表給我看看",
+        "expected": "娟姐麻烦你发个节目表俾我睇一睇啊"
+    },
+    {
+        "transcription": "看车轮就知道",
+        "expected": "look睇个look就知啦"
+    },
+    {
+        "transcription": "但我不知道蘋果有沒有這個功能",
+        "expected": "不过我唔知道苹果有无呢个功能咧"
+    },
+    {
+        "transcription": "好無聊呀,今日消失",
+        "expected": "好无聊啊今物消失"
+    },
+    {
+        "transcription": "你在做什麼呀?",
+        "expected": "你在做什么啊"
+    },
+    {
+        "transcription": "成港淮在這個群裡嗎?",
+        "expected": "程广怀喺唔喺呢个群度啊"
+    },
+    {
+        "transcription": "河哥,你休息一下,我們翌日再聚。",
+        "expected": "何哥咁你休息下我哋第日再聚"
+    },
+    {
+        "transcription": "關掉AAM電台",
+        "expected": "删咗 呢个 A M 电台"
+    },
+    {
+        "transcription": "沒可能供得進去",
+        "expected": "冇可能攻得入去"
+    },
+    {
+        "transcription": "打鹹爐眼睛通紅",
+        "expected": "打喊露眼睛通红"
+    },
+    {
+        "transcription": "我想聽下一首歌",
+        "expected": "我 想 听下 一首 歌 啊"
+    },
+    {
+        "transcription": "發哥又繼續跑步了,何尋聞停了一天",
+        "expected": "发哥又继续跑步啦吓琴物停咗一日喎"
+    },
+    {
+        "transcription": "還有多久才到世紀大道?",
+        "expected": "仲 有 几耐 先 到 世纪 大道"
+    },
+    {
+        "transcription": "26910390",
+        "expected": "二 六 九 一 零 三 九 十"
+    },
+    {
+        "transcription": "表姐有這麼亮的風景,都說吹到頭痛。",
+        "expected": "表姐有咁靓嘅风景都话吹到头痛"
+    },
+    {
+        "transcription": "說完了掛電話",
+        "expected": "讲 完 啦 挂 电话 啦"
+    },
+    {
+        "transcription": "看看我收藏入面有没有",
+        "expected": "睇 下 我 收藏 入边 有 冇"
+    },
+    {
+        "transcription": "499624",
+        "expected": "四 九 九 六 二 四"
+    }
+]
