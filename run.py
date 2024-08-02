@@ -5,6 +5,7 @@ from asr_datasets.guangzhou_daily_use import GuangzhouDailyUseDataset
 from asr_datasets.guangzhou_cabin import GuangzhouCabinDataset
 from asr_datasets.zoengjyutgaai_saamgwokjinji import ZoengjyutgaaiSaamgwokjinjiDataset
 from asr_datasets.wordshk_hiujin import WordshkHiujinDataset
+from asr_datasets.mixed_cantonese_and_english import MixedCantoneseAndEnglishDataset
 import torch
 import librosa
 import json
@@ -27,6 +28,8 @@ for dataset_index in range(num_datasets):
         dataset = ZoengjyutgaaiSaamgwokjinjiDataset(batch_size=batch_size)
     elif dataset_index == 4:
         dataset = WordshkHiujinDataset(batch_size=batch_size)
+    elif dataset_index == 5:
+        dataset = MixedCantoneseAndEnglishDataset(batch_size=batch_size)
     
     dataset_name = dataset.get_name()
 
