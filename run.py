@@ -15,7 +15,7 @@ from tqdm import tqdm
 device = ("cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu"))
 batch_size = 50
 num_models = 2
-num_datasets = 5
+num_datasets = 6
 
 for dataset_index in range(num_datasets):
     if dataset_index == 0:
