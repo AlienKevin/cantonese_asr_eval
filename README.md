@@ -7,7 +7,7 @@
 | Daily Use    | 5.64%                | 12.38%                               | 14.60%                      |
 | Commands     | 7.45%                | 14.22%                               | 17.83%                      |
 | Yue & Eng    | 9.05%                | 20.85%                               | 25.57%                      |
-| Storytelling | 14.52%               | 19.44%                               | 22.53%                      |
+| Storytelling | 14.46%               | 20.13%                               | 25.38%                      |
 | Synthetic    | 10.58%               | 14.20%                               | 15.05%                      |
 
 ## Open Source ASR Models
