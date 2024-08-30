@@ -7,7 +7,7 @@
 | Daily Use    | 5.64%                | 12.38%                               | 14.60%                      |
 | Commands     | 7.45%                | 14.22%                               | 17.83%                      |
 | Yue & Eng    | 9.05%                | 20.85%                               | 25.57%                      |
-| Storytelling | 14.46%               | 20.13%                               | 25.38%                      |
+| Storytelling | 14.67%               | 18.54%                               | 25.06%                      |
 | Synthetic    | 10.58%               | 14.20%                               | 15.05%                      |
 
 ## Open Source ASR Models
@@ -20,7 +20,7 @@
 2. **[Daily Use]** [Guangzhou Daily Use](https://huggingface.co/datasets/AlienKevin/guangzhou-daily-use-speech): 4.06 hours of transcribed Guangzhou Cantonese scripted speech focusing on daily use sentences, where 4,060 utterances contributed by ten speakers were contained.
 3. **[Commands]** [Guangzhou Cabin](https://huggingface.co/datasets/AlienKevin/guangzhou-cabin-speech): 5 hours of transcribed Guangzhou Cantonese scripted speech in the vehicle focusing on digits, commands and queries, where 6,219 utterances contributed by ten speakers were contained.
 4. **[Yue & Eng]** [Mixed Cantonese and English](https://huggingface.co/datasets/AlienKevin/mixed_cantonese_and_english_speech): 34.8 hours of mixed Cantonese and English audio spanning 18 topics related to daily life. The corresponding annotated text consists of 307,540 Chinese characters and 70,132 English words. Among the topics, the "Food" category has the highest frequency of English words, with a Chinese character to English word ratio of approximately 3:1. On the other hand, the "Tech News" topic has the lowest frequency of English words, approximately 8:1.
-5. **[Storytelling]** [Zoeng Jyutgaai's Romance of the Three Kingdomgs](https://huggingface.co/datasets/hon9kon9ize/zoengjyutgaai_saamgwokjinji): 307 utterances by Cantonese storyteller Zoeng Jyutgaai (張悦楷) on the classical work "Romance of the three kingdoms".
+5. **[Storytelling]** [Zoeng Jyutgaai's Romance of the Three Kingdomgs](https://huggingface.co/datasets/laubonghaudoi/zoengjyutgaai_saamgwokjinji): 1,402 utterances by Cantonese storyteller Zoeng Jyutgaai (張悦楷) on the classical work "Romance of the three kingdoms".
 6. **[Synthetic]** [words.hk sentences generated with AWS Polly](https://huggingface.co/datasets/AlienKevin/wordshk_cantonese_speech): 115K utterances generated with AWS Polly's Cantnoese voice Hiujin. Sentences are sourced from the the definitions and examples of the words.hk dictionary.
 
 ## Discussion
@@ -45,7 +45,7 @@
 
 ### Environment
 ```
-pip install funasr transformers torch torchaudio datasets librosa matplotlib tqdm
+pip install funasr transformers torch torchaudio datasets librosa matplotlib tqdm evaluate jiwer opencc
 ```
 See the `environment.yml` for a reference conda environment on the macOS.
 
