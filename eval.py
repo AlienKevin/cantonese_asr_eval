@@ -2,7 +2,9 @@ import json
 from evaluate import load
 import os
 import matplotlib.pyplot as plt
+from opencc import OpenCC
 
+converter = OpenCC('t2s')
 cer_metric = load("cer")
 
 def calculate_cer(expected, transcription):
@@ -15,8 +17,6 @@ def convert_to_simplified(text):
     """
     Convert traditional Chinese text to simplified Chinese using opencc.
     """
-    from opencc import OpenCC
-    converter = OpenCC('t2s')
     return converter.convert(text)
 
 def remove_emotion_and_event_tokens(text):
@@ -121,7 +121,8 @@ def plot_evaluation_results(evaluation_results, dataset_tasks):
     plt.yticks(fontsize=16)
     plt.legend(fontsize=18)
     plt.tight_layout()
-    plt.show()
+    plt.savefig("cer_chart.png")
+    plt.close()
 
 if __name__ == "__main__":
     evaluation_results = eval_all_results()
