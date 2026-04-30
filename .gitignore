@@ -3,4 +3,4 @@ FunASR/
 .DS_Store
 data/
 .ipynb_checkpoints/
-
+*.ipynb
