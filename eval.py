@@ -61,71 +61,80 @@ def eval(transcriptions_path):
     average_cer = total_cer / count if count > 0 else 0
     return average_cer
 
-def eval_all_results():
+def eval_all_results(models=None):
     from tqdm import tqdm
 
     results_dir = 'results'
     evaluation_results = {}
 
-    # Calculate the total number of JSON files to process
-    total_files = sum(len(files) for _, _, files in os.walk(results_dir) if any(file.endswith('.json') for file in files))
+    model_dirs = [
+        m for m in os.listdir(results_dir)
+        if os.path.isdir(os.path.join(results_dir, m)) and (models is None or m in models)
+    ]
+
+    total_files = sum(
+        sum(1 for f in os.listdir(os.path.join(results_dir, m)) if f.endswith('.json'))
+        for m in model_dirs
+    )
 
     with tqdm(total=total_files, desc="Evaluating results") as pbar:
-        for model_name in os.listdir(results_dir):
+        for model_name in model_dirs:
             model_dir = os.path.join(results_dir, model_name)
-            if os.path.isdir(model_dir):
-                for dataset_file in os.listdir(model_dir):
-                    if dataset_file.endswith('.json'):
-                        dataset_name = dataset_file.replace('.json', '')
-                        cer = eval(os.path.join(model_dir, dataset_file))
-                        if dataset_name not in evaluation_results:
-                            evaluation_results[dataset_name] = {}
-                        evaluation_results[dataset_name][model_name] = cer * 100
-                        pbar.update(1)
+            for dataset_file in os.listdir(model_dir):
+                if dataset_file.endswith('.json'):
+                    dataset_name = dataset_file.replace('.json', '')
+                    cer = eval(os.path.join(model_dir, dataset_file))
+                    if dataset_name not in evaluation_results:
+                        evaluation_results[dataset_name] = {}
+                    evaluation_results[dataset_name][model_name] = cer * 100
+                    pbar.update(1)
 
     return evaluation_results
 
 def plot_evaluation_results(evaluation_results, dataset_tasks):
+    import numpy as np
+
     dataset_labels = []
     cer_values = {}
 
     for dataset in dataset_tasks.keys():
-        task = dataset_tasks.get(dataset, "Unknown Task")
-        dataset_label = task
-        dataset_labels.append(dataset_label)
-        
+        dataset_labels.append(dataset_tasks[dataset])
         models = evaluation_results.get(dataset, {})
         for model_name, cer in models.items():
             if model_name not in cer_values:
                 cer_values[model_name] = []
             cer_values[model_name].append(cer)
 
-    x = range(len(dataset_labels))
-    width = 0.35
-    model_names = ['sensevoice_small', 'whisper_large_v2_cantonese_scrya', 'whisper_small_cantonese']
-    colors = ['#377eb8', '#ff7f00', '#4daf4a', '#f781bf', '#a65628', '#984ea3', '#999999']  # Define a list of color-blind friendly colors
+    model_names = list(cer_values.keys())
+    n_models = len(model_names)
+    n_datasets = len(dataset_labels)
+    colors = ['#377eb8', '#ff7f00', '#4daf4a', '#f781bf', '#a65628', '#984ea3', '#999999']
 
-    plt.figure(figsize=(14, 8))
-    group_spacing = 0.5  # Add spacing between groups
+    width = 0.8 / n_models
+    x = np.arange(n_datasets)
+
+    plt.figure(figsize=(16, 8))
     for i, model_name in enumerate(model_names):
-        plt.bar([p * (1 + group_spacing) - width * (len(model_names) / 2) + width * i + width / 2 for p in x],
-                cer_values[model_name],
-                width,
-                label=model_name,
-                color=colors[i % len(colors)])
+        offsets = x - (n_models - 1) * width / 2 + i * width
+        plt.bar(offsets, cer_values[model_name], width, label=model_name, color=colors[i % len(colors)])
 
     plt.xlabel('Domains', fontsize=18)
     plt.ylabel('CER (%)', fontsize=18)
     plt.title('Evaluation of Open Source Cantonese ASR Models in Diverse Domains', fontsize=22)
-    plt.xticks([p * (1 + group_spacing) for p in x], dataset_labels, rotation=0, ha='center', fontsize=16)
+    plt.xticks(x, dataset_labels, rotation=0, ha='center', fontsize=16)
     plt.yticks(fontsize=16)
-    plt.legend(fontsize=18)
+    plt.legend(fontsize=14, loc='upper left')
     plt.tight_layout()
     plt.savefig("cer_chart.png")
     plt.close()
 
 if __name__ == "__main__":
-    evaluation_results = eval_all_results()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model", nargs="+", metavar="MODEL_NAME", help="Model name(s) to evaluate (default: all)")
+    cli_args = parser.parse_args()
+
+    evaluation_results = eval_all_results(models=cli_args.model)
     for dataset, models in evaluation_results.items():
         print(f'Evaluating {dataset}')
         for model, cer in models.items():

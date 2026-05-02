@@ -4,3 +4,5 @@ FunASR/
 data/
 .ipynb_checkpoints/
 *.ipynb
+pretrained_models/
+models/

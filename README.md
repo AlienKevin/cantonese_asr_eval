@@ -1,19 +1,23 @@
 # Evaluation of Open Source Cantonese ASR Models in Diverse Domains
 ![CER Chart](cer_chart.png)
 
-| Dataset      | sensevoice_small CER | whisper_large_v2_cantonese_scrya CER | whisper_small_cantonese CER |
-|--------------|----------------------|--------------------------------------|-----------------------------|
-| Mixed        | 7.70%                | 5.55%                                | 8.00%                       |
-| Daily Use    | 5.64%                | 12.38%                               | 14.60%                      |
-| Commands     | 7.45%                | 14.22%                               | 17.83%                      |
-| Yue & Eng    | 9.05%                | 20.85%                               | 25.57%                      |
-| Storytelling | 14.67%               | 18.54%                               | 25.06%                      |
-| Synthetic    | 10.58%               | 14.20%                               | 15.05%                      |
+| Dataset      | sensevoice_small CER | whisper_large_v2_cantonese_scrya CER | whisper_small_cantonese CER | mimo_v2.5_asr CER | fireredasr_aed_l CER | qwen3_asr_0.6b CER | qwen3_asr_1.7b CER |
+|--------------|----------------------|--------------------------------------|-----------------------------|-------------------|----------------------|--------------------|-------------------|
+| Mixed        | 7.70%                | 5.55%                                | 8.00%                       | 20.53%            | 44.49%               | -                  | -                 |
+| Daily Use    | 5.64%                | 12.38%                               | 14.60%                      | 12.50%            | 49.27%               | -                  | -                 |
+| Commands     | 7.45%                | 14.22%                               | 17.83%                      | 23.52%            | 45.21%               | -                  | -                 |
+| Yue & Eng    | 9.05%                | 20.85%                               | 25.57%                      | 38.20%            | 94.14%               | -                  | -                 |
+| Storytelling | 14.67%               | 18.54%                               | 25.06%                      | 21.28%            | 52.61%               | -                  | -                 |
+| Synthetic    | 10.58%               | 14.20%                               | 15.05%                      | 26.72%            | 43.61%               | -                  | -                 |
 
 ## Open Source ASR Models
 1. [SenseVoiceSmall](https://huggingface.co/FunAudioLLM/SenseVoiceSmall): Trained on 300,000 hours of multilingual speech, including almost 9600 hours of Cantonese speech, Alibaba's multilingual model shows state-of-the-art ASR capability in Chinese, English, Cantonese, Japanese, and Korean. Extremely low inference latency was achieved by employing a non-autoregressive end-to-end architecture.
 2. [Scrya/whisper-large-v2-cantonese](https://huggingface.co/Scrya/whisper-large-v2-cantonese): This model is a fine-tuned version of openai/whisper-large-v2 on the mozilla-foundation/common_voice_11_0 dataset. It achieves a CER of 6.2133 on the evaluation set of Common Voice 11.
 3. [alvanlii/whisper-small-cantonese](https://huggingface.co/alvanlii/whisper-small-cantonese): This model is a fine-tuned version of openai/whisper-small on the Cantonese language. It achieves a 7.93 CER (without punctuations), 9.72 CER (with punctuations) on Common Voice 16.0. In total, 934 hours of Cantonese speech are used for fine-tuning, with 138 hours from Common Voice 16.0 zh-HK Train, 85 hours from Common Voice 16.0 yue Train, 178 hours from Common Voice 17.0 yue Train, and 72 hours from Cantonese-ASR, 23 hours from CantoMap, and lastly 438 hours from Pseudo-Labelled YouTube videos.
+4. [XiaomiMiMo/MiMo-V2.5-ASR](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-ASR): Xiaomi's audio-language model for ASR. It encodes audio via a custom audio tokenizer into discrete tokens that are fed into a language model, supporting Chinese and English with automatic language detection.
+5. [FireRedTeam/FireRedASR-AED-L](https://huggingface.co/fireredteam/FireRedASR-AED-L): A 1.1B-parameter attention encoder-decoder (AED) model from FireRed Team. It supports audio up to 60 seconds and is optimised for Mandarin and mixed-language speech.
+6. [Qwen/Qwen3-ASR-0.6B](https://huggingface.co/Qwen/Qwen3-ASR-0.6B): A 0.6B-parameter multilingual ASR model from Alibaba's Qwen team, supporting 30 languages and 22 Chinese dialects including Cantonese. Uses a transformer-based architecture with bfloat16 inference.
+7. [Qwen/Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B): The 1.7B-parameter variant of Qwen3-ASR with the same multilingual capabilities as the 0.6B model but larger capacity.
 
 ## Datasets from Various Domains
 1. **[Mixed]** [Common Voice 17.0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0): Common Voice is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. As of version 17.0, there are 178 hours of Cantonese audio under the yue language tag.
@@ -44,10 +48,35 @@
 ## Reproduction
 
 ### Environment
+
+Clone this repo with submodules to include FireRedASR and MiMo-V2.5-ASR:
+```bash
+git clone --recurse-submodules https://github.com/hon9kon9ize/cantonese_asr_eval.git
+# or, if already cloned:
+git submodule update --init --recursive
 ```
-pip install funasr transformers torch torchaudio datasets librosa matplotlib tqdm evaluate jiwer opencc
+
+Install Python dependencies:
+```bash
+pip install funasr transformers torch torchaudio datasets librosa matplotlib tqdm evaluate jiwer opencc qwen-asr
+# Install flash-attn pre-built wheel matching your torch + CUDA version:
+# https://github.com/mjun0812/flash-attention-prebuild-wheels/releases
+pip install "https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.0/flash_attn-2.8.3%2Bcu128torch2.9-cp311-cp311-linux_x86_64.whl"
+pip install -r FireRedASR/requirements.txt
+pip install -r MiMo-V2.5-ASR/requirements.txt
 ```
-See the `environment.yml` for a reference conda environment on the macOS.
+
+Download model weights:
+```bash
+# FireRedASR-AED-L
+huggingface-cli download fireredteam/FireRedASR-AED-L --local-dir ./pretrained_models/FireRedASR-AED-L
+
+# MiMo-V2.5-ASR
+huggingface-cli download XiaomiMiMo/MiMo-V2.5-ASR --local-dir ./models/MiMo-V2.5-ASR
+huggingface-cli download XiaomiMiMo/MiMo-Audio-Tokenizer --local-dir ./models/MiMo-Audio-Tokenizer
+```
+
+See the `environment.yml` for a reference conda environment on macOS.
 
 ### Evaluate
 ```
