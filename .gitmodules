@@ -1,0 +1,6 @@
+[submodule "FireRedASR"]
+	path = FireRedASR
+	url = https://github.com/FireRedTeam/FireRedASR.git
+[submodule "MiMo-V2.5-ASR"]
+	path = MiMo-V2.5-ASR
+	url = https://github.com/XiaomiMiMo/MiMo-V2.5-ASR.git

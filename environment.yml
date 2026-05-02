@@ -172,4 +172,5 @@ dependencies:
       - websockets==12.0
       - xxhash==3.4.1
       - yarl==1.9.4
+      - flash-attn==2.8.3
 prefix: /Users/kevin/miniconda3/envs/funasr
