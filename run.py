@@ -3,6 +3,7 @@ from asr_models.whisper_model import WhisperASRModel, WhisperASRModelWithNgram
 from asr_models.mimo_model import MiMoASRModel
 from asr_models.fireredasr_model import FireRedASRModel
 from asr_models.qwen3_asr_model import Qwen3ASRModel
+from asr_models.mlx_qwen3_asr_model import MlxQwen3ASRModel
 from asr_datasets.common_voice import CommonVoiceDataset
 from asr_datasets.guangzhou_daily_use import GuangzhouDailyUseDataset
 from asr_datasets.guangzhou_cabin import GuangzhouCabinDataset
@@ -44,6 +45,11 @@ MODEL_REGISTRY = {
     ),
     "qwen3_asr_0.6b": lambda: Qwen3ASRModel(model_name="Qwen/Qwen3-ASR-0.6B", device=device),
     "qwen3_asr_1.7b": lambda: Qwen3ASRModel(model_name="Qwen/Qwen3-ASR-1.7B", device=device),
+    # Apple Silicon only; needs `pip install mlx-qwen3-asr`.
+    "qwen3_asr_1.7b_mlx_8bit": lambda: MlxQwen3ASRModel(model_name="Qwen/Qwen3-ASR-1.7B"),
+    "qwen3_asr_1.7b_mlx_8bit_auto": lambda: MlxQwen3ASRModel(
+        model_name="Qwen/Qwen3-ASR-1.7B", language=None
+    ),
 }
 
 DATASETS = [
