@@ -3,16 +3,21 @@
 
 | Dataset      | sensevoice_small CER | whisper_large_v2_cantonese_scrya CER | whisper_small_cantonese CER | mimo_v2.5_asr CER | fireredasr_aed_l CER | qwen3_asr_0.6b CER | qwen3_asr_1.7b CER | qwen3_asr_1.7b_mlx_8bit CER |
 |--------------|----------------------|--------------------------------------|-----------------------------|-------------------|----------------------|--------------------|--------------------|-----------------------------|
-| Mixed        | 7.70%                | 5.55%                                | 8.00%                       | 20.53%            | 44.49%               | 8.69%              | 6.21%              | 6.27%                       |
+| Mixed        | 7.70%                | 5.55%                                | 8.00%                       | 20.53%            | 44.49%               | 8.70%              | 6.21%              | 6.27%                       |
 | Daily Use    | 5.64%                | 12.38%                               | 14.60%                      | 12.50%            | 49.27%               | 6.12%              | 4.22%              | 4.13%                       |
 | Commands     | 7.45%                | 14.22%                               | 17.83%                      | 23.52%            | 45.21%               | 6.83%              | 4.89%              | 4.85%                       |
-| Yue & Eng    | 9.05%                | 20.85%                               | 25.57%                      | 38.20%            | 94.14%               | 20.93%             | 15.37%             | 15.44%                      |
-| Storytelling | 14.67%               | 18.54%                               | 25.06%                      | 21.28%            | 52.61%               | 14.31%             | 11.79%             | 11.79%                      |
-| Synthetic    | 10.58%               | 14.20%                               | 15.05%                      | 26.72%            | 43.61%               | 9.65%              | 7.04%              | 6.92%                       |
+| Yue & Eng    | 20.49%               | 32.14%                               | 40.06%                      | 38.20%            | 94.14%               | 20.93%             | 15.38%             | 15.44%                      |
+| Storytelling | 14.52%               | 19.47%                               | 22.48%                      | 21.28%            | 52.61%               | 14.31%             | 11.79%             | 11.79%                      |
+| Synthetic    | 8.51%                | 11.22%                               | 11.90%                      | 26.72%            | 43.61%               | 9.66%              | 7.04%              | 6.93%                       |
 
-The `qwen3_asr_0.6b` and `qwen3_asr_1.7b` columns were computed from the results
-already committed under `results/`; only the table entries were outstanding. The
-chart above predates all three columns.
+Every cell above, and the chart, comes from one run of `eval.py` over the committed
+`results/`, with the versions pinned in `environment.yml` (opencc 1.1.8, jiwer
+3.0.4). The SenseVoice and Whisper cells for Yue & Eng, Storytelling and
+Synthetic were refreshed: those results were regenerated in June 2025 and the
+chart with them, but the table still carried the 2024 values. The `expected`
+texts are identical across models, so the reference data did not change. The
+chart shows the same eight columns as the table; the `language=None` run is
+compared separately under Discussion.
 
 ## Open Source ASR Models
 1. [SenseVoiceSmall](https://huggingface.co/FunAudioLLM/SenseVoiceSmall): Trained on 300,000 hours of multilingual speech, including almost 9600 hours of Cantonese speech, Alibaba's multilingual model shows state-of-the-art ASR capability in Chinese, English, Cantonese, Japanese, and Korean. Extremely low inference latency was achieved by employing a non-autoregressive end-to-end architecture.
@@ -34,22 +39,22 @@ chart above predates all three columns.
 
 ## Discussion
 
-1. SenseVoice Small leads in all domains except the mixed domain. The two Whisper models are fine-tuned on subsets of the Common Voice 17.0 dataset. Impressively, SenseVoice Small still outperforms Whisper Small Cantonese on CV 17 Test.
+1. Among the three models in the original comparison (SenseVoice Small and the two Whisper models), SenseVoice Small leads in all domains except the mixed domain. The two Whisper models are fine-tuned on subsets of the Common Voice 17.0 dataset. Impressively, SenseVoice Small still outperforms Whisper Small Cantonese on CV 17 Test. Of the models added since, Qwen3-ASR-1.7B now has the lowest CER overall (point 5).
 2. The Whisper models struggle the most on the Cantonese-English code switching domain, which can be explained by the lack of code switching sentences in the Common Voice dataset they are fine-tuend on.
 3. The second most difficult domain is the storytelling domain. It is challenging because the story used in evaluation, Romance of the Three Kingdoms, contains many historical names and places, which are rarely seen in the training data.
 4. Overall, SenseVoice shows remarkable generalization capability across various domains while Whisper models suffer significant precision loss on domains that are not fine-tuned on. This shows that more diverse training data needs to be curated for developing more robust Whisper models.
-5. Qwen3-ASR-1.7B leads five of the six domains, losing only Mixed to a Whisper fine-tuned on Common Voice itself. Its margin is largest on Cantonese-English code-switching.
-6. **8-bit quantisation of Qwen3-ASR-1.7B is close to free on these domains.** With the language forced on both sides, the mean signed difference against bfloat16 is -0.02 pp and the mean absolute difference is 0.06 pp; no domain moves by more than 0.12 pp. Three domains are slightly better quantised and two slightly worse, which is what noise looks like rather than a systematic loss.
-7. **Forcing the language costs nothing in accuracy, but it does save time.** Comparing the two MLX runs (`language="Cantonese"` vs `language=None`, same weights): mean absolute difference 0.03 pp, largest single move 0.12 pp on Mixed. Even on the code-switching set the two agree to 0.01 pp. Language detection is, however, not free in wall-clock: 25 min versus 32 min for the same 6,933 utterances, so about a 30% decode-time saving from forcing it. Caveat worth stating: every utterance here is a full sentence. This says nothing about sub-second audio, where language detection has much less to go on.
+5. Qwen3-ASR-1.7B (at either precision) has the lowest CER in five of the six domains, losing only Mixed to Whisper Large v2, which is fine-tuned on Common Voice itself. Its largest absolute margin is on Cantonese-English code-switching: 15.38% against 20.49% for SenseVoice Small, the next best model outside the Qwen family.
+6. **8-bit quantisation of Qwen3-ASR-1.7B is close to free on these domains.** With the language forced on both sides, the mean signed difference against bfloat16 is -0.02 pp and the mean absolute difference is 0.06 pp; no domain moves by more than 0.12 pp. Three domains are slightly better quantised, two slightly worse and one unchanged, which is what noise looks like rather than a systematic loss. One caveat: the MLX row differs from the bfloat16 row in more than the weights. Its audio went through a 16-bit WAV file, any audio not already at 16 kHz was resampled with `scipy.signal.resample_poly` rather than torchaudio, and the unquantised parts ran at float16 rather than bfloat16. So these figures are the combined effect of all of these, not of quantisation alone.
+7. **Forcing the language costs nothing in accuracy, but it does save time.** Comparing the two MLX runs (`language="Cantonese"` vs `language=None`, same weights): mean absolute difference 0.03 pp, largest single move 0.12 pp on Mixed. Even on the code-switching set the two agree to 0.02 pp. Language detection is, however, not free in wall-clock: 25 min versus 32 min for the same 6,933 utterances, so about a 30% decode-time saving from forcing it. Caveat worth stating: every utterance here is a full sentence. This says nothing about sub-second audio, where language detection has much less to go on.
 
 | Dataset | `language="Cantonese"` | `language=None` |
 |---|---|---|
 | Mixed | 6.27% | 6.39% |
 | Daily Use | 4.13% | 4.14% |
 | Commands | 4.85% | 4.85% |
-| Yue & Eng | 15.44% | 15.45% |
+| Yue & Eng | 15.44% | 15.46% |
 | Storytelling | 11.79% | 11.79% |
-| Synthetic | 6.92% | 6.87% |
+| Synthetic | 6.93% | 6.88% |
 
 ## Filtering and Postprocessing
 
@@ -81,6 +86,8 @@ pip install funasr transformers torch torchaudio datasets librosa matplotlib tqd
 pip install "https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.9.0/flash_attn-2.8.3%2Bcu128torch2.9-cp311-cp311-linux_x86_64.whl"
 pip install -r FireRedASR/requirements.txt
 pip install -r MiMo-V2.5-ASR/requirements.txt
+# Apple Silicon only, for the qwen3_asr_1.7b_mlx_8bit rows; skip on Linux:
+pip install mlx-qwen3-asr
 ```
 
 Download model weights:
@@ -105,4 +112,10 @@ Generated outputs of all the models can be found under the `results/` folder.
 Then, you can calculate the character error rate for the results using:
 ```
 python eval.py
+```
+
+`eval.py` also writes `cer_chart.png`. The chart above was generated with the
+table's eight columns, in table order:
+```
+python eval.py --model sensevoice_small whisper_large_v2_cantonese_scrya whisper_small_cantonese mimo_v2.5_asr fireredasr_aed_l qwen3_asr_0.6b qwen3_asr_1.7b qwen3_asr_1.7b_mlx_8bit
 ```

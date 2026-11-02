@@ -21,9 +21,16 @@ class MlxQwen3ASRModel(ASRModel):
     `language` defaults to "Cantonese" to match `Qwen3ASRModel`, which keeps the
     row a like-for-like quantisation comparison.  Pass `language=None` for the
     detect-the-language configuration; both runs are in `results/`.
+
+    `bits` is 4 or 8 to quantise, or None to run unquantised at `dtype`.
+
+    The audio path (16-bit WAV, float16) is the one the committed
+    `qwen3_asr_1.7b_mlx_8bit*` results were produced with; see Discussion
+    point 6 in the README for how it differs from the bfloat16 row.
     """
 
     TARGET_SR = 16000
+    DTYPES = ("float16", "bfloat16", "float32")
 
     def __init__(
         self,
@@ -33,25 +40,28 @@ class MlxQwen3ASRModel(ASRModel):
         group_size=64,
         language="Cantonese",
     ):
+        if bits not in (None, 4, 8):
+            raise ValueError("bits must be 4, 8 or None (unquantised), got %r" % (bits,))
+        if dtype not in self.DTYPES:
+            raise ValueError("dtype must be one of %s, got %r" % (", ".join(self.DTYPES), dtype))
+
         import mlx.core as mx
         import mlx_qwen3_asr as asr
 
-        mx_dtype = {
-            "float16": mx.float16,
-            "bfloat16": mx.bfloat16,
-            "float32": mx.float32,
-        }.get(dtype, mx.float16)
+        mx_dtype = getattr(mx, dtype)
 
-        if bits in (4, 8):
+        if bits is not None:
             from mlx_qwen3_asr.convert import quantize_model
 
             model, _ = asr.load_model(model_name, dtype=mx_dtype)
             model = quantize_model(model, bits=int(bits), group_size=int(group_size))
-            self.session = asr.Session(model, tokenizer_model=model_name)
+            # Pass dtype here too: Session otherwise falls back to its own default.
+            self.session = asr.Session(model, dtype=mx_dtype, tokenizer_model=model_name)
         else:
             self.session = asr.Session(model_name, dtype=mx_dtype)
 
         self.model_name = model_name
+        self.dtype = dtype
         self.bits = bits
         self.language = language
 
@@ -97,6 +107,8 @@ class MlxQwen3ASRModel(ASRModel):
         return results
 
     def get_name(self):
+        # Matches the run.py registry keys, e.g. qwen3_asr_1.7b_mlx_8bit[_auto].
         size = "1.7b" if "1.7B" in self.model_name else "0.6b"
-        name = "qwen3_asr_%s_mlx_%dbit" % (size, self.bits)
+        precision = "%dbit" % self.bits if self.bits is not None else self.dtype
+        name = "qwen3_asr_%s_mlx_%s" % (size, precision)
         return name if self.language else name + "_auto"
