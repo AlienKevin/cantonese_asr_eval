@@ -67,10 +67,10 @@ def eval_all_results(models=None):
     results_dir = 'results'
     evaluation_results = {}
 
-    model_dirs = [
-        m for m in os.listdir(results_dir)
-        if os.path.isdir(os.path.join(results_dir, m)) and (models is None or m in models)
-    ]
+    # Deterministic order: the order given on the command line, else alphabetical.
+    # (os.listdir order varies by filesystem, and it sets the chart's bar order.)
+    candidates = models if models is not None else sorted(os.listdir(results_dir))
+    model_dirs = [m for m in candidates if os.path.isdir(os.path.join(results_dir, m))]
 
     total_files = sum(
         sum(1 for f in os.listdir(os.path.join(results_dir, m)) if f.endswith('.json'))
@@ -108,7 +108,9 @@ def plot_evaluation_results(evaluation_results, dataset_tasks):
     model_names = list(cer_values.keys())
     n_models = len(model_names)
     n_datasets = len(dataset_labels)
-    colors = ['#377eb8', '#ff7f00', '#4daf4a', '#f781bf', '#a65628', '#984ea3', '#999999']
+    # Ten colours so up to ten models get distinct bars (the original seven come first).
+    colors = ['#377eb8', '#ff7f00', '#4daf4a', '#f781bf', '#a65628', '#984ea3', '#999999',
+              '#e41a1c', '#17becf', '#dede00']
 
     width = 0.8 / n_models
     x = np.arange(n_datasets)
