@@ -172,4 +172,7 @@ dependencies:
       - websockets==12.0
       - xxhash==3.4.1
       - yarl==1.9.4
+      - flash-attn==2.8.3
+      # Apple Silicon only, for the qwen3_asr_1.7b_mlx_8bit rows; skip on Linux.
+      - mlx-qwen3-asr
 prefix: /Users/kevin/miniconda3/envs/funasr
